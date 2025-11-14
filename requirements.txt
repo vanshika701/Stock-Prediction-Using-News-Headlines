@@ -1,0 +1,31 @@
+# API and Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+
+# Text Processing
+nltk==3.8.1
+#spacy==3.7.2
+
+# Database
+psycopg2-binary==2.9.9
+pymongo==4.6.1
+
+# Caching
+redis==5.0.1
+
+# Task Scheduling (optional)
+celery==5.3.4
+
+# Data Processing
+pandas==2.1.4
+python-dateutil==2.8.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Logging
+loguru==0.7.2
+
+# Testing
+pytest==7.4.3
