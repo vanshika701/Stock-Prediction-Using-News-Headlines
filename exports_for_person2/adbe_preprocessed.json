@@ -1,0 +1,222 @@
+{
+  "ticker": "ADBE",
+  "export_date": "2025-11-15T01:16:26.141744",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Wall Street Lunch: Generative AI Powers October E-Commerce Spending",
+      "original_body": "Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion.",
+      "cleaned_title": "Wall Street Lunch Generative AI Powers October E-Commerce Spending",
+      "cleaned_body": "Adobe ADBE says U.S. online spending rose 8.2 percent year-over-year in October to $88.7 billion.",
+      "cleaned_text": "Wall Street Lunch Generative AI Powers October E-Commerce Spending. Adobe ADBE says U.S. online spending rose 8.2 percent year-over-year in October to $88.7 billion.",
+      "tokens": {
+        "original": [
+          "wall",
+          "street",
+          "lunch",
+          "generative",
+          "ai",
+          "powers",
+          "october",
+          "e-commerce",
+          "spending",
+          "adobe",
+          "adbe",
+          "says",
+          "u.s.",
+          "online",
+          "spending",
+          "rose",
+          "8.2",
+          "percent",
+          "year-over-year",
+          "in",
+          "october",
+          "to",
+          "$",
+          "88.7",
+          "billion",
+          "."
+        ],
+        "filtered": [
+          "wall",
+          "street",
+          "lunch",
+          "generative",
+          "ai",
+          "powers",
+          "october",
+          "e-commerce",
+          "spending",
+          "adobe",
+          "adbe",
+          "says",
+          "u.s.",
+          "online",
+          "spending",
+          "rose",
+          "8.2",
+          "percent",
+          "year-over-year",
+          "october",
+          "$",
+          "88.7",
+          "billion",
+          "."
+        ],
+        "lemmatized": [
+          "wall",
+          "street",
+          "lunch",
+          "generative",
+          "ai",
+          "power",
+          "october",
+          "e-commerce",
+          "spending",
+          "adobe",
+          "adbe",
+          "say",
+          "u.s.",
+          "online",
+          "spending",
+          "rise",
+          "8.2",
+          "percent",
+          "year-over-year",
+          "october",
+          "$",
+          "88.7",
+          "billion",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Street Lunch"
+          ],
+          "ORGANIZATION": [
+            "ADBE"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "8.2",
+          "88.7"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "october",
+            2
+          ],
+          [
+            "spending",
+            2
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "lunch",
+            1
+          ],
+          [
+            "generative",
+            1
+          ],
+          [
+            "power",
+            1
+          ],
+          [
+            "e-commerce",
+            1
+          ],
+          [
+            "adobe",
+            1
+          ],
+          [
+            "adbe",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 27,
+        "avg_words_per_sentence": 13.5,
+        "num_unique_words": 24
+      },
+      "processed_at": "2025-11-14T03:29:54.752255",
+      "preprocessing_version": "1.0",
+      "article_id": "23ed6ed71dc07500",
+      "title": "Wall Street Lunch: Generative AI Powers October E-Commerce Spending",
+      "description": "Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion.",
+      "body": "Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=dce4f4231faca8f9bae441f731fdbb91b49bee3e3629e999aca01894e710bf46",
+      "author": "Unknown",
+      "published_at": "2025-11-10T20:23:48",
+      "scraped_at": "2025-11-13T22:21:23.909678",
+      "ticker": "TSLA",
+      "raw_text": "Wall Street Lunch: Generative AI Powers October E-Commerce Spending Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion. Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227981382/image_2227981382.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "ADBE"
+      ],
+      "ticker_confidence": {
+        "ADBE": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

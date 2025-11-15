@@ -1,0 +1,242 @@
+{
+  "ticker": "SNAP",
+  "export_date": "2025-11-15T01:16:26.135194",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says",
+      "original_body": "Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "cleaned_title": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says",
+      "cleaned_body": "Snap SNAP delivered third quarter results ahead of Morgan Stanleys expectations, but its forward user growth",
+      "cleaned_text": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says. Snap SNAP delivered third quarter results ahead of Morgan Stanleys expectations, but its forward user growth",
+      "tokens": {
+        "original": [
+          "snap",
+          "faces",
+          "user",
+          "growth",
+          "uncertainty",
+          "amid",
+          "age",
+          "verification",
+          "rollout",
+          ",",
+          "morgan",
+          "stanley",
+          "says",
+          "snap",
+          "snap",
+          "delivered",
+          "third",
+          "quarter",
+          "results",
+          "ahead",
+          "of",
+          "morgan",
+          "stanleys",
+          "expectations",
+          ",",
+          "but",
+          "its",
+          "forward",
+          "user",
+          "growth"
+        ],
+        "filtered": [
+          "snap",
+          "faces",
+          "user",
+          "growth",
+          "uncertainty",
+          "amid",
+          "age",
+          "verification",
+          "rollout",
+          ",",
+          "morgan",
+          "stanley",
+          "says",
+          "snap",
+          "snap",
+          "delivered",
+          "third",
+          "quarter",
+          "results",
+          "ahead",
+          "morgan",
+          "stanleys",
+          "expectations",
+          ",",
+          "forward",
+          "user",
+          "growth"
+        ],
+        "lemmatized": [
+          "snap",
+          "face",
+          "user",
+          "growth",
+          "uncertainty",
+          "amid",
+          "age",
+          "verification",
+          "rollout",
+          ",",
+          "morgan",
+          "stanley",
+          "say",
+          "snap",
+          "snap",
+          "deliver",
+          "third",
+          "quarter",
+          "result",
+          "ahead",
+          "morgan",
+          "stanley",
+          "expectation",
+          ",",
+          "forward",
+          "user",
+          "growth"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Snap",
+            "Faces User Growth Uncertainty Amid Age",
+            "Morgan Stanley Says",
+            "Morgan Stanley"
+          ],
+          "ORGANIZATION": [
+            "SNAP"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "snap",
+            3
+          ],
+          [
+            "user",
+            2
+          ],
+          [
+            "growth",
+            2
+          ],
+          [
+            "morgan",
+            2
+          ],
+          [
+            "stanley",
+            2
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "uncertainty",
+            1
+          ],
+          [
+            "amid",
+            1
+          ],
+          [
+            "age",
+            1
+          ],
+          [
+            "verification",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 31,
+        "avg_words_per_sentence": 15.5,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:29:25.790393",
+      "preprocessing_version": "1.0",
+      "article_id": "97eb430eae9c7bc0",
+      "title": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says",
+      "description": "Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "body": "Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=509121071987f9ea610ac1520742bbcac528325272aaeac99096fbb8506a660d",
+      "author": "Unknown",
+      "published_at": "2025-11-06T22:04:05",
+      "scraped_at": "2025-11-13T22:21:12.171941",
+      "ticker": "AAPL",
+      "raw_text": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MS",
+        "SNAP"
+      ],
+      "ticker_confidence": {
+        "MS": 80,
+        "SNAP": 80
+      },
+      "ticker_contexts": {
+        "MS": [
+          "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, **Morgan** Stanley Says Snap (SNAP) delivered Q3 results ahead of Morgan",
+          "Morgan Stanley Says Snap (SNAP) delivered Q3 results ahead of **Morgan** Stanley's expectations, but its forward user growth Snap (SNAP) delivered",
+          "forward user growth Snap (SNAP) delivered Q3 results ahead of **Morgan** Stanley's expectations, but its forward user growth"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

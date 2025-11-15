@@ -1,0 +1,1998 @@
+{
+  "ticker": "META",
+  "export_date": "2025-11-15T01:16:26.143488",
+  "article_count": 7,
+  "articles": [
+    {
+      "original_title": "Nebius inks $3B data center deal with Meta after missing third quarter expectations",
+      "original_body": "Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure.\r\nThe company nevertheless ended the trading session down 7%. The … [+4072 chars]",
+      "cleaned_title": "Nebius inks 3 billion dollars data center deal with Meta after missing third quarter expectations",
+      "cleaned_body": "Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure. The company nevertheless ended the trading session down 7 percent. The 4072 chars",
+      "cleaned_text": "Nebius inks 3 billion dollars data center deal with Meta after missing third quarter expectations. Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure. The company nevertheless ended the trading session down 7 percent. The 4072 chars",
+      "tokens": {
+        "original": [
+          "nebius",
+          "inks",
+          "3",
+          "billion",
+          "dollars",
+          "data",
+          "center",
+          "deal",
+          "with",
+          "meta",
+          "after",
+          "missing",
+          "third",
+          "quarter",
+          "expectations",
+          "nebius",
+          "group",
+          "nv",
+          "today",
+          "disclosed",
+          "that",
+          "it",
+          "has",
+          "won",
+          "a",
+          "$",
+          "3",
+          "billion",
+          "contract",
+          "to",
+          "provide",
+          "meta",
+          "platforms",
+          "inc.",
+          "with",
+          "data",
+          "center",
+          "infrastructure",
+          ".",
+          "the",
+          "company",
+          "nevertheless",
+          "ended",
+          "the",
+          "trading",
+          "session",
+          "down",
+          "7",
+          "percent",
+          ".",
+          "the",
+          "4072",
+          "chars"
+        ],
+        "filtered": [
+          "nebius",
+          "inks",
+          "3",
+          "billion",
+          "dollars",
+          "data",
+          "center",
+          "deal",
+          "meta",
+          "missing",
+          "third",
+          "quarter",
+          "expectations",
+          "nebius",
+          "group",
+          "nv",
+          "today",
+          "disclosed",
+          "$",
+          "3",
+          "billion",
+          "contract",
+          "provide",
+          "meta",
+          "platforms",
+          "inc.",
+          "data",
+          "center",
+          "infrastructure",
+          ".",
+          "company",
+          "nevertheless",
+          "ended",
+          "trading",
+          "session",
+          "down",
+          "7",
+          "percent",
+          ".",
+          "4072",
+          "chars"
+        ],
+        "lemmatized": [
+          "nebius",
+          "ink",
+          "3",
+          "billion",
+          "dollar",
+          "data",
+          "center",
+          "deal",
+          "meta",
+          "miss",
+          "third",
+          "quarter",
+          "expectation",
+          "nebius",
+          "group",
+          "nv",
+          "today",
+          "disclose",
+          "$",
+          "3",
+          "billion",
+          "contract",
+          "provide",
+          "meta",
+          "platform",
+          "inc.",
+          "data",
+          "center",
+          "infrastructure",
+          ".",
+          "company",
+          "nevertheless",
+          "end",
+          "trading",
+          "session",
+          "down",
+          "7",
+          "percent",
+          ".",
+          "4072",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nebius Group NV"
+          ],
+          "ORGANIZATION": [
+            "Meta",
+            "Meta Platforms Inc."
+          ],
+          "GPE": [
+            "Nebius"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "miss"
+          ],
+          "neutral": [
+            "expect",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "3B",
+          "3",
+          "7",
+          "4072"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nebius",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "data",
+            2
+          ],
+          [
+            "center",
+            2
+          ],
+          [
+            "meta",
+            2
+          ],
+          [
+            "ink",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "miss",
+            1
+          ],
+          [
+            "third",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 2,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 54,
+        "avg_words_per_sentence": 13.5,
+        "num_unique_words": 43
+      },
+      "processed_at": "2025-11-14T03:30:15.274684",
+      "preprocessing_version": "1.0",
+      "article_id": "7c2c9539ccc6e909",
+      "title": "Nebius inks $3B data center deal with Meta after missing third quarter expectations",
+      "description": "Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure. The company nevertheless ended the trading session down 7%. The selloff was likely a response to the quarterly results it rel…",
+      "body": "Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure.\r\nThe company nevertheless ended the trading session down 7%. The … [+4072 chars]",
+      "source": "SiliconANGLE News",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://siliconangle.com/2025/11/11/nebius-inks-3b-data-center-deal-meta-missing-third-quarter-expectations/",
+      "author": "Maria Deutscher",
+      "published_at": "2025-11-11T22:51:48Z",
+      "scraped_at": "2025-11-13T22:21:24.627632",
+      "ticker": "MSFT",
+      "raw_text": "Nebius inks $3B data center deal with Meta after missing third quarter expectations Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure. The company nevertheless ended the trading session down 7%. The selloff was likely a response to the quarterly results it rel… Nebius Group NV today disclosed that it has won a $3 billion contract to provide Meta Platforms Inc. with data center infrastructure.\r\nThe company nevertheless ended the trading session down 7%. The … [+4072 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "META": 80,
+        "FB": 50
+      },
+      "ticker_contexts": {
+        "META": [
+          "that it has won a $3 billion contract to provide **Meta** Platforms Inc. with data center infrastructure. The company nevertheless ended"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "A $3 Billion Reason to Buy Nebius Stock Now",
+      "original_body": "Nebius (NBIS) shares remain in focus on Tuesday after the artificial intelligence (AI) infrastructure firm said its revenue more than quadrupled in Q3 and announced a landmark $3 billion contract wit… [+1985 chars]",
+      "cleaned_title": "A $3 Billion Reason to Buy Nebius Stock Now",
+      "cleaned_body": "Nebius NBIS shares remain in focus on Tuesday after the artificial intelligence AI infrastructure firm said its revenue more than quadrupled in third quarter and announced a landmark $3 billion contract wit 1985 chars",
+      "cleaned_text": "A $3 Billion Reason to Buy Nebius Stock Now. Nebius NBIS shares remain in focus on Tuesday after the artificial intelligence AI infrastructure firm said its revenue more than quadrupled in third quarter and announced a landmark $3 billion contract wit 1985 chars",
+      "tokens": {
+        "original": [
+          "a",
+          "$",
+          "3",
+          "billion",
+          "reason",
+          "to",
+          "buy",
+          "nebius",
+          "stock",
+          "now",
+          "nebius",
+          "nbis",
+          "shares",
+          "remain",
+          "in",
+          "focus",
+          "on",
+          "tuesday",
+          "after",
+          "the",
+          "artificial",
+          "intelligence",
+          "ai",
+          "infrastructure",
+          "firm",
+          "said",
+          "its",
+          "revenue",
+          "more",
+          "than",
+          "quadrupled",
+          "in",
+          "third",
+          "quarter",
+          "and",
+          "announced",
+          "a",
+          "landmark",
+          "$",
+          "3",
+          "billion",
+          "contract",
+          "wit",
+          "1985",
+          "chars"
+        ],
+        "filtered": [
+          "$",
+          "3",
+          "billion",
+          "reason",
+          "buy",
+          "nebius",
+          "stock",
+          "nebius",
+          "nbis",
+          "shares",
+          "remain",
+          "focus",
+          "tuesday",
+          "artificial",
+          "intelligence",
+          "ai",
+          "infrastructure",
+          "firm",
+          "said",
+          "revenue",
+          "more",
+          "quadrupled",
+          "third",
+          "quarter",
+          "announced",
+          "landmark",
+          "$",
+          "3",
+          "billion",
+          "contract",
+          "wit",
+          "1985",
+          "chars"
+        ],
+        "lemmatized": [
+          "$",
+          "3",
+          "billion",
+          "reason",
+          "buy",
+          "nebius",
+          "stock",
+          "nebius",
+          "nbis",
+          "shares",
+          "remain",
+          "focus",
+          "tuesday",
+          "artificial",
+          "intelligence",
+          "ai",
+          "infrastructure",
+          "firm",
+          "say",
+          "revenue",
+          "more",
+          "quadrupled",
+          "third",
+          "quarter",
+          "announce",
+          "landmark",
+          "$",
+          "3",
+          "billion",
+          "contract",
+          "wit",
+          "1985",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion Reason",
+            "Nebius Stock",
+            "Nebius"
+          ],
+          "ORGANIZATION": [
+            "NBIS"
+          ],
+          "GPE": [
+            "Q3"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "3",
+          "3",
+          "1985"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "billion",
+            2
+          ],
+          [
+            "nebius",
+            2
+          ],
+          [
+            "reason",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "nbis",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "remain",
+            1
+          ],
+          [
+            "focus",
+            1
+          ],
+          [
+            "tuesday",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 46,
+        "avg_words_per_sentence": 23.0,
+        "num_unique_words": 40
+      },
+      "processed_at": "2025-11-14T03:30:16.198031",
+      "preprocessing_version": "1.0",
+      "article_id": "3d990ddb45274588",
+      "title": "A $3 Billion Reason to Buy Nebius Stock Now",
+      "description": "Nebius stock soars on a strong Q3 and $3.0 billion contract with Meta Platforms. Here’s why NBIS shares are worth owning heading into 2026.",
+      "body": "Nebius (NBIS) shares remain in focus on Tuesday after the artificial intelligence (AI) infrastructure firm said its revenue more than quadrupled in Q3 and announced a landmark $3 billion contract wit… [+1985 chars]",
+      "source": "Barchart.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.barchart.com/story/news/36055455/a-3-billion-reason-to-buy-nebius-stock-now",
+      "author": "Wajeeh Khan",
+      "published_at": "2025-11-11T21:08:44Z",
+      "scraped_at": "2025-11-13T22:21:24.627694",
+      "ticker": "MSFT",
+      "raw_text": "A $3 Billion Reason to Buy Nebius Stock Now Nebius stock soars on a strong Q3 and $3.0 billion contract with Meta Platforms. Here’s why NBIS shares are worth owning heading into 2026. Nebius (NBIS) shares remain in focus on Tuesday after the artificial intelligence (AI) infrastructure firm said its revenue more than quadrupled in Q3 and announced a landmark $3 billion contract wit… [+1985 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "META": 80,
+        "FB": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Alexandr Wang's Advice To Kids Sparks Backlash - Question Raised If Mark Zuckerberg Made A 'Big Mistake' Paying $14.3 Billion For Meta's New AI Chief - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",
+      "original_body": "Meta Platforms, Inc.'s ( NASDAQ:META ) newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about \"vibe coding\" went viral, leaving many questioning Meta CEO Mark Zuckerberg's $14.3 billion investment.",
+      "cleaned_title": "Alexandr Wangs Advice To Kids Sparks Backlash - Question Raised If Mark Zuckerberg Made A Big Mistake Paying $14.3 Billion For Metas New AI Chief - Microsoft NASDAQMSFT , Meta Platforms NASDAQMETA",
+      "cleaned_body": "Meta Platforms, Inc.s NASDAQMETA newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about vibe coding went viral, leaving many questioning Meta CEO Mark Zuckerbergs $14.3 billion investment.",
+      "cleaned_text": "Alexandr Wangs Advice To Kids Sparks Backlash - Question Raised If Mark Zuckerberg Made A Big Mistake Paying $14.3 Billion For Metas New AI Chief - Microsoft NASDAQMSFT , Meta Platforms NASDAQMETA. Meta Platforms, Inc.s NASDAQMETA newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about vibe coding went viral, leaving many questioning Meta CEO Mark Zuckerbergs $14.3 billion investment.",
+      "tokens": {
+        "original": [
+          "alexandr",
+          "wangs",
+          "advice",
+          "to",
+          "kids",
+          "sparks",
+          "backlash",
+          "-",
+          "question",
+          "raised",
+          "if",
+          "mark",
+          "zuckerberg",
+          "made",
+          "a",
+          "big",
+          "mistake",
+          "paying",
+          "$",
+          "14.3",
+          "billion",
+          "for",
+          "metas",
+          "new",
+          "ai",
+          "chief",
+          "-",
+          "microsoft",
+          "nasdaqmsft",
+          ",",
+          "meta",
+          "platforms",
+          "nasdaqmeta",
+          "meta",
+          "platforms",
+          ",",
+          "inc.s",
+          "nasdaqmeta",
+          "newly",
+          "appointed",
+          "chief",
+          "ai",
+          "officer",
+          ",",
+          "alexandr",
+          "wang",
+          ",",
+          "has",
+          "drawn",
+          "sharp",
+          "criticism",
+          "after",
+          "his",
+          "advice",
+          "to",
+          "young",
+          "people",
+          "about",
+          "vibe",
+          "coding",
+          "went",
+          "viral",
+          ",",
+          "leaving",
+          "many",
+          "questioning",
+          "meta",
+          "ceo",
+          "mark",
+          "zuckerbergs",
+          "$",
+          "14.3",
+          "billion",
+          "investment",
+          "."
+        ],
+        "filtered": [
+          "alexandr",
+          "wangs",
+          "advice",
+          "kids",
+          "sparks",
+          "backlash",
+          "-",
+          "question",
+          "raised",
+          "mark",
+          "zuckerberg",
+          "made",
+          "big",
+          "mistake",
+          "paying",
+          "$",
+          "14.3",
+          "billion",
+          "metas",
+          "new",
+          "ai",
+          "chief",
+          "-",
+          "microsoft",
+          "nasdaqmsft",
+          ",",
+          "meta",
+          "platforms",
+          "nasdaqmeta",
+          "meta",
+          "platforms",
+          ",",
+          "inc.s",
+          "nasdaqmeta",
+          "newly",
+          "appointed",
+          "chief",
+          "ai",
+          "officer",
+          ",",
+          "alexandr",
+          "wang",
+          ",",
+          "drawn",
+          "sharp",
+          "criticism",
+          "advice",
+          "young",
+          "people",
+          "vibe",
+          "coding",
+          "went",
+          "viral",
+          ",",
+          "leaving",
+          "many",
+          "questioning",
+          "meta",
+          "ceo",
+          "mark",
+          "zuckerbergs",
+          "$",
+          "14.3",
+          "billion",
+          "investment",
+          "."
+        ],
+        "lemmatized": [
+          "alexandr",
+          "wangs",
+          "advice",
+          "kid",
+          "spark",
+          "backlash",
+          "-",
+          "question",
+          "raise",
+          "mark",
+          "zuckerberg",
+          "make",
+          "big",
+          "mistake",
+          "pay",
+          "$",
+          "14.3",
+          "billion",
+          "metas",
+          "new",
+          "ai",
+          "chief",
+          "-",
+          "microsoft",
+          "nasdaqmsft",
+          ",",
+          "meta",
+          "platform",
+          "nasdaqmeta",
+          "meta",
+          "platform",
+          ",",
+          "inc.s",
+          "nasdaqmeta",
+          "newly",
+          "appoint",
+          "chief",
+          "ai",
+          "officer",
+          ",",
+          "alexandr",
+          "wang",
+          ",",
+          "drawn",
+          "sharp",
+          "criticism",
+          "advice",
+          "young",
+          "people",
+          "vibe",
+          "cod",
+          "go",
+          "viral",
+          ",",
+          "leave",
+          "many",
+          "question",
+          "meta",
+          "ceo",
+          "mark",
+          "zuckerbergs",
+          "$",
+          "14.3",
+          "billion",
+          "investment",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Alexandr",
+            "Wang",
+            "Kids Sparks Backlash",
+            "Mark Zuckerberg",
+            "Mistake",
+            "Meta Platforms",
+            "Inc.",
+            "Alexandr Wang"
+          ],
+          "ORGANIZATION": [
+            "Meta",
+            "New",
+            "NASDAQ",
+            "META"
+          ],
+          "GPE": [
+            "Microsoft"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "14.3",
+          "14.3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "meta",
+            3
+          ],
+          [
+            "alexandr",
+            2
+          ],
+          [
+            "advice",
+            2
+          ],
+          [
+            "question",
+            2
+          ],
+          [
+            "mark",
+            2
+          ],
+          [
+            "14.3",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "chief",
+            2
+          ],
+          [
+            "platform",
+            2
+          ],
+          [
+            "nasdaqmeta",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 76,
+        "avg_words_per_sentence": 38.0,
+        "num_unique_words": 57
+      },
+      "processed_at": "2025-11-14T03:30:22.131657",
+      "preprocessing_version": "1.0",
+      "article_id": "bb2cd0c0fde3f1ac",
+      "title": "Alexandr Wang's Advice To Kids Sparks Backlash - Question Raised If Mark Zuckerberg Made A 'Big Mistake' Paying $14.3 Billion For Meta's New AI Chief - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",
+      "description": "Meta Platforms, Inc.'s ( NASDAQ:META ) newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about \"vibe coding\" went viral, leaving many questioning Meta CEO Mark Zuckerberg's $14.3 billion investment.",
+      "body": "Meta Platforms, Inc.'s ( NASDAQ:META ) newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about \"vibe coding\" went viral, leaving many questioning Meta CEO Mark Zuckerberg's $14.3 billion investment.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/markets/tech/25/11/48824481/alexandr-wangs-advice-to-kids-sparks-backlash-question-raised-if-mark-zuckerberg-made-a-big-mistake-",
+      "author": "Ananya Gairola",
+      "published_at": "20251113T025247",
+      "scraped_at": "2025-11-13T22:21:35.004668",
+      "ticker": "MSFT",
+      "raw_text": "Alexandr Wang's Advice To Kids Sparks Backlash - Question Raised If Mark Zuckerberg Made A 'Big Mistake' Paying $14.3 Billion For Meta's New AI Chief - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META )  Meta Platforms, Inc.'s ( NASDAQ:META ) newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about \"vibe coding\" went viral, leaving many questioning Meta CEO Mark Zuckerberg's $14.3 billion investment. Meta Platforms, Inc.'s ( NASDAQ:META ) newly appointed Chief AI Officer, Alexandr Wang, has drawn sharp criticism after his advice to young people about \"vibe coding\" went viral, leaving many questioning Meta CEO Mark Zuckerberg's $14.3 billion investment.",
+      "sentiment_score": 0.094577,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "MSFT",
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "META": 80,
+        "FB": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Anthropic Will Spend $50 Billion to Build US Data Centers",
+      "original_body": "Anthropic PBC will spend $50 billion to build custom data centers in the US. They'll start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloomberg's Ed Ludlow reports.",
+      "cleaned_title": "Anthropic Will Spend $50 Billion to Build US Data Centers",
+      "cleaned_body": "Anthropic PBC will spend $50 billion to build custom data centers in the US. They will start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloombergs Ed Ludlow reports.",
+      "cleaned_text": "Anthropic Will Spend $50 Billion to Build US Data Centers. Anthropic PBC will spend $50 billion to build custom data centers in the US. They will start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloombergs Ed Ludlow reports.",
+      "tokens": {
+        "original": [
+          "anthropic",
+          "will",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "to",
+          "build",
+          "us",
+          "data",
+          "centers",
+          "anthropic",
+          "pbc",
+          "will",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "to",
+          "build",
+          "custom",
+          "data",
+          "centers",
+          "in",
+          "the",
+          "us",
+          ".",
+          "they",
+          "will",
+          "start",
+          "coming",
+          "online",
+          "in",
+          "2026",
+          "according",
+          "to",
+          "the",
+          "company",
+          ".",
+          "openai",
+          ",",
+          "meta",
+          "platforms",
+          "inc.",
+          ",",
+          "google",
+          ",",
+          "microsoft",
+          "corp.",
+          ",",
+          "nvidia",
+          "corp.",
+          "and",
+          "other",
+          "leading",
+          "tech",
+          "companies",
+          "plan",
+          "to",
+          "collectively",
+          "spend",
+          "hundreds",
+          "of",
+          "billions",
+          "of",
+          "dollars",
+          "on",
+          "data",
+          "centers",
+          "to",
+          "support",
+          "ai",
+          ".",
+          "bloombergs",
+          "ed",
+          "ludlow",
+          "reports",
+          "."
+        ],
+        "filtered": [
+          "anthropic",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "us",
+          "data",
+          "centers",
+          "anthropic",
+          "pbc",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "custom",
+          "data",
+          "centers",
+          "us",
+          ".",
+          "start",
+          "coming",
+          "online",
+          "2026",
+          "according",
+          "company",
+          ".",
+          "openai",
+          ",",
+          "meta",
+          "platforms",
+          "inc.",
+          ",",
+          "google",
+          ",",
+          "microsoft",
+          "corp.",
+          ",",
+          "nvidia",
+          "corp.",
+          "leading",
+          "tech",
+          "companies",
+          "plan",
+          "collectively",
+          "spend",
+          "hundreds",
+          "billions",
+          "dollars",
+          "data",
+          "centers",
+          "support",
+          "ai",
+          ".",
+          "bloombergs",
+          "ed",
+          "ludlow",
+          "reports",
+          "."
+        ],
+        "lemmatized": [
+          "anthropic",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "u",
+          "data",
+          "center",
+          "anthropic",
+          "pbc",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "custom",
+          "data",
+          "center",
+          "u",
+          ".",
+          "start",
+          "come",
+          "online",
+          "2026",
+          "accord",
+          "company",
+          ".",
+          "openai",
+          ",",
+          "meta",
+          "platform",
+          "inc.",
+          ",",
+          "google",
+          ",",
+          "microsoft",
+          "corp.",
+          ",",
+          "nvidia",
+          "corp.",
+          "lead",
+          "tech",
+          "company",
+          "plan",
+          "collectively",
+          "spend",
+          "hundred",
+          "billion",
+          "dollar",
+          "data",
+          "center",
+          "support",
+          "ai",
+          ".",
+          "bloombergs",
+          "ed",
+          "ludlow",
+          "report",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Anthropic",
+            "Will Spend",
+            "Anthropic PBC",
+            "Bloomberg",
+            "Ed Ludlow"
+          ],
+          "ORGANIZATION": [
+            "US Data Centers",
+            "Meta Platforms Inc.",
+            "Microsoft Corp.",
+            "Nvidia Corp."
+          ],
+          "GPE": [
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "50",
+          "50",
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "spend",
+            3
+          ],
+          [
+            "billion",
+            3
+          ],
+          [
+            "data",
+            3
+          ],
+          [
+            "center",
+            3
+          ],
+          [
+            "anthropic",
+            2
+          ],
+          [
+            "build",
+            2
+          ],
+          [
+            "company",
+            2
+          ],
+          [
+            "corp.",
+            2
+          ],
+          [
+            "pbc",
+            1
+          ],
+          [
+            "custom",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 5,
+        "num_words": 79,
+        "avg_words_per_sentence": 15.8,
+        "num_unique_words": 50
+      },
+      "processed_at": "2025-11-14T03:30:31.579503",
+      "preprocessing_version": "1.0",
+      "article_id": "ddb0fc4d44ad0824",
+      "title": "Anthropic Will Spend $50 Billion to Build US Data Centers",
+      "description": "Anthropic PBC will spend $50 billion to build custom data centers in the US. They'll start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloomberg's Ed Ludlow reports.",
+      "body": "Anthropic PBC will spend $50 billion to build custom data centers in the US. They'll start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloomberg's Ed Ludlow reports.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=ee15f3518c34056cd72e55246f8835ac4ab580bed2653fe6cdaf1c3d8ae3b5b7",
+      "author": "Unknown",
+      "published_at": "2025-11-12T20:47:05",
+      "scraped_at": "2025-11-13T22:21:35.498948",
+      "ticker": "MSFT",
+      "raw_text": "Anthropic Will Spend $50 Billion to Build US Data Centers Anthropic PBC will spend $50 billion to build custom data centers in the US. They'll start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloomberg's Ed Ludlow reports. Anthropic PBC will spend $50 billion to build custom data centers in the US. They'll start coming online in 2026 according to the company. OpenAI, Meta Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading tech companies plan to collectively spend hundreds of billions of dollars on data centers to support AI. Bloomberg's Ed Ludlow reports.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "NVDA",
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "NVDA": 80,
+        "META": 50,
+        "FB": 50
+      },
+      "ticker_contexts": {
+        "META": [
+          "start coming online in 2026 according to the company. OpenAI, **Meta** Platforms Inc., Google, Microsoft Corp., Nvidia Corp. and other leading"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Why Meta's Post-Earnings Selloff Is An Early Gift (Rating Upgrade)",
+      "original_body": "Meta Platforms' core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy.",
+      "cleaned_title": "Why Metas Post-Earnings Selloff Is An Early Gift Rating Upgrade",
+      "cleaned_body": "Meta Platforms core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy.",
+      "cleaned_text": "Why Metas Post-Earnings Selloff Is An Early Gift Rating Upgrade. Meta Platforms core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy.",
+      "tokens": {
+        "original": [
+          "why",
+          "metas",
+          "post-earnings",
+          "selloff",
+          "is",
+          "an",
+          "early",
+          "gift",
+          "rating",
+          "upgrade",
+          "meta",
+          "platforms",
+          "core",
+          "business",
+          "fundamentals",
+          "remain",
+          "strong",
+          ".",
+          "click",
+          "here",
+          "to",
+          "read",
+          "why",
+          "meta",
+          "stock",
+          "is",
+          "one",
+          "of",
+          "the",
+          "most",
+          "attractive",
+          "mag7",
+          "to",
+          "buy",
+          "."
+        ],
+        "filtered": [
+          "metas",
+          "post-earnings",
+          "selloff",
+          "early",
+          "gift",
+          "rating",
+          "upgrade",
+          "meta",
+          "platforms",
+          "core",
+          "business",
+          "fundamentals",
+          "remain",
+          "strong",
+          ".",
+          "click",
+          "read",
+          "meta",
+          "stock",
+          "one",
+          "most",
+          "attractive",
+          "mag7",
+          "buy",
+          "."
+        ],
+        "lemmatized": [
+          "metas",
+          "post-earnings",
+          "selloff",
+          "early",
+          "gift",
+          "rating",
+          "upgrade",
+          "meta",
+          "platform",
+          "core",
+          "business",
+          "fundamental",
+          "remain",
+          "strong",
+          ".",
+          "click",
+          "read",
+          "meta",
+          "stock",
+          "one",
+          "most",
+          "attractive",
+          "mag7",
+          "buy",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Meta",
+            "Selloff",
+            "Meta Platforms",
+            "Click"
+          ],
+          "ORGANIZATION": [
+            "META"
+          ],
+          "GPE": [
+            "Upgrade",
+            "Buy"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "upgrade",
+            "buy"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "meta",
+            2
+          ],
+          [
+            "metas",
+            1
+          ],
+          [
+            "post-earnings",
+            1
+          ],
+          [
+            "selloff",
+            1
+          ],
+          [
+            "early",
+            1
+          ],
+          [
+            "gift",
+            1
+          ],
+          [
+            "rating",
+            1
+          ],
+          [
+            "upgrade",
+            1
+          ],
+          [
+            "platform",
+            1
+          ],
+          [
+            "core",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 36,
+        "avg_words_per_sentence": 12.0,
+        "num_unique_words": 30
+      },
+      "processed_at": "2025-11-14T03:30:34.470343",
+      "preprocessing_version": "1.0",
+      "article_id": "58e19cec476725ef",
+      "title": "Why Meta's Post-Earnings Selloff Is An Early Gift (Rating Upgrade)",
+      "description": "Meta Platforms' core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy.",
+      "body": "Meta Platforms' core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=30c98d3202a1ebbaf570b2a318ed4ecce32dca72fa33c5e15031eaccd9708b60",
+      "author": "Unknown",
+      "published_at": "2025-11-12T03:14:38",
+      "scraped_at": "2025-11-13T22:21:35.499265",
+      "ticker": "MSFT",
+      "raw_text": "Why Meta's Post-Earnings Selloff Is An Early Gift (Rating Upgrade) Meta Platforms' core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy. Meta Platforms' core business fundamentals remain strong. Click here to read why META stock is one of the most attractive Mag7 to Buy.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1413735503/image_1413735503.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "META": 80,
+        "FB": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Nebius Reports Bigger Q3 Net Income Loss, Announces Meta AI Deal",
+      "original_body": "Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms.",
+      "cleaned_title": "Nebius Reports Bigger third quarter Net Income Loss, Announces Meta AI Deal",
+      "cleaned_body": "Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms.",
+      "cleaned_text": "Nebius Reports Bigger third quarter Net Income Loss, Announces Meta AI Deal. Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms.",
+      "tokens": {
+        "original": [
+          "nebius",
+          "reports",
+          "bigger",
+          "third",
+          "quarter",
+          "net",
+          "income",
+          "loss",
+          ",",
+          "announces",
+          "meta",
+          "ai",
+          "deal",
+          "nebius",
+          "reported",
+          "a",
+          "wider-than-expected",
+          "loss",
+          "and",
+          "a",
+          "deal",
+          "to",
+          "deliver",
+          "ai",
+          "compute",
+          "infrastructure",
+          "to",
+          "meta",
+          "platforms",
+          "."
+        ],
+        "filtered": [
+          "nebius",
+          "reports",
+          "bigger",
+          "third",
+          "quarter",
+          "net",
+          "income",
+          "loss",
+          ",",
+          "announces",
+          "meta",
+          "ai",
+          "deal",
+          "nebius",
+          "reported",
+          "wider-than-expected",
+          "loss",
+          "deal",
+          "deliver",
+          "ai",
+          "compute",
+          "infrastructure",
+          "meta",
+          "platforms",
+          "."
+        ],
+        "lemmatized": [
+          "nebius",
+          "report",
+          "big",
+          "third",
+          "quarter",
+          "net",
+          "income",
+          "loss",
+          ",",
+          "announces",
+          "meta",
+          "ai",
+          "deal",
+          "nebius",
+          "report",
+          "wider-than-expected",
+          "loss",
+          "deal",
+          "deliver",
+          "ai",
+          "compute",
+          "infrastructure",
+          "meta",
+          "platform",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nebius",
+            "Announces Meta AI Deal"
+          ],
+          "ORGANIZATION": [
+            "Meta Platforms"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": [
+            "announce",
+            "report",
+            "expect"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nebius",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "loss",
+            2
+          ],
+          [
+            "meta",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "big",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "net",
+            1
+          ],
+          [
+            "income",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 3,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 31,
+        "avg_words_per_sentence": 15.5,
+        "num_unique_words": 23
+      },
+      "processed_at": "2025-11-14T03:30:36.905184",
+      "preprocessing_version": "1.0",
+      "article_id": "e04dfe1981b346d0",
+      "title": "Nebius Reports Bigger Q3 Net Income Loss, Announces Meta AI Deal",
+      "description": "Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms.",
+      "body": "Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=df39ce749fa3c1d88881c603a9188f6b3102142eeb225389606de0baff43d03f",
+      "author": "Unknown",
+      "published_at": "2025-11-11T18:48:57",
+      "scraped_at": "2025-11-13T22:21:35.499489",
+      "ticker": "MSFT",
+      "raw_text": "Nebius Reports Bigger Q3 Net Income Loss, Announces Meta AI Deal Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms. Nebius reported a wider-than-expected loss and a deal to deliver AI compute infrastructure to Meta Platforms.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "META": 50,
+        "FB": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "CoreWeave Faces Earnings Pressure as Cracks Appear in AI Trade",
+      "original_body": "Now, investors will be closely watching CoreWeave’s results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center.  “Investors have gotten a lot more sensitive to the balance between growth and spend,” said Dave Mazza, chief executive officer at Roundhill Financial.",
+      "cleaned_title": "CoreWeave Faces Earnings Pressure as Cracks Appear in AI Trade",
+      "cleaned_body": "Now, investors will be closely watching CoreWeaves results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center. Investors have gotten a lot more sensitive to the balance between growth and spend, said Dave Mazza, chief executive officer at Roundhill Financial.",
+      "cleaned_text": "CoreWeave Faces Earnings Pressure as Cracks Appear in AI Trade. Now, investors will be closely watching CoreWeaves results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center. Investors have gotten a lot more sensitive to the balance between growth and spend, said Dave Mazza, chief executive officer at Roundhill Financial.",
+      "tokens": {
+        "original": [
+          "coreweave",
+          "faces",
+          "earnings",
+          "pressure",
+          "as",
+          "cracks",
+          "appear",
+          "in",
+          "ai",
+          "trade",
+          "now",
+          ",",
+          "investors",
+          "will",
+          "be",
+          "closely",
+          "watching",
+          "coreweaves",
+          "results",
+          "as",
+          "concerns",
+          "mount",
+          "about",
+          "heavy",
+          "spending",
+          "by",
+          "companies",
+          "like",
+          "meta",
+          "platforms",
+          "inc.",
+          "and",
+          "microsoft",
+          "corp.",
+          ",",
+          "as",
+          "well",
+          "the",
+          "circularity",
+          "of",
+          "many",
+          "ai",
+          "deals",
+          "announced",
+          "in",
+          "recent",
+          "weeks",
+          ",",
+          "with",
+          "openai",
+          "at",
+          "the",
+          "center",
+          ".",
+          "investors",
+          "have",
+          "gotten",
+          "a",
+          "lot",
+          "more",
+          "sensitive",
+          "to",
+          "the",
+          "balance",
+          "between",
+          "growth",
+          "and",
+          "spend",
+          ",",
+          "said",
+          "dave",
+          "mazza",
+          ",",
+          "chief",
+          "executive",
+          "officer",
+          "at",
+          "roundhill",
+          "financial",
+          "."
+        ],
+        "filtered": [
+          "coreweave",
+          "faces",
+          "earnings",
+          "pressure",
+          "cracks",
+          "appear",
+          "ai",
+          "trade",
+          ",",
+          "investors",
+          "closely",
+          "watching",
+          "coreweaves",
+          "results",
+          "concerns",
+          "mount",
+          "heavy",
+          "spending",
+          "companies",
+          "like",
+          "meta",
+          "platforms",
+          "inc.",
+          "microsoft",
+          "corp.",
+          ",",
+          "well",
+          "circularity",
+          "many",
+          "ai",
+          "deals",
+          "announced",
+          "recent",
+          "weeks",
+          ",",
+          "openai",
+          "center",
+          ".",
+          "investors",
+          "gotten",
+          "lot",
+          "more",
+          "sensitive",
+          "balance",
+          "growth",
+          "spend",
+          ",",
+          "said",
+          "dave",
+          "mazza",
+          ",",
+          "chief",
+          "executive",
+          "officer",
+          "roundhill",
+          "financial",
+          "."
+        ],
+        "lemmatized": [
+          "coreweave",
+          "face",
+          "earnings",
+          "pressure",
+          "crack",
+          "appear",
+          "ai",
+          "trade",
+          ",",
+          "investor",
+          "closely",
+          "watch",
+          "coreweaves",
+          "result",
+          "concern",
+          "mount",
+          "heavy",
+          "spending",
+          "company",
+          "like",
+          "meta",
+          "platform",
+          "inc.",
+          "microsoft",
+          "corp.",
+          ",",
+          "well",
+          "circularity",
+          "many",
+          "ai",
+          "deal",
+          "announce",
+          "recent",
+          "week",
+          ",",
+          "openai",
+          "center",
+          ".",
+          "investor",
+          "get",
+          "lot",
+          "more",
+          "sensitive",
+          "balance",
+          "growth",
+          "spend",
+          ",",
+          "say",
+          "dave",
+          "mazza",
+          ",",
+          "chief",
+          "executive",
+          "officer",
+          "roundhill",
+          "financial",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Faces Earnings",
+            "Dave Mazza"
+          ],
+          "ORGANIZATION": [
+            "CoreWeave",
+            "Cracks",
+            "AI Trade",
+            "Meta Platforms Inc.",
+            "Microsoft Corp.",
+            "OpenAI",
+            "Roundhill Financial"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "announce",
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "investor",
+            2
+          ],
+          [
+            "coreweave",
+            1
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "pressure",
+            1
+          ],
+          [
+            "crack",
+            1
+          ],
+          [
+            "appear",
+            1
+          ],
+          [
+            "trade",
+            1
+          ],
+          [
+            "closely",
+            1
+          ],
+          [
+            "watch",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 2,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 81,
+        "avg_words_per_sentence": 27.0,
+        "num_unique_words": 66
+      },
+      "processed_at": "2025-11-14T03:30:43.417446",
+      "preprocessing_version": "1.0",
+      "article_id": "bfd29eff9b0618df",
+      "title": "CoreWeave Faces Earnings Pressure as Cracks Appear in AI Trade",
+      "description": "Now, investors will be closely watching CoreWeave’s results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center.  “Investors have gotten a lot more sensitive to the balance between growth and spend,” said Dave Mazza, chief executive officer at Roundhill Financial.",
+      "body": "Now, investors will be closely watching CoreWeave’s results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center.  “Investors have gotten a lot more sensitive to the balance between growth and spend,” said Dave Mazza, chief executive officer at Roundhill Financial.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=5c61d0c8bb2703c3f4ab2595b3864d40aeee88bb82235da425187cf65fbbfb1b",
+      "author": "Unknown",
+      "published_at": "2025-11-10T20:32:56",
+      "scraped_at": "2025-11-13T22:21:35.499982",
+      "ticker": "MSFT",
+      "raw_text": "CoreWeave Faces Earnings Pressure as Cracks Appear in AI Trade Now, investors will be closely watching CoreWeave’s results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center.  “Investors have gotten a lot more sensitive to the balance between growth and spend,” said Dave Mazza, chief executive officer at Roundhill Financial. Now, investors will be closely watching CoreWeave’s results as concerns mount about heavy spending by companies like Meta Platforms Inc. and Microsoft Corp., as well the circularity of many AI deals announced in recent weeks, with OpenAI at the center.  “Investors have gotten a lot more sensitive to the balance between growth and spend,” said Dave Mazza, chief executive officer at Roundhill Financial.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "META",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "META": 50,
+        "FB": 50
+      },
+      "ticker_contexts": {
+        "META": [
+          "results as concerns mount about heavy spending by companies like **Meta** Platforms Inc. and Microsoft Corp., as well the circularity of"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

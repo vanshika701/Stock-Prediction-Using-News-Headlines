@@ -1,0 +1,684 @@
+{
+  "ticker": "ASML",
+  "export_date": "2025-11-15T01:16:26.145477",
+  "article_count": 3,
+  "articles": [
+    {
+      "original_title": "Top Wide-Moat Stocks to Invest in for Long-Term Wealth and Stability",
+      "original_body": "LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "cleaned_title": "Top Wide-Moat Stocks to Invest in for Long-Term Wealth and Stability",
+      "cleaned_body": "LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "cleaned_text": "Top Wide-Moat Stocks to Invest in for Long-Term Wealth and Stability. LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "tokens": {
+        "original": [
+          "top",
+          "wide-moat",
+          "stocks",
+          "to",
+          "invest",
+          "in",
+          "for",
+          "long-term",
+          "wealth",
+          "and",
+          "stability",
+          "lrcx",
+          ",",
+          "asml",
+          ",",
+          "nvda",
+          "and",
+          "mco",
+          "use",
+          "strong",
+          "moats",
+          "to",
+          "fend",
+          "off",
+          "rivals",
+          "and",
+          "deliver",
+          "consistent",
+          "returns",
+          "amid",
+          "market",
+          "shifts",
+          "."
+        ],
+        "filtered": [
+          "top",
+          "wide-moat",
+          "stocks",
+          "invest",
+          "long-term",
+          "wealth",
+          "stability",
+          "lrcx",
+          ",",
+          "asml",
+          ",",
+          "nvda",
+          "mco",
+          "use",
+          "strong",
+          "moats",
+          "fend",
+          "rivals",
+          "deliver",
+          "consistent",
+          "returns",
+          "amid",
+          "market",
+          "shifts",
+          "."
+        ],
+        "lemmatized": [
+          "top",
+          "wide-moat",
+          "stock",
+          "invest",
+          "long-term",
+          "wealth",
+          "stability",
+          "lrcx",
+          ",",
+          "asml",
+          ",",
+          "nvda",
+          "mco",
+          "use",
+          "strong",
+          "moat",
+          "fend",
+          "rival",
+          "deliver",
+          "consistent",
+          "returns",
+          "amid",
+          "market",
+          "shift",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stocks"
+          ],
+          "ORGANIZATION": [
+            "LRCX",
+            "ASML",
+            "NVDA",
+            "MCO"
+          ],
+          "GPE": [
+            "Invest"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "top",
+            1
+          ],
+          [
+            "wide-moat",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "long-term",
+            1
+          ],
+          [
+            "wealth",
+            1
+          ],
+          [
+            "stability",
+            1
+          ],
+          [
+            "lrcx",
+            1
+          ],
+          [
+            "asml",
+            1
+          ],
+          [
+            "nvda",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 34,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 29
+      },
+      "processed_at": "2025-11-14T03:30:24.320483",
+      "preprocessing_version": "1.0",
+      "article_id": "9060c77dbc61af32",
+      "title": "Top Wide-Moat Stocks to Invest in for Long-Term Wealth and Stability",
+      "description": "LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "body": "LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "source": "Zacks Commentary",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.zacks.com/stock/news/2790043/top-wide-moat-stocks-to-invest-in-for-long-term-wealth-and-stability",
+      "author": "Anindya Barman",
+      "published_at": "20251112T152300",
+      "scraped_at": "2025-11-13T22:21:35.004820",
+      "ticker": "MSFT",
+      "raw_text": "Top Wide-Moat Stocks to Invest in for Long-Term Wealth and Stability LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts. LRCX, ASML, NVDA and MCO use strong moats to fend off rivals and deliver consistent returns amid market shifts.",
+      "sentiment_score": 0.343074,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "ASML"
+      ],
+      "ticker_confidence": {
+        "ASML": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "AI Optimism Powers Semiconductor Sales: 5 Stocks to Buy Now",
+      "original_body": "AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth.",
+      "cleaned_title": "AI Optimism Powers Semiconductor Sales 5 Stocks to Buy Now",
+      "cleaned_body": "AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth.",
+      "cleaned_text": "AI Optimism Powers Semiconductor Sales 5 Stocks to Buy Now. AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth.",
+      "tokens": {
+        "original": [
+          "ai",
+          "optimism",
+          "powers",
+          "semiconductor",
+          "sales",
+          "5",
+          "stocks",
+          "to",
+          "buy",
+          "now",
+          "ai-driven",
+          "demand",
+          "is",
+          "fueling",
+          "a",
+          "semiconductor",
+          "surge",
+          ",",
+          "with",
+          "slab",
+          ",",
+          "adi",
+          ",",
+          "nvda",
+          ",",
+          "asml",
+          "and",
+          "aeis",
+          "all",
+          "poised",
+          "for",
+          "strong",
+          "growth",
+          "."
+        ],
+        "filtered": [
+          "ai",
+          "optimism",
+          "powers",
+          "semiconductor",
+          "sales",
+          "5",
+          "stocks",
+          "buy",
+          "ai-driven",
+          "demand",
+          "fueling",
+          "semiconductor",
+          "surge",
+          ",",
+          "slab",
+          ",",
+          "adi",
+          ",",
+          "nvda",
+          ",",
+          "asml",
+          "aeis",
+          "poised",
+          "strong",
+          "growth",
+          "."
+        ],
+        "lemmatized": [
+          "ai",
+          "optimism",
+          "power",
+          "semiconductor",
+          "sales",
+          "5",
+          "stock",
+          "buy",
+          "ai-driven",
+          "demand",
+          "fuel",
+          "semiconductor",
+          "surge",
+          ",",
+          "slab",
+          ",",
+          "adi",
+          ",",
+          "nvda",
+          ",",
+          "asml",
+          "aeis",
+          "poise",
+          "strong",
+          "growth",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "SLAB",
+            "ADI",
+            "NVDA",
+            "ASML",
+            "AEIS"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "strong",
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "semiconductor",
+            2
+          ],
+          [
+            "optimism",
+            1
+          ],
+          [
+            "power",
+            1
+          ],
+          [
+            "sales",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "ai-driven",
+            1
+          ],
+          [
+            "demand",
+            1
+          ],
+          [
+            "fuel",
+            1
+          ],
+          [
+            "surge",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 4,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 35,
+        "avg_words_per_sentence": 17.5,
+        "num_unique_words": 30
+      },
+      "processed_at": "2025-11-14T03:30:44.035662",
+      "preprocessing_version": "1.0",
+      "article_id": "5f4c58465e990596",
+      "title": "AI Optimism Powers Semiconductor Sales: 5 Stocks to Buy Now",
+      "description": "AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth.",
+      "body": "AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=a5d7bf3244fa88b6563ace90591efe7045c478f25c8cc7b10f66c715271dbbb2",
+      "author": "Unknown",
+      "published_at": "2025-11-10T20:15:00",
+      "scraped_at": "2025-11-13T22:21:35.500044",
+      "ticker": "MSFT",
+      "raw_text": "AI Optimism Powers Semiconductor Sales: 5 Stocks to Buy Now AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth. AI-driven demand is fueling a semiconductor surge, with SLAB, ADI, NVDA, ASML and AEIS all poised for strong growth.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "ASML"
+      ],
+      "ticker_confidence": {
+        "ASML": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "ASML: Our Top H2 2025 Pick Rallied 40% -- It's Time For Downgrade",
+      "original_body": "ASML's strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next.",
+      "cleaned_title": "ASML Our Top H2 2025 Pick Rallied 40 percent -- it is Time For Downgrade",
+      "cleaned_body": "ASMLs strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next.",
+      "cleaned_text": "ASML Our Top H2 2025 Pick Rallied 40 percent -- it is Time For Downgrade. ASMLs strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next.",
+      "tokens": {
+        "original": [
+          "asml",
+          "our",
+          "top",
+          "h2",
+          "2025",
+          "pick",
+          "rallied",
+          "40",
+          "percent",
+          "--",
+          "it",
+          "is",
+          "time",
+          "for",
+          "downgrade",
+          "asmls",
+          "strong",
+          "ai",
+          "and",
+          "chip",
+          "growth",
+          "is",
+          "overshadowed",
+          "by",
+          "high",
+          "valuation",
+          "and",
+          "china",
+          "risks",
+          ".",
+          "read",
+          "why",
+          "analysts",
+          "now",
+          "rate",
+          "it",
+          "hold",
+          "and",
+          "what",
+          "to",
+          "watch",
+          "next",
+          "."
+        ],
+        "filtered": [
+          "asml",
+          "top",
+          "h2",
+          "2025",
+          "pick",
+          "rallied",
+          "40",
+          "percent",
+          "--",
+          "time",
+          "downgrade",
+          "asmls",
+          "strong",
+          "ai",
+          "chip",
+          "growth",
+          "overshadowed",
+          "high",
+          "valuation",
+          "china",
+          "risks",
+          ".",
+          "read",
+          "analysts",
+          "rate",
+          "hold",
+          "watch",
+          "next",
+          "."
+        ],
+        "lemmatized": [
+          "asml",
+          "top",
+          "h2",
+          "2025",
+          "pick",
+          "rally",
+          "40",
+          "percent",
+          "--",
+          "time",
+          "downgrade",
+          "asmls",
+          "strong",
+          "ai",
+          "chip",
+          "growth",
+          "overshadow",
+          "high",
+          "valuation",
+          "china",
+          "risk",
+          ".",
+          "read",
+          "analyst",
+          "rate",
+          "hold",
+          "watch",
+          "next",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Pick",
+            "Downgrade"
+          ],
+          "ORGANIZATION": [
+            "ASML",
+            "HOLD"
+          ],
+          "GPE": [
+            "China"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth",
+            "high"
+          ],
+          "negative": [
+            "downgrade"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "40"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "asml",
+            1
+          ],
+          [
+            "top",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "rally",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "time",
+            1
+          ],
+          [
+            "downgrade",
+            1
+          ],
+          [
+            "asmls",
+            1
+          ],
+          [
+            "strong",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 44,
+        "avg_words_per_sentence": 14.67,
+        "num_unique_words": 38
+      },
+      "processed_at": "2025-11-14T03:30:48.618869",
+      "preprocessing_version": "1.0",
+      "article_id": "8db2c6a2611acac8",
+      "title": "ASML: Our Top H2 2025 Pick Rallied 40% -- It's Time For Downgrade",
+      "description": "ASML's strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next.",
+      "body": "ASML's strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=8dedef010d305bfe5e2e1d37e14a978c5e29d51457bab63d45db573d54fa3403",
+      "author": "Unknown",
+      "published_at": "2025-11-09T14:30:41",
+      "scraped_at": "2025-11-13T22:21:35.500448",
+      "ticker": "MSFT",
+      "raw_text": "ASML: Our Top H2 2025 Pick Rallied 40% -- It's Time For Downgrade ASML's strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next. ASML's strong AI and chip growth is overshadowed by high valuation and China risks. Read why analysts now rate it HOLD and what to watch next.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1200829368/image_1200829368.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "ASML"
+      ],
+      "ticker_confidence": {
+        "ASML": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

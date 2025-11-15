@@ -1,0 +1,2588 @@
+{
+  "ticker": "RIVN",
+  "export_date": "2025-11-15T01:16:26.070291",
+  "article_count": 10,
+  "articles": [
+    {
+      "original_title": "Rivian Automotive (NASDAQ: RIVN) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Nov 12)",
+      "original_body": "Shares of Rivian Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its C… [+141 chars]",
+      "cleaned_title": "Rivian Automotive NASDAQ RIVN Stock Price Prediction for 2025 Where Will It Be in 1 Year Nov 12",
+      "cleaned_body": "Shares of Rivian Automotive Inc. NASDAQ RIVN are changing hands for 16.7 percent more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its C 141 chars",
+      "cleaned_text": "Rivian Automotive NASDAQ RIVN Stock Price Prediction for 2025 Where Will It Be in 1 Year Nov 12. Shares of Rivian Automotive Inc. NASDAQ RIVN are changing hands for 16.7 percent more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its C 141 chars",
+      "tokens": {
+        "original": [
+          "rivian",
+          "automotive",
+          "nasdaq",
+          "rivn",
+          "stock",
+          "price",
+          "prediction",
+          "for",
+          "2025",
+          "where",
+          "will",
+          "it",
+          "be",
+          "in",
+          "1",
+          "year",
+          "nov",
+          "12",
+          "shares",
+          "of",
+          "rivian",
+          "automotive",
+          "inc.",
+          "nasdaq",
+          "rivn",
+          "are",
+          "changing",
+          "hands",
+          "for",
+          "16.7",
+          "percent",
+          "more",
+          "than",
+          "a",
+          "week",
+          "ago",
+          ",",
+          "after",
+          "it",
+          "posted",
+          "strong",
+          "third-quarter",
+          "results",
+          ".",
+          "the",
+          "company",
+          "also",
+          "announced",
+          "a",
+          "new",
+          "pay",
+          "package",
+          "for",
+          "its",
+          "c",
+          "141",
+          "chars"
+        ],
+        "filtered": [
+          "rivian",
+          "automotive",
+          "nasdaq",
+          "rivn",
+          "stock",
+          "price",
+          "prediction",
+          "2025",
+          "1",
+          "year",
+          "nov",
+          "12",
+          "shares",
+          "rivian",
+          "automotive",
+          "inc.",
+          "nasdaq",
+          "rivn",
+          "changing",
+          "hands",
+          "16.7",
+          "percent",
+          "more",
+          "week",
+          "ago",
+          ",",
+          "posted",
+          "strong",
+          "third-quarter",
+          "results",
+          ".",
+          "company",
+          "also",
+          "announced",
+          "new",
+          "pay",
+          "package",
+          "c",
+          "141",
+          "chars"
+        ],
+        "lemmatized": [
+          "rivian",
+          "automotive",
+          "nasdaq",
+          "rivn",
+          "stock",
+          "price",
+          "prediction",
+          "2025",
+          "1",
+          "year",
+          "nov",
+          "12",
+          "shares",
+          "rivian",
+          "automotive",
+          "inc.",
+          "nasdaq",
+          "rivn",
+          "change",
+          "hand",
+          "16.7",
+          "percent",
+          "more",
+          "week",
+          "ago",
+          ",",
+          "post",
+          "strong",
+          "third-quarter",
+          "result",
+          ".",
+          "company",
+          "also",
+          "announce",
+          "new",
+          "pay",
+          "package",
+          "c",
+          "141",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock Price"
+          ],
+          "ORGANIZATION": [
+            "Automotive",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "1",
+          "12",
+          "16.7",
+          "141"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rivian",
+            2
+          ],
+          [
+            "automotive",
+            2
+          ],
+          [
+            "nasdaq",
+            2
+          ],
+          [
+            "rivn",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "prediction",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "year",
+            1
+          ],
+          [
+            "nov",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 57,
+        "avg_words_per_sentence": 19.0,
+        "num_unique_words": 49
+      },
+      "processed_at": "2025-11-14T03:28:53.068063",
+      "preprocessing_version": "1.0",
+      "article_id": "51695eadd6c03bd7",
+      "title": "Rivian Automotive (NASDAQ: RIVN) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Nov 12)",
+      "description": "Shares of Rivian Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its CEO potentially worth up to $4.6 billion. And it reaffirmed i…",
+      "body": "Shares of Rivian Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its C… [+141 chars]",
+      "source": "Biztoc.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://biztoc.com/x/45196c5a2a942741",
+      "author": "247wallst.com",
+      "published_at": "2025-11-12T14:19:20Z",
+      "scraped_at": "2025-11-13T22:21:10.044048",
+      "ticker": "AAPL",
+      "raw_text": "Rivian Automotive (NASDAQ: RIVN) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Nov 12) Shares of Rivian Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its CEO potentially worth up to $4.6 billion. And it reaffirmed i… Shares of Rivian Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more than a week ago, after it posted strong third-quarter results. The company also announced a new pay package for its C… [+141 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "RIVN": 80
+      },
+      "ticker_contexts": {
+        "RIVN": [
+          "Will It Be in 1 Year (Nov 12) Shares of **Rivian** Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more",
+          "up to $4.6 billion. And it reaffirmed i… Shares of **Rivian** Automotive Inc. (NASDAQ: RIVN) are changing hands for 16.7% more"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Rivian Shares Surge 18% This Week—Here’s Why",
+      "original_body": "Shares of Rivian rose 9.6% to $17.99 on Tuesday, marking an 18.1% increase since shares closed last week at $15.23, and a 45% rally since the stock hit a 52-week low of $12.39 on Nov. 4.\r\nRivians sha… [+1525 chars]",
+      "cleaned_title": "Rivian Shares Surge 18 percent This WeekHeres Why",
+      "cleaned_body": "Shares of Rivian rose 9.6 percent to $17.99 on Tuesday, marking an 18.1 percent increase since shares closed last week at $15.23, and a 45 percent rally since the stock hit a 52-week low of $12.39 on Nov. 4. Rivians sha 1525 chars",
+      "cleaned_text": "Rivian Shares Surge 18 percent This WeekHeres Why. Shares of Rivian rose 9.6 percent to $17.99 on Tuesday, marking an 18.1 percent increase since shares closed last week at $15.23, and a 45 percent rally since the stock hit a 52-week low of $12.39 on Nov. 4. Rivians sha 1525 chars",
+      "tokens": {
+        "original": [
+          "rivian",
+          "shares",
+          "surge",
+          "18",
+          "percent",
+          "this",
+          "weekheres",
+          "why",
+          "shares",
+          "of",
+          "rivian",
+          "rose",
+          "9.6",
+          "percent",
+          "to",
+          "$",
+          "17.99",
+          "on",
+          "tuesday",
+          ",",
+          "marking",
+          "an",
+          "18.1",
+          "percent",
+          "increase",
+          "since",
+          "shares",
+          "closed",
+          "last",
+          "week",
+          "at",
+          "$",
+          "15.23",
+          ",",
+          "and",
+          "a",
+          "45",
+          "percent",
+          "rally",
+          "since",
+          "the",
+          "stock",
+          "hit",
+          "a",
+          "52-week",
+          "low",
+          "of",
+          "$",
+          "12.39",
+          "on",
+          "nov.",
+          "4.",
+          "rivians",
+          "sha",
+          "1525",
+          "chars"
+        ],
+        "filtered": [
+          "rivian",
+          "shares",
+          "surge",
+          "18",
+          "percent",
+          "weekheres",
+          "shares",
+          "rivian",
+          "rose",
+          "9.6",
+          "percent",
+          "$",
+          "17.99",
+          "tuesday",
+          ",",
+          "marking",
+          "18.1",
+          "percent",
+          "increase",
+          "since",
+          "shares",
+          "closed",
+          "last",
+          "week",
+          "$",
+          "15.23",
+          ",",
+          "45",
+          "percent",
+          "rally",
+          "since",
+          "stock",
+          "hit",
+          "52-week",
+          "low",
+          "$",
+          "12.39",
+          "nov.",
+          "4.",
+          "rivians",
+          "sha",
+          "1525",
+          "chars"
+        ],
+        "lemmatized": [
+          "rivian",
+          "shares",
+          "surge",
+          "18",
+          "percent",
+          "weekheres",
+          "shares",
+          "rivian",
+          "rise",
+          "9.6",
+          "percent",
+          "$",
+          "17.99",
+          "tuesday",
+          ",",
+          "mark",
+          "18.1",
+          "percent",
+          "increase",
+          "since",
+          "shares",
+          "close",
+          "last",
+          "week",
+          "$",
+          "15.23",
+          ",",
+          "45",
+          "percent",
+          "rally",
+          "since",
+          "stock",
+          "hit",
+          "52-week",
+          "low",
+          "$",
+          "12.39",
+          "nov.",
+          "4.",
+          "rivians",
+          "sha",
+          "1525",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Shares Surge"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "rally"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "18",
+          "9.6",
+          "17.99",
+          "18.1",
+          "15.23",
+          "45",
+          "52",
+          "12.39",
+          "4",
+          "1525"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "percent",
+            4
+          ],
+          [
+            "shares",
+            3
+          ],
+          [
+            "rivian",
+            2
+          ],
+          [
+            "since",
+            2
+          ],
+          [
+            "surge",
+            1
+          ],
+          [
+            "weekheres",
+            1
+          ],
+          [
+            "rise",
+            1
+          ],
+          [
+            "9.6",
+            1
+          ],
+          [
+            "17.99",
+            1
+          ],
+          [
+            "tuesday",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 10,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 57,
+        "avg_words_per_sentence": 19.0,
+        "num_unique_words": 44
+      },
+      "processed_at": "2025-11-14T03:29:31.414582",
+      "preprocessing_version": "1.0",
+      "article_id": "f633164256f4c7eb",
+      "title": "Rivian Shares Surge 18% This Week—Here’s Why",
+      "description": "The automaker’s founder has said he expects the company to once again compete with Tesla next year.",
+      "body": "Shares of Rivian rose 9.6% to $17.99 on Tuesday, marking an 18.1% increase since shares closed last week at $15.23, and a 45% rally since the stock hit a 52-week low of $12.39 on Nov. 4.\r\nRivians sha… [+1525 chars]",
+      "source": "Forbes",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.forbes.com/sites/tylerroush/2025/11/11/rivian-shares-surge-18-this-week-heres-why/",
+      "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
+      "published_at": "2025-11-11T21:32:34Z",
+      "scraped_at": "2025-11-13T22:21:13.286388",
+      "ticker": "TSLA",
+      "raw_text": "Rivian Shares Surge 18% This Week—Here’s Why The automaker’s founder has said he expects the company to once again compete with Tesla next year. Shares of Rivian rose 9.6% to $17.99 on Tuesday, marking an 18.1% increase since shares closed last week at $15.23, and a 45% rally since the stock hit a 52-week low of $12.39 on Nov. 4.\r\nRivians sha… [+1525 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' - Tesla  ( NASDAQ:TSLA ) , Rivian Automotive  ( NASDAQ:RIVN ) ",
+      "original_body": "In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "cleaned_title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral Envy And Greed Walk Hand In Hand - Tesla NASDAQTSLA , Rivian Automotive NASDAQRIVN",
+      "cleaned_body": "In his final annual letter as CEO of Berkshire Hathaway Inc NYSEBRK NYSEBRK , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla NASDAQTSLA CEO Elon Musks revised pay.",
+      "cleaned_text": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral Envy And Greed Walk Hand In Hand - Tesla NASDAQTSLA , Rivian Automotive NASDAQRIVN. In his final annual letter as CEO of Berkshire Hathaway Inc NYSEBRK NYSEBRK , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla NASDAQTSLA CEO Elon Musks revised pay.",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "takes",
+          "veiled",
+          "dig",
+          "at",
+          "elon",
+          "musk",
+          "while",
+          "criticizing",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "and",
+          "greed",
+          "walk",
+          "hand",
+          "in",
+          "hand",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ",",
+          "rivian",
+          "automotive",
+          "nasdaqrivn",
+          "in",
+          "his",
+          "final",
+          "annual",
+          "letter",
+          "as",
+          "ceo",
+          "of",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "has",
+          "highlighted",
+          "a",
+          "concerning",
+          "trend",
+          "of",
+          "escalating",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musks",
+          "revised",
+          "pay",
+          "."
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "takes",
+          "veiled",
+          "dig",
+          "elon",
+          "musk",
+          "criticizing",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ",",
+          "rivian",
+          "automotive",
+          "nasdaqrivn",
+          "final",
+          "annual",
+          "letter",
+          "ceo",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "highlighted",
+          "concerning",
+          "trend",
+          "escalating",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musks",
+          "revised",
+          "pay",
+          "."
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "take",
+          "veiled",
+          "dig",
+          "elon",
+          "musk",
+          "criticize",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ",",
+          "rivian",
+          "automotive",
+          "nasdaqrivn",
+          "final",
+          "annual",
+          "letter",
+          "ceo",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "highlight",
+          "concern",
+          "trend",
+          "escalate",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "revise",
+          "pay",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett Takes",
+            "Dig",
+            "Greed Walk Hand",
+            "Rivian Automotive",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "Elon Musk",
+            "CEO Pay",
+            "NASDAQ",
+            "CEO",
+            "Berkshire Hathaway Inc",
+            "NYSE",
+            "CEO Elon Musk"
+          ],
+          "GPE": [
+            "Hand",
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ceo",
+            4
+          ],
+          [
+            "warren",
+            2
+          ],
+          [
+            "buffett",
+            2
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "pay",
+            2
+          ],
+          [
+            "hand",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "nasdaqtsla",
+            2
+          ],
+          [
+            "nysebrk",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 15,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 62,
+        "avg_words_per_sentence": 31.0,
+        "num_unique_words": 47
+      },
+      "processed_at": "2025-11-14T03:29:36.487373",
+      "preprocessing_version": "1.0",
+      "article_id": "b18c838a373eb628",
+      "title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' - Tesla  ( NASDAQ:TSLA ) , Rivian Automotive  ( NASDAQ:RIVN ) ",
+      "description": "In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "body": "In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/news/topics/25/11/48796814/warren-buffett-takes-veiled-dig-at-elon-musk-while-criticizing-ceo-pay-spiral-envy-and-greed-walk-han",
+      "author": "Namrata Sen",
+      "published_at": "20251112T100506",
+      "scraped_at": "2025-11-13T22:21:23.358313",
+      "ticker": "TSLA",
+      "raw_text": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' - Tesla  ( NASDAQ:TSLA ) , Rivian Automotive  ( NASDAQ:RIVN )  In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay. In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "sentiment_score": 0.156136,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Volkswagen says Rivian JV tech could extend to combustion cars in future",
+      "original_body": "PALO ALTO (Reuters) -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker ​Rivian Automotive could eventually be used in its internal combustion engine vehicles.  Integration of software and ‌electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays ‌at its in house software unit, Cariad.  The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals.",
+      "cleaned_title": "Volkswagen says Rivian JV tech could extend to combustion cars in future",
+      "cleaned_body": "PALO ALTO Reuters -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker Rivian Automotive could eventually be used in its internal combustion engine vehicles. Integration of software and electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays at its in house software unit, Cariad. The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals.",
+      "cleaned_text": "Volkswagen says Rivian JV tech could extend to combustion cars in future. PALO ALTO Reuters -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker Rivian Automotive could eventually be used in its internal combustion engine vehicles. Integration of software and electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays at its in house software unit, Cariad. The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals.",
+      "tokens": {
+        "original": [
+          "volkswagen",
+          "says",
+          "rivian",
+          "jv",
+          "tech",
+          "could",
+          "extend",
+          "to",
+          "combustion",
+          "cars",
+          "in",
+          "future",
+          "palo",
+          "alto",
+          "reuters",
+          "-volkswagen",
+          "group",
+          "said",
+          "on",
+          "wednesday",
+          "the",
+          "technology",
+          "it",
+          "is",
+          "developing",
+          "with",
+          "u.s.",
+          "electric-vehicle",
+          "maker",
+          "rivian",
+          "automotive",
+          "could",
+          "eventually",
+          "be",
+          "used",
+          "in",
+          "its",
+          "internal",
+          "combustion",
+          "engine",
+          "vehicles",
+          ".",
+          "integration",
+          "of",
+          "software",
+          "and",
+          "electronics",
+          "across",
+          "platforms",
+          "is",
+          "crucial",
+          "for",
+          "volkswagen",
+          ",",
+          "which",
+          "has",
+          "struggled",
+          "to",
+          "unify",
+          "its",
+          "technology",
+          "architecture",
+          "across",
+          "brands",
+          "after",
+          "repeated",
+          "delays",
+          "at",
+          "its",
+          "in",
+          "house",
+          "software",
+          "unit",
+          ",",
+          "cariad",
+          ".",
+          "the",
+          "german",
+          "automaker",
+          "is",
+          "counting",
+          "on",
+          "its",
+          "partnership",
+          "with",
+          "rivian",
+          "to",
+          "accelerate",
+          "development",
+          "of",
+          "a",
+          "scalable",
+          ",",
+          "next-generation",
+          "vehicle",
+          "platform",
+          "and",
+          "close",
+          "the",
+          "gap",
+          "with",
+          "rivals",
+          "like",
+          "tesla",
+          "and",
+          "chinese",
+          "rivals",
+          "."
+        ],
+        "filtered": [
+          "volkswagen",
+          "says",
+          "rivian",
+          "jv",
+          "tech",
+          "could",
+          "extend",
+          "combustion",
+          "cars",
+          "future",
+          "palo",
+          "alto",
+          "reuters",
+          "-volkswagen",
+          "group",
+          "said",
+          "wednesday",
+          "technology",
+          "developing",
+          "u.s.",
+          "electric-vehicle",
+          "maker",
+          "rivian",
+          "automotive",
+          "could",
+          "eventually",
+          "used",
+          "internal",
+          "combustion",
+          "engine",
+          "vehicles",
+          ".",
+          "integration",
+          "software",
+          "electronics",
+          "across",
+          "platforms",
+          "crucial",
+          "volkswagen",
+          ",",
+          "struggled",
+          "unify",
+          "technology",
+          "architecture",
+          "across",
+          "brands",
+          "repeated",
+          "delays",
+          "house",
+          "software",
+          "unit",
+          ",",
+          "cariad",
+          ".",
+          "german",
+          "automaker",
+          "counting",
+          "partnership",
+          "rivian",
+          "accelerate",
+          "development",
+          "scalable",
+          ",",
+          "next-generation",
+          "vehicle",
+          "platform",
+          "close",
+          "gap",
+          "rivals",
+          "like",
+          "tesla",
+          "chinese",
+          "rivals",
+          "."
+        ],
+        "lemmatized": [
+          "volkswagen",
+          "say",
+          "rivian",
+          "jv",
+          "tech",
+          "could",
+          "extend",
+          "combustion",
+          "car",
+          "future",
+          "palo",
+          "alto",
+          "reuters",
+          "-volkswagen",
+          "group",
+          "say",
+          "wednesday",
+          "technology",
+          "develop",
+          "u.s.",
+          "electric-vehicle",
+          "maker",
+          "rivian",
+          "automotive",
+          "could",
+          "eventually",
+          "use",
+          "internal",
+          "combustion",
+          "engine",
+          "vehicle",
+          ".",
+          "integration",
+          "software",
+          "electronics",
+          "across",
+          "platform",
+          "crucial",
+          "volkswagen",
+          ",",
+          "struggle",
+          "unify",
+          "technology",
+          "architecture",
+          "across",
+          "brand",
+          "repeat",
+          "delay",
+          "house",
+          "software",
+          "unit",
+          ",",
+          "cariad",
+          ".",
+          "german",
+          "automaker",
+          "count",
+          "partnership",
+          "rivian",
+          "accelerate",
+          "development",
+          "scalable",
+          ",",
+          "next-generation",
+          "vehicle",
+          "platform",
+          "close",
+          "gap",
+          "rival",
+          "like",
+          "tesla",
+          "chinese",
+          "rival",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Rivian JV",
+            "Group",
+            "Cariad",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "PALO",
+            "Reuters",
+            "Volkswagen"
+          ],
+          "GPE": [
+            "Volkswagen",
+            "U.S.",
+            "German",
+            "Rivian",
+            "Chinese"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rivian",
+            3
+          ],
+          [
+            "volkswagen",
+            2
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "could",
+            2
+          ],
+          [
+            "combustion",
+            2
+          ],
+          [
+            "technology",
+            2
+          ],
+          [
+            "vehicle",
+            2
+          ],
+          [
+            "software",
+            2
+          ],
+          [
+            "across",
+            2
+          ],
+          [
+            "platform",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 109,
+        "avg_words_per_sentence": 27.25,
+        "num_unique_words": 78
+      },
+      "processed_at": "2025-11-14T03:29:42.547679",
+      "preprocessing_version": "1.0",
+      "article_id": "2edbf2c78cba6abb",
+      "title": "Volkswagen says Rivian JV tech could extend to combustion cars in future",
+      "description": "PALO ALTO (Reuters) -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker ​Rivian Automotive could eventually be used in its internal combustion engine vehicles.  Integration of software and ‌electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays ‌at its in house software unit, Cariad.  The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals.",
+      "body": "PALO ALTO (Reuters) -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker ​Rivian Automotive could eventually be used in its internal combustion engine vehicles.  Integration of software and ‌electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays ‌at its in house software unit, Cariad.  The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=c631218589e158194e921ff0fe83a3f7962d7aaf2507023eebcdb750342222c0",
+      "author": "Unknown",
+      "published_at": "2025-11-13T02:11:00",
+      "scraped_at": "2025-11-13T22:21:23.908398",
+      "ticker": "TSLA",
+      "raw_text": "Volkswagen says Rivian JV tech could extend to combustion cars in future PALO ALTO (Reuters) -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker ​Rivian Automotive could eventually be used in its internal combustion engine vehicles.  Integration of software and ‌electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays ‌at its in house software unit, Cariad.  The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals. PALO ALTO (Reuters) -Volkswagen Group said on Wednesday the technology it is developing with U.S. electric-vehicle maker ​Rivian Automotive could eventually be used in its internal combustion engine vehicles.  Integration of software and ‌electronics across platforms is crucial for Volkswagen, which has struggled to unify its technology architecture across brands after repeated delays ‌at its in house software unit, Cariad.  The German automaker is counting on its partnership with Rivian to accelerate development of a scalable, next-generation vehicle platform and close the gap with rivals like Tesla and Chinese rivals.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Rivian Wants to Be the Next Tesla With Huge Pay Package for CEO RJ Scaringe. Should You Buy RIVN Stock?",
+      "original_body": "Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations?",
+      "cleaned_title": "Rivian Wants to Be the Next Tesla With Huge Pay Package for CEO RJ Scaringe. Should You Buy RIVN Stock?",
+      "cleaned_body": "Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations?",
+      "cleaned_text": "Rivian Wants to Be the Next Tesla With Huge Pay Package for CEO RJ Scaringe. Should You Buy RIVN Stock?. Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations?",
+      "tokens": {
+        "original": [
+          "rivian",
+          "wants",
+          "to",
+          "be",
+          "the",
+          "next",
+          "tesla",
+          "with",
+          "huge",
+          "pay",
+          "package",
+          "for",
+          "ceo",
+          "rj",
+          "scaringe",
+          ".",
+          "should",
+          "you",
+          "buy",
+          "rivn",
+          "stock",
+          "?",
+          "rivian",
+          "has",
+          "awarded",
+          "its",
+          "ceo",
+          "a",
+          "$",
+          "4.6",
+          "billion",
+          "performance-based",
+          "package",
+          ",",
+          "drawing",
+          "significant",
+          "investor",
+          "attention",
+          ".",
+          "will",
+          "this",
+          "move",
+          "ignite",
+          "lasting",
+          "growth",
+          "or",
+          "stall",
+          "under",
+          "high",
+          "expectations",
+          "?"
+        ],
+        "filtered": [
+          "rivian",
+          "wants",
+          "next",
+          "tesla",
+          "huge",
+          "pay",
+          "package",
+          "ceo",
+          "rj",
+          "scaringe",
+          ".",
+          "buy",
+          "rivn",
+          "stock",
+          "?",
+          "rivian",
+          "awarded",
+          "ceo",
+          "$",
+          "4.6",
+          "billion",
+          "performance-based",
+          "package",
+          ",",
+          "drawing",
+          "significant",
+          "investor",
+          "attention",
+          ".",
+          "move",
+          "ignite",
+          "lasting",
+          "growth",
+          "stall",
+          "under",
+          "high",
+          "expectations",
+          "?"
+        ],
+        "lemmatized": [
+          "rivian",
+          "want",
+          "next",
+          "tesla",
+          "huge",
+          "pay",
+          "package",
+          "ceo",
+          "rj",
+          "scaringe",
+          ".",
+          "buy",
+          "rivn",
+          "stock",
+          "?",
+          "rivian",
+          "award",
+          "ceo",
+          "$",
+          "4.6",
+          "billion",
+          "performance-based",
+          "package",
+          ",",
+          "draw",
+          "significant",
+          "investor",
+          "attention",
+          ".",
+          "move",
+          "ignite",
+          "lasting",
+          "growth",
+          "stall",
+          "under",
+          "high",
+          "expectation",
+          "?"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Rivian"
+          ],
+          "ORGANIZATION": [
+            "Next Tesla With Huge Pay Package",
+            "CEO",
+            "RIVN Stock"
+          ],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "high",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect"
+          ]
+        },
+        "numbers": [
+          "4.6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rivian",
+            2
+          ],
+          [
+            "package",
+            2
+          ],
+          [
+            "ceo",
+            2
+          ],
+          [
+            "want",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "huge",
+            1
+          ],
+          [
+            "pay",
+            1
+          ],
+          [
+            "scaringe",
+            1
+          ],
+          [
+            "buy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 52,
+        "avg_words_per_sentence": 13.0,
+        "num_unique_words": 46
+      },
+      "processed_at": "2025-11-14T03:29:42.849261",
+      "preprocessing_version": "1.0",
+      "article_id": "804242ee9752598d",
+      "title": "Rivian Wants to Be the Next Tesla With Huge Pay Package for CEO RJ Scaringe. Should You Buy RIVN Stock?",
+      "description": "Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations?",
+      "body": "Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations?",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=6794d0600d868b3b5ac1693ca437892fa9150ec0e7753999a5cb3c9b370a36e3",
+      "author": "Unknown",
+      "published_at": "2025-11-13T00:43:14",
+      "scraped_at": "2025-11-13T22:21:23.908424",
+      "ticker": "TSLA",
+      "raw_text": "Rivian Wants to Be the Next Tesla With Huge Pay Package for CEO RJ Scaringe. Should You Buy RIVN Stock? Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations? Rivian has awarded its CEO a $4.6 billion performance-based package, drawing significant investor attention. Will this move ignite lasting growth or stall under high expectations?",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Rivian Surges as CEO RJ Scaringe Lands $4.6 Billion Payday",
+      "original_body": "Tesla-style performance deal fires up investors and stock momentum",
+      "cleaned_title": "Rivian Surges as CEO RJ Scaringe Lands $4.6 Billion Payday",
+      "cleaned_body": "Tesla-style performance deal fires up investors and stock momentum",
+      "cleaned_text": "Rivian Surges as CEO RJ Scaringe Lands $4.6 Billion Payday. Tesla-style performance deal fires up investors and stock momentum",
+      "tokens": {
+        "original": [
+          "rivian",
+          "surges",
+          "as",
+          "ceo",
+          "rj",
+          "scaringe",
+          "lands",
+          "$",
+          "4.6",
+          "billion",
+          "payday",
+          "tesla-style",
+          "performance",
+          "deal",
+          "fires",
+          "up",
+          "investors",
+          "and",
+          "stock",
+          "momentum"
+        ],
+        "filtered": [
+          "rivian",
+          "surges",
+          "ceo",
+          "rj",
+          "scaringe",
+          "lands",
+          "$",
+          "4.6",
+          "billion",
+          "payday",
+          "tesla-style",
+          "performance",
+          "deal",
+          "fires",
+          "up",
+          "investors",
+          "stock",
+          "momentum"
+        ],
+        "lemmatized": [
+          "rivian",
+          "surge",
+          "ceo",
+          "rj",
+          "scaringe",
+          "land",
+          "$",
+          "4.6",
+          "billion",
+          "payday",
+          "tesla-style",
+          "performance",
+          "deal",
+          "fire",
+          "up",
+          "investor",
+          "stock",
+          "momentum"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Surges",
+            "Billion"
+          ],
+          "ORGANIZATION": [
+            "CEO"
+          ],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4.6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rivian",
+            1
+          ],
+          [
+            "surge",
+            1
+          ],
+          [
+            "ceo",
+            1
+          ],
+          [
+            "scaringe",
+            1
+          ],
+          [
+            "land",
+            1
+          ],
+          [
+            "4.6",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "payday",
+            1
+          ],
+          [
+            "tesla-style",
+            1
+          ],
+          [
+            "performance",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 21,
+        "avg_words_per_sentence": 10.5,
+        "num_unique_words": 21
+      },
+      "processed_at": "2025-11-14T03:29:44.947338",
+      "preprocessing_version": "1.0",
+      "article_id": "992bf5b2fc59627b",
+      "title": "Rivian Surges as CEO RJ Scaringe Lands $4.6 Billion Payday",
+      "description": "Tesla-style performance deal fires up investors and stock momentum",
+      "body": "Tesla-style performance deal fires up investors and stock momentum",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=6ab6f9f4cf6baa757ac2b42cbe4f8edb278cdc25b36c7a97b66f6518794058ee",
+      "author": "Unknown",
+      "published_at": "2025-11-12T17:42:15",
+      "scraped_at": "2025-11-13T22:21:23.908739",
+      "ticker": "TSLA",
+      "raw_text": "Rivian Surges as CEO RJ Scaringe Lands $4.6 Billion Payday Tesla-style performance deal fires up investors and stock momentum Tesla-style performance deal fires up investors and stock momentum",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Rivian 'copies' rival Tesla with $4.6 billion move",
+      "original_body": "The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ...",
+      "cleaned_title": "Rivian copies rival Tesla with $4.6 billion move",
+      "cleaned_body": "The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ...",
+      "cleaned_text": "Rivian copies rival Tesla with $4.6 billion move. The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ...",
+      "tokens": {
+        "original": [
+          "rivian",
+          "copies",
+          "rival",
+          "tesla",
+          "with",
+          "$",
+          "4.6",
+          "billion",
+          "move",
+          "the",
+          "nfl",
+          "is",
+          "considered",
+          "a",
+          "copycat",
+          "league",
+          "because",
+          "if",
+          "one",
+          "team",
+          "figures",
+          "out",
+          "a",
+          "way",
+          "to",
+          "stop",
+          "your",
+          "offense",
+          "one",
+          "week",
+          ",",
+          "you",
+          "can",
+          "guarantee",
+          "that",
+          "the",
+          "next",
+          "team",
+          "you",
+          "play",
+          "will",
+          "try",
+          "the",
+          "same",
+          "tactic",
+          "the",
+          "following",
+          "week",
+          ".",
+          "using",
+          "tactics",
+          "that",
+          "have",
+          "been",
+          "proven",
+          "to",
+          "work",
+          "is",
+          "a",
+          "logical",
+          "strategy",
+          "in",
+          "sports",
+          ",",
+          "and",
+          "electric",
+          "vehicle",
+          "..."
+        ],
+        "filtered": [
+          "rivian",
+          "copies",
+          "rival",
+          "tesla",
+          "$",
+          "4.6",
+          "billion",
+          "move",
+          "nfl",
+          "considered",
+          "copycat",
+          "league",
+          "one",
+          "team",
+          "figures",
+          "way",
+          "stop",
+          "offense",
+          "one",
+          "week",
+          ",",
+          "guarantee",
+          "next",
+          "team",
+          "play",
+          "try",
+          "tactic",
+          "following",
+          "week",
+          ".",
+          "using",
+          "tactics",
+          "proven",
+          "work",
+          "logical",
+          "strategy",
+          "sports",
+          ",",
+          "electric",
+          "vehicle",
+          "..."
+        ],
+        "lemmatized": [
+          "rivian",
+          "copy",
+          "rival",
+          "tesla",
+          "$",
+          "4.6",
+          "billion",
+          "move",
+          "nfl",
+          "consider",
+          "copycat",
+          "league",
+          "one",
+          "team",
+          "figure",
+          "way",
+          "stop",
+          "offense",
+          "one",
+          "week",
+          ",",
+          "guarantee",
+          "next",
+          "team",
+          "play",
+          "try",
+          "tactic",
+          "follow",
+          "week",
+          ".",
+          "use",
+          "tactic",
+          "proven",
+          "work",
+          "logical",
+          "strategy",
+          "sport",
+          ",",
+          "electric",
+          "vehicle",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "NFL"
+          ],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4.6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "one",
+            2
+          ],
+          [
+            "team",
+            2
+          ],
+          [
+            "week",
+            2
+          ],
+          [
+            "tactic",
+            2
+          ],
+          [
+            "rivian",
+            1
+          ],
+          [
+            "copy",
+            1
+          ],
+          [
+            "rival",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "4.6",
+            1
+          ],
+          [
+            "billion",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 69,
+        "avg_words_per_sentence": 23.0,
+        "num_unique_words": 55
+      },
+      "processed_at": "2025-11-14T03:29:53.669134",
+      "preprocessing_version": "1.0",
+      "article_id": "d858a4d871769239",
+      "title": "Rivian 'copies' rival Tesla with $4.6 billion move",
+      "description": "The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ...",
+      "body": "The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=73aae45112ca4e63639892cc8415e48446dfb6cf0796cb131fd277f0604fc767",
+      "author": "Unknown",
+      "published_at": "2025-11-10T22:03:00",
+      "scraped_at": "2025-11-13T22:21:23.909611",
+      "ticker": "TSLA",
+      "raw_text": "Rivian 'copies' rival Tesla with $4.6 billion move The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ... The NFL is considered a copycat league because if one team figures out a way to stop your offense one week, you can guarantee that the next team you play will try the same tactic the following week. Using tactics that have been proven to work is a logical strategy in sports, and electric vehicle ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Rivian Stock Just Surged 25% in 1 Day. Here's Why Shares Are Still a Buy.",
+      "original_body": "Rivian delivered exciting third-quarter results.",
+      "cleaned_title": "Rivian Stock Just Surged 25 percent in 1 Day. here is Why Shares Are Still a Buy.",
+      "cleaned_body": "Rivian delivered exciting third-quarter results.",
+      "cleaned_text": "Rivian Stock Just Surged 25 percent in 1 Day. here is Why Shares Are Still a Buy.. Rivian delivered exciting third-quarter results.",
+      "tokens": {
+        "original": [
+          "rivian",
+          "stock",
+          "just",
+          "surged",
+          "25",
+          "percent",
+          "in",
+          "1",
+          "day",
+          ".",
+          "here",
+          "is",
+          "why",
+          "shares",
+          "are",
+          "still",
+          "a",
+          "buy",
+          ".",
+          "rivian",
+          "delivered",
+          "exciting",
+          "third-quarter",
+          "results",
+          "."
+        ],
+        "filtered": [
+          "rivian",
+          "stock",
+          "surged",
+          "25",
+          "percent",
+          "1",
+          "day",
+          ".",
+          "shares",
+          "still",
+          "buy",
+          ".",
+          "rivian",
+          "delivered",
+          "exciting",
+          "third-quarter",
+          "results",
+          "."
+        ],
+        "lemmatized": [
+          "rivian",
+          "stock",
+          "surge",
+          "25",
+          "percent",
+          "1",
+          "day",
+          ".",
+          "shares",
+          "still",
+          "buy",
+          ".",
+          "rivian",
+          "deliver",
+          "exciting",
+          "third-quarter",
+          "result",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock Just",
+            "Rivian"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "25",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rivian",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "surge",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "day",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "still",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "deliver",
+            1
+          ],
+          [
+            "exciting",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 25,
+        "avg_words_per_sentence": 12.5,
+        "num_unique_words": 23
+      },
+      "processed_at": "2025-11-14T03:29:57.648454",
+      "preprocessing_version": "1.0",
+      "article_id": "4f023bae8a00c5cc",
+      "title": "Rivian Stock Just Surged 25% in 1 Day. Here's Why Shares Are Still a Buy.",
+      "description": "Rivian delivered exciting third-quarter results.",
+      "body": "Rivian delivered exciting third-quarter results.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=0635524555289ded4ab6ac7468fce130a0d6d6d67d3ef5741f5d64f29e124a25",
+      "author": "Unknown",
+      "published_at": "2025-11-10T14:00:00",
+      "scraped_at": "2025-11-13T22:21:23.909862",
+      "ticker": "TSLA",
+      "raw_text": "Rivian Stock Just Surged 25% in 1 Day. Here's Why Shares Are Still a Buy. Rivian delivered exciting third-quarter results. Rivian delivered exciting third-quarter results.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Why I'm Watching Lucid Group Stock Closely Even If Experts Think It's Overvalued",
+      "original_body": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "cleaned_title": "Why I am Watching Lucid Group Stock Closely Even If Experts Think it is Overvalued",
+      "cleaned_body": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "cleaned_text": "Why I am Watching Lucid Group Stock Closely Even If Experts Think it is Overvalued. Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "tokens": {
+        "original": [
+          "why",
+          "i",
+          "am",
+          "watching",
+          "lucid",
+          "group",
+          "stock",
+          "closely",
+          "even",
+          "if",
+          "experts",
+          "think",
+          "it",
+          "is",
+          "overvalued",
+          "lucid",
+          "group",
+          ",",
+          "tesla",
+          ",",
+          "and",
+          "rivian",
+          "are",
+          "all",
+          "attempting",
+          "bold",
+          "transformations",
+          "."
+        ],
+        "filtered": [
+          "watching",
+          "lucid",
+          "group",
+          "stock",
+          "closely",
+          "even",
+          "experts",
+          "think",
+          "overvalued",
+          "lucid",
+          "group",
+          ",",
+          "tesla",
+          ",",
+          "rivian",
+          "attempting",
+          "bold",
+          "transformations",
+          "."
+        ],
+        "lemmatized": [
+          "watch",
+          "lucid",
+          "group",
+          "stock",
+          "closely",
+          "even",
+          "expert",
+          "think",
+          "overvalue",
+          "lucid",
+          "group",
+          ",",
+          "tesla",
+          ",",
+          "rivian",
+          "attempt",
+          "bold",
+          "transformation",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lucid Group Stock",
+            "Lucid Group",
+            "Tesla"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "lucid",
+            2
+          ],
+          [
+            "group",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "closely",
+            1
+          ],
+          [
+            "even",
+            1
+          ],
+          [
+            "expert",
+            1
+          ],
+          [
+            "think",
+            1
+          ],
+          [
+            "overvalue",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 29,
+        "avg_words_per_sentence": 14.5,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:30:07.714996",
+      "preprocessing_version": "1.0",
+      "article_id": "f7170b82be915964",
+      "title": "Why I'm Watching Lucid Group Stock Closely Even If Experts Think It's Overvalued",
+      "description": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "body": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=1c041626a0a97a7b1bfd4e8f868e9c1a5412ce1aa5230100c2090c5054988af9",
+      "author": "Unknown",
+      "published_at": "2025-11-07T20:30:00",
+      "scraped_at": "2025-11-13T22:21:23.910515",
+      "ticker": "TSLA",
+      "raw_text": "Why I'm Watching Lucid Group Stock Closely Even If Experts Think It's Overvalued Lucid Group, Tesla, and Rivian are all attempting bold transformations. Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN",
+        "LCID"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80,
+        "LCID": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Rivian: Tesla-Like Rocket Or Fisker-Like Sinking Boat? I Like Their Story",
+      "original_body": "Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale & valuation. Learn more about RIVN stock here.",
+      "cleaned_title": "Rivian Tesla-Like Rocket Or Fisker-Like Sinking Boat? I Like Their Story",
+      "cleaned_body": "Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale valuation. Learn more about RIVN stock here.",
+      "cleaned_text": "Rivian Tesla-Like Rocket Or Fisker-Like Sinking Boat? I Like Their Story. Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale valuation. Learn more about RIVN stock here.",
+      "tokens": {
+        "original": [
+          "rivian",
+          "tesla-like",
+          "rocket",
+          "or",
+          "fisker-like",
+          "sinking",
+          "boat",
+          "?",
+          "i",
+          "like",
+          "their",
+          "story",
+          "rivian",
+          "automotive",
+          ",",
+          "inc.",
+          "is",
+          "evaluated",
+          "as",
+          "potential",
+          "next",
+          "tesla",
+          ",",
+          "but",
+          "with",
+          "significant",
+          "differences",
+          "in",
+          "scale",
+          "valuation",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "rivn",
+          "stock",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "rivian",
+          "tesla-like",
+          "rocket",
+          "fisker-like",
+          "sinking",
+          "boat",
+          "?",
+          "like",
+          "story",
+          "rivian",
+          "automotive",
+          ",",
+          "inc.",
+          "evaluated",
+          "potential",
+          "next",
+          "tesla",
+          ",",
+          "significant",
+          "differences",
+          "scale",
+          "valuation",
+          ".",
+          "learn",
+          "more",
+          "rivn",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "rivian",
+          "tesla-like",
+          "rocket",
+          "fisker-like",
+          "sinking",
+          "boat",
+          "?",
+          "like",
+          "story",
+          "rivian",
+          "automotive",
+          ",",
+          "inc.",
+          "evaluate",
+          "potential",
+          "next",
+          "tesla",
+          ",",
+          "significant",
+          "difference",
+          "scale",
+          "valuation",
+          ".",
+          "learn",
+          "more",
+          "rivn",
+          "stock",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Rocket Or",
+            "Rivian Automotive"
+          ],
+          "ORGANIZATION": [
+            "RIVN"
+          ],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rivian",
+            2
+          ],
+          [
+            "tesla-like",
+            1
+          ],
+          [
+            "rocket",
+            1
+          ],
+          [
+            "fisker-like",
+            1
+          ],
+          [
+            "sinking",
+            1
+          ],
+          [
+            "boat",
+            1
+          ],
+          [
+            "like",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "automotive",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 39,
+        "avg_words_per_sentence": 9.75,
+        "num_unique_words": 35
+      },
+      "processed_at": "2025-11-14T03:30:10.307705",
+      "preprocessing_version": "1.0",
+      "article_id": "f623157e3e48c353",
+      "title": "Rivian: Tesla-Like Rocket Or Fisker-Like Sinking Boat? I Like Their Story",
+      "description": "Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale & valuation. Learn more about RIVN stock here.",
+      "body": "Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale & valuation. Learn more about RIVN stock here.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=c15af640c5f327d715132844684af7f9af41083802665560910dac2449274ddb",
+      "author": "Unknown",
+      "published_at": "2025-11-07T16:03:11",
+      "scraped_at": "2025-11-13T22:21:23.910704",
+      "ticker": "TSLA",
+      "raw_text": "Rivian: Tesla-Like Rocket Or Fisker-Like Sinking Boat? I Like Their Story Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale & valuation. Learn more about RIVN stock here. Rivian Automotive, Inc. is evaluated as potential next Tesla, but with significant differences in scale & valuation. Learn more about RIVN stock here.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362295802/image_1362295802.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

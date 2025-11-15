@@ -1,0 +1,4664 @@
+{
+  "ticker": "BRK-B",
+  "export_date": "2025-11-15T01:16:26.102761",
+  "article_count": 18,
+  "articles": [
+    {
+      "original_title": "Prediction: This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart",
+      "original_body": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "cleaned_title": "Prediction This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart",
+      "cleaned_body": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "cleaned_text": "Prediction This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart. The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "tokens": {
+        "original": [
+          "prediction",
+          "this",
+          "dividend-paying",
+          "value",
+          "stock",
+          "will",
+          "join",
+          "berkshire",
+          "hathaway",
+          "in",
+          "the",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "before",
+          "walmart",
+          "the",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "is",
+          "growing",
+          "due",
+          "to",
+          "record",
+          "earnings",
+          "and",
+          "investor",
+          "enthusiasm",
+          "."
+        ],
+        "filtered": [
+          "prediction",
+          "dividend-paying",
+          "value",
+          "stock",
+          "join",
+          "berkshire",
+          "hathaway",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "walmart",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "growing",
+          "due",
+          "record",
+          "earnings",
+          "investor",
+          "enthusiasm",
+          "."
+        ],
+        "lemmatized": [
+          "prediction",
+          "dividend-paying",
+          "value",
+          "stock",
+          "join",
+          "berkshire",
+          "hathaway",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "walmart",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "grow",
+          "due",
+          "record",
+          "earnings",
+          "investor",
+          "enthusiasm",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Value Stock Will Join Berkshire Hathaway",
+            "Walmart"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "1",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "trillion",
+            2
+          ],
+          [
+            "club",
+            2
+          ],
+          [
+            "prediction",
+            1
+          ],
+          [
+            "dividend-paying",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "join",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "hathaway",
+            1
+          ],
+          [
+            "walmart",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 33,
+        "avg_words_per_sentence": 16.5,
+        "num_unique_words": 27
+      },
+      "processed_at": "2025-11-14T03:28:56.745175",
+      "preprocessing_version": "1.0",
+      "article_id": "e013026b292e732f",
+      "title": "Prediction: This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart",
+      "description": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "body": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "source": "Motley Fool",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.fool.com/investing/2025/11/12/buy-dividend-value-stock-jpmorgan-chase-berkshire/",
+      "author": "https://www.facebook.com/themotleyfool/",
+      "published_at": "20251112T080500",
+      "scraped_at": "2025-11-13T22:21:11.606347",
+      "ticker": "AAPL",
+      "raw_text": "Prediction: This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart The $1 trillion club is growing due to record earnings and investor enthusiasm. The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "sentiment_score": 0.268762,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "WMT",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "WMT": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "24.7% of Warren Buffett's $315 Billion Portfolio at Berkshire Hathaway Is Invested in These 2 Unstoppable Stocks",
+      "original_body": "They have already delivered outstanding returns to Buffett and other long-term shareholders, but it's not too late to get in on the fun.",
+      "cleaned_title": "24.7 percent of Warren Buffetts $315 Billion Portfolio at Berkshire Hathaway Is Invested in These 2 Unstoppable Stocks",
+      "cleaned_body": "They have already delivered outstanding returns to Buffett and other long-term shareholders, but it is not too late to get in on the fun.",
+      "cleaned_text": "24.7 percent of Warren Buffetts $315 Billion Portfolio at Berkshire Hathaway Is Invested in These 2 Unstoppable Stocks. They have already delivered outstanding returns to Buffett and other long-term shareholders, but it is not too late to get in on the fun.",
+      "tokens": {
+        "original": [
+          "24.7",
+          "percent",
+          "of",
+          "warren",
+          "buffetts",
+          "$",
+          "315",
+          "billion",
+          "portfolio",
+          "at",
+          "berkshire",
+          "hathaway",
+          "is",
+          "invested",
+          "in",
+          "these",
+          "2",
+          "unstoppable",
+          "stocks",
+          "they",
+          "have",
+          "already",
+          "delivered",
+          "outstanding",
+          "returns",
+          "to",
+          "buffett",
+          "and",
+          "other",
+          "long-term",
+          "shareholders",
+          ",",
+          "but",
+          "it",
+          "is",
+          "not",
+          "too",
+          "late",
+          "to",
+          "get",
+          "in",
+          "on",
+          "the",
+          "fun",
+          "."
+        ],
+        "filtered": [
+          "24.7",
+          "percent",
+          "warren",
+          "buffetts",
+          "$",
+          "315",
+          "billion",
+          "portfolio",
+          "berkshire",
+          "hathaway",
+          "invested",
+          "2",
+          "unstoppable",
+          "stocks",
+          "already",
+          "delivered",
+          "outstanding",
+          "returns",
+          "buffett",
+          "long-term",
+          "shareholders",
+          ",",
+          "not",
+          "late",
+          "get",
+          "fun",
+          "."
+        ],
+        "lemmatized": [
+          "24.7",
+          "percent",
+          "warren",
+          "buffetts",
+          "$",
+          "315",
+          "billion",
+          "portfolio",
+          "berkshire",
+          "hathaway",
+          "invest",
+          "2",
+          "unstoppable",
+          "stock",
+          "already",
+          "deliver",
+          "outstanding",
+          "returns",
+          "buffett",
+          "long-term",
+          "shareholder",
+          ",",
+          "not",
+          "late",
+          "get",
+          "fun",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion Portfolio",
+            "Buffett"
+          ],
+          "ORGANIZATION": [
+            "Warren Buffett",
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "24.7",
+          "315",
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "24.7",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffetts",
+            1
+          ],
+          [
+            "315",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "portfolio",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "hathaway",
+            1
+          ],
+          [
+            "invest",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 46,
+        "avg_words_per_sentence": 23.0,
+        "num_unique_words": 42
+      },
+      "processed_at": "2025-11-14T03:28:57.944288",
+      "preprocessing_version": "1.0",
+      "article_id": "706c3e8e188e0413",
+      "title": "24.7% of Warren Buffett's $315 Billion Portfolio at Berkshire Hathaway Is Invested in These 2 Unstoppable Stocks",
+      "description": "They have already delivered outstanding returns to Buffett and other long-term shareholders, but it's not too late to get in on the fun.",
+      "body": "They have already delivered outstanding returns to Buffett and other long-term shareholders, but it's not too late to get in on the fun.",
+      "source": "Motley Fool",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.fool.com/investing/2025/11/11/247-of-warren-buffetts-315-billion-portfolio-at-b/",
+      "author": "https://www.facebook.com/themotleyfool/",
+      "published_at": "20251111T120000",
+      "scraped_at": "2025-11-13T22:21:11.606429",
+      "ticker": "AAPL",
+      "raw_text": "24.7% of Warren Buffett's $315 Billion Portfolio at Berkshire Hathaway Is Invested in These 2 Unstoppable Stocks They have already delivered outstanding returns to Buffett and other long-term shareholders, but it's not too late to get in on the fun. They have already delivered outstanding returns to Buffett and other long-term shareholders, but it's not too late to get in on the fun.",
+      "sentiment_score": 0.291119,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "5 Warren Buffett Stocks to Hold Forever",
+      "original_body": "Buffett's investing legacy will continue even after he steps away from Berkshire Hathaway.",
+      "cleaned_title": "5 Warren Buffett Stocks to Hold Forever",
+      "cleaned_body": "Buffetts investing legacy will continue even after he steps away from Berkshire Hathaway.",
+      "cleaned_text": "5 Warren Buffett Stocks to Hold Forever. Buffetts investing legacy will continue even after he steps away from Berkshire Hathaway.",
+      "tokens": {
+        "original": [
+          "5",
+          "warren",
+          "buffett",
+          "stocks",
+          "to",
+          "hold",
+          "forever",
+          "buffetts",
+          "investing",
+          "legacy",
+          "will",
+          "continue",
+          "even",
+          "after",
+          "he",
+          "steps",
+          "away",
+          "from",
+          "berkshire",
+          "hathaway",
+          "."
+        ],
+        "filtered": [
+          "5",
+          "warren",
+          "buffett",
+          "stocks",
+          "hold",
+          "forever",
+          "buffetts",
+          "investing",
+          "legacy",
+          "continue",
+          "even",
+          "steps",
+          "away",
+          "berkshire",
+          "hathaway",
+          "."
+        ],
+        "lemmatized": [
+          "5",
+          "warren",
+          "buffett",
+          "stock",
+          "hold",
+          "forever",
+          "buffetts",
+          "invest",
+          "legacy",
+          "continue",
+          "even",
+          "step",
+          "away",
+          "berkshire",
+          "hathaway",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Buffett"
+          ],
+          "ORGANIZATION": [
+            "Warren Buffett Stocks",
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hold",
+            1
+          ],
+          [
+            "forever",
+            1
+          ],
+          [
+            "buffetts",
+            1
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "legacy",
+            1
+          ],
+          [
+            "continue",
+            1
+          ],
+          [
+            "even",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 22,
+        "avg_words_per_sentence": 11.0,
+        "num_unique_words": 21
+      },
+      "processed_at": "2025-11-14T03:28:58.389871",
+      "preprocessing_version": "1.0",
+      "article_id": "2f979f5a9d1aa5ea",
+      "title": "5 Warren Buffett Stocks to Hold Forever",
+      "description": "Buffett's investing legacy will continue even after he steps away from Berkshire Hathaway.",
+      "body": "Buffett's investing legacy will continue even after he steps away from Berkshire Hathaway.",
+      "source": "Motley Fool",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.fool.com/investing/2025/11/10/5-warren-buffett-stocks-to-hold-forever/",
+      "author": "https://www.facebook.com/themotleyfool/",
+      "published_at": "20251111T020200",
+      "scraped_at": "2025-11-13T22:21:11.606516",
+      "ticker": "AAPL",
+      "raw_text": "5 Warren Buffett Stocks to Hold Forever Buffett's investing legacy will continue even after he steps away from Berkshire Hathaway. Buffett's investing legacy will continue even after he steps away from Berkshire Hathaway.",
+      "sentiment_score": 0.33173,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Did Warren Buffett Sell More Shares of Apple?",
+      "original_body": "Apple has long been the largest position in Berkshire Hathaway's huge equities portfolio.",
+      "cleaned_title": "Did Warren Buffett Sell More Shares of Apple?",
+      "cleaned_body": "Apple has long been the largest position in Berkshire Hathaways huge equities portfolio.",
+      "cleaned_text": "Did Warren Buffett Sell More Shares of Apple?. Apple has long been the largest position in Berkshire Hathaways huge equities portfolio.",
+      "tokens": {
+        "original": [
+          "did",
+          "warren",
+          "buffett",
+          "sell",
+          "more",
+          "shares",
+          "of",
+          "apple",
+          "?",
+          "apple",
+          "has",
+          "long",
+          "been",
+          "the",
+          "largest",
+          "position",
+          "in",
+          "berkshire",
+          "hathaways",
+          "huge",
+          "equities",
+          "portfolio",
+          "."
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "sell",
+          "more",
+          "shares",
+          "apple",
+          "?",
+          "apple",
+          "long",
+          "largest",
+          "position",
+          "berkshire",
+          "hathaways",
+          "huge",
+          "equities",
+          "portfolio",
+          "."
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "sell",
+          "more",
+          "shares",
+          "apple",
+          "?",
+          "apple",
+          "long",
+          "large",
+          "position",
+          "berkshire",
+          "hathaways",
+          "huge",
+          "equity",
+          "portfolio",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Did",
+            "Warren Buffett Sell",
+            "Apple"
+          ],
+          "ORGANIZATION": [
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "apple",
+            2
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "long",
+            1
+          ],
+          [
+            "large",
+            1
+          ],
+          [
+            "position",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 24,
+        "avg_words_per_sentence": 12.0,
+        "num_unique_words": 22
+      },
+      "processed_at": "2025-11-14T03:28:59.646660",
+      "preprocessing_version": "1.0",
+      "article_id": "08a1c01d6fef90ec",
+      "title": "Did Warren Buffett Sell More Shares of Apple?",
+      "description": "Apple has long been the largest position in Berkshire Hathaway's huge equities portfolio.",
+      "body": "Apple has long been the largest position in Berkshire Hathaway's huge equities portfolio.",
+      "source": "Motley Fool",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.fool.com/investing/2025/11/10/did-warren-buffett-sell-more-shares-of-apple/",
+      "author": "Bram Berkowitz",
+      "published_at": "20251110T085500",
+      "scraped_at": "2025-11-13T22:21:11.606611",
+      "ticker": "AAPL",
+      "raw_text": "Did Warren Buffett Sell More Shares of Apple? Apple has long been the largest position in Berkshire Hathaway's huge equities portfolio. Apple has long been the largest position in Berkshire Hathaway's huge equities portfolio.",
+      "sentiment_score": 0.095553,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "AAPL",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "AAPL": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett Stepping Down With 31% of Berkshire in Cash: His 3 Ultra Safest Stocks",
+      "original_body": "These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down.",
+      "cleaned_title": "Warren Buffett Stepping Down With 31 percent of Berkshire in Cash His 3 Ultra Safest Stocks",
+      "cleaned_body": "These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down.",
+      "cleaned_text": "Warren Buffett Stepping Down With 31 percent of Berkshire in Cash His 3 Ultra Safest Stocks. These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down.",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "stepping",
+          "down",
+          "with",
+          "31",
+          "percent",
+          "of",
+          "berkshire",
+          "in",
+          "cash",
+          "his",
+          "3",
+          "ultra",
+          "safest",
+          "stocks",
+          "these",
+          "three",
+          "longtime",
+          "warren",
+          "buffett",
+          "favorite",
+          "stock",
+          "picks",
+          "are",
+          "likely",
+          "to",
+          "stay",
+          "in",
+          "the",
+          "berkshire",
+          "hathaway",
+          "portfolio",
+          "long",
+          "after",
+          "he",
+          "steps",
+          "down",
+          "."
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "stepping",
+          "down",
+          "31",
+          "percent",
+          "berkshire",
+          "cash",
+          "3",
+          "ultra",
+          "safest",
+          "stocks",
+          "three",
+          "longtime",
+          "warren",
+          "buffett",
+          "favorite",
+          "stock",
+          "picks",
+          "likely",
+          "stay",
+          "berkshire",
+          "hathaway",
+          "portfolio",
+          "long",
+          "steps",
+          "down",
+          "."
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "step",
+          "down",
+          "31",
+          "percent",
+          "berkshire",
+          "cash",
+          "3",
+          "ultra",
+          "safest",
+          "stock",
+          "three",
+          "longtime",
+          "warren",
+          "buffett",
+          "favorite",
+          "stock",
+          "pick",
+          "likely",
+          "stay",
+          "berkshire",
+          "hathaway",
+          "portfolio",
+          "long",
+          "step",
+          "down",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett",
+            "Ultra Safest Stocks",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "Berkshire",
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Cash"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "31",
+          "3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "warren",
+            2
+          ],
+          [
+            "buffett",
+            2
+          ],
+          [
+            "step",
+            2
+          ],
+          [
+            "down",
+            2
+          ],
+          [
+            "berkshire",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "cash",
+            1
+          ],
+          [
+            "ultra",
+            1
+          ],
+          [
+            "safest",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 40,
+        "avg_words_per_sentence": 20.0,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:04.534749",
+      "preprocessing_version": "1.0",
+      "article_id": "b0b1e84141b32177",
+      "title": "Warren Buffett Stepping Down With 31% of Berkshire in Cash: His 3 Ultra Safest Stocks",
+      "description": "These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down.",
+      "body": "These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=ba759bd23f322190666c48ce31ea99d7699fbd0dbd664c1864bab17d0b49fd98",
+      "author": "Unknown",
+      "published_at": "2025-11-12T19:19:29",
+      "scraped_at": "2025-11-13T22:21:12.171365",
+      "ticker": "AAPL",
+      "raw_text": "Warren Buffett Stepping Down With 31% of Berkshire in Cash: His 3 Ultra Safest Stocks These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down. These three longtime Warren Buffett favorite stock picks are likely to stay in the Berkshire Hathaway portfolio long after he steps down.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Retiring Warren Buffett Pledges to Keep Betting on Berkshire Hathaway",
+      "original_body": "At the end of the year, the legendary investor will hand the top job at the holdings giant he’s led for six decades to Greg Abel.",
+      "cleaned_title": "Retiring Warren Buffett Pledges to Keep Betting on Berkshire Hathaway",
+      "cleaned_body": "At the end of the year, the legendary investor will hand the top job at the holdings giant hes led for six decades to Greg Abel.",
+      "cleaned_text": "Retiring Warren Buffett Pledges to Keep Betting on Berkshire Hathaway. At the end of the year, the legendary investor will hand the top job at the holdings giant hes led for six decades to Greg Abel.",
+      "tokens": {
+        "original": [
+          "retiring",
+          "warren",
+          "buffett",
+          "pledges",
+          "to",
+          "keep",
+          "betting",
+          "on",
+          "berkshire",
+          "hathaway",
+          "at",
+          "the",
+          "end",
+          "of",
+          "the",
+          "year",
+          ",",
+          "the",
+          "legendary",
+          "investor",
+          "will",
+          "hand",
+          "the",
+          "top",
+          "job",
+          "at",
+          "the",
+          "holdings",
+          "giant",
+          "hes",
+          "led",
+          "for",
+          "six",
+          "decades",
+          "to",
+          "greg",
+          "abel",
+          "."
+        ],
+        "filtered": [
+          "retiring",
+          "warren",
+          "buffett",
+          "pledges",
+          "keep",
+          "betting",
+          "berkshire",
+          "hathaway",
+          "end",
+          "year",
+          ",",
+          "legendary",
+          "investor",
+          "hand",
+          "top",
+          "job",
+          "holdings",
+          "giant",
+          "hes",
+          "led",
+          "six",
+          "decades",
+          "greg",
+          "abel",
+          "."
+        ],
+        "lemmatized": [
+          "retire",
+          "warren",
+          "buffett",
+          "pledge",
+          "keep",
+          "bet",
+          "berkshire",
+          "hathaway",
+          "end",
+          "year",
+          ",",
+          "legendary",
+          "investor",
+          "hand",
+          "top",
+          "job",
+          "holdings",
+          "giant",
+          "he",
+          "lead",
+          "six",
+          "decade",
+          "greg",
+          "abel",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren Buffett Pledges",
+            "Greg Abel"
+          ],
+          "ORGANIZATION": [
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "retire",
+            1
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "pledge",
+            1
+          ],
+          [
+            "keep",
+            1
+          ],
+          [
+            "bet",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "hathaway",
+            1
+          ],
+          [
+            "end",
+            1
+          ],
+          [
+            "year",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 39,
+        "avg_words_per_sentence": 19.5,
+        "num_unique_words": 32
+      },
+      "processed_at": "2025-11-14T03:29:09.283308",
+      "preprocessing_version": "1.0",
+      "article_id": "56ce4ede9ac8a027",
+      "title": "Retiring Warren Buffett Pledges to Keep Betting on Berkshire Hathaway",
+      "description": "At the end of the year, the legendary investor will hand the top job at the holdings giant he’s led for six decades to Greg Abel.",
+      "body": "At the end of the year, the legendary investor will hand the top job at the holdings giant he’s led for six decades to Greg Abel.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=2899f637f9c6a6024bb968b69d867b9e3ac4f7a125591d5079271841e0fdc164",
+      "author": "Unknown",
+      "published_at": "2025-11-11T17:00:00",
+      "scraped_at": "2025-11-13T22:21:12.171547",
+      "ticker": "AAPL",
+      "raw_text": "Retiring Warren Buffett Pledges to Keep Betting on Berkshire Hathaway At the end of the year, the legendary investor will hand the top job at the holdings giant he’s led for six decades to Greg Abel. At the end of the year, the legendary investor will hand the top job at the holdings giant he’s led for six decades to Greg Abel.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "original_body": "Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway (NYSE:BRK-B) CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, it’s my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "cleaned_title": "3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "cleaned_body": "Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway NYSEBRK-B CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, its my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "cleaned_text": "3 Top Warren Buffett Picks that Will Stand the Test of Time. Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway NYSEBRK-B CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, its my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "tokens": {
+        "original": [
+          "3",
+          "top",
+          "warren",
+          "buffett",
+          "picks",
+          "that",
+          "will",
+          "stand",
+          "the",
+          "test",
+          "of",
+          "time",
+          "warren",
+          "buffett",
+          "is",
+          "undoubtedly",
+          "going",
+          "to",
+          "go",
+          "down",
+          "in",
+          "the",
+          "history",
+          "books",
+          "as",
+          "one",
+          "of",
+          "the",
+          "best",
+          "investors",
+          "of",
+          "all",
+          "time",
+          ".",
+          "the",
+          "berkshire",
+          "hathaway",
+          "nysebrk-b",
+          "ceo",
+          "is",
+          "set",
+          "to",
+          "release",
+          "his",
+          "last",
+          "letter",
+          "as",
+          "the",
+          "chief",
+          "executive",
+          "of",
+          "one",
+          "of",
+          "the",
+          "most",
+          "incredible",
+          "companies",
+          "of",
+          "all-time",
+          ".",
+          "indeed",
+          ",",
+          "its",
+          "my",
+          "view",
+          "that",
+          "berkshire",
+          "hathaway",
+          "could",
+          "amount",
+          "to",
+          "one",
+          "...",
+          "3",
+          "top",
+          "warren",
+          "buffett",
+          "picks",
+          "that",
+          "will",
+          "stand",
+          "the",
+          "test",
+          "of",
+          "time"
+        ],
+        "filtered": [
+          "3",
+          "top",
+          "warren",
+          "buffett",
+          "picks",
+          "stand",
+          "test",
+          "time",
+          "warren",
+          "buffett",
+          "undoubtedly",
+          "going",
+          "go",
+          "down",
+          "history",
+          "books",
+          "one",
+          "best",
+          "investors",
+          "time",
+          ".",
+          "berkshire",
+          "hathaway",
+          "nysebrk-b",
+          "ceo",
+          "set",
+          "release",
+          "last",
+          "letter",
+          "chief",
+          "executive",
+          "one",
+          "most",
+          "incredible",
+          "companies",
+          "all-time",
+          ".",
+          "indeed",
+          ",",
+          "view",
+          "berkshire",
+          "hathaway",
+          "could",
+          "amount",
+          "one",
+          "...",
+          "3",
+          "top",
+          "warren",
+          "buffett",
+          "picks",
+          "stand",
+          "test",
+          "time"
+        ],
+        "lemmatized": [
+          "3",
+          "top",
+          "warren",
+          "buffett",
+          "pick",
+          "stand",
+          "test",
+          "time",
+          "warren",
+          "buffett",
+          "undoubtedly",
+          "go",
+          "go",
+          "down",
+          "history",
+          "book",
+          "one",
+          "best",
+          "investor",
+          "time",
+          ".",
+          "berkshire",
+          "hathaway",
+          "nysebrk-b",
+          "ceo",
+          "set",
+          "release",
+          "last",
+          "letter",
+          "chief",
+          "executive",
+          "one",
+          "most",
+          "incredible",
+          "company",
+          "all-time",
+          ".",
+          "indeed",
+          ",",
+          "view",
+          "berkshire",
+          "hathaway",
+          "could",
+          "amount",
+          "one",
+          "...",
+          "3",
+          "top",
+          "warren",
+          "buffett",
+          "pick",
+          "stand",
+          "test",
+          "time"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Will Stand",
+            "Warren Buffett",
+            "Warren Buffett Picks"
+          ],
+          "ORGANIZATION": [
+            "Warren Buffett Picks",
+            "Test",
+            "Berkshire Hathaway",
+            "NYSE",
+            "CEO"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "release"
+          ]
+        },
+        "numbers": [
+          "3",
+          "3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "warren",
+            3
+          ],
+          [
+            "buffett",
+            3
+          ],
+          [
+            "time",
+            3
+          ],
+          [
+            "one",
+            3
+          ],
+          [
+            "top",
+            2
+          ],
+          [
+            "pick",
+            2
+          ],
+          [
+            "stand",
+            2
+          ],
+          [
+            "test",
+            2
+          ],
+          [
+            "berkshire",
+            2
+          ],
+          [
+            "hathaway",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 86,
+        "avg_words_per_sentence": 21.5,
+        "num_unique_words": 50
+      },
+      "processed_at": "2025-11-14T03:29:11.888666",
+      "preprocessing_version": "1.0",
+      "article_id": "b7da35231f8802c2",
+      "title": "3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "description": "Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway (NYSE:BRK-B) CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, it’s my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "body": "Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway (NYSE:BRK-B) CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, it’s my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=2d3336759c720822bad6b7af0a02736e64793f08c6d5c660359261ad097da9bd",
+      "author": "Unknown",
+      "published_at": "2025-11-11T00:08:40",
+      "scraped_at": "2025-11-13T22:21:12.171614",
+      "ticker": "AAPL",
+      "raw_text": "3 Top Warren Buffett Picks that Will Stand the Test of Time Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway (NYSE:BRK-B) CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, it’s my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time Warren Buffett is undoubtedly going to go down in the history books as one of the best investors of all time. The Berkshire Hathaway (NYSE:BRK-B) CEO is set to release his last letter as the chief executive of one of the most incredible companies of all-time. Indeed, it’s my view that Berkshire Hathaway could amount to one ... 3 Top Warren Buffett Picks that Will Stand the Test of Time",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Apple Is Berkshire Hathaway's Largest Holding by Value. But Is the California-Based Company Still a Strong Play for Long-Term Growth?",
+      "original_body": "Buffett and his team's confidence in this stock isn't misplaced.",
+      "cleaned_title": "Apple Is Berkshire Hathaways Largest Holding by Value. But Is the California-Based Company Still a Strong Play for Long-Term Growth?",
+      "cleaned_body": "Buffett and his teams confidence in this stock is not misplaced.",
+      "cleaned_text": "Apple Is Berkshire Hathaways Largest Holding by Value. But Is the California-Based Company Still a Strong Play for Long-Term Growth?. Buffett and his teams confidence in this stock is not misplaced.",
+      "tokens": {
+        "original": [
+          "apple",
+          "is",
+          "berkshire",
+          "hathaways",
+          "largest",
+          "holding",
+          "by",
+          "value",
+          ".",
+          "but",
+          "is",
+          "the",
+          "california-based",
+          "company",
+          "still",
+          "a",
+          "strong",
+          "play",
+          "for",
+          "long-term",
+          "growth",
+          "?",
+          "buffett",
+          "and",
+          "his",
+          "teams",
+          "confidence",
+          "in",
+          "this",
+          "stock",
+          "is",
+          "not",
+          "misplaced",
+          "."
+        ],
+        "filtered": [
+          "apple",
+          "berkshire",
+          "hathaways",
+          "largest",
+          "holding",
+          "value",
+          ".",
+          "california-based",
+          "company",
+          "still",
+          "strong",
+          "play",
+          "long-term",
+          "growth",
+          "?",
+          "buffett",
+          "teams",
+          "confidence",
+          "stock",
+          "not",
+          "misplaced",
+          "."
+        ],
+        "lemmatized": [
+          "apple",
+          "berkshire",
+          "hathaways",
+          "large",
+          "hold",
+          "value",
+          ".",
+          "california-based",
+          "company",
+          "still",
+          "strong",
+          "play",
+          "long-term",
+          "growth",
+          "?",
+          "buffett",
+          "team",
+          "confidence",
+          "stock",
+          "not",
+          "misplace",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Is Berkshire Hathaway",
+            "Largest Holding",
+            "Value",
+            "Buffett"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Strong"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "apple",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "hathaways",
+            1
+          ],
+          [
+            "large",
+            1
+          ],
+          [
+            "hold",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "california-based",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "still",
+            1
+          ],
+          [
+            "strong",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 35,
+        "avg_words_per_sentence": 11.67,
+        "num_unique_words": 31
+      },
+      "processed_at": "2025-11-14T03:29:16.834812",
+      "preprocessing_version": "1.0",
+      "article_id": "8c90ac2e5878ca92",
+      "title": "Apple Is Berkshire Hathaway's Largest Holding by Value. But Is the California-Based Company Still a Strong Play for Long-Term Growth?",
+      "description": "Buffett and his team's confidence in this stock isn't misplaced.",
+      "body": "Buffett and his team's confidence in this stock isn't misplaced.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=05bbc050866f8e9e227c1a912e30edaabecb2f95c53666a52b2087867208caa8",
+      "author": "Unknown",
+      "published_at": "2025-11-09T00:11:00",
+      "scraped_at": "2025-11-13T22:21:12.171739",
+      "ticker": "AAPL",
+      "raw_text": "Apple Is Berkshire Hathaway's Largest Holding by Value. But Is the California-Based Company Still a Strong Play for Long-Term Growth? Buffett and his team's confidence in this stock isn't misplaced. Buffett and his team's confidence in this stock isn't misplaced.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B",
+        "AAPL"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80,
+        "AAPL": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "original_body": "If any investor has stood the test of time, it’s Warren Buffett, and with good reason. For years, the “Oracle of Omaha” has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this year’s meeting when ... As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "cleaned_title": "As Warren Buffett Waves Goodbye 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "cleaned_body": "If any investor has stood the test of time, its Warren Buffett, and with good reason. For years, the Oracle of Omaha has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this years meeting when ... As Warren Buffett Waves Goodbye 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "cleaned_text": "As Warren Buffett Waves Goodbye 5 Dividend Stocks That Never Leave Berkshire Hathaway. If any investor has stood the test of time, its Warren Buffett, and with good reason. For years, the Oracle of Omaha has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this years meeting when ... As Warren Buffett Waves Goodbye 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "tokens": {
+        "original": [
+          "as",
+          "warren",
+          "buffett",
+          "waves",
+          "goodbye",
+          "5",
+          "dividend",
+          "stocks",
+          "that",
+          "never",
+          "leave",
+          "berkshire",
+          "hathaway",
+          "if",
+          "any",
+          "investor",
+          "has",
+          "stood",
+          "the",
+          "test",
+          "of",
+          "time",
+          ",",
+          "its",
+          "warren",
+          "buffett",
+          ",",
+          "and",
+          "with",
+          "good",
+          "reason",
+          ".",
+          "for",
+          "years",
+          ",",
+          "the",
+          "oracle",
+          "of",
+          "omaha",
+          "has",
+          "had",
+          "a",
+          "rock",
+          "star-like",
+          "presence",
+          "in",
+          "the",
+          "investing",
+          "world",
+          ",",
+          "and",
+          "his",
+          "annual",
+          "berkshire",
+          "hathaway",
+          "shareholders",
+          "meeting",
+          "draws",
+          "thousands",
+          "of",
+          "loyal",
+          "fans",
+          "who",
+          "are",
+          "investors",
+          ".",
+          "they",
+          "were",
+          "stunned",
+          "at",
+          "this",
+          "years",
+          "meeting",
+          "when",
+          "...",
+          "as",
+          "warren",
+          "buffett",
+          "waves",
+          "goodbye",
+          "5",
+          "dividend",
+          "stocks",
+          "that",
+          "never",
+          "leave",
+          "berkshire",
+          "hathaway"
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "waves",
+          "goodbye",
+          "5",
+          "dividend",
+          "stocks",
+          "never",
+          "leave",
+          "berkshire",
+          "hathaway",
+          "investor",
+          "stood",
+          "test",
+          "time",
+          ",",
+          "warren",
+          "buffett",
+          ",",
+          "good",
+          "reason",
+          ".",
+          "years",
+          ",",
+          "oracle",
+          "omaha",
+          "rock",
+          "star-like",
+          "presence",
+          "investing",
+          "world",
+          ",",
+          "annual",
+          "berkshire",
+          "hathaway",
+          "shareholders",
+          "meeting",
+          "draws",
+          "thousands",
+          "loyal",
+          "fans",
+          "investors",
+          ".",
+          "stunned",
+          "years",
+          "meeting",
+          "...",
+          "warren",
+          "buffett",
+          "waves",
+          "goodbye",
+          "5",
+          "dividend",
+          "stocks",
+          "never",
+          "leave",
+          "berkshire",
+          "hathaway"
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "wave",
+          "goodbye",
+          "5",
+          "dividend",
+          "stock",
+          "never",
+          "leave",
+          "berkshire",
+          "hathaway",
+          "investor",
+          "stand",
+          "test",
+          "time",
+          ",",
+          "warren",
+          "buffett",
+          ",",
+          "good",
+          "reason",
+          ".",
+          "year",
+          ",",
+          "oracle",
+          "omaha",
+          "rock",
+          "star-like",
+          "presence",
+          "invest",
+          "world",
+          ",",
+          "annual",
+          "berkshire",
+          "hathaway",
+          "shareholder",
+          "meet",
+          "draws",
+          "thousand",
+          "loyal",
+          "fan",
+          "investor",
+          ".",
+          "stunned",
+          "year",
+          "meeting",
+          "...",
+          "warren",
+          "buffett",
+          "wave",
+          "goodbye",
+          "5",
+          "dividend",
+          "stock",
+          "never",
+          "leave",
+          "berkshire",
+          "hathaway"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren Buffett Waves Goodbye",
+            "Never Leave Berkshire Hathaway",
+            "Omaha"
+          ],
+          "ORGANIZATION": [
+            "Warren Buffett",
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "5",
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "warren",
+            3
+          ],
+          [
+            "buffett",
+            3
+          ],
+          [
+            "berkshire",
+            3
+          ],
+          [
+            "hathaway",
+            3
+          ],
+          [
+            "wave",
+            2
+          ],
+          [
+            "goodbye",
+            2
+          ],
+          [
+            "dividend",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "never",
+            2
+          ],
+          [
+            "leave",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 89,
+        "avg_words_per_sentence": 22.25,
+        "num_unique_words": 59
+      },
+      "processed_at": "2025-11-14T03:29:17.646377",
+      "preprocessing_version": "1.0",
+      "article_id": "03e80b6c8047fc54",
+      "title": "As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "description": "If any investor has stood the test of time, it’s Warren Buffett, and with good reason. For years, the “Oracle of Omaha” has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this year’s meeting when ... As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "body": "If any investor has stood the test of time, it’s Warren Buffett, and with good reason. For years, the “Oracle of Omaha” has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this year’s meeting when ... As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=1be91272a78d3ba520b92ed58d7b33f09e8308e881a575223ea22b7c0b776eb9",
+      "author": "Unknown",
+      "published_at": "2025-11-08T19:01:06",
+      "scraped_at": "2025-11-13T22:21:12.171757",
+      "ticker": "AAPL",
+      "raw_text": "As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway If any investor has stood the test of time, it’s Warren Buffett, and with good reason. For years, the “Oracle of Omaha” has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this year’s meeting when ... As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway If any investor has stood the test of time, it’s Warren Buffett, and with good reason. For years, the “Oracle of Omaha” has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this year’s meeting when ... As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "ORCL",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "ORCL": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
+      "original_body": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
+      "cleaned_title": "Warren Buffetts cash fortress Berkshire closes gap with SP 500 as AI worries depress Wall Street",
+      "cleaned_body": "Berkshire Hathaways B shares and A shares moved 4.5 percent higher this week after a strong earnings report last weekend.",
+      "cleaned_text": "Warren Buffetts cash fortress Berkshire closes gap with SP 500 as AI worries depress Wall Street. Berkshire Hathaways B shares and A shares moved 4.5 percent higher this week after a strong earnings report last weekend.",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffetts",
+          "cash",
+          "fortress",
+          "berkshire",
+          "closes",
+          "gap",
+          "with",
+          "sp",
+          "500",
+          "as",
+          "ai",
+          "worries",
+          "depress",
+          "wall",
+          "street",
+          "berkshire",
+          "hathaways",
+          "b",
+          "shares",
+          "and",
+          "a",
+          "shares",
+          "moved",
+          "4.5",
+          "percent",
+          "higher",
+          "this",
+          "week",
+          "after",
+          "a",
+          "strong",
+          "earnings",
+          "report",
+          "last",
+          "weekend",
+          "."
+        ],
+        "filtered": [
+          "warren",
+          "buffetts",
+          "cash",
+          "fortress",
+          "berkshire",
+          "closes",
+          "gap",
+          "sp",
+          "500",
+          "ai",
+          "worries",
+          "depress",
+          "wall",
+          "street",
+          "berkshire",
+          "hathaways",
+          "b",
+          "shares",
+          "shares",
+          "moved",
+          "4.5",
+          "percent",
+          "higher",
+          "week",
+          "strong",
+          "earnings",
+          "report",
+          "last",
+          "weekend",
+          "."
+        ],
+        "lemmatized": [
+          "warren",
+          "buffetts",
+          "cash",
+          "fortress",
+          "berkshire",
+          "close",
+          "gap",
+          "sp",
+          "500",
+          "ai",
+          "worry",
+          "depress",
+          "wall",
+          "street",
+          "berkshire",
+          "hathaways",
+          "b",
+          "shares",
+          "shares",
+          "move",
+          "4.5",
+          "percent",
+          "high",
+          "week",
+          "strong",
+          "earnings",
+          "report",
+          "last",
+          "weekend",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett"
+          ],
+          "ORGANIZATION": [
+            "Berkshire",
+            "AI",
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "500",
+          "4.5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "berkshire",
+            2
+          ],
+          [
+            "shares",
+            2
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffetts",
+            1
+          ],
+          [
+            "cash",
+            1
+          ],
+          [
+            "fortress",
+            1
+          ],
+          [
+            "close",
+            1
+          ],
+          [
+            "gap",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "worry",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 38,
+        "avg_words_per_sentence": 19.0,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:18.428964",
+      "preprocessing_version": "1.0",
+      "article_id": "0f6794ced4317624",
+      "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
+      "description": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
+      "body": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
+      "source": "CNBC",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=70b11b5291f74b24790fe6fda7bb672c31c21df1baed9ec5c5f257506463f9ee",
+      "author": "Unknown",
+      "published_at": "2025-11-08T12:02:10",
+      "scraped_at": "2025-11-13T22:21:12.171774",
+      "ticker": "AAPL",
+      "raw_text": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend. Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://image.cnbcfm.com/api/v1/image/107410286-1714759879649-untitled-246-2-335.jpg?v=1714827163&w=1920&h=1080",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett vs. Michael Saylor: Who Made the Better Investment This Quarter",
+      "original_body": "Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaway‘s (NYSE:BRK-A)(NYSE:BRK-B) legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy (NASDAQ:MSTR), bets aggressively on Bitcoin (CRYPTO:BTC) as a hedge ... Warren Buffett vs. Michael Saylor: Who Made the Better Investment Thi",
+      "cleaned_title": "Warren Buffett vs. Michael Saylor Who Made the Better Investment This Quarter",
+      "cleaned_body": "Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaways NYSEBRK-ANYSEBRK-B legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy NASDAQMSTR, bets aggressively on Bitcoin CRYPTOBTC as a hedge ... Warren Buffett vs. Michael Saylor Who Made the Better Investment Thi",
+      "cleaned_text": "Warren Buffett vs. Michael Saylor Who Made the Better Investment This Quarter. Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaways NYSEBRK-ANYSEBRK-B legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy NASDAQMSTR, bets aggressively on Bitcoin CRYPTOBTC as a hedge ... Warren Buffett vs. Michael Saylor Who Made the Better Investment Thi",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "vs.",
+          "michael",
+          "saylor",
+          "who",
+          "made",
+          "the",
+          "better",
+          "investment",
+          "this",
+          "quarter",
+          "warren",
+          "buffett",
+          "and",
+          "michael",
+          "saylor",
+          "represent",
+          "two",
+          "starkly",
+          "different",
+          "investment",
+          "philosophies",
+          "in",
+          "the",
+          "market",
+          ".",
+          "buffett",
+          ",",
+          "berkshire",
+          "hathaways",
+          "nysebrk-anysebrk-b",
+          "legendary",
+          "oracle",
+          "of",
+          "omaha",
+          ",",
+          "favors",
+          "safe",
+          ",",
+          "liquid",
+          "assets",
+          "like",
+          "u.s.",
+          "treasury",
+          "bills",
+          "to",
+          "preserve",
+          "capital",
+          "for",
+          "future",
+          "opportunities",
+          "in",
+          "undervalued",
+          "stocks",
+          ".",
+          "in",
+          "contrast",
+          ",",
+          "saylor",
+          ",",
+          "executive",
+          "chairman",
+          "of",
+          "strategy",
+          "nasdaqmstr",
+          ",",
+          "bets",
+          "aggressively",
+          "on",
+          "bitcoin",
+          "cryptobtc",
+          "as",
+          "a",
+          "hedge",
+          "...",
+          "warren",
+          "buffett",
+          "vs.",
+          "michael",
+          "saylor",
+          "who",
+          "made",
+          "the",
+          "better",
+          "investment",
+          "thi"
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "vs.",
+          "michael",
+          "saylor",
+          "made",
+          "better",
+          "investment",
+          "quarter",
+          "warren",
+          "buffett",
+          "michael",
+          "saylor",
+          "represent",
+          "two",
+          "starkly",
+          "different",
+          "investment",
+          "philosophies",
+          "market",
+          ".",
+          "buffett",
+          ",",
+          "berkshire",
+          "hathaways",
+          "nysebrk-anysebrk-b",
+          "legendary",
+          "oracle",
+          "omaha",
+          ",",
+          "favors",
+          "safe",
+          ",",
+          "liquid",
+          "assets",
+          "like",
+          "u.s.",
+          "treasury",
+          "bills",
+          "preserve",
+          "capital",
+          "future",
+          "opportunities",
+          "undervalued",
+          "stocks",
+          ".",
+          "contrast",
+          ",",
+          "saylor",
+          ",",
+          "executive",
+          "chairman",
+          "strategy",
+          "nasdaqmstr",
+          ",",
+          "bets",
+          "aggressively",
+          "bitcoin",
+          "cryptobtc",
+          "hedge",
+          "...",
+          "warren",
+          "buffett",
+          "vs.",
+          "michael",
+          "saylor",
+          "made",
+          "better",
+          "investment",
+          "thi"
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "vs.",
+          "michael",
+          "saylor",
+          "make",
+          "well",
+          "investment",
+          "quarter",
+          "warren",
+          "buffett",
+          "michael",
+          "saylor",
+          "represent",
+          "two",
+          "starkly",
+          "different",
+          "investment",
+          "philosophy",
+          "market",
+          ".",
+          "buffett",
+          ",",
+          "berkshire",
+          "hathaway",
+          "nysebrk-anysebrk-b",
+          "legendary",
+          "oracle",
+          "omaha",
+          ",",
+          "favor",
+          "safe",
+          ",",
+          "liquid",
+          "asset",
+          "like",
+          "u.s.",
+          "treasury",
+          "bill",
+          "preserve",
+          "capital",
+          "future",
+          "opportunity",
+          "undervalued",
+          "stock",
+          ".",
+          "contrast",
+          ",",
+          "saylor",
+          ",",
+          "executive",
+          "chairman",
+          "strategy",
+          "nasdaqmstr",
+          ",",
+          "bet",
+          "aggressively",
+          "bitcoin",
+          "cryptobtc",
+          "hedge",
+          "...",
+          "warren",
+          "buffett",
+          "vs.",
+          "michael",
+          "saylor",
+          "make",
+          "well",
+          "investment",
+          "thi"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett",
+            "Michael Saylor",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "Better",
+            "Berkshire Hathaway",
+            "NYSE",
+            "NASDAQ",
+            "CRYPTO",
+            "Better Investment"
+          ],
+          "GPE": [
+            "Omaha",
+            "U.S.",
+            "Saylor",
+            "Strategy",
+            "Bitcoin"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "buffett",
+            4
+          ],
+          [
+            "saylor",
+            4
+          ],
+          [
+            "warren",
+            3
+          ],
+          [
+            "michael",
+            3
+          ],
+          [
+            "investment",
+            3
+          ],
+          [
+            "vs.",
+            2
+          ],
+          [
+            "make",
+            2
+          ],
+          [
+            "well",
+            2
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "represent",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 15,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 88,
+        "avg_words_per_sentence": 22.0,
+        "num_unique_words": 60
+      },
+      "processed_at": "2025-11-14T03:29:20.144979",
+      "preprocessing_version": "1.0",
+      "article_id": "8a8678cffc746c14",
+      "title": "Warren Buffett vs. Michael Saylor: Who Made the Better Investment This Quarter",
+      "description": "Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaway‘s (NYSE:BRK-A)(NYSE:BRK-B) legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy (NASDAQ:MSTR), bets aggressively on Bitcoin (CRYPTO:BTC) as a hedge ... Warren Buffett vs. Michael Saylor: Who Made the Better Investment Thi",
+      "body": "Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaway‘s (NYSE:BRK-A)(NYSE:BRK-B) legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy (NASDAQ:MSTR), bets aggressively on Bitcoin (CRYPTO:BTC) as a hedge ... Warren Buffett vs. Michael Saylor: Who Made the Better Investment Thi",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=8d21d3ae7fa54bd3381d118837d78bf1ea7face7554ae2b6f29a72818df3fd1f",
+      "author": "Unknown",
+      "published_at": "2025-11-07T23:44:09",
+      "scraped_at": "2025-11-13T22:21:12.171814",
+      "ticker": "AAPL",
+      "raw_text": "Warren Buffett vs. Michael Saylor: Who Made the Better Investment This Quarter Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaway‘s (NYSE:BRK-A)(NYSE:BRK-B) legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy (NASDAQ:MSTR), bets aggressively on Bitcoin (CRYPTO:BTC) as a hedge ... Warren Buffett vs. Michael Saylor: Who Made the Better Investment Thi Warren Buffett and Michael Saylor represent two starkly different investment philosophies in the market. Buffett, Berkshire Hathaway‘s (NYSE:BRK-A)(NYSE:BRK-B) legendary Oracle of Omaha, favors safe, liquid assets like U.S. Treasury bills to preserve capital for future opportunities in undervalued stocks. In contrast, Saylor, executive chairman of Strategy (NASDAQ:MSTR), bets aggressively on Bitcoin (CRYPTO:BTC) as a hedge ... Warren Buffett vs. Michael Saylor: Who Made the Better Investment Thi",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "ORCL",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "ORCL": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "The Stock Market Has Only Done This 4 Times This Century. Is Warren Buffett Getting Nervous?",
+      "original_body": "Berkshire Hathaway just revealed a record cash hoard.",
+      "cleaned_title": "The Stock Market Has Only Done This 4 Times This Century. Is Warren Buffett Getting Nervous?",
+      "cleaned_body": "Berkshire Hathaway just revealed a record cash hoard.",
+      "cleaned_text": "The Stock Market Has Only Done This 4 Times This Century. Is Warren Buffett Getting Nervous?. Berkshire Hathaway just revealed a record cash hoard.",
+      "tokens": {
+        "original": [
+          "the",
+          "stock",
+          "market",
+          "has",
+          "only",
+          "done",
+          "this",
+          "4",
+          "times",
+          "this",
+          "century",
+          ".",
+          "is",
+          "warren",
+          "buffett",
+          "getting",
+          "nervous",
+          "?",
+          "berkshire",
+          "hathaway",
+          "just",
+          "revealed",
+          "a",
+          "record",
+          "cash",
+          "hoard",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "done",
+          "4",
+          "times",
+          "century",
+          ".",
+          "warren",
+          "buffett",
+          "getting",
+          "nervous",
+          "?",
+          "berkshire",
+          "hathaway",
+          "revealed",
+          "record",
+          "cash",
+          "hoard",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "do",
+          "4",
+          "time",
+          "century",
+          ".",
+          "warren",
+          "buffett",
+          "get",
+          "nervous",
+          "?",
+          "berkshire",
+          "hathaway",
+          "reveal",
+          "record",
+          "cash",
+          "hoard",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market Has",
+            "Warren Buffett Getting Nervous"
+          ],
+          "ORGANIZATION": [
+            "Century",
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "time",
+            1
+          ],
+          [
+            "century",
+            1
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "get",
+            1
+          ],
+          [
+            "nervous",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "hathaway",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 28,
+        "avg_words_per_sentence": 9.33,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:29:22.939607",
+      "preprocessing_version": "1.0",
+      "article_id": "1914bc01d6755c85",
+      "title": "The Stock Market Has Only Done This 4 Times This Century. Is Warren Buffett Getting Nervous?",
+      "description": "Berkshire Hathaway just revealed a record cash hoard.",
+      "body": "Berkshire Hathaway just revealed a record cash hoard.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=9f68de3646ec31e3d61f44e254ff5142a1e9a0d7599d4c5079aaa6f52a95651a",
+      "author": "Unknown",
+      "published_at": "2025-11-07T15:40:00",
+      "scraped_at": "2025-11-13T22:21:12.171876",
+      "ticker": "AAPL",
+      "raw_text": "The Stock Market Has Only Done This 4 Times This Century. Is Warren Buffett Getting Nervous? Berkshire Hathaway just revealed a record cash hoard. Berkshire Hathaway just revealed a record cash hoard.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett Says 'Very Wealthy CEOs Hate When Others Get Even Richer' — Was It a Dig at Elon Musk As He Could Become World's 1st Trillionaire?",
+      "original_body": "Warren Buffett doesn't name names. He rarely needs to.\r\nIn his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual business wisdom to something a bit more bi… [+4104 chars]",
+      "cleaned_title": "Warren Buffett Says havery Wealthy CEOs Hate When Others Get Even Richer Was It a Dig at Elon Musk As He Could Become Worlds 1st Trillionaire?",
+      "cleaned_body": "Warren Buffett does not name names. He rarely needs to. In his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual business wisdom to something a bit more bi 4104 chars",
+      "cleaned_text": "Warren Buffett Says havery Wealthy CEOs Hate When Others Get Even Richer Was It a Dig at Elon Musk As He Could Become Worlds 1st Trillionaire?. Warren Buffett does not name names. He rarely needs to. In his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual business wisdom to something a bit more bi 4104 chars",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "says",
+          "havery",
+          "wealthy",
+          "ceos",
+          "hate",
+          "when",
+          "others",
+          "get",
+          "even",
+          "richer",
+          "was",
+          "it",
+          "a",
+          "dig",
+          "at",
+          "elon",
+          "musk",
+          "as",
+          "he",
+          "could",
+          "become",
+          "worlds",
+          "1st",
+          "trillionaire",
+          "?",
+          "warren",
+          "buffett",
+          "does",
+          "not",
+          "name",
+          "names",
+          ".",
+          "he",
+          "rarely",
+          "needs",
+          "to",
+          ".",
+          "in",
+          "his",
+          "latest",
+          "thanksgiving",
+          "letter",
+          ",",
+          "the",
+          "berkshire",
+          "hathaway",
+          "chair",
+          "let",
+          "his",
+          "thoughts",
+          "roam",
+          "from",
+          "the",
+          "usual",
+          "business",
+          "wisdom",
+          "to",
+          "something",
+          "a",
+          "bit",
+          "more",
+          "bi",
+          "4104",
+          "chars"
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "says",
+          "havery",
+          "wealthy",
+          "ceos",
+          "hate",
+          "others",
+          "get",
+          "even",
+          "richer",
+          "dig",
+          "elon",
+          "musk",
+          "could",
+          "become",
+          "worlds",
+          "1st",
+          "trillionaire",
+          "?",
+          "warren",
+          "buffett",
+          "not",
+          "name",
+          "names",
+          ".",
+          "rarely",
+          "needs",
+          ".",
+          "latest",
+          "thanksgiving",
+          "letter",
+          ",",
+          "berkshire",
+          "hathaway",
+          "chair",
+          "let",
+          "thoughts",
+          "roam",
+          "usual",
+          "business",
+          "wisdom",
+          "something",
+          "bit",
+          "more",
+          "bi",
+          "4104",
+          "chars"
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "say",
+          "havery",
+          "wealthy",
+          "ceo",
+          "hate",
+          "others",
+          "get",
+          "even",
+          "rich",
+          "dig",
+          "elon",
+          "musk",
+          "could",
+          "become",
+          "world",
+          "1st",
+          "trillionaire",
+          "?",
+          "warren",
+          "buffett",
+          "not",
+          "name",
+          "name",
+          ".",
+          "rarely",
+          "need",
+          ".",
+          "late",
+          "thanksgiving",
+          "letter",
+          ",",
+          "berkshire",
+          "hathaway",
+          "chair",
+          "let",
+          "thought",
+          "roam",
+          "usual",
+          "business",
+          "wisdom",
+          "something",
+          "bit",
+          "more",
+          "bi",
+          "4104",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett Says",
+            "Wealthy CEOs Hate",
+            "Others Get",
+            "Richer",
+            "World",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "Elon Musk",
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4104"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "warren",
+            2
+          ],
+          [
+            "buffett",
+            2
+          ],
+          [
+            "name",
+            2
+          ],
+          [
+            "say",
+            1
+          ],
+          [
+            "havery",
+            1
+          ],
+          [
+            "wealthy",
+            1
+          ],
+          [
+            "ceo",
+            1
+          ],
+          [
+            "hate",
+            1
+          ],
+          [
+            "others",
+            1
+          ],
+          [
+            "get",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 67,
+        "avg_words_per_sentence": 16.75,
+        "num_unique_words": 58
+      },
+      "processed_at": "2025-11-14T03:29:29.138444",
+      "preprocessing_version": "1.0",
+      "article_id": "10b3012aa90eb039",
+      "title": "Warren Buffett Says 'Very Wealthy CEOs Hate When Others Get Even Richer' — Was It a Dig at Elon Musk As He Could Become World's 1st Trillionaire?",
+      "description": "Warren Buffett doesn't name names. He rarely needs to. In his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual...",
+      "body": "Warren Buffett doesn't name names. He rarely needs to.\r\nIn his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual business wisdom to something a bit more bi… [+4104 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/warren-buffett-says-very-wealthy-134818065.html",
+      "author": "Ivy Grace",
+      "published_at": "2025-11-12T13:48:18Z",
+      "scraped_at": "2025-11-13T22:21:13.286251",
+      "ticker": "TSLA",
+      "raw_text": "Warren Buffett Says 'Very Wealthy CEOs Hate When Others Get Even Richer' — Was It a Dig at Elon Musk As He Could Become World's 1st Trillionaire? Warren Buffett doesn't name names. He rarely needs to. In his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual... Warren Buffett doesn't name names. He rarely needs to.\r\nIn his latest Thanksgiving letter, the Berkshire Hathaway chair let his thoughts roam from the usual business wisdom to something a bit more bi… [+4104 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' - Tesla  ( NASDAQ:TSLA ) , Rivian Automotive  ( NASDAQ:RIVN ) ",
+      "original_body": "In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "cleaned_title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral Envy And Greed Walk Hand In Hand - Tesla NASDAQTSLA , Rivian Automotive NASDAQRIVN",
+      "cleaned_body": "In his final annual letter as CEO of Berkshire Hathaway Inc NYSEBRK NYSEBRK , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla NASDAQTSLA CEO Elon Musks revised pay.",
+      "cleaned_text": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral Envy And Greed Walk Hand In Hand - Tesla NASDAQTSLA , Rivian Automotive NASDAQRIVN. In his final annual letter as CEO of Berkshire Hathaway Inc NYSEBRK NYSEBRK , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla NASDAQTSLA CEO Elon Musks revised pay.",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "takes",
+          "veiled",
+          "dig",
+          "at",
+          "elon",
+          "musk",
+          "while",
+          "criticizing",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "and",
+          "greed",
+          "walk",
+          "hand",
+          "in",
+          "hand",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ",",
+          "rivian",
+          "automotive",
+          "nasdaqrivn",
+          "in",
+          "his",
+          "final",
+          "annual",
+          "letter",
+          "as",
+          "ceo",
+          "of",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "has",
+          "highlighted",
+          "a",
+          "concerning",
+          "trend",
+          "of",
+          "escalating",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musks",
+          "revised",
+          "pay",
+          "."
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "takes",
+          "veiled",
+          "dig",
+          "elon",
+          "musk",
+          "criticizing",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ",",
+          "rivian",
+          "automotive",
+          "nasdaqrivn",
+          "final",
+          "annual",
+          "letter",
+          "ceo",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "highlighted",
+          "concerning",
+          "trend",
+          "escalating",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musks",
+          "revised",
+          "pay",
+          "."
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "take",
+          "veiled",
+          "dig",
+          "elon",
+          "musk",
+          "criticize",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ",",
+          "rivian",
+          "automotive",
+          "nasdaqrivn",
+          "final",
+          "annual",
+          "letter",
+          "ceo",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "highlight",
+          "concern",
+          "trend",
+          "escalate",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "revise",
+          "pay",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett Takes",
+            "Dig",
+            "Greed Walk Hand",
+            "Rivian Automotive",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "Elon Musk",
+            "CEO Pay",
+            "NASDAQ",
+            "CEO",
+            "Berkshire Hathaway Inc",
+            "NYSE",
+            "CEO Elon Musk"
+          ],
+          "GPE": [
+            "Hand",
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ceo",
+            4
+          ],
+          [
+            "warren",
+            2
+          ],
+          [
+            "buffett",
+            2
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "pay",
+            2
+          ],
+          [
+            "hand",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "nasdaqtsla",
+            2
+          ],
+          [
+            "nysebrk",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 15,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 62,
+        "avg_words_per_sentence": 31.0,
+        "num_unique_words": 47
+      },
+      "processed_at": "2025-11-14T03:29:36.487373",
+      "preprocessing_version": "1.0",
+      "article_id": "b18c838a373eb628",
+      "title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' - Tesla  ( NASDAQ:TSLA ) , Rivian Automotive  ( NASDAQ:RIVN ) ",
+      "description": "In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "body": "In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/news/topics/25/11/48796814/warren-buffett-takes-veiled-dig-at-elon-musk-while-criticizing-ceo-pay-spiral-envy-and-greed-walk-han",
+      "author": "Namrata Sen",
+      "published_at": "20251112T100506",
+      "scraped_at": "2025-11-13T22:21:23.358313",
+      "ticker": "TSLA",
+      "raw_text": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' - Tesla  ( NASDAQ:TSLA ) , Rivian Automotive  ( NASDAQ:RIVN )  In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay. In his final annual letter as CEO of Berkshire Hathaway Inc ( NYSE:BRK ) ( NYSE:BRK ) , Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla ( NASDAQ:TSLA ) CEO Elon Musk's revised pay.",
+      "sentiment_score": 0.156136,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand'",
+      "original_body": "In his final annual letter as CEO of Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK), Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla (NASDAQ:TSLA) CEO Elon Musk‘s revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers’ remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a",
+      "cleaned_title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral Envy And Greed Walk Hand In Hand",
+      "cleaned_body": "In his final annual letter as CEO of Berkshire Hathaway Inc NYSEBRK NYSEBRK, Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla NASDAQTSLA CEO Elon Musks revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a",
+      "cleaned_text": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral Envy And Greed Walk Hand In Hand. In his final annual letter as CEO of Berkshire Hathaway Inc NYSEBRK NYSEBRK, Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla NASDAQTSLA CEO Elon Musks revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a",
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "takes",
+          "veiled",
+          "dig",
+          "at",
+          "elon",
+          "musk",
+          "while",
+          "criticizing",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "and",
+          "greed",
+          "walk",
+          "hand",
+          "in",
+          "hand",
+          "in",
+          "his",
+          "final",
+          "annual",
+          "letter",
+          "as",
+          "ceo",
+          "of",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "has",
+          "highlighted",
+          "a",
+          "concerning",
+          "trend",
+          "of",
+          "escalating",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musks",
+          "revised",
+          "pay",
+          ".",
+          "buffett",
+          "criticizes",
+          "ceo",
+          "pay",
+          "spiral",
+          "buffett",
+          "pointed",
+          "out",
+          "the",
+          "growing",
+          "trend",
+          "of",
+          "ceos",
+          "increasing",
+          "their",
+          "own",
+          "pay",
+          "after",
+          "witnessing",
+          "their",
+          "peers",
+          "remuneration",
+          ".",
+          "the",
+          "95-year-old",
+          "billionaire",
+          ",",
+          "who",
+          "has",
+          "been",
+          "at",
+          "the",
+          "helm",
+          "of",
+          "berkshire",
+          "hathaway",
+          "for",
+          "six",
+          "decades",
+          ",",
+          "suggested",
+          "that",
+          "ceos",
+          "are",
+          "driven",
+          "by",
+          "envy",
+          "a"
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "takes",
+          "veiled",
+          "dig",
+          "elon",
+          "musk",
+          "criticizing",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "final",
+          "annual",
+          "letter",
+          "ceo",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "highlighted",
+          "concerning",
+          "trend",
+          "escalating",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musks",
+          "revised",
+          "pay",
+          ".",
+          "buffett",
+          "criticizes",
+          "ceo",
+          "pay",
+          "spiral",
+          "buffett",
+          "pointed",
+          "growing",
+          "trend",
+          "ceos",
+          "increasing",
+          "pay",
+          "witnessing",
+          "peers",
+          "remuneration",
+          ".",
+          "95-year-old",
+          "billionaire",
+          ",",
+          "helm",
+          "berkshire",
+          "hathaway",
+          "six",
+          "decades",
+          ",",
+          "suggested",
+          "ceos",
+          "driven",
+          "envy"
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "take",
+          "veiled",
+          "dig",
+          "elon",
+          "musk",
+          "criticize",
+          "ceo",
+          "pay",
+          "spiral",
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "final",
+          "annual",
+          "letter",
+          "ceo",
+          "berkshire",
+          "hathaway",
+          "inc",
+          "nysebrk",
+          "nysebrk",
+          ",",
+          "warren",
+          "buffett",
+          "highlight",
+          "concern",
+          "trend",
+          "escalate",
+          "ceo",
+          "compensation",
+          "amid",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "revise",
+          "pay",
+          ".",
+          "buffett",
+          "criticize",
+          "ceo",
+          "pay",
+          "spiral",
+          "buffett",
+          "point",
+          "grow",
+          "trend",
+          "ceo",
+          "increase",
+          "pay",
+          "witness",
+          "peer",
+          "remuneration",
+          ".",
+          "95-year-old",
+          "billionaire",
+          ",",
+          "helm",
+          "berkshire",
+          "hathaway",
+          "six",
+          "decade",
+          ",",
+          "suggest",
+          "ceos",
+          "driven",
+          "envy"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett Takes",
+            "Dig",
+            "Greed Walk Hand",
+            "Warren Buffett",
+            "Buffett Criticizes",
+            "Buffett"
+          ],
+          "ORGANIZATION": [
+            "Elon Musk",
+            "CEO Pay",
+            "CEO",
+            "Berkshire Hathaway Inc",
+            "NYSE",
+            "NASDAQ",
+            "CEO Elon Musk",
+            "CEOs",
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Hand",
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "95"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ceo",
+            6
+          ],
+          [
+            "buffett",
+            4
+          ],
+          [
+            "pay",
+            4
+          ],
+          [
+            "warren",
+            2
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "criticize",
+            2
+          ],
+          [
+            "spiral",
+            2
+          ],
+          [
+            "envy",
+            2
+          ],
+          [
+            "hand",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 18,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 103,
+        "avg_words_per_sentence": 25.75,
+        "num_unique_words": 69
+      },
+      "processed_at": "2025-11-14T03:29:41.264179",
+      "preprocessing_version": "1.0",
+      "article_id": "e481cf1243fc841b",
+      "title": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand'",
+      "description": "In his final annual letter as CEO of Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK), Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla (NASDAQ:TSLA) CEO Elon Musk‘s revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers’ remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a",
+      "body": "In his final annual letter as CEO of Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK), Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla (NASDAQ:TSLA) CEO Elon Musk‘s revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers’ remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=f419a2169d076e998ee986026b2ec58bfc15f43277f45b7a921e20121f95b83e",
+      "author": "Unknown",
+      "published_at": "2025-11-13T08:01:05",
+      "scraped_at": "2025-11-13T22:21:23.908283",
+      "ticker": "TSLA",
+      "raw_text": "Warren Buffett Takes Veiled Dig At Elon Musk While Criticizing CEO Pay Spiral: 'Envy And Greed Walk Hand In Hand' In his final annual letter as CEO of Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK), Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla (NASDAQ:TSLA) CEO Elon Musk‘s revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers’ remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a In his final annual letter as CEO of Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK), Warren Buffett has highlighted a concerning trend of escalating CEO compensation amid Tesla (NASDAQ:TSLA) CEO Elon Musk‘s revised pay. Buffett Criticizes CEO Pay Spiral Buffett pointed out the growing trend of CEOs increasing their own pay after witnessing their peers’ remuneration. The 95-year-old billionaire, who has been at the helm of Berkshire Hathaway for six decades, suggested that CEOs are driven by envy a",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "‘Envy and greed walk hand in hand’: Warren Buffett casts side eye on Elon Musk-sized pay packages in final send-off",
+      "original_body": "The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each other’s exorbitant compensation packages.",
+      "cleaned_title": "Envy and greed walk hand in hand Warren Buffett casts side eye on Elon Musk-sized pay packages in final send-off",
+      "cleaned_body": "The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each others exorbitant compensation packages.",
+      "cleaned_text": "Envy and greed walk hand in hand Warren Buffett casts side eye on Elon Musk-sized pay packages in final send-off. The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each others exorbitant compensation packages.",
+      "tokens": {
+        "original": [
+          "envy",
+          "and",
+          "greed",
+          "walk",
+          "hand",
+          "in",
+          "hand",
+          "warren",
+          "buffett",
+          "casts",
+          "side",
+          "eye",
+          "on",
+          "elon",
+          "musk-sized",
+          "pay",
+          "packages",
+          "in",
+          "final",
+          "send-off",
+          "the",
+          "berkshire",
+          "hathaway",
+          "ceo",
+          "wrote",
+          "in",
+          "his",
+          "final",
+          "annual",
+          "shareholder",
+          "letter",
+          "that",
+          "executives",
+          "are",
+          "taking",
+          "note",
+          "of",
+          "each",
+          "others",
+          "exorbitant",
+          "compensation",
+          "packages",
+          "."
+        ],
+        "filtered": [
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "warren",
+          "buffett",
+          "casts",
+          "side",
+          "eye",
+          "elon",
+          "musk-sized",
+          "pay",
+          "packages",
+          "final",
+          "send-off",
+          "berkshire",
+          "hathaway",
+          "ceo",
+          "wrote",
+          "final",
+          "annual",
+          "shareholder",
+          "letter",
+          "executives",
+          "taking",
+          "note",
+          "others",
+          "exorbitant",
+          "compensation",
+          "packages",
+          "."
+        ],
+        "lemmatized": [
+          "envy",
+          "greed",
+          "walk",
+          "hand",
+          "hand",
+          "warren",
+          "buffett",
+          "cast",
+          "side",
+          "eye",
+          "elon",
+          "musk-sized",
+          "pay",
+          "package",
+          "final",
+          "send-off",
+          "berkshire",
+          "hathaway",
+          "ceo",
+          "write",
+          "final",
+          "annual",
+          "shareholder",
+          "letter",
+          "executive",
+          "take",
+          "note",
+          "others",
+          "exorbitant",
+          "compensation",
+          "package",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren Buffett",
+            "Elon"
+          ],
+          "ORGANIZATION": [
+            "Berkshire Hathaway"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "hand",
+            2
+          ],
+          [
+            "package",
+            2
+          ],
+          [
+            "final",
+            2
+          ],
+          [
+            "envy",
+            1
+          ],
+          [
+            "greed",
+            1
+          ],
+          [
+            "walk",
+            1
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "cast",
+            1
+          ],
+          [
+            "side",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 44,
+        "avg_words_per_sentence": 22.0,
+        "num_unique_words": 38
+      },
+      "processed_at": "2025-11-14T03:29:51.608593",
+      "preprocessing_version": "1.0",
+      "article_id": "5353f776371cc610",
+      "title": "‘Envy and greed walk hand in hand’: Warren Buffett casts side eye on Elon Musk-sized pay packages in final send-off",
+      "description": "The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each other’s exorbitant compensation packages.",
+      "body": "The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each other’s exorbitant compensation packages.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=b0deb22bdec8ee4309757f4f5768aa69ecccc3a1d70bb0bb88ce05c626fc5e76",
+      "author": "Unknown",
+      "published_at": "2025-11-11T01:36:09",
+      "scraped_at": "2025-11-13T22:21:23.909457",
+      "ticker": "TSLA",
+      "raw_text": "‘Envy and greed walk hand in hand’: Warren Buffett casts side eye on Elon Musk-sized pay packages in final send-off The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each other’s exorbitant compensation packages. The Berkshire Hathaway CEO wrote in his final annual shareholder letter that executives are taking note of each other’s exorbitant compensation packages.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Tesla shake-up, Warren Buffett to 'go quiet' from Berkshire",
+      "original_body": "Yahoo Finance's John Hyland outlines some stories investors are watching on Monday's Market Minute, including leadership changes with Tesla's (TSLA) Cybertruck and Model Y units, and Berkshire Hathaway (BRK-B, BRK-A) CEO Warren Buffett saying he'll retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "cleaned_title": "Tesla shake-up, Warren Buffett to go quiet from Berkshire",
+      "cleaned_body": "Yahoo Finances John Hyland outlines some stories investors are watching on Mondays Market Minute, including leadership changes with Teslas TSLA Cybertruck and Model Y units, and Berkshire Hathaway BRK-B, BRK-A CEO Warren Buffett saying he will retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "cleaned_text": "Tesla shake-up, Warren Buffett to go quiet from Berkshire. Yahoo Finances John Hyland outlines some stories investors are watching on Mondays Market Minute, including leadership changes with Teslas TSLA Cybertruck and Model Y units, and Berkshire Hathaway BRK-B, BRK-A CEO Warren Buffett saying he will retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "tokens": {
+        "original": [
+          "tesla",
+          "shake-up",
+          ",",
+          "warren",
+          "buffett",
+          "to",
+          "go",
+          "quiet",
+          "from",
+          "berkshire",
+          "yahoo",
+          "finances",
+          "john",
+          "hyland",
+          "outlines",
+          "some",
+          "stories",
+          "investors",
+          "are",
+          "watching",
+          "on",
+          "mondays",
+          "market",
+          "minute",
+          ",",
+          "including",
+          "leadership",
+          "changes",
+          "with",
+          "teslas",
+          "tsla",
+          "cybertruck",
+          "and",
+          "model",
+          "y",
+          "units",
+          ",",
+          "and",
+          "berkshire",
+          "hathaway",
+          "brk-b",
+          ",",
+          "brk-a",
+          "ceo",
+          "warren",
+          "buffett",
+          "saying",
+          "he",
+          "will",
+          "retire",
+          "quietly",
+          ".",
+          "stay",
+          "up",
+          "to",
+          "date",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "with",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "filtered": [
+          "tesla",
+          "shake-up",
+          ",",
+          "warren",
+          "buffett",
+          "go",
+          "quiet",
+          "berkshire",
+          "yahoo",
+          "finances",
+          "john",
+          "hyland",
+          "outlines",
+          "stories",
+          "investors",
+          "watching",
+          "mondays",
+          "market",
+          "minute",
+          ",",
+          "including",
+          "leadership",
+          "changes",
+          "teslas",
+          "tsla",
+          "cybertruck",
+          "model",
+          "units",
+          ",",
+          "berkshire",
+          "hathaway",
+          "brk-b",
+          ",",
+          "brk-a",
+          "ceo",
+          "warren",
+          "buffett",
+          "saying",
+          "retire",
+          "quietly",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "lemmatized": [
+          "tesla",
+          "shake-up",
+          ",",
+          "warren",
+          "buffett",
+          "go",
+          "quiet",
+          "berkshire",
+          "yahoo",
+          "finance",
+          "john",
+          "hyland",
+          "outline",
+          "story",
+          "investor",
+          "watch",
+          "monday",
+          "market",
+          "minute",
+          ",",
+          "include",
+          "leadership",
+          "change",
+          "teslas",
+          "tsla",
+          "cybertruck",
+          "model",
+          "unit",
+          ",",
+          "berkshire",
+          "hathaway",
+          "brk-b",
+          ",",
+          "brk-a",
+          "ceo",
+          "warren",
+          "buffett",
+          "say",
+          "retire",
+          "quietly",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "late",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finance",
+          "market",
+          "minute",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren Buffett",
+            "Yahoo Finance",
+            "John Hyland",
+            "Market Minute",
+            "Tesla",
+            "Cybertruck",
+            "Model Y"
+          ],
+          "ORGANIZATION": [
+            "Berkshire",
+            "TSLA",
+            "Berkshire Hathaway",
+            "CEO Warren"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "market",
+            3
+          ],
+          [
+            "warren",
+            2
+          ],
+          [
+            "buffett",
+            2
+          ],
+          [
+            "berkshire",
+            2
+          ],
+          [
+            "yahoo",
+            2
+          ],
+          [
+            "finance",
+            2
+          ],
+          [
+            "minute",
+            2
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "shake-up",
+            1
+          ],
+          [
+            "quiet",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 71,
+        "avg_words_per_sentence": 23.67,
+        "num_unique_words": 52
+      },
+      "processed_at": "2025-11-14T03:29:52.225577",
+      "preprocessing_version": "1.0",
+      "article_id": "768f685e83818bf3",
+      "title": "Tesla shake-up, Warren Buffett to 'go quiet' from Berkshire",
+      "description": "Yahoo Finance's John Hyland outlines some stories investors are watching on Monday's Market Minute, including leadership changes with Tesla's (TSLA) Cybertruck and Model Y units, and Berkshire Hathaway (BRK-B, BRK-A) CEO Warren Buffett saying he'll retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "body": "Yahoo Finance's John Hyland outlines some stories investors are watching on Monday's Market Minute, including leadership changes with Tesla's (TSLA) Cybertruck and Model Y units, and Berkshire Hathaway (BRK-B, BRK-A) CEO Warren Buffett saying he'll retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=1be173199bea5c3a548c1eefaeeef7763548b328edaf5f40157a59ffba234176",
+      "author": "Unknown",
+      "published_at": "2025-11-10T23:40:27",
+      "scraped_at": "2025-11-13T22:21:23.909509",
+      "ticker": "TSLA",
+      "raw_text": "Tesla shake-up, Warren Buffett to 'go quiet' from Berkshire Yahoo Finance's John Hyland outlines some stories investors are watching on Monday's Market Minute, including leadership changes with Tesla's (TSLA) Cybertruck and Model Y units, and Berkshire Hathaway (BRK-B, BRK-A) CEO Warren Buffett saying he'll retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute. Yahoo Finance's John Hyland outlines some stories investors are watching on Monday's Market Minute, including leadership changes with Tesla's (TSLA) Cybertruck and Model Y units, and Berkshire Hathaway (BRK-B, BRK-A) CEO Warren Buffett saying he'll retire quietly. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "If Tesla Is the New Berkshire, Musk Would Be the New Buffett. Why the Stock Is Stalling.",
+      "original_body": "Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares.",
+      "cleaned_title": "If Tesla Is the New Berkshire, Musk Would Be the New Buffett. Why the Stock Is Stalling.",
+      "cleaned_body": "Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares.",
+      "cleaned_text": "If Tesla Is the New Berkshire, Musk Would Be the New Buffett. Why the Stock Is Stalling.. Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares.",
+      "tokens": {
+        "original": [
+          "if",
+          "tesla",
+          "is",
+          "the",
+          "new",
+          "berkshire",
+          ",",
+          "musk",
+          "would",
+          "be",
+          "the",
+          "new",
+          "buffett",
+          ".",
+          "why",
+          "the",
+          "stock",
+          "is",
+          "stalling",
+          ".",
+          "thursday",
+          ",",
+          "at",
+          "its",
+          "annual",
+          "shareholder",
+          "meeting",
+          ",",
+          "tesla",
+          "disclosed",
+          "that",
+          "investors",
+          "voted",
+          "to",
+          "award",
+          "musk",
+          "some",
+          "425",
+          "million",
+          "incentive-laden",
+          "shares",
+          "."
+        ],
+        "filtered": [
+          "tesla",
+          "new",
+          "berkshire",
+          ",",
+          "musk",
+          "would",
+          "new",
+          "buffett",
+          ".",
+          "stock",
+          "stalling",
+          ".",
+          "thursday",
+          ",",
+          "annual",
+          "shareholder",
+          "meeting",
+          ",",
+          "tesla",
+          "disclosed",
+          "investors",
+          "voted",
+          "award",
+          "musk",
+          "425",
+          "million",
+          "incentive-laden",
+          "shares",
+          "."
+        ],
+        "lemmatized": [
+          "tesla",
+          "new",
+          "berkshire",
+          ",",
+          "musk",
+          "would",
+          "new",
+          "buffett",
+          ".",
+          "stock",
+          "stalling",
+          ".",
+          "thursday",
+          ",",
+          "annual",
+          "shareholder",
+          "meeting",
+          ",",
+          "tesla",
+          "disclose",
+          "investor",
+          "vote",
+          "award",
+          "musk",
+          "425",
+          "million",
+          "incentive-laden",
+          "shares",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla",
+            "Musk Would",
+            "Musk"
+          ],
+          "ORGANIZATION": [
+            "New Berkshire",
+            "New Buffett"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "425"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "would",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "stalling",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "annual",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 42,
+        "avg_words_per_sentence": 21.0,
+        "num_unique_words": 33
+      },
+      "processed_at": "2025-11-14T03:30:05.111245",
+      "preprocessing_version": "1.0",
+      "article_id": "d55e0c9a83318ae9",
+      "title": "If Tesla Is the New Berkshire, Musk Would Be the New Buffett. Why the Stock Is Stalling.",
+      "description": "Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares.",
+      "body": "Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=8bb1da28c0e95d2464db0a6639d716e87b96ef10f9e582c03e57eee9a9240ff3",
+      "author": "Unknown",
+      "published_at": "2025-11-07T23:16:00",
+      "scraped_at": "2025-11-13T22:21:23.910368",
+      "ticker": "TSLA",
+      "raw_text": "If Tesla Is the New Berkshire, Musk Would Be the New Buffett. Why the Stock Is Stalling. Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares. Thursday, at its annual shareholder meeting, Tesla disclosed that investors voted to award Musk some 425 million incentive-laden shares.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

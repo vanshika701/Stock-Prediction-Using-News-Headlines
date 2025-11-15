@@ -1,0 +1,1137 @@
+{
+  "ticker": "HD",
+  "export_date": "2025-11-15T01:16:26.133007",
+  "article_count": 4,
+  "articles": [
+    {
+      "original_title": "UK house prices see fastest growth since January as mortgage approvals rise",
+      "original_body": "The average house price in the UK rose by 0.6% in October, or £1,647, bringing the cost of a typical home up to £299,862",
+      "cleaned_title": "UK house prices see fastest growth since January as mortgage approvals rise",
+      "cleaned_body": "The average house price in the UK rose by 0.6 percent in October, or £1,647, bringing the cost of a typical home up to £299,862",
+      "cleaned_text": "UK house prices see fastest growth since January as mortgage approvals rise. The average house price in the UK rose by 0.6 percent in October, or £1,647, bringing the cost of a typical home up to £299,862",
+      "tokens": {
+        "original": [
+          "uk",
+          "house",
+          "prices",
+          "see",
+          "fastest",
+          "growth",
+          "since",
+          "january",
+          "as",
+          "mortgage",
+          "approvals",
+          "rise",
+          "the",
+          "average",
+          "house",
+          "price",
+          "in",
+          "the",
+          "uk",
+          "rose",
+          "by",
+          "0.6",
+          "percent",
+          "in",
+          "october",
+          ",",
+          "or",
+          "£1,647",
+          ",",
+          "bringing",
+          "the",
+          "cost",
+          "of",
+          "a",
+          "typical",
+          "home",
+          "up",
+          "to",
+          "£299,862"
+        ],
+        "filtered": [
+          "uk",
+          "house",
+          "prices",
+          "see",
+          "fastest",
+          "growth",
+          "since",
+          "january",
+          "mortgage",
+          "approvals",
+          "rise",
+          "average",
+          "house",
+          "price",
+          "uk",
+          "rose",
+          "0.6",
+          "percent",
+          "october",
+          ",",
+          "£1,647",
+          ",",
+          "bringing",
+          "cost",
+          "typical",
+          "home",
+          "up",
+          "£299,862"
+        ],
+        "lemmatized": [
+          "uk",
+          "house",
+          "price",
+          "see",
+          "fast",
+          "growth",
+          "since",
+          "january",
+          "mortgage",
+          "approval",
+          "rise",
+          "average",
+          "house",
+          "price",
+          "uk",
+          "rise",
+          "0.6",
+          "percent",
+          "october",
+          ",",
+          "£1,647",
+          ",",
+          "bring",
+          "cost",
+          "typical",
+          "home",
+          "up",
+          "£299,862"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "UK"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "0.6",
+          "1",
+          "647",
+          "299",
+          "862"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "house",
+            2
+          ],
+          [
+            "price",
+            2
+          ],
+          [
+            "rise",
+            2
+          ],
+          [
+            "see",
+            1
+          ],
+          [
+            "fast",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "since",
+            1
+          ],
+          [
+            "january",
+            1
+          ],
+          [
+            "mortgage",
+            1
+          ],
+          [
+            "approval",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 40,
+        "avg_words_per_sentence": 20.0,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:23.689839",
+      "preprocessing_version": "1.0",
+      "article_id": "dc440a7fc103afa2",
+      "title": "UK house prices see fastest growth since January as mortgage approvals rise",
+      "description": "The average house price in the UK rose by 0.6% in October, or £1,647, bringing the cost of a typical home up to £299,862",
+      "body": "The average house price in the UK rose by 0.6% in October, or £1,647, bringing the cost of a typical home up to £299,862",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=dcda32847f2b748ba52f0c804d030017a80fb1b766b79703d44c71eaf418d103",
+      "author": "Unknown",
+      "published_at": "2025-11-07T13:16:31",
+      "scraped_at": "2025-11-13T22:21:12.171894",
+      "ticker": "AAPL",
+      "raw_text": "UK house prices see fastest growth since January as mortgage approvals rise The average house price in the UK rose by 0.6% in October, or £1,647, bringing the cost of a typical home up to £299,862 The average house price in the UK rose by 0.6% in October, or £1,647, bringing the cost of a typical home up to £299,862",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "HD"
+      ],
+      "ticker_confidence": {
+        "HD": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN ) ",
+      "original_body": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "cleaned_title": "Elon Musk Urges amove To Austin After Coinbase Follows Tesla To Texas - Dropbox NASDAQDBX , Coinbase Global NASDAQCOIN",
+      "cleaned_body": "Tesla Inc. NASDAQTSLA CEO Elon Musk on Wednesday renewed his attacks on Delawares corporate regime after Coinbase Global Inc. NASDAQCOIN said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "cleaned_text": "Elon Musk Urges amove To Austin After Coinbase Follows Tesla To Texas - Dropbox NASDAQDBX , Coinbase Global NASDAQCOIN. Tesla Inc. NASDAQTSLA CEO Elon Musk on Wednesday renewed his attacks on Delawares corporate regime after Coinbase Global Inc. NASDAQCOIN said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "urges",
+          "amove",
+          "to",
+          "austin",
+          "after",
+          "coinbase",
+          "follows",
+          "tesla",
+          "to",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "on",
+          "wednesday",
+          "renewed",
+          "his",
+          "attacks",
+          "on",
+          "delawares",
+          "corporate",
+          "regime",
+          "after",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "said",
+          "it",
+          "will",
+          "follow",
+          "tesla",
+          "and",
+          "spacex",
+          "in",
+          "abandoning",
+          "the",
+          "state",
+          "as",
+          "its",
+          "legal",
+          "home",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          "."
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "urges",
+          "amove",
+          "austin",
+          "coinbase",
+          "follows",
+          "tesla",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "wednesday",
+          "renewed",
+          "attacks",
+          "delawares",
+          "corporate",
+          "regime",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "said",
+          "follow",
+          "tesla",
+          "spacex",
+          "abandoning",
+          "state",
+          "legal",
+          "home",
+          "reincorporate",
+          "texas",
+          "."
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "urge",
+          "amove",
+          "austin",
+          "coinbase",
+          "follow",
+          "tesla",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "wednesday",
+          "renew",
+          "attack",
+          "delaware",
+          "corporate",
+          "regime",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "say",
+          "follow",
+          "tesla",
+          "spacex",
+          "abandon",
+          "state",
+          "legal",
+          "home",
+          "reincorporate",
+          "texas",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk Urges",
+            "Coinbase Follows Tesla",
+            "Coinbase Global",
+            "Tesla Inc.",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ",
+            "CEO Elon Musk",
+            "Delaware",
+            "SpaceX"
+          ],
+          "GPE": [
+            "Austin",
+            "Texas",
+            "Dropbox"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            3
+          ],
+          [
+            "tesla",
+            3
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "follow",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "nasdaqcoin",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "urge",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 60,
+        "avg_words_per_sentence": 30.0,
+        "num_unique_words": 44
+      },
+      "processed_at": "2025-11-14T03:29:34.352063",
+      "preprocessing_version": "1.0",
+      "article_id": "fd4fd075302be11e",
+      "title": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN ) ",
+      "description": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "body": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/news/legal/25/11/48824823/elon-musk-urges-move-to-austin-after-coinbase-follows-tesla-to-texas",
+      "author": "Shomik Sen Bhattacharjee",
+      "published_at": "20251113T040455",
+      "scraped_at": "2025-11-13T22:21:23.358107",
+      "ticker": "TSLA",
+      "raw_text": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN )  Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas. Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "sentiment_score": 0.021591,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "TXN",
+        "HD",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "TXN": 80,
+        "HD": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "TSLA": [
+          "Dropbox ( NASDAQ:DBX ) , Coinbase Global ( NASDAQ:COIN ) **Tesla** Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed",
+          "the state as its legal home and reincorporate in Texas. **Tesla** Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed"
+        ],
+        "COIN": [
+          "on Wednesday renewed his attacks on Delaware's corporate regime after **Coinbase** Global Inc. ( NASDAQ:COIN ) said it will follow Tesla"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "$135K Mortgage and $400K Roth - Would You Take Money From Your Roth To Be Mortgage-Free? Here's What Suze Orman Says To Do",
+      "original_body": "Many Americans approaching retirement face a common question: should you tap into your retirement savings to pay off your mortgage? On her \"Women & Money\" podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his \"forever home,\" is worth just under $1 milli",
+      "cleaned_title": "$135K Mortgage and $400K Roth - Would You Take Money From Your Roth To Be Mortgage-Free? here is What Suze Orman Says To Do",
+      "cleaned_body": "Many Americans approaching retirement face a common question should you tap into your retirement savings to pay off your mortgage? On her Women Money podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his forever home, is worth just under $1 milli",
+      "cleaned_text": "$135K Mortgage and $400K Roth - Would You Take Money From Your Roth To Be Mortgage-Free? here is What Suze Orman Says To Do. Many Americans approaching retirement face a common question should you tap into your retirement savings to pay off your mortgage? On her Women Money podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his forever home, is worth just under $1 milli",
+      "tokens": {
+        "original": [
+          "$",
+          "135k",
+          "mortgage",
+          "and",
+          "$",
+          "400k",
+          "roth",
+          "-",
+          "would",
+          "you",
+          "take",
+          "money",
+          "from",
+          "your",
+          "roth",
+          "to",
+          "be",
+          "mortgage-free",
+          "?",
+          "here",
+          "is",
+          "what",
+          "suze",
+          "orman",
+          "says",
+          "to",
+          "do",
+          "many",
+          "americans",
+          "approaching",
+          "retirement",
+          "face",
+          "a",
+          "common",
+          "question",
+          "should",
+          "you",
+          "tap",
+          "into",
+          "your",
+          "retirement",
+          "savings",
+          "to",
+          "pay",
+          "off",
+          "your",
+          "mortgage",
+          "?",
+          "on",
+          "her",
+          "women",
+          "money",
+          "podcast",
+          ",",
+          "personal",
+          "finance",
+          "expert",
+          "suze",
+          "orman",
+          "addressed",
+          "this",
+          "dilemma",
+          "from",
+          "a",
+          "listener",
+          "in",
+          "his",
+          "early",
+          "60s",
+          ",",
+          "providing",
+          "insight",
+          "that",
+          "could",
+          "help",
+          "others",
+          "in",
+          "similar",
+          "situations",
+          ".",
+          "the",
+          "question",
+          "from",
+          "a",
+          "listener",
+          "jody",
+          ",",
+          "just",
+          "shy",
+          "of",
+          "64",
+          ",",
+          "has",
+          "about",
+          "$",
+          "400,000",
+          "in",
+          "a",
+          "roth",
+          "ira",
+          "and",
+          "an",
+          "emergency",
+          "fund",
+          ".",
+          "his",
+          "home",
+          ",",
+          "which",
+          "he",
+          "calls",
+          "his",
+          "forever",
+          "home",
+          ",",
+          "is",
+          "worth",
+          "just",
+          "under",
+          "$",
+          "1",
+          "milli"
+        ],
+        "filtered": [
+          "$",
+          "135k",
+          "mortgage",
+          "$",
+          "400k",
+          "roth",
+          "-",
+          "would",
+          "take",
+          "money",
+          "roth",
+          "mortgage-free",
+          "?",
+          "suze",
+          "orman",
+          "says",
+          "many",
+          "americans",
+          "approaching",
+          "retirement",
+          "face",
+          "common",
+          "question",
+          "tap",
+          "retirement",
+          "savings",
+          "pay",
+          "mortgage",
+          "?",
+          "women",
+          "money",
+          "podcast",
+          ",",
+          "personal",
+          "finance",
+          "expert",
+          "suze",
+          "orman",
+          "addressed",
+          "dilemma",
+          "listener",
+          "early",
+          "60s",
+          ",",
+          "providing",
+          "insight",
+          "could",
+          "help",
+          "others",
+          "similar",
+          "situations",
+          ".",
+          "question",
+          "listener",
+          "jody",
+          ",",
+          "shy",
+          "64",
+          ",",
+          "$",
+          "400,000",
+          "roth",
+          "ira",
+          "emergency",
+          "fund",
+          ".",
+          "home",
+          ",",
+          "calls",
+          "forever",
+          "home",
+          ",",
+          "worth",
+          "under",
+          "$",
+          "1",
+          "milli"
+        ],
+        "lemmatized": [
+          "$",
+          "135k",
+          "mortgage",
+          "$",
+          "400k",
+          "roth",
+          "-",
+          "would",
+          "take",
+          "money",
+          "roth",
+          "mortgage-free",
+          "?",
+          "suze",
+          "orman",
+          "say",
+          "many",
+          "american",
+          "approach",
+          "retirement",
+          "face",
+          "common",
+          "question",
+          "tap",
+          "retirement",
+          "savings",
+          "pay",
+          "mortgage",
+          "?",
+          "woman",
+          "money",
+          "podcast",
+          ",",
+          "personal",
+          "finance",
+          "expert",
+          "suze",
+          "orman",
+          "address",
+          "dilemma",
+          "listener",
+          "early",
+          "60",
+          ",",
+          "provide",
+          "insight",
+          "could",
+          "help",
+          "others",
+          "similar",
+          "situation",
+          ".",
+          "question",
+          "listener",
+          "jody",
+          ",",
+          "shy",
+          "64",
+          ",",
+          "$",
+          "400,000",
+          "roth",
+          "ira",
+          "emergency",
+          "fund",
+          ".",
+          "home",
+          ",",
+          "call",
+          "forever",
+          "home",
+          ",",
+          "worth",
+          "under",
+          "$",
+          "1",
+          "milli"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Suze Orman",
+            "Money"
+          ],
+          "ORGANIZATION": [
+            "Roth",
+            "Listener Jody",
+            "IRA"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "135K",
+          "400K",
+          "64",
+          "400",
+          "000",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "roth",
+            3
+          ],
+          [
+            "mortgage",
+            2
+          ],
+          [
+            "money",
+            2
+          ],
+          [
+            "suze",
+            2
+          ],
+          [
+            "orman",
+            2
+          ],
+          [
+            "retirement",
+            2
+          ],
+          [
+            "question",
+            2
+          ],
+          [
+            "listener",
+            2
+          ],
+          [
+            "home",
+            2
+          ],
+          [
+            "135k",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 6,
+        "num_words": 123,
+        "avg_words_per_sentence": 20.5,
+        "num_unique_words": 85
+      },
+      "processed_at": "2025-11-14T03:29:49.569459",
+      "preprocessing_version": "1.0",
+      "article_id": "58847dd666faf6c7",
+      "title": "$135K Mortgage and $400K Roth - Would You Take Money From Your Roth To Be Mortgage-Free? Here's What Suze Orman Says To Do",
+      "description": "Many Americans approaching retirement face a common question: should you tap into your retirement savings to pay off your mortgage? On her \"Women & Money\" podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his \"forever home,\" is worth just under $1 milli",
+      "body": "Many Americans approaching retirement face a common question: should you tap into your retirement savings to pay off your mortgage? On her \"Women & Money\" podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his \"forever home,\" is worth just under $1 milli",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=c6fc4ab2e7736780a3006a6b8127f589486c62622454d78cec5c242fbabefb78",
+      "author": "Unknown",
+      "published_at": "2025-11-11T07:31:09",
+      "scraped_at": "2025-11-13T22:21:23.909300",
+      "ticker": "TSLA",
+      "raw_text": "$135K Mortgage and $400K Roth - Would You Take Money From Your Roth To Be Mortgage-Free? Here's What Suze Orman Says To Do Many Americans approaching retirement face a common question: should you tap into your retirement savings to pay off your mortgage? On her \"Women & Money\" podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his \"forever home,\" is worth just under $1 milli Many Americans approaching retirement face a common question: should you tap into your retirement savings to pay off your mortgage? On her \"Women & Money\" podcast, personal finance expert Suze Orman addressed this dilemma from a listener in his early 60s, providing insight that could help others in similar situations. The Question from a Listener Jody, just shy of 64, has about $400,000 in a Roth IRA and an emergency fund. His home, which he calls his \"forever home,\" is worth just under $1 milli",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "HD"
+      ],
+      "ticker_confidence": {
+        "HD": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Riding in a Chinese Robotaxi Is Pretty Smooth—That’s a Problem for Waymo",
+      "original_body": "While U.S. companies dominate their home market, other countries are looking to China for driverless technology.",
+      "cleaned_title": "Riding in a Chinese Robotaxi Is Pretty SmoothThats a Problem for Waymo",
+      "cleaned_body": "While U.S. companies dominate their home market, other countries are looking to China for driverless technology.",
+      "cleaned_text": "Riding in a Chinese Robotaxi Is Pretty SmoothThats a Problem for Waymo. While U.S. companies dominate their home market, other countries are looking to China for driverless technology.",
+      "tokens": {
+        "original": [
+          "riding",
+          "in",
+          "a",
+          "chinese",
+          "robotaxi",
+          "is",
+          "pretty",
+          "smooththats",
+          "a",
+          "problem",
+          "for",
+          "waymo",
+          "while",
+          "u.s.",
+          "companies",
+          "dominate",
+          "their",
+          "home",
+          "market",
+          ",",
+          "other",
+          "countries",
+          "are",
+          "looking",
+          "to",
+          "china",
+          "for",
+          "driverless",
+          "technology",
+          "."
+        ],
+        "filtered": [
+          "riding",
+          "chinese",
+          "robotaxi",
+          "pretty",
+          "smooththats",
+          "problem",
+          "waymo",
+          "u.s.",
+          "companies",
+          "dominate",
+          "home",
+          "market",
+          ",",
+          "countries",
+          "looking",
+          "china",
+          "driverless",
+          "technology",
+          "."
+        ],
+        "lemmatized": [
+          "rid",
+          "chinese",
+          "robotaxi",
+          "pretty",
+          "smooththats",
+          "problem",
+          "waymo",
+          "u.s.",
+          "company",
+          "dominate",
+          "home",
+          "market",
+          ",",
+          "country",
+          "look",
+          "china",
+          "driverless",
+          "technology",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Robotaxi Is",
+            "Waymo"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Chinese",
+            "U.S.",
+            "China"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "rid",
+            1
+          ],
+          [
+            "chinese",
+            1
+          ],
+          [
+            "robotaxi",
+            1
+          ],
+          [
+            "pretty",
+            1
+          ],
+          [
+            "smooththats",
+            1
+          ],
+          [
+            "problem",
+            1
+          ],
+          [
+            "waymo",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "dominate",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 31,
+        "avg_words_per_sentence": 15.5,
+        "num_unique_words": 28
+      },
+      "processed_at": "2025-11-14T03:30:02.016192",
+      "preprocessing_version": "1.0",
+      "article_id": "b0167fd6fdbd7bf7",
+      "title": "Riding in a Chinese Robotaxi Is Pretty Smooth—That’s a Problem for Waymo",
+      "description": "While U.S. companies dominate their home market, other countries are looking to China for driverless technology.",
+      "body": "While U.S. companies dominate their home market, other countries are looking to China for driverless technology.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=989dd56913ff386406b0842ac52ebd5fb31bed42dfd51145d72896b1a8d1274c",
+      "author": "Unknown",
+      "published_at": "2025-11-08T09:30:00",
+      "scraped_at": "2025-11-13T22:21:23.910178",
+      "ticker": "TSLA",
+      "raw_text": "Riding in a Chinese Robotaxi Is Pretty Smooth—That’s a Problem for Waymo While U.S. companies dominate their home market, other countries are looking to China for driverless technology. While U.S. companies dominate their home market, other countries are looking to China for driverless technology.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "HD"
+      ],
+      "ticker_confidence": {
+        "HD": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

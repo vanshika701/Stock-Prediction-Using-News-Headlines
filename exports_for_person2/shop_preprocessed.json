@@ -1,0 +1,276 @@
+{
+  "ticker": "SHOP",
+  "export_date": "2025-11-15T01:16:26.142059",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "5 Stocks That Rose During The Quarter Due To Key Catalysts",
+      "original_body": "Baron Capital reviews Q3 drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the fundâs conviction themes.",
+      "cleaned_title": "5 Stocks That Rose During The Quarter Due To Key Catalysts",
+      "cleaned_body": "Baron Capital reviews third quarter drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the funds conviction themes.",
+      "cleaned_text": "5 Stocks That Rose During The Quarter Due To Key Catalysts. Baron Capital reviews third quarter drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the funds conviction themes.",
+      "tokens": {
+        "original": [
+          "5",
+          "stocks",
+          "that",
+          "rose",
+          "during",
+          "the",
+          "quarter",
+          "due",
+          "to",
+          "key",
+          "catalysts",
+          "baron",
+          "capital",
+          "reviews",
+          "third",
+          "quarter",
+          "drivers",
+          "for",
+          "tesla",
+          ",",
+          "spacex",
+          ",",
+          "ibkr",
+          ",",
+          "shopify",
+          ",",
+          "and",
+          "figs",
+          ",",
+          "highlighting",
+          "ai",
+          ",",
+          "starlink",
+          ",",
+          "and",
+          "margin",
+          "expansion",
+          ".",
+          "explore",
+          "the",
+          "funds",
+          "conviction",
+          "themes",
+          "."
+        ],
+        "filtered": [
+          "5",
+          "stocks",
+          "rose",
+          "quarter",
+          "due",
+          "key",
+          "catalysts",
+          "baron",
+          "capital",
+          "reviews",
+          "third",
+          "quarter",
+          "drivers",
+          "tesla",
+          ",",
+          "spacex",
+          ",",
+          "ibkr",
+          ",",
+          "shopify",
+          ",",
+          "figs",
+          ",",
+          "highlighting",
+          "ai",
+          ",",
+          "starlink",
+          ",",
+          "margin",
+          "expansion",
+          ".",
+          "explore",
+          "funds",
+          "conviction",
+          "themes",
+          "."
+        ],
+        "lemmatized": [
+          "5",
+          "stock",
+          "rise",
+          "quarter",
+          "due",
+          "key",
+          "catalyst",
+          "baron",
+          "capital",
+          "review",
+          "third",
+          "quarter",
+          "driver",
+          "tesla",
+          ",",
+          "spacex",
+          ",",
+          "ibkr",
+          ",",
+          "shopify",
+          ",",
+          "fig",
+          ",",
+          "highlight",
+          "ai",
+          ",",
+          "starlink",
+          ",",
+          "margin",
+          "expansion",
+          ".",
+          "explore",
+          "fund",
+          "conviction",
+          "theme",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Rose",
+            "Baron Capital",
+            "Tesla",
+            "Starlink"
+          ],
+          "ORGANIZATION": [
+            "Quarter Due To Key Catalysts",
+            "SpaceX",
+            "IBKR",
+            "FIGS",
+            "AI"
+          ],
+          "GPE": [
+            "Shopify"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "quarter",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "rise",
+            1
+          ],
+          [
+            "due",
+            1
+          ],
+          [
+            "key",
+            1
+          ],
+          [
+            "catalyst",
+            1
+          ],
+          [
+            "baron",
+            1
+          ],
+          [
+            "capital",
+            1
+          ],
+          [
+            "review",
+            1
+          ],
+          [
+            "third",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 45,
+        "avg_words_per_sentence": 15.0,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:58.575114",
+      "preprocessing_version": "1.0",
+      "article_id": "ea01d4d611501662",
+      "title": "5 Stocks That Rose During The Quarter Due To Key Catalysts",
+      "description": "Baron Capital reviews Q3 drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the fundâs conviction themes.",
+      "body": "Baron Capital reviews Q3 drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the fundâs conviction themes.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=3642cee926271497289b7766cda290e169caf558d9f9ddad864287ab20353855",
+      "author": "Unknown",
+      "published_at": "2025-11-10T05:00:00",
+      "scraped_at": "2025-11-13T22:21:23.909923",
+      "ticker": "TSLA",
+      "raw_text": "5 Stocks That Rose During The Quarter Due To Key Catalysts Baron Capital reviews Q3 drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the fundâs conviction themes. Baron Capital reviews Q3 drivers for Tesla, SpaceX, IBKR, Shopify, and FIGS, highlighting AI, Starlink, and margin expansion. Explore the fundâs conviction themes.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494631365/image_1494631365.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "SHOP"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "SHOP": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

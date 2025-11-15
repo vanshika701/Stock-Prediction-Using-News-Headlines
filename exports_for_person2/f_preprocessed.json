@@ -1,0 +1,1664 @@
+{
+  "ticker": "F",
+  "export_date": "2025-11-15T01:16:26.139014",
+  "article_count": 6,
+  "articles": [
+    {
+      "original_title": "Ford CEO Jim Farley Says Elon Musk's Tesla 'Humbled' Him After Model 3 Tear-Down - Tesla  ( NASDAQ:TSLA ) ",
+      "original_body": "Ford Motor Co. ( NYSE:F ) CEO Jim Farley has hailed Tesla Inc.'s ( NASDAQ:TSLA ) and Ford's Chinese rivals' EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ...",
+      "cleaned_title": "Ford CEO Jim Farley Says Elon Musks Tesla Humbled Him After Model 3 Tear-Down - Tesla NASDAQTSLA",
+      "cleaned_body": "Ford Motor Co. NYSEF CEO Jim Farley has hailed Tesla Inc.s NASDAQTSLA and Fords Chinese rivals EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ...",
+      "cleaned_text": "Ford CEO Jim Farley Says Elon Musks Tesla Humbled Him After Model 3 Tear-Down - Tesla NASDAQTSLA. Ford Motor Co. NYSEF CEO Jim Farley has hailed Tesla Inc.s NASDAQTSLA and Fords Chinese rivals EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ...",
+      "tokens": {
+        "original": [
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "says",
+          "elon",
+          "musks",
+          "tesla",
+          "humbled",
+          "him",
+          "after",
+          "model",
+          "3",
+          "tear-down",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          "ford",
+          "motor",
+          "co.",
+          "nysef",
+          "ceo",
+          "jim",
+          "farley",
+          "has",
+          "hailed",
+          "tesla",
+          "inc.s",
+          "nasdaqtsla",
+          "and",
+          "fords",
+          "chinese",
+          "rivals",
+          "ev",
+          "technology",
+          ".",
+          "the",
+          "ceo",
+          "shared",
+          "his",
+          "realization",
+          "when",
+          "his",
+          "team",
+          "took",
+          "apart",
+          "a",
+          "tesla",
+          "model",
+          "3",
+          ",",
+          "claiming",
+          "that",
+          "the",
+          "mustang",
+          "mach-e",
+          "had",
+          "electrical",
+          "wiring",
+          "spanning",
+          "over",
+          "1.6km",
+          "more",
+          "than",
+          "the",
+          "..."
+        ],
+        "filtered": [
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "says",
+          "elon",
+          "musks",
+          "tesla",
+          "humbled",
+          "model",
+          "3",
+          "tear-down",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          "ford",
+          "motor",
+          "co.",
+          "nysef",
+          "ceo",
+          "jim",
+          "farley",
+          "hailed",
+          "tesla",
+          "inc.s",
+          "nasdaqtsla",
+          "fords",
+          "chinese",
+          "rivals",
+          "ev",
+          "technology",
+          ".",
+          "ceo",
+          "shared",
+          "realization",
+          "team",
+          "took",
+          "apart",
+          "tesla",
+          "model",
+          "3",
+          ",",
+          "claiming",
+          "mustang",
+          "mach-e",
+          "electrical",
+          "wiring",
+          "spanning",
+          "over",
+          "1.6km",
+          "more",
+          "..."
+        ],
+        "lemmatized": [
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "say",
+          "elon",
+          "musk",
+          "tesla",
+          "humble",
+          "model",
+          "3",
+          "tear-down",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          "ford",
+          "motor",
+          "co.",
+          "nysef",
+          "ceo",
+          "jim",
+          "farley",
+          "hail",
+          "tesla",
+          "inc.s",
+          "nasdaqtsla",
+          "ford",
+          "chinese",
+          "rival",
+          "ev",
+          "technology",
+          ".",
+          "ceo",
+          "share",
+          "realization",
+          "team",
+          "take",
+          "apart",
+          "tesla",
+          "model",
+          "3",
+          ",",
+          "claim",
+          "mustang",
+          "mach-e",
+          "electrical",
+          "wiring",
+          "spanning",
+          "over",
+          "1.6km",
+          "more",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jim Farley Says Elon Musk",
+            "Tesla",
+            "Tesla Inc."
+          ],
+          "ORGANIZATION": [
+            "NASDAQ",
+            "NYSE",
+            "CEO Jim Farley",
+            "Ford",
+            "CEO",
+            "Mustang"
+          ],
+          "GPE": [
+            "Tesla",
+            "Chinese"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "3",
+          "3",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            4
+          ],
+          [
+            "ford",
+            3
+          ],
+          [
+            "ceo",
+            3
+          ],
+          [
+            "jim",
+            2
+          ],
+          [
+            "farley",
+            2
+          ],
+          [
+            "model",
+            2
+          ],
+          [
+            "nasdaqtsla",
+            2
+          ],
+          [
+            "say",
+            1
+          ],
+          [
+            "elon",
+            1
+          ],
+          [
+            "musk",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 67,
+        "avg_words_per_sentence": 22.33,
+        "num_unique_words": 52
+      },
+      "processed_at": "2025-11-14T03:29:37.398606",
+      "preprocessing_version": "1.0",
+      "article_id": "d4241442c3decff6",
+      "title": "Ford CEO Jim Farley Says Elon Musk's Tesla 'Humbled' Him After Model 3 Tear-Down - Tesla  ( NASDAQ:TSLA ) ",
+      "description": "Ford Motor Co. ( NYSE:F ) CEO Jim Farley has hailed Tesla Inc.'s ( NASDAQ:TSLA ) and Ford's Chinese rivals' EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ...",
+      "body": "Ford Motor Co. ( NYSE:F ) CEO Jim Farley has hailed Tesla Inc.'s ( NASDAQ:TSLA ) and Ford's Chinese rivals' EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ...",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/markets/tech/25/11/48795848/ford-ceo-jim-farley-says-elon-musks-tesla-humbled-him-after-model-3-tear-down",
+      "author": "Badar Shaikh",
+      "published_at": "20251112T080557",
+      "scraped_at": "2025-11-13T22:21:23.358373",
+      "ticker": "TSLA",
+      "raw_text": "Ford CEO Jim Farley Says Elon Musk's Tesla 'Humbled' Him After Model 3 Tear-Down - Tesla  ( NASDAQ:TSLA )  Ford Motor Co. ( NYSE:F ) CEO Jim Farley has hailed Tesla Inc.'s ( NASDAQ:TSLA ) and Ford's Chinese rivals' EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ... Ford Motor Co. ( NYSE:F ) CEO Jim Farley has hailed Tesla Inc.'s ( NASDAQ:TSLA ) and Ford's Chinese rivals' EV technology. The CEO shared his realization when his team took apart a Tesla Model 3, claiming that the Mustang Mach-E had electrical wiring spanning over 1.6km more than the ...",
+      "sentiment_score": 0.183442,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "F"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "F": 80
+      },
+      "ticker_contexts": {
+        "TSLA": [
+          "Motor Co. ( NYSE:F ) CEO Jim Farley has hailed **Tesla** Inc.'s ( NASDAQ:TSLA ) and Ford's Chinese rivals' EV technology."
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Ford CEO Jim Farley shares 'shocking' lesson he learned from Tesla",
+      "original_body": "Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025: $3.6 billion (year to date)2024: $5.1 billion2023: $4.7 ...",
+      "cleaned_title": "Ford CEO Jim Farley shares shocking lesson he learned from Tesla",
+      "cleaned_body": "Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025 $3.6 billion year to date2024 $5.1 billion2023 $4.7 ...",
+      "cleaned_text": "Ford CEO Jim Farley shares shocking lesson he learned from Tesla. Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025 $3.6 billion year to date2024 $5.1 billion2023 $4.7 ...",
+      "tokens": {
+        "original": [
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "shares",
+          "shocking",
+          "lesson",
+          "he",
+          "learned",
+          "from",
+          "tesla",
+          "earlier",
+          "this",
+          "year",
+          ",",
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "had",
+          "a",
+          "humbling",
+          "experience",
+          "in",
+          "asia",
+          ".",
+          "the",
+          "detroit",
+          "automaker",
+          "has",
+          "sunk",
+          "billions",
+          "into",
+          "model",
+          "e",
+          ",",
+          "its",
+          "electric",
+          "vehicle",
+          "division",
+          ",",
+          "for",
+          "decades",
+          ",",
+          "with",
+          "little",
+          "to",
+          "show",
+          "for",
+          "it",
+          ".",
+          "2025",
+          "$",
+          "3.6",
+          "billion",
+          "year",
+          "to",
+          "date2024",
+          "$",
+          "5.1",
+          "billion2023",
+          "$",
+          "4.7",
+          "..."
+        ],
+        "filtered": [
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "shares",
+          "shocking",
+          "lesson",
+          "learned",
+          "tesla",
+          "earlier",
+          "year",
+          ",",
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "humbling",
+          "experience",
+          "asia",
+          ".",
+          "detroit",
+          "automaker",
+          "sunk",
+          "billions",
+          "model",
+          "e",
+          ",",
+          "electric",
+          "vehicle",
+          "division",
+          ",",
+          "decades",
+          ",",
+          "little",
+          "show",
+          ".",
+          "2025",
+          "$",
+          "3.6",
+          "billion",
+          "year",
+          "date2024",
+          "$",
+          "5.1",
+          "billion2023",
+          "$",
+          "4.7",
+          "..."
+        ],
+        "lemmatized": [
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "shares",
+          "shock",
+          "lesson",
+          "learn",
+          "tesla",
+          "earlier",
+          "year",
+          ",",
+          "ford",
+          "ceo",
+          "jim",
+          "farley",
+          "humble",
+          "experience",
+          "asia",
+          ".",
+          "detroit",
+          "automaker",
+          "sunk",
+          "billion",
+          "model",
+          "e",
+          ",",
+          "electric",
+          "vehicle",
+          "division",
+          ",",
+          "decade",
+          ",",
+          "little",
+          "show",
+          ".",
+          "2025",
+          "$",
+          "3.6",
+          "billion",
+          "year",
+          "date2024",
+          "$",
+          "5.1",
+          "billion2023",
+          "$",
+          "4.7",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jim Farley"
+          ],
+          "ORGANIZATION": [
+            "Ford",
+            "Detroit"
+          ],
+          "GPE": [
+            "Tesla",
+            "Asia",
+            "Model"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2025",
+          "3.6",
+          "2024",
+          "5.1",
+          "4.7"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ford",
+            2
+          ],
+          [
+            "ceo",
+            2
+          ],
+          [
+            "jim",
+            2
+          ],
+          [
+            "farley",
+            2
+          ],
+          [
+            "year",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "shock",
+            1
+          ],
+          [
+            "lesson",
+            1
+          ],
+          [
+            "learn",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 65,
+        "avg_words_per_sentence": 16.25,
+        "num_unique_words": 51
+      },
+      "processed_at": "2025-11-14T03:29:43.471199",
+      "preprocessing_version": "1.0",
+      "article_id": "2ca56cb0187404a7",
+      "title": "Ford CEO Jim Farley shares 'shocking' lesson he learned from Tesla",
+      "description": "Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025: $3.6 billion (year to date)2024: $5.1 billion2023: $4.7 ...",
+      "body": "Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025: $3.6 billion (year to date)2024: $5.1 billion2023: $4.7 ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=e18aa896687f6dafb7202c4c85e55b20a91630b9f283e991164af0c168e650b8",
+      "author": "Unknown",
+      "published_at": "2025-11-12T23:03:00",
+      "scraped_at": "2025-11-13T22:21:23.908488",
+      "ticker": "TSLA",
+      "raw_text": "Ford CEO Jim Farley shares 'shocking' lesson he learned from Tesla Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025: $3.6 billion (year to date)2024: $5.1 billion2023: $4.7 ... Earlier this year, Ford CEO Jim Farley had a humbling experience in Asia. The Detroit automaker has sunk billions into Model e, its electric vehicle division, for decades, with little to show for it. 2025: $3.6 billion (year to date)2024: $5.1 billion2023: $4.7 ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "F"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "F": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Automakers handle tariff 'punches' pretty well: Portfolio mgr.",
+      "original_body": "With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past year's EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford (F), General Motors (GM), and Tesla (TSLA) have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "cleaned_title": "Automakers handle tariff punches pretty well Portfolio mgr.",
+      "cleaned_body": "With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past years EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford F, General Motors GM, and Tesla TSLA have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "cleaned_text": "Automakers handle tariff punches pretty well Portfolio mgr.. With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past years EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford F, General Motors GM, and Tesla TSLA have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "tokens": {
+        "original": [
+          "automakers",
+          "handle",
+          "tariff",
+          "punches",
+          "pretty",
+          "well",
+          "portfolio",
+          "mgr",
+          ".",
+          "with",
+          "the",
+          "end",
+          "of",
+          "2025",
+          "now",
+          "in",
+          "sight",
+          ",",
+          "how",
+          "is",
+          "the",
+          "auto",
+          "industry",
+          "looking",
+          "back",
+          "in",
+          "the",
+          "rearview",
+          "on",
+          "this",
+          "past",
+          "years",
+          "ev",
+          "pricing",
+          "trends",
+          ",",
+          "supply",
+          "chain",
+          "mitigations",
+          ",",
+          "and",
+          "the",
+          "tariff-related",
+          "costs",
+          "major",
+          "producers",
+          "have",
+          "had",
+          "to",
+          "take",
+          "on",
+          "?",
+          "gabelli",
+          "funds",
+          "portfolio",
+          "manager",
+          "brian",
+          "sponheimer",
+          "comes",
+          "on",
+          "market",
+          "domination",
+          "to",
+          "talk",
+          "about",
+          "some",
+          "of",
+          "the",
+          "above",
+          "themes",
+          "and",
+          "how",
+          "ford",
+          "f",
+          ",",
+          "general",
+          "motors",
+          "gm",
+          ",",
+          "and",
+          "tesla",
+          "tsla",
+          "have",
+          "been",
+          "adapting",
+          "to",
+          "these",
+          "circumstances",
+          ".",
+          "to",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "and",
+          "analysis",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "out",
+          "more",
+          "market",
+          "domination",
+          "."
+        ],
+        "filtered": [
+          "automakers",
+          "handle",
+          "tariff",
+          "punches",
+          "pretty",
+          "well",
+          "portfolio",
+          "mgr",
+          ".",
+          "end",
+          "2025",
+          "sight",
+          ",",
+          "auto",
+          "industry",
+          "looking",
+          "back",
+          "rearview",
+          "past",
+          "years",
+          "ev",
+          "pricing",
+          "trends",
+          ",",
+          "supply",
+          "chain",
+          "mitigations",
+          ",",
+          "tariff-related",
+          "costs",
+          "major",
+          "producers",
+          "take",
+          "?",
+          "gabelli",
+          "funds",
+          "portfolio",
+          "manager",
+          "brian",
+          "sponheimer",
+          "comes",
+          "market",
+          "domination",
+          "talk",
+          "above",
+          "themes",
+          "ford",
+          "f",
+          ",",
+          "general",
+          "motors",
+          "gm",
+          ",",
+          "tesla",
+          "tsla",
+          "adapting",
+          "circumstances",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "analysis",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "domination",
+          "."
+        ],
+        "lemmatized": [
+          "automaker",
+          "handle",
+          "tariff",
+          "punch",
+          "pretty",
+          "well",
+          "portfolio",
+          "mgr",
+          ".",
+          "end",
+          "2025",
+          "sight",
+          ",",
+          "auto",
+          "industry",
+          "look",
+          "back",
+          "rearview",
+          "past",
+          "year",
+          "ev",
+          "price",
+          "trend",
+          ",",
+          "supply",
+          "chain",
+          "mitigation",
+          ",",
+          "tariff-related",
+          "cost",
+          "major",
+          "producer",
+          "take",
+          "?",
+          "gabelli",
+          "fund",
+          "portfolio",
+          "manager",
+          "brian",
+          "sponheimer",
+          "come",
+          "market",
+          "domination",
+          "talk",
+          "above",
+          "theme",
+          "ford",
+          "f",
+          ",",
+          "general",
+          "motor",
+          "gm",
+          ",",
+          "tesla",
+          "tsla",
+          "adapt",
+          "circumstance",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insight",
+          "analysis",
+          "late",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "domination",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Portfolio",
+            "Brian Sponheimer",
+            "Market Domination"
+          ],
+          "ORGANIZATION": [
+            "Gabelli Funds Portfolio",
+            "General Motors",
+            "TSLA"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "market",
+            3
+          ],
+          [
+            "portfolio",
+            2
+          ],
+          [
+            "domination",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "automaker",
+            1
+          ],
+          [
+            "handle",
+            1
+          ],
+          [
+            "tariff",
+            1
+          ],
+          [
+            "punch",
+            1
+          ],
+          [
+            "pretty",
+            1
+          ],
+          [
+            "well",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 108,
+        "avg_words_per_sentence": 36.0,
+        "num_unique_words": 79
+      },
+      "processed_at": "2025-11-14T03:29:50.195598",
+      "preprocessing_version": "1.0",
+      "article_id": "64cc8e3a5d800def",
+      "title": "Automakers handle tariff 'punches' pretty well: Portfolio mgr.",
+      "description": "With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past year's EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford (F), General Motors (GM), and Tesla (TSLA) have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "body": "With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past year's EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford (F), General Motors (GM), and Tesla (TSLA) have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=ff2a9e919317b8420a0e709b957897b307ae7941f852ead1a77026c3e6afee1e",
+      "author": "Unknown",
+      "published_at": "2025-11-11T03:45:00",
+      "scraped_at": "2025-11-13T22:21:23.909351",
+      "ticker": "TSLA",
+      "raw_text": "Automakers handle tariff 'punches' pretty well: Portfolio mgr. With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past year's EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford (F), General Motors (GM), and Tesla (TSLA) have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination. With the end of 2025 now in sight, how is the auto industry looking back in the rearview on this past year's EV pricing trends, supply chain mitigations, and the tariff-related costs major producers have had to take on? Gabelli Funds Portfolio Manager Brian Sponheimer comes on Market Domination to talk about some of the above themes and how Ford (F), General Motors (GM), and Tesla (TSLA) have been adapting to these circumstances. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "F",
+        "GM"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "F": 80,
+        "GM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Ford Stock Trading Near 52-Week High: What Should Investors Do Now?",
+      "original_body": "F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction.",
+      "cleaned_title": "Ford Stock Trading Near 52-Week High What Should Investors Do Now?",
+      "cleaned_body": "F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction.",
+      "cleaned_text": "Ford Stock Trading Near 52-Week High What Should Investors Do Now?. F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction.",
+      "tokens": {
+        "original": [
+          "ford",
+          "stock",
+          "trading",
+          "near",
+          "52-week",
+          "high",
+          "what",
+          "should",
+          "investors",
+          "do",
+          "now",
+          "?",
+          "f",
+          "nears",
+          "its",
+          "52-week",
+          "high",
+          "after",
+          "strong",
+          "earnings",
+          ",",
+          "but",
+          "ev",
+          "headwinds",
+          "and",
+          "guidance",
+          "cuts",
+          "test",
+          "investor",
+          "conviction",
+          "."
+        ],
+        "filtered": [
+          "ford",
+          "stock",
+          "trading",
+          "near",
+          "52-week",
+          "high",
+          "investors",
+          "?",
+          "f",
+          "nears",
+          "52-week",
+          "high",
+          "strong",
+          "earnings",
+          ",",
+          "ev",
+          "headwinds",
+          "guidance",
+          "cuts",
+          "test",
+          "investor",
+          "conviction",
+          "."
+        ],
+        "lemmatized": [
+          "ford",
+          "stock",
+          "trading",
+          "near",
+          "52-week",
+          "high",
+          "investor",
+          "?",
+          "f",
+          "near",
+          "52-week",
+          "high",
+          "strong",
+          "earnings",
+          ",",
+          "ev",
+          "headwind",
+          "guidance",
+          "cut",
+          "test",
+          "investor",
+          "conviction",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Ford Stock Trading Near 52-Week",
+            "EV"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "high"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "52",
+          "52"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "near",
+            2
+          ],
+          [
+            "52-week",
+            2
+          ],
+          [
+            "high",
+            2
+          ],
+          [
+            "investor",
+            2
+          ],
+          [
+            "ford",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "trading",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "headwind",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 32,
+        "avg_words_per_sentence": 16.0,
+        "num_unique_words": 29
+      },
+      "processed_at": "2025-11-14T03:29:55.211825",
+      "preprocessing_version": "1.0",
+      "article_id": "43b91a05a9583711",
+      "title": "Ford Stock Trading Near 52-Week High: What Should Investors Do Now?",
+      "description": "F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction.",
+      "body": "F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=c6e4759e5981ad7544f23d823e79dae19d4f5d869fff8133452f9ecedce7801a",
+      "author": "Unknown",
+      "published_at": "2025-11-10T19:54:00",
+      "scraped_at": "2025-11-13T22:21:23.909707",
+      "ticker": "TSLA",
+      "raw_text": "Ford Stock Trading Near 52-Week High: What Should Investors Do Now? F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction. F nears its 52-week high after strong earnings, but EV headwinds and guidance cuts test investor conviction.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "F"
+      ],
+      "ticker_confidence": {
+        "F": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Possible Cancellation Of Ford's F-150 Battery Electric Pickup Illustrates Electrification's Delay",
+      "original_body": "Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown.",
+      "cleaned_title": "Possible Cancellation Of Fords F-150 Battery Electric Pickup Illustrates Electrifications Delay",
+      "cleaned_body": "Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown.",
+      "cleaned_text": "Possible Cancellation Of Fords F-150 Battery Electric Pickup Illustrates Electrifications Delay. Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown.",
+      "tokens": {
+        "original": [
+          "possible",
+          "cancellation",
+          "of",
+          "fords",
+          "f-150",
+          "battery",
+          "electric",
+          "pickup",
+          "illustrates",
+          "electrifications",
+          "delay",
+          "ford",
+          "faces",
+          "weak",
+          "u.s.",
+          "demand",
+          "for",
+          "electric",
+          "pickups",
+          ".",
+          "read",
+          "why",
+          "a",
+          "cancellation",
+          "of",
+          "the",
+          "f-150",
+          "lightning",
+          "reflects",
+          "a",
+          "broader",
+          "ev",
+          "market",
+          "slowdown",
+          "."
+        ],
+        "filtered": [
+          "possible",
+          "cancellation",
+          "fords",
+          "f-150",
+          "battery",
+          "electric",
+          "pickup",
+          "illustrates",
+          "electrifications",
+          "delay",
+          "ford",
+          "faces",
+          "weak",
+          "u.s.",
+          "demand",
+          "electric",
+          "pickups",
+          ".",
+          "read",
+          "cancellation",
+          "f-150",
+          "lightning",
+          "reflects",
+          "broader",
+          "ev",
+          "market",
+          "slowdown",
+          "."
+        ],
+        "lemmatized": [
+          "possible",
+          "cancellation",
+          "ford",
+          "f-150",
+          "battery",
+          "electric",
+          "pickup",
+          "illustrate",
+          "electrification",
+          "delay",
+          "ford",
+          "face",
+          "weak",
+          "u.s.",
+          "demand",
+          "electric",
+          "pickup",
+          ".",
+          "read",
+          "cancellation",
+          "f-150",
+          "lightning",
+          "reflect",
+          "broad",
+          "ev",
+          "market",
+          "slowdown",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Battery Electric Pickup Illustrates Electrification"
+          ],
+          "ORGANIZATION": [
+            "Ford"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "weak"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "150",
+          "150"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cancellation",
+            2
+          ],
+          [
+            "ford",
+            2
+          ],
+          [
+            "f-150",
+            2
+          ],
+          [
+            "electric",
+            2
+          ],
+          [
+            "pickup",
+            2
+          ],
+          [
+            "possible",
+            1
+          ],
+          [
+            "battery",
+            1
+          ],
+          [
+            "illustrate",
+            1
+          ],
+          [
+            "electrification",
+            1
+          ],
+          [
+            "delay",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 36,
+        "avg_words_per_sentence": 12.0,
+        "num_unique_words": 29
+      },
+      "processed_at": "2025-11-14T03:29:56.221783",
+      "preprocessing_version": "1.0",
+      "article_id": "48304e2299b52db8",
+      "title": "Possible Cancellation Of Ford's F-150 Battery Electric Pickup Illustrates Electrification's Delay",
+      "description": "Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown.",
+      "body": "Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=ea3f4b07a75c2e88f22395cfc284842979e7ef51306eadbeb7c385ff822478ca",
+      "author": "Unknown",
+      "published_at": "2025-11-10T18:52:16",
+      "scraped_at": "2025-11-13T22:21:23.909765",
+      "ticker": "TSLA",
+      "raw_text": "Possible Cancellation Of Ford's F-150 Battery Electric Pickup Illustrates Electrification's Delay Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown. Ford faces weak U.S. demand for electric pickups. Read why a cancellation of the F-150 Lightning reflects a broader EV market slowdown.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442545838/image_1442545838.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "F"
+      ],
+      "ticker_confidence": {
+        "F": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "The Zacks Analyst Blog Tesla, General Motors and Ford",
+      "original_body": "Tesla shareholders back Elon Musk's record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds.",
+      "cleaned_title": "The Zacks Analyst Blog Tesla, General Motors and Ford",
+      "cleaned_body": "Tesla shareholders back Elon Musks record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds.",
+      "cleaned_text": "The Zacks Analyst Blog Tesla, General Motors and Ford. Tesla shareholders back Elon Musks record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds.",
+      "tokens": {
+        "original": [
+          "the",
+          "zacks",
+          "analyst",
+          "blog",
+          "tesla",
+          ",",
+          "general",
+          "motors",
+          "and",
+          "ford",
+          "tesla",
+          "shareholders",
+          "back",
+          "elon",
+          "musks",
+          "record",
+          "$",
+          "1",
+          "trillion",
+          "pay",
+          "plan",
+          ",",
+          "betting",
+          "on",
+          "his",
+          "bold",
+          "ai",
+          ",",
+          "robotics",
+          "and",
+          "autonomous",
+          "vision",
+          "despite",
+          "ev",
+          "headwinds",
+          "."
+        ],
+        "filtered": [
+          "zacks",
+          "analyst",
+          "blog",
+          "tesla",
+          ",",
+          "general",
+          "motors",
+          "ford",
+          "tesla",
+          "shareholders",
+          "back",
+          "elon",
+          "musks",
+          "record",
+          "$",
+          "1",
+          "trillion",
+          "pay",
+          "plan",
+          ",",
+          "betting",
+          "bold",
+          "ai",
+          ",",
+          "robotics",
+          "autonomous",
+          "vision",
+          "despite",
+          "ev",
+          "headwinds",
+          "."
+        ],
+        "lemmatized": [
+          "zacks",
+          "analyst",
+          "blog",
+          "tesla",
+          ",",
+          "general",
+          "motor",
+          "ford",
+          "tesla",
+          "shareholder",
+          "back",
+          "elon",
+          "musk",
+          "record",
+          "$",
+          "1",
+          "trillion",
+          "pay",
+          "plan",
+          ",",
+          "bet",
+          "bold",
+          "ai",
+          ",",
+          "robotics",
+          "autonomous",
+          "vision",
+          "despite",
+          "ev",
+          "headwind",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon Musk"
+          ],
+          "ORGANIZATION": [
+            "Zacks Analyst Blog Tesla",
+            "General Motors",
+            "EV"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "zacks",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "blog",
+            1
+          ],
+          [
+            "general",
+            1
+          ],
+          [
+            "motor",
+            1
+          ],
+          [
+            "ford",
+            1
+          ],
+          [
+            "shareholder",
+            1
+          ],
+          [
+            "back",
+            1
+          ],
+          [
+            "elon",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 37,
+        "avg_words_per_sentence": 18.5,
+        "num_unique_words": 32
+      },
+      "processed_at": "2025-11-14T03:29:57.953878",
+      "preprocessing_version": "1.0",
+      "article_id": "b74243776ebcb6a9",
+      "title": "The Zacks Analyst Blog Tesla, General Motors and Ford",
+      "description": "Tesla shareholders back Elon Musk's record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds.",
+      "body": "Tesla shareholders back Elon Musk's record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=84effb57926a478c7537130ad8eb5c0a979ac0329bca0162b5e3257af9983f09",
+      "author": "Unknown",
+      "published_at": "2025-11-10T12:23:00",
+      "scraped_at": "2025-11-13T22:21:23.909884",
+      "ticker": "TSLA",
+      "raw_text": "The Zacks Analyst Blog Tesla, General Motors and Ford Tesla shareholders back Elon Musk's record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds. Tesla shareholders back Elon Musk's record $1 trillion pay plan, betting on his bold AI, robotics and autonomous vision despite EV headwinds.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "F",
+        "GM"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "F": 80,
+        "GM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

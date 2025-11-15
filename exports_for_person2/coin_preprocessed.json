@@ -1,0 +1,2207 @@
+{
+  "ticker": "COIN",
+  "export_date": "2025-11-15T01:16:26.137086",
+  "article_count": 9,
+  "articles": [
+    {
+      "original_title": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware",
+      "original_body": "(Reuters) -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hub's growing attr… [+1899 chars]",
+      "cleaned_title": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware",
+      "cleaned_body": "Reuters -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hubs growing attr 1899 chars",
+      "cleaned_text": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware. Reuters -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hubs growing attr 1899 chars",
+      "tokens": {
+        "original": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "to",
+          "reincorporate",
+          "in",
+          "texas",
+          ",",
+          "exit",
+          "delaware",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "is",
+          "departing",
+          "delaware",
+          "and",
+          "reincorporating",
+          "itself",
+          "in",
+          "texas",
+          ",",
+          "the",
+          "company",
+          "said",
+          "in",
+          "a",
+          "regulatory",
+          "filing",
+          "on",
+          "wednesday",
+          ",",
+          "citing",
+          "the",
+          "new",
+          "business",
+          "hubs",
+          "growing",
+          "attr",
+          "1899",
+          "chars"
+        ],
+        "filtered": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "reincorporate",
+          "texas",
+          ",",
+          "exit",
+          "delaware",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "departing",
+          "delaware",
+          "reincorporating",
+          "texas",
+          ",",
+          "company",
+          "said",
+          "regulatory",
+          "filing",
+          "wednesday",
+          ",",
+          "citing",
+          "new",
+          "business",
+          "hubs",
+          "growing",
+          "attr",
+          "1899",
+          "chars"
+        ],
+        "lemmatized": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "reincorporate",
+          "texas",
+          ",",
+          "exit",
+          "delaware",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "depart",
+          "delaware",
+          "reincorporating",
+          "texas",
+          ",",
+          "company",
+          "say",
+          "regulatory",
+          "filing",
+          "wednesday",
+          ",",
+          "cite",
+          "new",
+          "business",
+          "hub",
+          "grow",
+          "attr",
+          "1899",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Delaware",
+            "Coinbase"
+          ],
+          "ORGANIZATION": [
+            "Reuters"
+          ],
+          "GPE": [
+            "Crypto",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1899"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "exchange",
+            2
+          ],
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "reincorporate",
+            1
+          ],
+          [
+            "exit",
+            1
+          ],
+          [
+            "reuters",
+            1
+          ],
+          [
+            "-cryptocurrency",
+            1
+          ],
+          [
+            "depart",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 43,
+        "avg_words_per_sentence": 21.5,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:28.985333",
+      "preprocessing_version": "1.0",
+      "article_id": "82a0b21f70aceecb",
+      "title": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware",
+      "description": "Texas is ‌establishing itself as the new darling of Corporate America by drawing companies with its favorable business environment, ‌friendlier tax rules...",
+      "body": "(Reuters) -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hub's growing attr… [+1899 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/coinbase-set-reincorporate-texas-135319386.html",
+      "author": "Reuters",
+      "published_at": "2025-11-12T13:53:19Z",
+      "scraped_at": "2025-11-13T22:21:13.286242",
+      "ticker": "TSLA",
+      "raw_text": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware Texas is ‌establishing itself as the new darling of Corporate America by drawing companies with its favorable business environment, ‌friendlier tax rules... (Reuters) -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hub's growing attr… [+1899 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase moves incorporation to Texas from Delaware, following Musk's lead",
+      "original_body": "Coinbase is following Tesla out of Delaware and into Texas.\r\nPaul Grewal, Coinbase's chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat… [+1728 chars]",
+      "cleaned_title": "Coinbase moves incorporation to Texas from Delaware, following Musks lead",
+      "cleaned_body": "Coinbase is following Tesla out of Delaware and into Texas. Paul Grewal, Coinbases chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat 1728 chars",
+      "cleaned_text": "Coinbase moves incorporation to Texas from Delaware, following Musks lead. Coinbase is following Tesla out of Delaware and into Texas. Paul Grewal, Coinbases chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat 1728 chars",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "moves",
+          "incorporation",
+          "to",
+          "texas",
+          "from",
+          "delaware",
+          ",",
+          "following",
+          "musks",
+          "lead",
+          "coinbase",
+          "is",
+          "following",
+          "tesla",
+          "out",
+          "of",
+          "delaware",
+          "and",
+          "into",
+          "texas",
+          ".",
+          "paul",
+          "grewal",
+          ",",
+          "coinbases",
+          "chief",
+          "legal",
+          "officer",
+          ",",
+          "wrote",
+          "in",
+          "a",
+          "wall",
+          "street",
+          "journal",
+          "op-ed",
+          "on",
+          "wednesday",
+          "that",
+          "the",
+          "crypto",
+          "exchange",
+          "is",
+          "moving",
+          "its",
+          "stat",
+          "1728",
+          "chars"
+        ],
+        "filtered": [
+          "coinbase",
+          "moves",
+          "incorporation",
+          "texas",
+          "delaware",
+          ",",
+          "following",
+          "musks",
+          "lead",
+          "coinbase",
+          "following",
+          "tesla",
+          "delaware",
+          "texas",
+          ".",
+          "paul",
+          "grewal",
+          ",",
+          "coinbases",
+          "chief",
+          "legal",
+          "officer",
+          ",",
+          "wrote",
+          "wall",
+          "street",
+          "journal",
+          "op-ed",
+          "wednesday",
+          "crypto",
+          "exchange",
+          "moving",
+          "stat",
+          "1728",
+          "chars"
+        ],
+        "lemmatized": [
+          "coinbase",
+          "move",
+          "incorporation",
+          "texas",
+          "delaware",
+          ",",
+          "follow",
+          "musk",
+          "lead",
+          "coinbase",
+          "follow",
+          "tesla",
+          "delaware",
+          "texas",
+          ".",
+          "paul",
+          "grewal",
+          ",",
+          "coinbases",
+          "chief",
+          "legal",
+          "officer",
+          ",",
+          "write",
+          "wall",
+          "street",
+          "journal",
+          "op-ed",
+          "wednesday",
+          "crypto",
+          "exchange",
+          "move",
+          "stat",
+          "1728",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Musk",
+            "Coinbase",
+            "Tesla",
+            "Paul Grewal"
+          ],
+          "ORGANIZATION": [
+            "Delaware"
+          ],
+          "GPE": [
+            "Coinbase",
+            "Texas",
+            "Delaware"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1728"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "follow",
+            2
+          ],
+          [
+            "incorporation",
+            1
+          ],
+          [
+            "musk",
+            1
+          ],
+          [
+            "lead",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "paul",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 50,
+        "avg_words_per_sentence": 16.67,
+        "num_unique_words": 42
+      },
+      "processed_at": "2025-11-14T03:29:29.441371",
+      "preprocessing_version": "1.0",
+      "article_id": "080e987d135a95af",
+      "title": "Coinbase moves incorporation to Texas from Delaware, following Musk's lead",
+      "description": "Coinbase's legal chief wrote in a Wall Street Journal op-ed that the crypto platform is moving its state of incorporation to Texas.",
+      "body": "Coinbase is following Tesla out of Delaware and into Texas.\r\nPaul Grewal, Coinbase's chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat… [+1728 chars]",
+      "source": "CNBC",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.cnbc.com/2025/11/12/coinbase-moves-incorporation-to-texas-from-delaware-following-tesla.html",
+      "author": null,
+      "published_at": "2025-11-12T13:42:34Z",
+      "scraped_at": "2025-11-13T22:21:13.286265",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase moves incorporation to Texas from Delaware, following Musk's lead Coinbase's legal chief wrote in a Wall Street Journal op-ed that the crypto platform is moving its state of incorporation to Texas. Coinbase is following Tesla out of Delaware and into Texas.\r\nPaul Grewal, Coinbase's chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat… [+1728 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Elon Musk Says Delaware Is \"Bleeding Companies\" As Coinbase Moves To Texas - Coinbase Global  ( NASDAQ:COIN ) ",
+      "original_body": "Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "cleaned_title": "Elon Musk Says Delaware Is Bleeding Companies As Coinbase Moves To Texas - Coinbase Global NASDAQCOIN",
+      "cleaned_body": "Coinbase Global Inc. NASDAQCOIN announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move was not made lightly, describing it as a step to protect customers, ...",
+      "cleaned_text": "Elon Musk Says Delaware Is Bleeding Companies As Coinbase Moves To Texas - Coinbase Global NASDAQCOIN. Coinbase Global Inc. NASDAQCOIN announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move was not made lightly, describing it as a step to protect customers, ...",
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "says",
+          "delaware",
+          "is",
+          "bleeding",
+          "companies",
+          "as",
+          "coinbase",
+          "moves",
+          "to",
+          "texas",
+          "-",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "announced",
+          "plans",
+          "on",
+          "wednesday",
+          "to",
+          "leave",
+          "delaware",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          ",",
+          "sparking",
+          "sharp",
+          "reactions",
+          "from",
+          "tech",
+          "and",
+          "finance",
+          "leaders",
+          ".",
+          "chief",
+          "legal",
+          "officer",
+          "paul",
+          "grewal",
+          "said",
+          "the",
+          "move",
+          "was",
+          "not",
+          "made",
+          "lightly",
+          ",",
+          "describing",
+          "it",
+          "as",
+          "a",
+          "step",
+          "to",
+          "protect",
+          "customers",
+          ",",
+          "..."
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "says",
+          "delaware",
+          "bleeding",
+          "companies",
+          "coinbase",
+          "moves",
+          "texas",
+          "-",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "announced",
+          "plans",
+          "wednesday",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          ",",
+          "sparking",
+          "sharp",
+          "reactions",
+          "tech",
+          "finance",
+          "leaders",
+          ".",
+          "chief",
+          "legal",
+          "officer",
+          "paul",
+          "grewal",
+          "said",
+          "move",
+          "not",
+          "made",
+          "lightly",
+          ",",
+          "describing",
+          "step",
+          "protect",
+          "customers",
+          ",",
+          "..."
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "say",
+          "delaware",
+          "bleed",
+          "company",
+          "coinbase",
+          "move",
+          "texas",
+          "-",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "announce",
+          "plan",
+          "wednesday",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          ",",
+          "spark",
+          "sharp",
+          "reaction",
+          "tech",
+          "finance",
+          "leader",
+          ".",
+          "chief",
+          "legal",
+          "officer",
+          "paul",
+          "grewal",
+          "say",
+          "move",
+          "not",
+          "make",
+          "lightly",
+          ",",
+          "describe",
+          "step",
+          "protect",
+          "customer",
+          ",",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk Says Delaware",
+            "Coinbase Moves",
+            "Coinbase Global",
+            "Delaware",
+            "Legal Officer",
+            "Paul Grewal"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            3
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "nasdaqcoin",
+            2
+          ],
+          [
+            "elon",
+            1
+          ],
+          [
+            "musk",
+            1
+          ],
+          [
+            "bleed",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 65,
+        "avg_words_per_sentence": 21.67,
+        "num_unique_words": 52
+      },
+      "processed_at": "2025-11-14T03:29:32.023203",
+      "preprocessing_version": "1.0",
+      "article_id": "1bef0c549bfdc207",
+      "title": "Elon Musk Says Delaware Is \"Bleeding Companies\" As Coinbase Moves To Texas - Coinbase Global  ( NASDAQ:COIN ) ",
+      "description": "Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "body": "Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/48835436/elon-musk-says-delaware-is-bleeding-companies-as-coinbase-moves-to-texas",
+      "author": "Parshwa Turakhiya",
+      "published_at": "20251113T145713",
+      "scraped_at": "2025-11-13T22:21:23.357722",
+      "ticker": "TSLA",
+      "raw_text": "Elon Musk Says Delaware Is \"Bleeding Companies\" As Coinbase Moves To Texas - Coinbase Global  ( NASDAQ:COIN )  Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ... Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "sentiment_score": 0.229413,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "COIN": [
+          "Coinbase Moves To Texas - Coinbase Global ( NASDAQ:COIN ) **Coinbase** Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to",
+          "lightly,\" describing it as a step to protect customers, ... **Coinbase** Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN ) ",
+      "original_body": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "cleaned_title": "Elon Musk Urges amove To Austin After Coinbase Follows Tesla To Texas - Dropbox NASDAQDBX , Coinbase Global NASDAQCOIN",
+      "cleaned_body": "Tesla Inc. NASDAQTSLA CEO Elon Musk on Wednesday renewed his attacks on Delawares corporate regime after Coinbase Global Inc. NASDAQCOIN said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "cleaned_text": "Elon Musk Urges amove To Austin After Coinbase Follows Tesla To Texas - Dropbox NASDAQDBX , Coinbase Global NASDAQCOIN. Tesla Inc. NASDAQTSLA CEO Elon Musk on Wednesday renewed his attacks on Delawares corporate regime after Coinbase Global Inc. NASDAQCOIN said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "urges",
+          "amove",
+          "to",
+          "austin",
+          "after",
+          "coinbase",
+          "follows",
+          "tesla",
+          "to",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "on",
+          "wednesday",
+          "renewed",
+          "his",
+          "attacks",
+          "on",
+          "delawares",
+          "corporate",
+          "regime",
+          "after",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "said",
+          "it",
+          "will",
+          "follow",
+          "tesla",
+          "and",
+          "spacex",
+          "in",
+          "abandoning",
+          "the",
+          "state",
+          "as",
+          "its",
+          "legal",
+          "home",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          "."
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "urges",
+          "amove",
+          "austin",
+          "coinbase",
+          "follows",
+          "tesla",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "wednesday",
+          "renewed",
+          "attacks",
+          "delawares",
+          "corporate",
+          "regime",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "said",
+          "follow",
+          "tesla",
+          "spacex",
+          "abandoning",
+          "state",
+          "legal",
+          "home",
+          "reincorporate",
+          "texas",
+          "."
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "urge",
+          "amove",
+          "austin",
+          "coinbase",
+          "follow",
+          "tesla",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "wednesday",
+          "renew",
+          "attack",
+          "delaware",
+          "corporate",
+          "regime",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "say",
+          "follow",
+          "tesla",
+          "spacex",
+          "abandon",
+          "state",
+          "legal",
+          "home",
+          "reincorporate",
+          "texas",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk Urges",
+            "Coinbase Follows Tesla",
+            "Coinbase Global",
+            "Tesla Inc.",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ",
+            "CEO Elon Musk",
+            "Delaware",
+            "SpaceX"
+          ],
+          "GPE": [
+            "Austin",
+            "Texas",
+            "Dropbox"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            3
+          ],
+          [
+            "tesla",
+            3
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "follow",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "nasdaqcoin",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "urge",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 60,
+        "avg_words_per_sentence": 30.0,
+        "num_unique_words": 44
+      },
+      "processed_at": "2025-11-14T03:29:34.352063",
+      "preprocessing_version": "1.0",
+      "article_id": "fd4fd075302be11e",
+      "title": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN ) ",
+      "description": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "body": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/news/legal/25/11/48824823/elon-musk-urges-move-to-austin-after-coinbase-follows-tesla-to-texas",
+      "author": "Shomik Sen Bhattacharjee",
+      "published_at": "20251113T040455",
+      "scraped_at": "2025-11-13T22:21:23.358107",
+      "ticker": "TSLA",
+      "raw_text": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN )  Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas. Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "sentiment_score": 0.021591,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "TXN",
+        "HD",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "TXN": 80,
+        "HD": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "TSLA": [
+          "Dropbox ( NASDAQ:DBX ) , Coinbase Global ( NASDAQ:COIN ) **Tesla** Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed",
+          "the state as its legal home and reincorporate in Texas. **Tesla** Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed"
+        ],
+        "COIN": [
+          "on Wednesday renewed his attacks on Delaware's corporate regime after **Coinbase** Global Inc. ( NASDAQ:COIN ) said it will follow Tesla"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
+      "original_body": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "cleaned_title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
+      "cleaned_body": "Americas largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "cleaned_text": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas. Americas largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "to",
+          "leave",
+          "delaware",
+          "for",
+          "bitcoin-friendly",
+          "texas",
+          "americas",
+          "largest",
+          "crypto",
+          "exchange",
+          "chooses",
+          "the",
+          "lone",
+          "star",
+          "state",
+          "for",
+          "its",
+          "business-friendly",
+          "regulation",
+          "."
+        ],
+        "filtered": [
+          "coinbase",
+          "leave",
+          "delaware",
+          "bitcoin-friendly",
+          "texas",
+          "americas",
+          "largest",
+          "crypto",
+          "exchange",
+          "chooses",
+          "lone",
+          "star",
+          "state",
+          "business-friendly",
+          "regulation",
+          "."
+        ],
+        "lemmatized": [
+          "coinbase",
+          "leave",
+          "delaware",
+          "bitcoin-friendly",
+          "texas",
+          "americas",
+          "large",
+          "crypto",
+          "exchange",
+          "choose",
+          "lone",
+          "star",
+          "state",
+          "business-friendly",
+          "regulation",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Leave Delaware",
+            "America"
+          ],
+          "ORGANIZATION": [
+            "Lone Star"
+          ],
+          "GPE": [
+            "Coinbase"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            1
+          ],
+          [
+            "leave",
+            1
+          ],
+          [
+            "delaware",
+            1
+          ],
+          [
+            "bitcoin-friendly",
+            1
+          ],
+          [
+            "texas",
+            1
+          ],
+          [
+            "americas",
+            1
+          ],
+          [
+            "large",
+            1
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "choose",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 22,
+        "avg_words_per_sentence": 11.0,
+        "num_unique_words": 20
+      },
+      "processed_at": "2025-11-14T03:29:35.239124",
+      "preprocessing_version": "1.0",
+      "article_id": "d9f86947246fa85b",
+      "title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
+      "description": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "body": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "source": "Decrypt.co",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://decrypt.co/348324/coinbase-leave-delaware-bitcoin-friendly-texas",
+      "author": "Mat Di Salvo",
+      "published_at": "20251112T165349",
+      "scraped_at": "2025-11-13T22:21:23.358182",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation. America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "sentiment_score": 0.332551,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Major crypto exchange picks Texas for new HQ, citing pro-business rules",
+      "original_body": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "cleaned_title": "Major crypto exchange picks Texas for new HQ, citing pro-business rules",
+      "cleaned_body": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "cleaned_text": "Major crypto exchange picks Texas for new HQ, citing pro-business rules. Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "tokens": {
+        "original": [
+          "major",
+          "crypto",
+          "exchange",
+          "picks",
+          "texas",
+          "for",
+          "new",
+          "hq",
+          ",",
+          "citing",
+          "pro-business",
+          "rules",
+          "texas",
+          "attracted",
+          "another",
+          "major",
+          "corporation",
+          "as",
+          "coinbase",
+          "reincorporated",
+          "there",
+          ",",
+          "drawn",
+          "by",
+          "favorable",
+          "tax",
+          "rules",
+          ",",
+          "lighter",
+          "regulations",
+          "and",
+          "the",
+          "new",
+          "specialized",
+          "business",
+          "court",
+          "system",
+          "."
+        ],
+        "filtered": [
+          "major",
+          "crypto",
+          "exchange",
+          "picks",
+          "texas",
+          "new",
+          "hq",
+          ",",
+          "citing",
+          "pro-business",
+          "rules",
+          "texas",
+          "attracted",
+          "another",
+          "major",
+          "corporation",
+          "coinbase",
+          "reincorporated",
+          ",",
+          "drawn",
+          "favorable",
+          "tax",
+          "rules",
+          ",",
+          "lighter",
+          "regulations",
+          "new",
+          "specialized",
+          "business",
+          "court",
+          "system",
+          "."
+        ],
+        "lemmatized": [
+          "major",
+          "crypto",
+          "exchange",
+          "pick",
+          "texas",
+          "new",
+          "hq",
+          ",",
+          "cite",
+          "pro-business",
+          "rule",
+          "texas",
+          "attract",
+          "another",
+          "major",
+          "corporation",
+          "coinbase",
+          "reincorporated",
+          ",",
+          "drawn",
+          "favorable",
+          "tax",
+          "rule",
+          ",",
+          "light",
+          "regulation",
+          "new",
+          "specialized",
+          "business",
+          "court",
+          "system",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Texas",
+            "Coinbase"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Major",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "major",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "rule",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "cite",
+            1
+          ],
+          [
+            "pro-business",
+            1
+          ],
+          [
+            "attract",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 39,
+        "avg_words_per_sentence": 19.5,
+        "num_unique_words": 32
+      },
+      "processed_at": "2025-11-14T03:29:43.316389",
+      "preprocessing_version": "1.0",
+      "article_id": "72c731b234ec44a5",
+      "title": "Major crypto exchange picks Texas for new HQ, citing pro-business rules",
+      "description": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "body": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=36da9455003bbb6625cdf71a4e103b2e3a80dbd261c788e24f2a73218bb03c47",
+      "author": "Unknown",
+      "published_at": "2025-11-12T23:09:38",
+      "scraped_at": "2025-11-13T22:21:23.908474",
+      "ticker": "TSLA",
+      "raw_text": "Major crypto exchange picks Texas for new HQ, citing pro-business rules Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system. Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase to Leave Delaware, Reincorporate in Texas",
+      "original_body": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "cleaned_title": "Coinbase to Leave Delaware, Reincorporate in Texas",
+      "cleaned_body": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "cleaned_text": "Coinbase to Leave Delaware, Reincorporate in Texas. Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "to",
+          "leave",
+          "delaware",
+          ",",
+          "reincorporate",
+          "in",
+          "texas",
+          "coinbase",
+          "plans",
+          "to",
+          "leave",
+          "delaware",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          "after",
+          "a",
+          "group",
+          "of",
+          "shareholders",
+          "with",
+          "a",
+          "majority",
+          "of",
+          "voting",
+          "power",
+          "voted",
+          "to",
+          "approve",
+          "the",
+          "move",
+          "."
+        ],
+        "filtered": [
+          "coinbase",
+          "leave",
+          "delaware",
+          ",",
+          "reincorporate",
+          "texas",
+          "coinbase",
+          "plans",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          "group",
+          "shareholders",
+          "majority",
+          "voting",
+          "power",
+          "voted",
+          "approve",
+          "move",
+          "."
+        ],
+        "lemmatized": [
+          "coinbase",
+          "leave",
+          "delaware",
+          ",",
+          "reincorporate",
+          "texas",
+          "coinbase",
+          "plan",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          "group",
+          "shareholder",
+          "majority",
+          "vote",
+          "power",
+          "vote",
+          "approve",
+          "move",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Leave Delaware",
+            "Coinbase",
+            "Delaware"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Coinbase",
+            "Reincorporate",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "leave",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "reincorporate",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "vote",
+            2
+          ],
+          [
+            "plan",
+            1
+          ],
+          [
+            "group",
+            1
+          ],
+          [
+            "shareholder",
+            1
+          ],
+          [
+            "majority",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 35,
+        "avg_words_per_sentence": 17.5,
+        "num_unique_words": 24
+      },
+      "processed_at": "2025-11-14T03:29:44.274116",
+      "preprocessing_version": "1.0",
+      "article_id": "460278643dcf4463",
+      "title": "Coinbase to Leave Delaware, Reincorporate in Texas",
+      "description": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "body": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=6ee7f944b21445b38aa42729b29202d6d9b584d11dcd0df556c777004f290365",
+      "author": "Unknown",
+      "published_at": "2025-11-12T20:31:00",
+      "scraped_at": "2025-11-13T22:21:23.908597",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase to Leave Delaware, Reincorporate in Texas Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move. Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Crypto exchange Coinbase set to reincorporate in Texas",
+      "original_body": "(Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "cleaned_title": "Crypto exchange Coinbase set to reincorporate in Texas",
+      "cleaned_body": "Reuters -Cryptocurrency exchange Coinbase COIN is reincorporating in the new business hub of Texas and will leave Delaware, the company said in a filing with the U.S. securities regulator on Wednesday.",
+      "cleaned_text": "Crypto exchange Coinbase set to reincorporate in Texas. Reuters -Cryptocurrency exchange Coinbase COIN is reincorporating in the new business hub of Texas and will leave Delaware, the company said in a filing with the U.S. securities regulator on Wednesday.",
+      "tokens": {
+        "original": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "set",
+          "to",
+          "reincorporate",
+          "in",
+          "texas",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "coin",
+          "is",
+          "reincorporating",
+          "in",
+          "the",
+          "new",
+          "business",
+          "hub",
+          "of",
+          "texas",
+          "and",
+          "will",
+          "leave",
+          "delaware",
+          ",",
+          "the",
+          "company",
+          "said",
+          "in",
+          "a",
+          "filing",
+          "with",
+          "the",
+          "u.s.",
+          "securities",
+          "regulator",
+          "on",
+          "wednesday",
+          "."
+        ],
+        "filtered": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "set",
+          "reincorporate",
+          "texas",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "coin",
+          "reincorporating",
+          "new",
+          "business",
+          "hub",
+          "texas",
+          "leave",
+          "delaware",
+          ",",
+          "company",
+          "said",
+          "filing",
+          "u.s.",
+          "securities",
+          "regulator",
+          "wednesday",
+          "."
+        ],
+        "lemmatized": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "set",
+          "reincorporate",
+          "texas",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "coin",
+          "reincorporating",
+          "new",
+          "business",
+          "hub",
+          "texas",
+          "leave",
+          "delaware",
+          ",",
+          "company",
+          "say",
+          "file",
+          "u.s.",
+          "securities",
+          "regulator",
+          "wednesday",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Coinbase",
+            "Delaware"
+          ],
+          "ORGANIZATION": [
+            "Reuters",
+            "COIN"
+          ],
+          "GPE": [
+            "Crypto",
+            "Texas",
+            "Coinbase",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "exchange",
+            2
+          ],
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "set",
+            1
+          ],
+          [
+            "reincorporate",
+            1
+          ],
+          [
+            "reuters",
+            1
+          ],
+          [
+            "-cryptocurrency",
+            1
+          ],
+          [
+            "coin",
+            1
+          ],
+          [
+            "reincorporating",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 42,
+        "avg_words_per_sentence": 21.0,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:44.464174",
+      "preprocessing_version": "1.0",
+      "article_id": "962d0d782f2469e8",
+      "title": "Crypto exchange Coinbase set to reincorporate in Texas",
+      "description": "(Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "body": "(Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=2e8ec03d9c188b5ce437a84957be1929c292a686f45af17f54c676eb9c6c3f4d",
+      "author": "Unknown",
+      "published_at": "2025-11-12T19:23:19",
+      "scraped_at": "2025-11-13T22:21:23.908651",
+      "ticker": "TSLA",
+      "raw_text": "Crypto exchange Coinbase set to reincorporate in Texas (Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday. (Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase and Citi Team Up To Fix Crypto's Biggest Roadblock For Institutional Money—Here's Why That Matters",
+      "original_body": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "cleaned_title": "Coinbase and Citi Team Up To Fix Cryptos Biggest Roadblock For Institutional Moneyhere is Why That Matters",
+      "cleaned_body": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. NASDAQCOIN and Citigroup Inc. NYSEC announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "cleaned_text": "Coinbase and Citi Team Up To Fix Cryptos Biggest Roadblock For Institutional Moneyhere is Why That Matters. The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. NASDAQCOIN and Citigroup Inc. NYSEC announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "and",
+          "citi",
+          "team",
+          "up",
+          "to",
+          "fix",
+          "cryptos",
+          "biggest",
+          "roadblock",
+          "for",
+          "institutional",
+          "moneyhere",
+          "is",
+          "why",
+          "that",
+          "matters",
+          "the",
+          "gap",
+          "between",
+          "traditional",
+          "finance",
+          "and",
+          "digital",
+          "assets",
+          "just",
+          "got",
+          "narrower",
+          ".",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "and",
+          "citigroup",
+          "inc.",
+          "nysec",
+          "announced",
+          "a",
+          "collaboration",
+          "last",
+          "week",
+          "aimed",
+          "at",
+          "making",
+          "it",
+          "easier",
+          "for",
+          "large",
+          "institutions",
+          "to",
+          "move",
+          "money",
+          "using",
+          "..."
+        ],
+        "filtered": [
+          "coinbase",
+          "citi",
+          "team",
+          "up",
+          "fix",
+          "cryptos",
+          "biggest",
+          "roadblock",
+          "institutional",
+          "moneyhere",
+          "matters",
+          "gap",
+          "traditional",
+          "finance",
+          "digital",
+          "assets",
+          "got",
+          "narrower",
+          ".",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "citigroup",
+          "inc.",
+          "nysec",
+          "announced",
+          "collaboration",
+          "last",
+          "week",
+          "aimed",
+          "making",
+          "easier",
+          "large",
+          "institutions",
+          "move",
+          "money",
+          "using",
+          "..."
+        ],
+        "lemmatized": [
+          "coinbase",
+          "citi",
+          "team",
+          "up",
+          "fix",
+          "cryptos",
+          "big",
+          "roadblock",
+          "institutional",
+          "moneyhere",
+          "matter",
+          "gap",
+          "traditional",
+          "finance",
+          "digital",
+          "asset",
+          "get",
+          "narrower",
+          ".",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "citigroup",
+          "inc.",
+          "nysec",
+          "announce",
+          "collaboration",
+          "last",
+          "week",
+          "aim",
+          "make",
+          "easy",
+          "large",
+          "institution",
+          "move",
+          "money",
+          "use",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Citi Team Up",
+            "Fix Crypto",
+            "Biggest Roadblock",
+            "Coinbase Global"
+          ],
+          "ORGANIZATION": [
+            "Institutional",
+            "NASDAQ",
+            "Citigroup Inc.",
+            "NYSE"
+          ],
+          "GPE": [
+            "Coinbase"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "citi",
+            1
+          ],
+          [
+            "team",
+            1
+          ],
+          [
+            "fix",
+            1
+          ],
+          [
+            "cryptos",
+            1
+          ],
+          [
+            "big",
+            1
+          ],
+          [
+            "roadblock",
+            1
+          ],
+          [
+            "institutional",
+            1
+          ],
+          [
+            "moneyhere",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 56,
+        "avg_words_per_sentence": 18.67,
+        "num_unique_words": 49
+      },
+      "processed_at": "2025-11-14T03:30:08.802656",
+      "preprocessing_version": "1.0",
+      "article_id": "8afd608ce1dbfa9b",
+      "title": "Coinbase and Citi Team Up To Fix Crypto's Biggest Roadblock For Institutional Money—Here's Why That Matters",
+      "description": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "body": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=8a94ba6bbba965e5425fd21b7ff552ffe7eb7d0949762f7904704535da0ad419",
+      "author": "Unknown",
+      "published_at": "2025-11-07T19:46:04",
+      "scraped_at": "2025-11-13T22:21:23.910592",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase and Citi Team Up To Fix Crypto's Biggest Roadblock For Institutional Money—Here's Why That Matters The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ... The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "C",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "C": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "C": [
+          "digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and **Citigroup** Inc. (NYSE:C) announced a collaboration last week aimed at making"
+        ],
+        "COIN": [
+          "gap between traditional finance and digital assets just got narrower. **Coinbase** Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

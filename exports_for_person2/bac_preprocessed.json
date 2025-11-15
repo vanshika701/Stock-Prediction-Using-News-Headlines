@@ -1,0 +1,1833 @@
+{
+  "ticker": "BAC",
+  "export_date": "2025-11-15T01:16:26.136089",
+  "article_count": 7,
+  "articles": [
+    {
+      "original_title": "Fed may soon start buying bonds to manage market liquidity, Williams says",
+      "original_body": "What will matter to Tesla stock price over the next 6 to 12 months?By Michael S. DerbyNEW YORK (Reuters) -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting … [+141 chars]",
+      "cleaned_title": "Fed may soon start buying bonds to manage market liquidity, Williams says",
+      "cleaned_body": "What will matter to Tesla stock price over the next 6 to 12 months?By Michael S. DerbyNEW YORK Reuters -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting 141 chars",
+      "cleaned_text": "Fed may soon start buying bonds to manage market liquidity, Williams says. What will matter to Tesla stock price over the next 6 to 12 months?By Michael S. DerbyNEW YORK Reuters -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting 141 chars",
+      "tokens": {
+        "original": [
+          "fed",
+          "may",
+          "soon",
+          "start",
+          "buying",
+          "bonds",
+          "to",
+          "manage",
+          "market",
+          "liquidity",
+          ",",
+          "williams",
+          "says",
+          "what",
+          "will",
+          "matter",
+          "to",
+          "tesla",
+          "stock",
+          "price",
+          "over",
+          "the",
+          "next",
+          "6",
+          "to",
+          "12",
+          "months",
+          "?",
+          "by",
+          "michael",
+          "s.",
+          "derbynew",
+          "york",
+          "reuters",
+          "-new",
+          "york",
+          "federal",
+          "reserve",
+          "president",
+          "john",
+          "williams",
+          "reiterated",
+          "on",
+          "wednesday",
+          "the",
+          "time",
+          "is",
+          "getting",
+          "141",
+          "chars"
+        ],
+        "filtered": [
+          "fed",
+          "may",
+          "soon",
+          "start",
+          "buying",
+          "bonds",
+          "manage",
+          "market",
+          "liquidity",
+          ",",
+          "williams",
+          "says",
+          "matter",
+          "tesla",
+          "stock",
+          "price",
+          "over",
+          "next",
+          "6",
+          "12",
+          "months",
+          "?",
+          "michael",
+          "s.",
+          "derbynew",
+          "york",
+          "reuters",
+          "-new",
+          "york",
+          "federal",
+          "reserve",
+          "president",
+          "john",
+          "williams",
+          "reiterated",
+          "wednesday",
+          "time",
+          "getting",
+          "141",
+          "chars"
+        ],
+        "lemmatized": [
+          "fed",
+          "may",
+          "soon",
+          "start",
+          "buy",
+          "bond",
+          "manage",
+          "market",
+          "liquidity",
+          ",",
+          "williams",
+          "say",
+          "matter",
+          "tesla",
+          "stock",
+          "price",
+          "over",
+          "next",
+          "6",
+          "12",
+          "month",
+          "?",
+          "michael",
+          "s.",
+          "derbynew",
+          "york",
+          "reuters",
+          "-new",
+          "york",
+          "federal",
+          "reserve",
+          "president",
+          "john",
+          "williams",
+          "reiterate",
+          "wednesday",
+          "time",
+          "get",
+          "141",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Williams",
+            "Michael S. DerbyNEW",
+            "York Federal Reserve",
+            "John Williams"
+          ],
+          "ORGANIZATION": [
+            "Reuters"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "6",
+          "12",
+          "141"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "williams",
+            2
+          ],
+          [
+            "york",
+            2
+          ],
+          [
+            "fed",
+            1
+          ],
+          [
+            "may",
+            1
+          ],
+          [
+            "soon",
+            1
+          ],
+          [
+            "start",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "bond",
+            1
+          ],
+          [
+            "manage",
+            1
+          ],
+          [
+            "market",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 51,
+        "avg_words_per_sentence": 25.5,
+        "num_unique_words": 46
+      },
+      "processed_at": "2025-11-14T03:29:28.533974",
+      "preprocessing_version": "1.0",
+      "article_id": "dd03cf0a43a84111",
+      "title": "Fed may soon start buying bonds to manage market liquidity, Williams says",
+      "description": "What will matter to Tesla stock price over the next 6 to 12 months?\nBy Michael S. Derby\nNEW YORK (Reuters) -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting closer when the U.S. central bank will have to restart bon…",
+      "body": "What will matter to Tesla stock price over the next 6 to 12 months?By Michael S. DerbyNEW YORK (Reuters) -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting … [+141 chars]",
+      "source": "Biztoc.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://biztoc.com/x/5d30bbccd1d2d9fa",
+      "author": "investing.com",
+      "published_at": "2025-11-12T14:41:26Z",
+      "scraped_at": "2025-11-13T22:21:13.286223",
+      "ticker": "TSLA",
+      "raw_text": "Fed may soon start buying bonds to manage market liquidity, Williams says What will matter to Tesla stock price over the next 6 to 12 months?\nBy Michael S. Derby\nNEW YORK (Reuters) -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting closer when the U.S. central bank will have to restart bon… What will matter to Tesla stock price over the next 6 to 12 months?By Michael S. DerbyNEW YORK (Reuters) -New York Federal Reserve President John Williams reiterated on Wednesday the time is getting … [+141 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "BAC"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "BAC": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "China's US$8 billion power bank giant Anker seeks Hong Kong listing",
+      "original_body": "Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls.",
+      "cleaned_title": "Chinas US$8 billion power bank giant Anker seeks Hong Kong listing",
+      "cleaned_body": "Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls.",
+      "cleaned_text": "Chinas US$8 billion power bank giant Anker seeks Hong Kong listing. Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls.",
+      "tokens": {
+        "original": [
+          "chinas",
+          "us",
+          "$",
+          "8",
+          "billion",
+          "power",
+          "bank",
+          "giant",
+          "anker",
+          "seeks",
+          "hong",
+          "kong",
+          "listing",
+          "chinese",
+          "maker",
+          "of",
+          "portable",
+          "charging",
+          "devices",
+          "anker",
+          "innovations",
+          ",",
+          "which",
+          "went",
+          "viral",
+          "last",
+          "year",
+          "as",
+          "the",
+          "preferred",
+          "power",
+          "bank",
+          "of",
+          "us",
+          "president",
+          "donald",
+          "trump",
+          ",",
+          "plans",
+          "to",
+          "list",
+          "in",
+          "hong",
+          "kong",
+          "amid",
+          "us",
+          "scrutiny",
+          "and",
+          "recent",
+          "product",
+          "recalls",
+          "."
+        ],
+        "filtered": [
+          "chinas",
+          "us",
+          "$",
+          "8",
+          "billion",
+          "power",
+          "bank",
+          "giant",
+          "anker",
+          "seeks",
+          "hong",
+          "kong",
+          "listing",
+          "chinese",
+          "maker",
+          "portable",
+          "charging",
+          "devices",
+          "anker",
+          "innovations",
+          ",",
+          "went",
+          "viral",
+          "last",
+          "year",
+          "preferred",
+          "power",
+          "bank",
+          "us",
+          "president",
+          "donald",
+          "trump",
+          ",",
+          "plans",
+          "list",
+          "hong",
+          "kong",
+          "amid",
+          "us",
+          "scrutiny",
+          "recent",
+          "product",
+          "recalls",
+          "."
+        ],
+        "lemmatized": [
+          "china",
+          "u",
+          "$",
+          "8",
+          "billion",
+          "power",
+          "bank",
+          "giant",
+          "anker",
+          "seek",
+          "hong",
+          "kong",
+          "list",
+          "chinese",
+          "maker",
+          "portable",
+          "charge",
+          "device",
+          "anker",
+          "innovation",
+          ",",
+          "go",
+          "viral",
+          "last",
+          "year",
+          "prefer",
+          "power",
+          "bank",
+          "u",
+          "president",
+          "donald",
+          "trump",
+          ",",
+          "plan",
+          "list",
+          "hong",
+          "kong",
+          "amid",
+          "u",
+          "scrutiny",
+          "recent",
+          "product",
+          "recall",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Anker",
+            "Anker Innovations",
+            "Donald Trump"
+          ],
+          "ORGANIZATION": [
+            "US"
+          ],
+          "GPE": [
+            "China",
+            "Hong Kong",
+            "Chinese",
+            "US"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "8"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "power",
+            2
+          ],
+          [
+            "bank",
+            2
+          ],
+          [
+            "anker",
+            2
+          ],
+          [
+            "hong",
+            2
+          ],
+          [
+            "kong",
+            2
+          ],
+          [
+            "list",
+            2
+          ],
+          [
+            "china",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "giant",
+            1
+          ],
+          [
+            "seek",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 53,
+        "avg_words_per_sentence": 26.5,
+        "num_unique_words": 43
+      },
+      "processed_at": "2025-11-14T03:29:33.241093",
+      "preprocessing_version": "1.0",
+      "article_id": "7ed77ed47cc14d63",
+      "title": "China's US$8 billion power bank giant Anker seeks Hong Kong listing",
+      "description": "Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls.",
+      "body": "Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls.",
+      "source": "South China Morning Post",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.scmp.com/business/banking-finance/article/3332655/chinas-us8-billion-power-bank-giant-anker-seeks-share-listing-hong-kong",
+      "author": "Iris Deng",
+      "published_at": "20251113T120014",
+      "scraped_at": "2025-11-13T22:21:23.357939",
+      "ticker": "TSLA",
+      "raw_text": "China's US$8 billion power bank giant Anker seeks Hong Kong listing Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls. Chinese maker of portable charging devices Anker Innovations, which went viral last year as the preferred power bank of US President Donald Trump, plans to list in Hong Kong amid US scrutiny and recent product recalls.",
+      "sentiment_score": 0.052139,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "BAC"
+      ],
+      "ticker_confidence": {
+        "BAC": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Boeing: A Stock for the Long Haul",
+      "original_body": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "cleaned_title": "Boeing A Stock for the Long Haul",
+      "cleaned_body": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 6040 portfolio, and the Magnificent Seven.",
+      "cleaned_text": "Boeing A Stock for the Long Haul. Readers weigh in on Boeing, Elon Musk, Bank of America, the 6040 portfolio, and the Magnificent Seven.",
+      "tokens": {
+        "original": [
+          "boeing",
+          "a",
+          "stock",
+          "for",
+          "the",
+          "long",
+          "haul",
+          "readers",
+          "weigh",
+          "in",
+          "on",
+          "boeing",
+          ",",
+          "elon",
+          "musk",
+          ",",
+          "bank",
+          "of",
+          "america",
+          ",",
+          "the",
+          "6040",
+          "portfolio",
+          ",",
+          "and",
+          "the",
+          "magnificent",
+          "seven",
+          "."
+        ],
+        "filtered": [
+          "boeing",
+          "stock",
+          "long",
+          "haul",
+          "readers",
+          "weigh",
+          "boeing",
+          ",",
+          "elon",
+          "musk",
+          ",",
+          "bank",
+          "america",
+          ",",
+          "6040",
+          "portfolio",
+          ",",
+          "magnificent",
+          "seven",
+          "."
+        ],
+        "lemmatized": [
+          "boeing",
+          "stock",
+          "long",
+          "haul",
+          "reader",
+          "weigh",
+          "boeing",
+          ",",
+          "elon",
+          "musk",
+          ",",
+          "bank",
+          "america",
+          ",",
+          "6040",
+          "portfolio",
+          ",",
+          "magnificent",
+          "seven",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon Musk"
+          ],
+          "ORGANIZATION": [
+            "Long Haul",
+            "Bank",
+            "Magnificent Seven"
+          ],
+          "GPE": [
+            "Boeing",
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "60",
+          "40"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "boeing",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "long",
+            1
+          ],
+          [
+            "haul",
+            1
+          ],
+          [
+            "reader",
+            1
+          ],
+          [
+            "weigh",
+            1
+          ],
+          [
+            "elon",
+            1
+          ],
+          [
+            "musk",
+            1
+          ],
+          [
+            "bank",
+            1
+          ],
+          [
+            "america",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 30,
+        "avg_words_per_sentence": 15.0,
+        "num_unique_words": 23
+      },
+      "processed_at": "2025-11-14T03:30:02.328935",
+      "preprocessing_version": "1.0",
+      "article_id": "fd396d7955902221",
+      "title": "Boeing: A Stock for the Long Haul",
+      "description": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "body": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=72c2d3571171bc3de26a04cbc64da2ed7de2b6e0fa5ec2d1fdd973401f7f41e5",
+      "author": "Unknown",
+      "published_at": "2025-11-08T05:49:00",
+      "scraped_at": "2025-11-13T22:21:23.910198",
+      "ticker": "TSLA",
+      "raw_text": "Boeing: A Stock for the Long Haul Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven. Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BAC",
+        "BA"
+      ],
+      "ticker_confidence": {
+        "BAC": 80,
+        "BA": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Bank of America resets price target as CoreWeave earnings send stock reeling",
+      "original_body": "CoreWeave reported its Q3 earnings on November 10.\r\nDuring the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said:\r\n\"We continue to scale aggressively, even as the industry remains c… [+4851 chars]",
+      "cleaned_title": "Bank of America resets price target as CoreWeave earnings send stock reeling",
+      "cleaned_body": "CoreWeave reported its third quarter earnings on November 10. During the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said We continue to scale aggressively, even as the industry remains c 4851 chars",
+      "cleaned_text": "Bank of America resets price target as CoreWeave earnings send stock reeling. CoreWeave reported its third quarter earnings on November 10. During the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said We continue to scale aggressively, even as the industry remains c 4851 chars",
+      "tokens": {
+        "original": [
+          "bank",
+          "of",
+          "america",
+          "resets",
+          "price",
+          "target",
+          "as",
+          "coreweave",
+          "earnings",
+          "send",
+          "stock",
+          "reeling",
+          "coreweave",
+          "reported",
+          "its",
+          "third",
+          "quarter",
+          "earnings",
+          "on",
+          "november",
+          "10.",
+          "during",
+          "the",
+          "earnings",
+          "call",
+          ",",
+          "mike",
+          "intrator",
+          ",",
+          "ceo",
+          "and",
+          "co-founder",
+          "of",
+          "coreweave",
+          ",",
+          "said",
+          "we",
+          "continue",
+          "to",
+          "scale",
+          "aggressively",
+          ",",
+          "even",
+          "as",
+          "the",
+          "industry",
+          "remains",
+          "c",
+          "4851",
+          "chars"
+        ],
+        "filtered": [
+          "bank",
+          "america",
+          "resets",
+          "price",
+          "target",
+          "coreweave",
+          "earnings",
+          "send",
+          "stock",
+          "reeling",
+          "coreweave",
+          "reported",
+          "third",
+          "quarter",
+          "earnings",
+          "november",
+          "10.",
+          "earnings",
+          "call",
+          ",",
+          "mike",
+          "intrator",
+          ",",
+          "ceo",
+          "co-founder",
+          "coreweave",
+          ",",
+          "said",
+          "continue",
+          "scale",
+          "aggressively",
+          ",",
+          "even",
+          "industry",
+          "remains",
+          "c",
+          "4851",
+          "chars"
+        ],
+        "lemmatized": [
+          "bank",
+          "america",
+          "reset",
+          "price",
+          "target",
+          "coreweave",
+          "earnings",
+          "send",
+          "stock",
+          "reeling",
+          "coreweave",
+          "report",
+          "third",
+          "quarter",
+          "earnings",
+          "november",
+          "10.",
+          "earnings",
+          "call",
+          ",",
+          "mike",
+          "intrator",
+          ",",
+          "ceo",
+          "co-founder",
+          "coreweave",
+          ",",
+          "say",
+          "continue",
+          "scale",
+          "aggressively",
+          ",",
+          "even",
+          "industry",
+          "remain",
+          "c",
+          "4851",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Mike Intrator"
+          ],
+          "ORGANIZATION": [
+            "CoreWeave",
+            "CEO"
+          ],
+          "GPE": [
+            "Bank",
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "10",
+          "4851"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coreweave",
+            3
+          ],
+          [
+            "earnings",
+            3
+          ],
+          [
+            "bank",
+            1
+          ],
+          [
+            "america",
+            1
+          ],
+          [
+            "reset",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "send",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "reeling",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 51,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 41
+      },
+      "processed_at": "2025-11-14T03:30:15.428886",
+      "preprocessing_version": "1.0",
+      "article_id": "e6c2f5cc34adc7ba",
+      "title": "Bank of America resets price target as CoreWeave earnings send stock reeling",
+      "description": "CoreWeave reported its Q3 earnings on November 10. During the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said: \"We continue to scale...",
+      "body": "CoreWeave reported its Q3 earnings on November 10.\r\nDuring the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said:\r\n\"We continue to scale aggressively, even as the industry remains c… [+4851 chars]",
+      "source": "TheStreet",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-price-target-as-coreweave-earnings-send-stock-reeling",
+      "author": "Vuk Zdinjak",
+      "published_at": "2025-11-11T22:47:00Z",
+      "scraped_at": "2025-11-13T22:21:24.627639",
+      "ticker": "MSFT",
+      "raw_text": "Bank of America resets price target as CoreWeave earnings send stock reeling CoreWeave reported its Q3 earnings on November 10. During the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said: \"We continue to scale... CoreWeave reported its Q3 earnings on November 10.\r\nDuring the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said:\r\n\"We continue to scale aggressively, even as the industry remains c… [+4851 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "BAC",
+        "TGT"
+      ],
+      "ticker_confidence": {
+        "BAC": 80,
+        "TGT": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Arm’s 'AI tollbooth' keeps ringing, but SoftBank’s 16% sales slice is the tell",
+      "original_body": "Bank of America’s AI bull case on British semiconductor and software design company Arm is straightforward: The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidia's GB200 to Google's Axion and Microsoft's Cobalt, data-center revenue is growing by around 2 ...",
+      "cleaned_title": "Arms AI tollbooth keeps ringing, but SoftBanks 16 percent sales slice is the tell",
+      "cleaned_body": "Bank of Americas AI bull case on British semiconductor and software design company Arm is straightforward The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidias GB200 to Googles Axion and Microsofts Cobalt, data-center revenue is growing by around 2 ...",
+      "cleaned_text": "Arms AI tollbooth keeps ringing, but SoftBanks 16 percent sales slice is the tell. Bank of Americas AI bull case on British semiconductor and software design company Arm is straightforward The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidias GB200 to Googles Axion and Microsofts Cobalt, data-center revenue is growing by around 2 ...",
+      "tokens": {
+        "original": [
+          "arms",
+          "ai",
+          "tollbooth",
+          "keeps",
+          "ringing",
+          ",",
+          "but",
+          "softbanks",
+          "16",
+          "percent",
+          "sales",
+          "slice",
+          "is",
+          "the",
+          "tell",
+          "bank",
+          "of",
+          "americas",
+          "ai",
+          "bull",
+          "case",
+          "on",
+          "british",
+          "semiconductor",
+          "and",
+          "software",
+          "design",
+          "company",
+          "arm",
+          "is",
+          "straightforward",
+          "the",
+          "mechanics",
+          "underlying",
+          "such",
+          "a",
+          "call",
+          "are",
+          "really",
+          "strong",
+          ".",
+          "as",
+          "arm-based",
+          "cpus",
+          "transition",
+          "from",
+          "nvidias",
+          "gb200",
+          "to",
+          "googles",
+          "axion",
+          "and",
+          "microsofts",
+          "cobalt",
+          ",",
+          "data-center",
+          "revenue",
+          "is",
+          "growing",
+          "by",
+          "around",
+          "2",
+          "..."
+        ],
+        "filtered": [
+          "arms",
+          "ai",
+          "tollbooth",
+          "keeps",
+          "ringing",
+          ",",
+          "softbanks",
+          "16",
+          "percent",
+          "sales",
+          "slice",
+          "tell",
+          "bank",
+          "americas",
+          "ai",
+          "bull",
+          "case",
+          "british",
+          "semiconductor",
+          "software",
+          "design",
+          "company",
+          "arm",
+          "straightforward",
+          "mechanics",
+          "underlying",
+          "call",
+          "really",
+          "strong",
+          ".",
+          "arm-based",
+          "cpus",
+          "transition",
+          "nvidias",
+          "gb200",
+          "googles",
+          "axion",
+          "microsofts",
+          "cobalt",
+          ",",
+          "data-center",
+          "revenue",
+          "growing",
+          "around",
+          "2",
+          "..."
+        ],
+        "lemmatized": [
+          "arm",
+          "ai",
+          "tollbooth",
+          "keep",
+          "ring",
+          ",",
+          "softbanks",
+          "16",
+          "percent",
+          "sales",
+          "slice",
+          "tell",
+          "bank",
+          "america",
+          "ai",
+          "bull",
+          "case",
+          "british",
+          "semiconductor",
+          "software",
+          "design",
+          "company",
+          "arm",
+          "straightforward",
+          "mechanic",
+          "underlie",
+          "call",
+          "really",
+          "strong",
+          ".",
+          "arm-based",
+          "cpu",
+          "transition",
+          "nvidias",
+          "gb200",
+          "google",
+          "axion",
+          "microsofts",
+          "cobalt",
+          ",",
+          "data-center",
+          "revenue",
+          "grow",
+          "around",
+          "2",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Arm",
+            "Google",
+            "Microsoft",
+            "Cobalt"
+          ],
+          "ORGANIZATION": [
+            "SoftBank",
+            "Bank",
+            "Arm",
+            "CPUs",
+            "GB200"
+          ],
+          "GPE": [
+            "America",
+            "British",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "16",
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "arm",
+            2
+          ],
+          [
+            "tollbooth",
+            1
+          ],
+          [
+            "keep",
+            1
+          ],
+          [
+            "ring",
+            1
+          ],
+          [
+            "softbanks",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "sales",
+            1
+          ],
+          [
+            "slice",
+            1
+          ],
+          [
+            "tell",
+            1
+          ],
+          [
+            "bank",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 64,
+        "avg_words_per_sentence": 21.33,
+        "num_unique_words": 57
+      },
+      "processed_at": "2025-11-14T03:30:40.622878",
+      "preprocessing_version": "1.0",
+      "article_id": "bf7ba3a75559f9eb",
+      "title": "Arm’s 'AI tollbooth' keeps ringing, but SoftBank’s 16% sales slice is the tell",
+      "description": "Bank of America’s AI bull case on British semiconductor and software design company Arm is straightforward: The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidia's GB200 to Google's Axion and Microsoft's Cobalt, data-center revenue is growing by around 2 ...",
+      "body": "Bank of America’s AI bull case on British semiconductor and software design company Arm is straightforward: The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidia's GB200 to Google's Axion and Microsoft's Cobalt, data-center revenue is growing by around 2 ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=b78321c8145b4de3f80397c9592a6da2848a5ade80aeaa2008b0f74291239aee",
+      "author": "Unknown",
+      "published_at": "2025-11-11T00:33:00",
+      "scraped_at": "2025-11-13T22:21:35.499771",
+      "ticker": "MSFT",
+      "raw_text": "Arm’s 'AI tollbooth' keeps ringing, but SoftBank’s 16% sales slice is the tell Bank of America’s AI bull case on British semiconductor and software design company Arm is straightforward: The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidia's GB200 to Google's Axion and Microsoft's Cobalt, data-center revenue is growing by around 2 ... Bank of America’s AI bull case on British semiconductor and software design company Arm is straightforward: The mechanics underlying such a call are really strong. As Arm-based CPUs transition from Nvidia's GB200 to Google's Axion and Microsoft's Cobalt, data-center revenue is growing by around 2 ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "NVDA",
+        "BAC"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "NVDA": 80,
+        "BAC": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "AI’s capital expenditure shows no sign of cooling",
+      "original_body": "Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67% in 2025 and another 31% in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one month’s estimates.",
+      "cleaned_title": "AIs capital expenditure shows no sign of cooling",
+      "cleaned_body": "Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67 percent in 2025 and another 31 percent in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one months estimates.",
+      "cleaned_text": "AIs capital expenditure shows no sign of cooling. Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67 percent in 2025 and another 31 percent in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one months estimates.",
+      "tokens": {
+        "original": [
+          "ais",
+          "capital",
+          "expenditure",
+          "shows",
+          "no",
+          "sign",
+          "of",
+          "cooling",
+          "investing.com",
+          "--",
+          "artificial",
+          "intelligence",
+          "is",
+          "consuming",
+          "capital",
+          "faster",
+          "than",
+          "investors",
+          "can",
+          "recalibrate",
+          ".",
+          "bank",
+          "of",
+          "america",
+          "now",
+          "sees",
+          "global",
+          "hyperscale",
+          "spending",
+          "rising",
+          "67",
+          "percent",
+          "in",
+          "2025",
+          "and",
+          "another",
+          "31",
+          "percent",
+          "in",
+          "2026",
+          ",",
+          "with",
+          "total",
+          "outlays",
+          "climbing",
+          "to",
+          "$",
+          "611",
+          "billion",
+          ".",
+          "that",
+          "is",
+          "a",
+          "$",
+          "145",
+          "billion",
+          "increase",
+          "in",
+          "just",
+          "one",
+          "months",
+          "estimates",
+          "."
+        ],
+        "filtered": [
+          "ais",
+          "capital",
+          "expenditure",
+          "shows",
+          "no",
+          "sign",
+          "cooling",
+          "investing.com",
+          "--",
+          "artificial",
+          "intelligence",
+          "consuming",
+          "capital",
+          "faster",
+          "investors",
+          "recalibrate",
+          ".",
+          "bank",
+          "america",
+          "sees",
+          "global",
+          "hyperscale",
+          "spending",
+          "rising",
+          "67",
+          "percent",
+          "2025",
+          "another",
+          "31",
+          "percent",
+          "2026",
+          ",",
+          "total",
+          "outlays",
+          "climbing",
+          "$",
+          "611",
+          "billion",
+          ".",
+          "$",
+          "145",
+          "billion",
+          "increase",
+          "one",
+          "months",
+          "estimates",
+          "."
+        ],
+        "lemmatized": [
+          "ais",
+          "capital",
+          "expenditure",
+          "show",
+          "no",
+          "sign",
+          "cool",
+          "investing.com",
+          "--",
+          "artificial",
+          "intelligence",
+          "consume",
+          "capital",
+          "faster",
+          "investor",
+          "recalibrate",
+          ".",
+          "bank",
+          "america",
+          "see",
+          "global",
+          "hyperscale",
+          "spending",
+          "rise",
+          "67",
+          "percent",
+          "2025",
+          "another",
+          "31",
+          "percent",
+          "2026",
+          ",",
+          "total",
+          "outlay",
+          "climb",
+          "$",
+          "611",
+          "billion",
+          ".",
+          "$",
+          "145",
+          "billion",
+          "increase",
+          "one",
+          "month",
+          "estimate",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Bank"
+          ],
+          "GPE": [
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "estimate"
+          ]
+        },
+        "numbers": [
+          "67",
+          "2025",
+          "31",
+          "2026",
+          "611",
+          "145"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "capital",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "ais",
+            1
+          ],
+          [
+            "expenditure",
+            1
+          ],
+          [
+            "show",
+            1
+          ],
+          [
+            "sign",
+            1
+          ],
+          [
+            "cool",
+            1
+          ],
+          [
+            "investing.com",
+            1
+          ],
+          [
+            "artificial",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 64,
+        "avg_words_per_sentence": 16.0,
+        "num_unique_words": 53
+      },
+      "processed_at": "2025-11-14T03:30:48.317041",
+      "preprocessing_version": "1.0",
+      "article_id": "d504f5104d7569b7",
+      "title": "AI’s capital expenditure shows no sign of cooling",
+      "description": "Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67% in 2025 and another 31% in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one month’s estimates.",
+      "body": "Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67% in 2025 and another 31% in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one month’s estimates.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=60fa896e5a5717a52668c1d353f2eec31cdc7fd3134b0ed2c8adaadcbaf5812b",
+      "author": "Unknown",
+      "published_at": "2025-11-09T15:00:05",
+      "scraped_at": "2025-11-13T22:21:35.500428",
+      "ticker": "MSFT",
+      "raw_text": "AI’s capital expenditure shows no sign of cooling Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67% in 2025 and another 31% in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one month’s estimates. Investing.com -- Artificial intelligence is consuming capital faster than investors can recalibrate. Bank of America now sees global hyperscale spending rising 67% in 2025 and another 31% in 2026, with total outlays climbing to $611 billion. That is a $145 billion increase in just one month’s estimates.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BAC"
+      ],
+      "ticker_confidence": {
+        "BAC": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal",
+      "original_body": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "cleaned_title": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal",
+      "cleaned_body": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IRENs cloud business.",
+      "cleaned_text": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal. The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IRENs cloud business.",
+      "tokens": {
+        "original": [
+          "j.p.",
+          "morgan",
+          "raises",
+          "iren",
+          "price",
+          "target",
+          "to",
+          "$",
+          "28",
+          "following",
+          "microsoft",
+          "cloud",
+          "deal",
+          "the",
+          "wall",
+          "street",
+          "bank",
+          "maintained",
+          "an",
+          "underweight",
+          "rating",
+          ",",
+          "citing",
+          "dilution",
+          "from",
+          "convertible",
+          "bonds",
+          "and",
+          "equity",
+          "issuance",
+          ",",
+          "despite",
+          "stronger",
+          "growth",
+          "prospects",
+          "in",
+          "irens",
+          "cloud",
+          "business",
+          "."
+        ],
+        "filtered": [
+          "j.p.",
+          "morgan",
+          "raises",
+          "iren",
+          "price",
+          "target",
+          "$",
+          "28",
+          "following",
+          "microsoft",
+          "cloud",
+          "deal",
+          "wall",
+          "street",
+          "bank",
+          "maintained",
+          "underweight",
+          "rating",
+          ",",
+          "citing",
+          "dilution",
+          "convertible",
+          "bonds",
+          "equity",
+          "issuance",
+          ",",
+          "despite",
+          "stronger",
+          "growth",
+          "prospects",
+          "irens",
+          "cloud",
+          "business",
+          "."
+        ],
+        "lemmatized": [
+          "j.p.",
+          "morgan",
+          "raise",
+          "iren",
+          "price",
+          "target",
+          "$",
+          "28",
+          "follow",
+          "microsoft",
+          "cloud",
+          "deal",
+          "wall",
+          "street",
+          "bank",
+          "maintain",
+          "underweight",
+          "rating",
+          ",",
+          "cite",
+          "dilution",
+          "convertible",
+          "bond",
+          "equity",
+          "issuance",
+          ",",
+          "despite",
+          "strong",
+          "growth",
+          "prospect",
+          "irens",
+          "cloud",
+          "business",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "IREN",
+            "Microsoft"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "28"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cloud",
+            2
+          ],
+          [
+            "j.p.",
+            1
+          ],
+          [
+            "morgan",
+            1
+          ],
+          [
+            "raise",
+            1
+          ],
+          [
+            "iren",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "follow",
+            1
+          ],
+          [
+            "microsoft",
+            1
+          ],
+          [
+            "deal",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 41,
+        "avg_words_per_sentence": 20.5,
+        "num_unique_words": 38
+      },
+      "processed_at": "2025-11-14T03:30:53.375457",
+      "preprocessing_version": "1.0",
+      "article_id": "2ffc48e5d8a9c930",
+      "title": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal",
+      "description": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "body": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=da581c8e068c3a23f2746db2e15f93f0bf07e93ee3fca874e7152ec25964db69",
+      "author": "Unknown",
+      "published_at": "2025-11-07T22:47:15",
+      "scraped_at": "2025-11-13T22:21:35.501063",
+      "ticker": "MSFT",
+      "raw_text": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business. The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "BAC",
+        "MS",
+        "TGT"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "BAC": 80,
+        "MS": 80,
+        "TGT": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

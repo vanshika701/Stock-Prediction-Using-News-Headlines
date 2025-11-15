@@ -1,0 +1,5233 @@
+{
+  "ticker": "TXN",
+  "export_date": "2025-11-15T01:16:26.063096",
+  "article_count": 19,
+  "articles": [
+    {
+      "original_title": "Chevron Picks Texas for First AI Data Center Power Project",
+      "original_body": "(Bloomberg) -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita… [+3392 chars]",
+      "cleaned_title": "Chevron Picks Texas for First AI Data Center Power Project",
+      "cleaned_body": "Bloomberg -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita 3392 chars",
+      "cleaned_text": "Chevron Picks Texas for First AI Data Center Power Project. Bloomberg -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita 3392 chars",
+      "tokens": {
+        "original": [
+          "chevron",
+          "picks",
+          "texas",
+          "for",
+          "first",
+          "ai",
+          "data",
+          "center",
+          "power",
+          "project",
+          "bloomberg",
+          "--",
+          "chevron",
+          "corp.",
+          "chose",
+          "west",
+          "texas",
+          "as",
+          "the",
+          "site",
+          "of",
+          "its",
+          "first",
+          "project",
+          "to",
+          "provide",
+          "natural",
+          "gas-fired",
+          "power",
+          "to",
+          "a",
+          "data",
+          "center",
+          ",",
+          "the",
+          "beginning",
+          "of",
+          "a",
+          "new",
+          "line",
+          "of",
+          "business",
+          "for",
+          "the",
+          "oil",
+          "giant",
+          "to",
+          "capita",
+          "3392",
+          "chars"
+        ],
+        "filtered": [
+          "chevron",
+          "picks",
+          "texas",
+          "first",
+          "ai",
+          "data",
+          "center",
+          "power",
+          "project",
+          "bloomberg",
+          "--",
+          "chevron",
+          "corp.",
+          "chose",
+          "west",
+          "texas",
+          "site",
+          "first",
+          "project",
+          "provide",
+          "natural",
+          "gas-fired",
+          "power",
+          "data",
+          "center",
+          ",",
+          "beginning",
+          "new",
+          "line",
+          "business",
+          "oil",
+          "giant",
+          "capita",
+          "3392",
+          "chars"
+        ],
+        "lemmatized": [
+          "chevron",
+          "pick",
+          "texas",
+          "first",
+          "ai",
+          "data",
+          "center",
+          "power",
+          "project",
+          "bloomberg",
+          "--",
+          "chevron",
+          "corp.",
+          "choose",
+          "west",
+          "texas",
+          "site",
+          "first",
+          "project",
+          "provide",
+          "natural",
+          "gas-fired",
+          "power",
+          "data",
+          "center",
+          ",",
+          "begin",
+          "new",
+          "line",
+          "business",
+          "oil",
+          "giant",
+          "caput",
+          "3392",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Chevron",
+            "Picks Texas",
+            "First AI Data Center Power Project",
+            "Chevron Corp."
+          ],
+          "ORGANIZATION": [
+            "Bloomberg"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "project"
+          ]
+        },
+        "numbers": [
+          "3392"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "chevron",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "first",
+            2
+          ],
+          [
+            "data",
+            2
+          ],
+          [
+            "center",
+            2
+          ],
+          [
+            "power",
+            2
+          ],
+          [
+            "project",
+            2
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "bloomberg",
+            1
+          ],
+          [
+            "corp.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 51,
+        "avg_words_per_sentence": 25.5,
+        "num_unique_words": 36
+      },
+      "processed_at": "2025-11-14T03:28:50.600038",
+      "preprocessing_version": "1.0",
+      "article_id": "3563a684062928d0",
+      "title": "Chevron Picks Texas for First AI Data Center Power Project",
+      "description": "The company is in exclusive talks with the data center’s end user, which it didn’t name, and anticipates making a final investment decision early next year, ...",
+      "body": "(Bloomberg) -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita… [+3392 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/chevron-picks-west-texas-first-103423266.html",
+      "author": "Kevin Crowley",
+      "published_at": "2025-11-12T15:13:05Z",
+      "scraped_at": "2025-11-13T22:21:10.043994",
+      "ticker": "AAPL",
+      "raw_text": "Chevron Picks Texas for First AI Data Center Power Project The company is in exclusive talks with the data center’s end user, which it didn’t name, and anticipates making a final investment decision early next year, ... (Bloomberg) -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita… [+3392 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "CVX"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "CVX": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware",
+      "original_body": "(Reuters) -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hub's growing attr… [+1899 chars]",
+      "cleaned_title": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware",
+      "cleaned_body": "Reuters -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hubs growing attr 1899 chars",
+      "cleaned_text": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware. Reuters -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hubs growing attr 1899 chars",
+      "tokens": {
+        "original": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "to",
+          "reincorporate",
+          "in",
+          "texas",
+          ",",
+          "exit",
+          "delaware",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "is",
+          "departing",
+          "delaware",
+          "and",
+          "reincorporating",
+          "itself",
+          "in",
+          "texas",
+          ",",
+          "the",
+          "company",
+          "said",
+          "in",
+          "a",
+          "regulatory",
+          "filing",
+          "on",
+          "wednesday",
+          ",",
+          "citing",
+          "the",
+          "new",
+          "business",
+          "hubs",
+          "growing",
+          "attr",
+          "1899",
+          "chars"
+        ],
+        "filtered": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "reincorporate",
+          "texas",
+          ",",
+          "exit",
+          "delaware",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "departing",
+          "delaware",
+          "reincorporating",
+          "texas",
+          ",",
+          "company",
+          "said",
+          "regulatory",
+          "filing",
+          "wednesday",
+          ",",
+          "citing",
+          "new",
+          "business",
+          "hubs",
+          "growing",
+          "attr",
+          "1899",
+          "chars"
+        ],
+        "lemmatized": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "reincorporate",
+          "texas",
+          ",",
+          "exit",
+          "delaware",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "depart",
+          "delaware",
+          "reincorporating",
+          "texas",
+          ",",
+          "company",
+          "say",
+          "regulatory",
+          "filing",
+          "wednesday",
+          ",",
+          "cite",
+          "new",
+          "business",
+          "hub",
+          "grow",
+          "attr",
+          "1899",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Delaware",
+            "Coinbase"
+          ],
+          "ORGANIZATION": [
+            "Reuters"
+          ],
+          "GPE": [
+            "Crypto",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1899"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "exchange",
+            2
+          ],
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "reincorporate",
+            1
+          ],
+          [
+            "exit",
+            1
+          ],
+          [
+            "reuters",
+            1
+          ],
+          [
+            "-cryptocurrency",
+            1
+          ],
+          [
+            "depart",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 43,
+        "avg_words_per_sentence": 21.5,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:28.985333",
+      "preprocessing_version": "1.0",
+      "article_id": "82a0b21f70aceecb",
+      "title": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware",
+      "description": "Texas is ‌establishing itself as the new darling of Corporate America by drawing companies with its favorable business environment, ‌friendlier tax rules...",
+      "body": "(Reuters) -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hub's growing attr… [+1899 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/coinbase-set-reincorporate-texas-135319386.html",
+      "author": "Reuters",
+      "published_at": "2025-11-12T13:53:19Z",
+      "scraped_at": "2025-11-13T22:21:13.286242",
+      "ticker": "TSLA",
+      "raw_text": "Crypto exchange Coinbase to reincorporate in Texas, exit Delaware Texas is ‌establishing itself as the new darling of Corporate America by drawing companies with its favorable business environment, ‌friendlier tax rules... (Reuters) -Cryptocurrency exchange Coinbase is departing Delaware and reincorporating itself in Texas, the company said in a regulatory filing on Wednesday, citing the new business hub's growing attr… [+1899 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase moves incorporation to Texas from Delaware, following Musk's lead",
+      "original_body": "Coinbase is following Tesla out of Delaware and into Texas.\r\nPaul Grewal, Coinbase's chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat… [+1728 chars]",
+      "cleaned_title": "Coinbase moves incorporation to Texas from Delaware, following Musks lead",
+      "cleaned_body": "Coinbase is following Tesla out of Delaware and into Texas. Paul Grewal, Coinbases chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat 1728 chars",
+      "cleaned_text": "Coinbase moves incorporation to Texas from Delaware, following Musks lead. Coinbase is following Tesla out of Delaware and into Texas. Paul Grewal, Coinbases chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat 1728 chars",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "moves",
+          "incorporation",
+          "to",
+          "texas",
+          "from",
+          "delaware",
+          ",",
+          "following",
+          "musks",
+          "lead",
+          "coinbase",
+          "is",
+          "following",
+          "tesla",
+          "out",
+          "of",
+          "delaware",
+          "and",
+          "into",
+          "texas",
+          ".",
+          "paul",
+          "grewal",
+          ",",
+          "coinbases",
+          "chief",
+          "legal",
+          "officer",
+          ",",
+          "wrote",
+          "in",
+          "a",
+          "wall",
+          "street",
+          "journal",
+          "op-ed",
+          "on",
+          "wednesday",
+          "that",
+          "the",
+          "crypto",
+          "exchange",
+          "is",
+          "moving",
+          "its",
+          "stat",
+          "1728",
+          "chars"
+        ],
+        "filtered": [
+          "coinbase",
+          "moves",
+          "incorporation",
+          "texas",
+          "delaware",
+          ",",
+          "following",
+          "musks",
+          "lead",
+          "coinbase",
+          "following",
+          "tesla",
+          "delaware",
+          "texas",
+          ".",
+          "paul",
+          "grewal",
+          ",",
+          "coinbases",
+          "chief",
+          "legal",
+          "officer",
+          ",",
+          "wrote",
+          "wall",
+          "street",
+          "journal",
+          "op-ed",
+          "wednesday",
+          "crypto",
+          "exchange",
+          "moving",
+          "stat",
+          "1728",
+          "chars"
+        ],
+        "lemmatized": [
+          "coinbase",
+          "move",
+          "incorporation",
+          "texas",
+          "delaware",
+          ",",
+          "follow",
+          "musk",
+          "lead",
+          "coinbase",
+          "follow",
+          "tesla",
+          "delaware",
+          "texas",
+          ".",
+          "paul",
+          "grewal",
+          ",",
+          "coinbases",
+          "chief",
+          "legal",
+          "officer",
+          ",",
+          "write",
+          "wall",
+          "street",
+          "journal",
+          "op-ed",
+          "wednesday",
+          "crypto",
+          "exchange",
+          "move",
+          "stat",
+          "1728",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Musk",
+            "Coinbase",
+            "Tesla",
+            "Paul Grewal"
+          ],
+          "ORGANIZATION": [
+            "Delaware"
+          ],
+          "GPE": [
+            "Coinbase",
+            "Texas",
+            "Delaware"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1728"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "follow",
+            2
+          ],
+          [
+            "incorporation",
+            1
+          ],
+          [
+            "musk",
+            1
+          ],
+          [
+            "lead",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "paul",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 50,
+        "avg_words_per_sentence": 16.67,
+        "num_unique_words": 42
+      },
+      "processed_at": "2025-11-14T03:29:29.441371",
+      "preprocessing_version": "1.0",
+      "article_id": "080e987d135a95af",
+      "title": "Coinbase moves incorporation to Texas from Delaware, following Musk's lead",
+      "description": "Coinbase's legal chief wrote in a Wall Street Journal op-ed that the crypto platform is moving its state of incorporation to Texas.",
+      "body": "Coinbase is following Tesla out of Delaware and into Texas.\r\nPaul Grewal, Coinbase's chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat… [+1728 chars]",
+      "source": "CNBC",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.cnbc.com/2025/11/12/coinbase-moves-incorporation-to-texas-from-delaware-following-tesla.html",
+      "author": null,
+      "published_at": "2025-11-12T13:42:34Z",
+      "scraped_at": "2025-11-13T22:21:13.286265",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase moves incorporation to Texas from Delaware, following Musk's lead Coinbase's legal chief wrote in a Wall Street Journal op-ed that the crypto platform is moving its state of incorporation to Texas. Coinbase is following Tesla out of Delaware and into Texas.\r\nPaul Grewal, Coinbase's chief legal officer, wrote in a Wall Street Journal op-ed on Wednesday that the crypto exchange is moving its stat… [+1728 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Elon Musk Says Delaware Is \"Bleeding Companies\" As Coinbase Moves To Texas - Coinbase Global  ( NASDAQ:COIN ) ",
+      "original_body": "Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "cleaned_title": "Elon Musk Says Delaware Is Bleeding Companies As Coinbase Moves To Texas - Coinbase Global NASDAQCOIN",
+      "cleaned_body": "Coinbase Global Inc. NASDAQCOIN announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move was not made lightly, describing it as a step to protect customers, ...",
+      "cleaned_text": "Elon Musk Says Delaware Is Bleeding Companies As Coinbase Moves To Texas - Coinbase Global NASDAQCOIN. Coinbase Global Inc. NASDAQCOIN announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move was not made lightly, describing it as a step to protect customers, ...",
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "says",
+          "delaware",
+          "is",
+          "bleeding",
+          "companies",
+          "as",
+          "coinbase",
+          "moves",
+          "to",
+          "texas",
+          "-",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "announced",
+          "plans",
+          "on",
+          "wednesday",
+          "to",
+          "leave",
+          "delaware",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          ",",
+          "sparking",
+          "sharp",
+          "reactions",
+          "from",
+          "tech",
+          "and",
+          "finance",
+          "leaders",
+          ".",
+          "chief",
+          "legal",
+          "officer",
+          "paul",
+          "grewal",
+          "said",
+          "the",
+          "move",
+          "was",
+          "not",
+          "made",
+          "lightly",
+          ",",
+          "describing",
+          "it",
+          "as",
+          "a",
+          "step",
+          "to",
+          "protect",
+          "customers",
+          ",",
+          "..."
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "says",
+          "delaware",
+          "bleeding",
+          "companies",
+          "coinbase",
+          "moves",
+          "texas",
+          "-",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "announced",
+          "plans",
+          "wednesday",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          ",",
+          "sparking",
+          "sharp",
+          "reactions",
+          "tech",
+          "finance",
+          "leaders",
+          ".",
+          "chief",
+          "legal",
+          "officer",
+          "paul",
+          "grewal",
+          "said",
+          "move",
+          "not",
+          "made",
+          "lightly",
+          ",",
+          "describing",
+          "step",
+          "protect",
+          "customers",
+          ",",
+          "..."
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "say",
+          "delaware",
+          "bleed",
+          "company",
+          "coinbase",
+          "move",
+          "texas",
+          "-",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "announce",
+          "plan",
+          "wednesday",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          ",",
+          "spark",
+          "sharp",
+          "reaction",
+          "tech",
+          "finance",
+          "leader",
+          ".",
+          "chief",
+          "legal",
+          "officer",
+          "paul",
+          "grewal",
+          "say",
+          "move",
+          "not",
+          "make",
+          "lightly",
+          ",",
+          "describe",
+          "step",
+          "protect",
+          "customer",
+          ",",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk Says Delaware",
+            "Coinbase Moves",
+            "Coinbase Global",
+            "Delaware",
+            "Legal Officer",
+            "Paul Grewal"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            3
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "nasdaqcoin",
+            2
+          ],
+          [
+            "elon",
+            1
+          ],
+          [
+            "musk",
+            1
+          ],
+          [
+            "bleed",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 65,
+        "avg_words_per_sentence": 21.67,
+        "num_unique_words": 52
+      },
+      "processed_at": "2025-11-14T03:29:32.023203",
+      "preprocessing_version": "1.0",
+      "article_id": "1bef0c549bfdc207",
+      "title": "Elon Musk Says Delaware Is \"Bleeding Companies\" As Coinbase Moves To Texas - Coinbase Global  ( NASDAQ:COIN ) ",
+      "description": "Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "body": "Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/48835436/elon-musk-says-delaware-is-bleeding-companies-as-coinbase-moves-to-texas",
+      "author": "Parshwa Turakhiya",
+      "published_at": "20251113T145713",
+      "scraped_at": "2025-11-13T22:21:23.357722",
+      "ticker": "TSLA",
+      "raw_text": "Elon Musk Says Delaware Is \"Bleeding Companies\" As Coinbase Moves To Texas - Coinbase Global  ( NASDAQ:COIN )  Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ... Coinbase Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to leave Delaware and reincorporate in Texas, sparking sharp reactions from tech and finance leaders. Chief Legal Officer Paul Grewal said the move \"was not made lightly,\" describing it as a step to protect customers, ...",
+      "sentiment_score": 0.229413,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "COIN": [
+          "Coinbase Moves To Texas - Coinbase Global ( NASDAQ:COIN ) **Coinbase** Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to",
+          "lightly,\" describing it as a step to protect customers, ... **Coinbase** Global Inc. ( NASDAQ:COIN ) announced plans on Wednesday to"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN ) ",
+      "original_body": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "cleaned_title": "Elon Musk Urges amove To Austin After Coinbase Follows Tesla To Texas - Dropbox NASDAQDBX , Coinbase Global NASDAQCOIN",
+      "cleaned_body": "Tesla Inc. NASDAQTSLA CEO Elon Musk on Wednesday renewed his attacks on Delawares corporate regime after Coinbase Global Inc. NASDAQCOIN said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "cleaned_text": "Elon Musk Urges amove To Austin After Coinbase Follows Tesla To Texas - Dropbox NASDAQDBX , Coinbase Global NASDAQCOIN. Tesla Inc. NASDAQTSLA CEO Elon Musk on Wednesday renewed his attacks on Delawares corporate regime after Coinbase Global Inc. NASDAQCOIN said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "urges",
+          "amove",
+          "to",
+          "austin",
+          "after",
+          "coinbase",
+          "follows",
+          "tesla",
+          "to",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "on",
+          "wednesday",
+          "renewed",
+          "his",
+          "attacks",
+          "on",
+          "delawares",
+          "corporate",
+          "regime",
+          "after",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "said",
+          "it",
+          "will",
+          "follow",
+          "tesla",
+          "and",
+          "spacex",
+          "in",
+          "abandoning",
+          "the",
+          "state",
+          "as",
+          "its",
+          "legal",
+          "home",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          "."
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "urges",
+          "amove",
+          "austin",
+          "coinbase",
+          "follows",
+          "tesla",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "wednesday",
+          "renewed",
+          "attacks",
+          "delawares",
+          "corporate",
+          "regime",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "said",
+          "follow",
+          "tesla",
+          "spacex",
+          "abandoning",
+          "state",
+          "legal",
+          "home",
+          "reincorporate",
+          "texas",
+          "."
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "urge",
+          "amove",
+          "austin",
+          "coinbase",
+          "follow",
+          "tesla",
+          "texas",
+          "-",
+          "dropbox",
+          "nasdaqdbx",
+          ",",
+          "coinbase",
+          "global",
+          "nasdaqcoin",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "wednesday",
+          "renew",
+          "attack",
+          "delaware",
+          "corporate",
+          "regime",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "say",
+          "follow",
+          "tesla",
+          "spacex",
+          "abandon",
+          "state",
+          "legal",
+          "home",
+          "reincorporate",
+          "texas",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk Urges",
+            "Coinbase Follows Tesla",
+            "Coinbase Global",
+            "Tesla Inc.",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ",
+            "CEO Elon Musk",
+            "Delaware",
+            "SpaceX"
+          ],
+          "GPE": [
+            "Austin",
+            "Texas",
+            "Dropbox"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            3
+          ],
+          [
+            "tesla",
+            3
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "follow",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "nasdaqcoin",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "urge",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 60,
+        "avg_words_per_sentence": 30.0,
+        "num_unique_words": 44
+      },
+      "processed_at": "2025-11-14T03:29:34.352063",
+      "preprocessing_version": "1.0",
+      "article_id": "fd4fd075302be11e",
+      "title": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN ) ",
+      "description": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "body": "Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/news/legal/25/11/48824823/elon-musk-urges-move-to-austin-after-coinbase-follows-tesla-to-texas",
+      "author": "Shomik Sen Bhattacharjee",
+      "published_at": "20251113T040455",
+      "scraped_at": "2025-11-13T22:21:23.358107",
+      "ticker": "TSLA",
+      "raw_text": "Elon Musk Urges 'Move' To Austin After Coinbase Follows Tesla To Texas - Dropbox  ( NASDAQ:DBX ) , Coinbase Global  ( NASDAQ:COIN )  Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas. Tesla Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed his attacks on Delaware's corporate regime after Coinbase Global Inc. ( NASDAQ:COIN ) said it will follow Tesla and SpaceX in abandoning the state as its legal home and reincorporate in Texas.",
+      "sentiment_score": 0.021591,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TSLA",
+        "TXN",
+        "HD",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "TXN": 80,
+        "HD": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "TSLA": [
+          "Dropbox ( NASDAQ:DBX ) , Coinbase Global ( NASDAQ:COIN ) **Tesla** Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed",
+          "the state as its legal home and reincorporate in Texas. **Tesla** Inc. ( NASDAQ:TSLA ) CEO Elon Musk on Wednesday renewed"
+        ],
+        "COIN": [
+          "on Wednesday renewed his attacks on Delaware's corporate regime after **Coinbase** Global Inc. ( NASDAQ:COIN ) said it will follow Tesla"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
+      "original_body": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "cleaned_title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
+      "cleaned_body": "Americas largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "cleaned_text": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas. Americas largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "to",
+          "leave",
+          "delaware",
+          "for",
+          "bitcoin-friendly",
+          "texas",
+          "americas",
+          "largest",
+          "crypto",
+          "exchange",
+          "chooses",
+          "the",
+          "lone",
+          "star",
+          "state",
+          "for",
+          "its",
+          "business-friendly",
+          "regulation",
+          "."
+        ],
+        "filtered": [
+          "coinbase",
+          "leave",
+          "delaware",
+          "bitcoin-friendly",
+          "texas",
+          "americas",
+          "largest",
+          "crypto",
+          "exchange",
+          "chooses",
+          "lone",
+          "star",
+          "state",
+          "business-friendly",
+          "regulation",
+          "."
+        ],
+        "lemmatized": [
+          "coinbase",
+          "leave",
+          "delaware",
+          "bitcoin-friendly",
+          "texas",
+          "americas",
+          "large",
+          "crypto",
+          "exchange",
+          "choose",
+          "lone",
+          "star",
+          "state",
+          "business-friendly",
+          "regulation",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Leave Delaware",
+            "America"
+          ],
+          "ORGANIZATION": [
+            "Lone Star"
+          ],
+          "GPE": [
+            "Coinbase"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            1
+          ],
+          [
+            "leave",
+            1
+          ],
+          [
+            "delaware",
+            1
+          ],
+          [
+            "bitcoin-friendly",
+            1
+          ],
+          [
+            "texas",
+            1
+          ],
+          [
+            "americas",
+            1
+          ],
+          [
+            "large",
+            1
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "choose",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 22,
+        "avg_words_per_sentence": 11.0,
+        "num_unique_words": 20
+      },
+      "processed_at": "2025-11-14T03:29:35.239124",
+      "preprocessing_version": "1.0",
+      "article_id": "d9f86947246fa85b",
+      "title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
+      "description": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "body": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "source": "Decrypt.co",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://decrypt.co/348324/coinbase-leave-delaware-bitcoin-friendly-texas",
+      "author": "Mat Di Salvo",
+      "published_at": "20251112T165349",
+      "scraped_at": "2025-11-13T22:21:23.358182",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation. America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation.",
+      "sentiment_score": 0.332551,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Elon Musk warns about Delaware as another tech giant exits",
+      "original_body": "In 2024, Elon Musk moved both Tesla (NASDAQ: TSLA) and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited “litigation risk” as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ...",
+      "cleaned_title": "Elon Musk warns about Delaware as another tech giant exits",
+      "cleaned_body": "In 2024, Elon Musk moved both Tesla NASDAQ TSLA and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited litigation risk as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ...",
+      "cleaned_text": "Elon Musk warns about Delaware as another tech giant exits. In 2024, Elon Musk moved both Tesla NASDAQ TSLA and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited litigation risk as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ...",
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "warns",
+          "about",
+          "delaware",
+          "as",
+          "another",
+          "tech",
+          "giant",
+          "exits",
+          "in",
+          "2024",
+          ",",
+          "elon",
+          "musk",
+          "moved",
+          "both",
+          "tesla",
+          "nasdaq",
+          "tsla",
+          "and",
+          "spacex",
+          "to",
+          "texas",
+          "after",
+          "a",
+          "delaware",
+          "court",
+          "invalidated",
+          "his",
+          "$",
+          "56",
+          "billion",
+          "compensation",
+          "package",
+          ".",
+          "in",
+          "february",
+          "this",
+          "year",
+          ",",
+          "dropbox",
+          "cited",
+          "litigation",
+          "risk",
+          "as",
+          "it",
+          "left",
+          "delaware",
+          "and",
+          "reincorporated",
+          "elsewhere",
+          ".",
+          "andreessen",
+          "horowitz",
+          ",",
+          "the",
+          "silicon",
+          "valley",
+          "..."
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "warns",
+          "delaware",
+          "another",
+          "tech",
+          "giant",
+          "exits",
+          "2024",
+          ",",
+          "elon",
+          "musk",
+          "moved",
+          "tesla",
+          "nasdaq",
+          "tsla",
+          "spacex",
+          "texas",
+          "delaware",
+          "court",
+          "invalidated",
+          "$",
+          "56",
+          "billion",
+          "compensation",
+          "package",
+          ".",
+          "february",
+          "year",
+          ",",
+          "dropbox",
+          "cited",
+          "litigation",
+          "risk",
+          "left",
+          "delaware",
+          "reincorporated",
+          "elsewhere",
+          ".",
+          "andreessen",
+          "horowitz",
+          ",",
+          "silicon",
+          "valley",
+          "..."
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "warn",
+          "delaware",
+          "another",
+          "tech",
+          "giant",
+          "exit",
+          "2024",
+          ",",
+          "elon",
+          "musk",
+          "move",
+          "tesla",
+          "nasdaq",
+          "tsla",
+          "spacex",
+          "texas",
+          "delaware",
+          "court",
+          "invalidate",
+          "$",
+          "56",
+          "billion",
+          "compensation",
+          "package",
+          ".",
+          "february",
+          "year",
+          ",",
+          "dropbox",
+          "cite",
+          "litigation",
+          "risk",
+          "leave",
+          "delaware",
+          "reincorporated",
+          "elsewhere",
+          ".",
+          "andreessen",
+          "horowitz",
+          ",",
+          "silicon",
+          "valley",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Delaware",
+            "Elon Musk",
+            "Dropbox",
+            "Andreessen Horowitz"
+          ],
+          "ORGANIZATION": [
+            "Musk",
+            "NASDAQ",
+            "SpaceX",
+            "Delaware",
+            "Silicon Valley"
+          ],
+          "GPE": [
+            "Tesla",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2024",
+          "56"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "delaware",
+            3
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "warn",
+            1
+          ],
+          [
+            "another",
+            1
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "giant",
+            1
+          ],
+          [
+            "exit",
+            1
+          ],
+          [
+            "2024",
+            1
+          ],
+          [
+            "move",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 61,
+        "avg_words_per_sentence": 15.25,
+        "num_unique_words": 50
+      },
+      "processed_at": "2025-11-14T03:29:43.160235",
+      "preprocessing_version": "1.0",
+      "article_id": "0d3d41f375a70d13",
+      "title": "Elon Musk warns about Delaware as another tech giant exits",
+      "description": "In 2024, Elon Musk moved both Tesla (NASDAQ: TSLA) and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited “litigation risk” as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ...",
+      "body": "In 2024, Elon Musk moved both Tesla (NASDAQ: TSLA) and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited “litigation risk” as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=180ea8212debb4f5c64cee638ee82d4a8d9ed6b06809d8113fb40df725618646",
+      "author": "Unknown",
+      "published_at": "2025-11-12T23:51:31",
+      "scraped_at": "2025-11-13T22:21:23.908449",
+      "ticker": "TSLA",
+      "raw_text": "Elon Musk warns about Delaware as another tech giant exits In 2024, Elon Musk moved both Tesla (NASDAQ: TSLA) and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited “litigation risk” as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ... In 2024, Elon Musk moved both Tesla (NASDAQ: TSLA) and SpaceX to Texas after a Delaware court invalidated his $56 billion compensation package. In February this year, Dropbox cited “litigation risk” as it left Delaware and reincorporated elsewhere. Andreessen Horowitz, the Silicon Valley ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Major crypto exchange picks Texas for new HQ, citing pro-business rules",
+      "original_body": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "cleaned_title": "Major crypto exchange picks Texas for new HQ, citing pro-business rules",
+      "cleaned_body": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "cleaned_text": "Major crypto exchange picks Texas for new HQ, citing pro-business rules. Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "tokens": {
+        "original": [
+          "major",
+          "crypto",
+          "exchange",
+          "picks",
+          "texas",
+          "for",
+          "new",
+          "hq",
+          ",",
+          "citing",
+          "pro-business",
+          "rules",
+          "texas",
+          "attracted",
+          "another",
+          "major",
+          "corporation",
+          "as",
+          "coinbase",
+          "reincorporated",
+          "there",
+          ",",
+          "drawn",
+          "by",
+          "favorable",
+          "tax",
+          "rules",
+          ",",
+          "lighter",
+          "regulations",
+          "and",
+          "the",
+          "new",
+          "specialized",
+          "business",
+          "court",
+          "system",
+          "."
+        ],
+        "filtered": [
+          "major",
+          "crypto",
+          "exchange",
+          "picks",
+          "texas",
+          "new",
+          "hq",
+          ",",
+          "citing",
+          "pro-business",
+          "rules",
+          "texas",
+          "attracted",
+          "another",
+          "major",
+          "corporation",
+          "coinbase",
+          "reincorporated",
+          ",",
+          "drawn",
+          "favorable",
+          "tax",
+          "rules",
+          ",",
+          "lighter",
+          "regulations",
+          "new",
+          "specialized",
+          "business",
+          "court",
+          "system",
+          "."
+        ],
+        "lemmatized": [
+          "major",
+          "crypto",
+          "exchange",
+          "pick",
+          "texas",
+          "new",
+          "hq",
+          ",",
+          "cite",
+          "pro-business",
+          "rule",
+          "texas",
+          "attract",
+          "another",
+          "major",
+          "corporation",
+          "coinbase",
+          "reincorporated",
+          ",",
+          "drawn",
+          "favorable",
+          "tax",
+          "rule",
+          ",",
+          "light",
+          "regulation",
+          "new",
+          "specialized",
+          "business",
+          "court",
+          "system",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Texas",
+            "Coinbase"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Major",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "major",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "rule",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "cite",
+            1
+          ],
+          [
+            "pro-business",
+            1
+          ],
+          [
+            "attract",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 39,
+        "avg_words_per_sentence": 19.5,
+        "num_unique_words": 32
+      },
+      "processed_at": "2025-11-14T03:29:43.316389",
+      "preprocessing_version": "1.0",
+      "article_id": "72c731b234ec44a5",
+      "title": "Major crypto exchange picks Texas for new HQ, citing pro-business rules",
+      "description": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "body": "Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=36da9455003bbb6625cdf71a4e103b2e3a80dbd261c788e24f2a73218bb03c47",
+      "author": "Unknown",
+      "published_at": "2025-11-12T23:09:38",
+      "scraped_at": "2025-11-13T22:21:23.908474",
+      "ticker": "TSLA",
+      "raw_text": "Major crypto exchange picks Texas for new HQ, citing pro-business rules Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system. Texas attracted another major corporation as Coinbase reincorporated there, drawn by favorable tax rules, lighter regulations and the new specialized business court system.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Coinbase to Leave Delaware, Reincorporate in Texas",
+      "original_body": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "cleaned_title": "Coinbase to Leave Delaware, Reincorporate in Texas",
+      "cleaned_body": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "cleaned_text": "Coinbase to Leave Delaware, Reincorporate in Texas. Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "to",
+          "leave",
+          "delaware",
+          ",",
+          "reincorporate",
+          "in",
+          "texas",
+          "coinbase",
+          "plans",
+          "to",
+          "leave",
+          "delaware",
+          "and",
+          "reincorporate",
+          "in",
+          "texas",
+          "after",
+          "a",
+          "group",
+          "of",
+          "shareholders",
+          "with",
+          "a",
+          "majority",
+          "of",
+          "voting",
+          "power",
+          "voted",
+          "to",
+          "approve",
+          "the",
+          "move",
+          "."
+        ],
+        "filtered": [
+          "coinbase",
+          "leave",
+          "delaware",
+          ",",
+          "reincorporate",
+          "texas",
+          "coinbase",
+          "plans",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          "group",
+          "shareholders",
+          "majority",
+          "voting",
+          "power",
+          "voted",
+          "approve",
+          "move",
+          "."
+        ],
+        "lemmatized": [
+          "coinbase",
+          "leave",
+          "delaware",
+          ",",
+          "reincorporate",
+          "texas",
+          "coinbase",
+          "plan",
+          "leave",
+          "delaware",
+          "reincorporate",
+          "texas",
+          "group",
+          "shareholder",
+          "majority",
+          "vote",
+          "power",
+          "vote",
+          "approve",
+          "move",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Leave Delaware",
+            "Coinbase",
+            "Delaware"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Coinbase",
+            "Reincorporate",
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "leave",
+            2
+          ],
+          [
+            "delaware",
+            2
+          ],
+          [
+            "reincorporate",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "vote",
+            2
+          ],
+          [
+            "plan",
+            1
+          ],
+          [
+            "group",
+            1
+          ],
+          [
+            "shareholder",
+            1
+          ],
+          [
+            "majority",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 35,
+        "avg_words_per_sentence": 17.5,
+        "num_unique_words": 24
+      },
+      "processed_at": "2025-11-14T03:29:44.274116",
+      "preprocessing_version": "1.0",
+      "article_id": "460278643dcf4463",
+      "title": "Coinbase to Leave Delaware, Reincorporate in Texas",
+      "description": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "body": "Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=6ee7f944b21445b38aa42729b29202d6d9b584d11dcd0df556c777004f290365",
+      "author": "Unknown",
+      "published_at": "2025-11-12T20:31:00",
+      "scraped_at": "2025-11-13T22:21:23.908597",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase to Leave Delaware, Reincorporate in Texas Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move. Coinbase plans to leave Delaware and reincorporate in Texas after a group of shareholders with a majority of voting power voted to approve the move.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Crypto exchange Coinbase set to reincorporate in Texas",
+      "original_body": "(Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "cleaned_title": "Crypto exchange Coinbase set to reincorporate in Texas",
+      "cleaned_body": "Reuters -Cryptocurrency exchange Coinbase COIN is reincorporating in the new business hub of Texas and will leave Delaware, the company said in a filing with the U.S. securities regulator on Wednesday.",
+      "cleaned_text": "Crypto exchange Coinbase set to reincorporate in Texas. Reuters -Cryptocurrency exchange Coinbase COIN is reincorporating in the new business hub of Texas and will leave Delaware, the company said in a filing with the U.S. securities regulator on Wednesday.",
+      "tokens": {
+        "original": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "set",
+          "to",
+          "reincorporate",
+          "in",
+          "texas",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "coin",
+          "is",
+          "reincorporating",
+          "in",
+          "the",
+          "new",
+          "business",
+          "hub",
+          "of",
+          "texas",
+          "and",
+          "will",
+          "leave",
+          "delaware",
+          ",",
+          "the",
+          "company",
+          "said",
+          "in",
+          "a",
+          "filing",
+          "with",
+          "the",
+          "u.s.",
+          "securities",
+          "regulator",
+          "on",
+          "wednesday",
+          "."
+        ],
+        "filtered": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "set",
+          "reincorporate",
+          "texas",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "coin",
+          "reincorporating",
+          "new",
+          "business",
+          "hub",
+          "texas",
+          "leave",
+          "delaware",
+          ",",
+          "company",
+          "said",
+          "filing",
+          "u.s.",
+          "securities",
+          "regulator",
+          "wednesday",
+          "."
+        ],
+        "lemmatized": [
+          "crypto",
+          "exchange",
+          "coinbase",
+          "set",
+          "reincorporate",
+          "texas",
+          "reuters",
+          "-cryptocurrency",
+          "exchange",
+          "coinbase",
+          "coin",
+          "reincorporating",
+          "new",
+          "business",
+          "hub",
+          "texas",
+          "leave",
+          "delaware",
+          ",",
+          "company",
+          "say",
+          "file",
+          "u.s.",
+          "securities",
+          "regulator",
+          "wednesday",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Coinbase",
+            "Delaware"
+          ],
+          "ORGANIZATION": [
+            "Reuters",
+            "COIN"
+          ],
+          "GPE": [
+            "Crypto",
+            "Texas",
+            "Coinbase",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "exchange",
+            2
+          ],
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "set",
+            1
+          ],
+          [
+            "reincorporate",
+            1
+          ],
+          [
+            "reuters",
+            1
+          ],
+          [
+            "-cryptocurrency",
+            1
+          ],
+          [
+            "coin",
+            1
+          ],
+          [
+            "reincorporating",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 42,
+        "avg_words_per_sentence": 21.0,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:29:44.464174",
+      "preprocessing_version": "1.0",
+      "article_id": "962d0d782f2469e8",
+      "title": "Crypto exchange Coinbase set to reincorporate in Texas",
+      "description": "(Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "body": "(Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=2e8ec03d9c188b5ce437a84957be1929c292a686f45af17f54c676eb9c6c3f4d",
+      "author": "Unknown",
+      "published_at": "2025-11-12T19:23:19",
+      "scraped_at": "2025-11-13T22:21:23.908651",
+      "ticker": "TSLA",
+      "raw_text": "Crypto exchange Coinbase set to reincorporate in Texas (Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday. (Reuters) -Cryptocurrency exchange Coinbase (COIN) is reincorporating in ​the new business hub of ‌Texas and will leave Delaware, the ‌company said in a filing with the U.S. securities regulator on Wednesday.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "2025’s AI Spending Frenzy Continues: Anthropic Invests $50 Billion on AI Infrastructure (List)",
+      "original_body": "Nov. 11Anthropic announced plans to spend $50 billion on AI infrastructure, beginning with data centers in Texas and New York, in a project that Anthropic expects to create 800 permanent jobs and mor… [+5978 chars]",
+      "cleaned_title": "2025s AI Spending Frenzy Continues Anthropic Invests $50 Billion on AI Infrastructure List",
+      "cleaned_body": "Nov. 11Anthropic announced plans to spend $50 billion on AI infrastructure, beginning with data centers in Texas and New York, in a project that Anthropic expects to create 800 permanent jobs and mor 5978 chars",
+      "cleaned_text": "2025s AI Spending Frenzy Continues Anthropic Invests $50 Billion on AI Infrastructure List. Nov. 11Anthropic announced plans to spend $50 billion on AI infrastructure, beginning with data centers in Texas and New York, in a project that Anthropic expects to create 800 permanent jobs and mor 5978 chars",
+      "tokens": {
+        "original": [
+          "2025s",
+          "ai",
+          "spending",
+          "frenzy",
+          "continues",
+          "anthropic",
+          "invests",
+          "$",
+          "50",
+          "billion",
+          "on",
+          "ai",
+          "infrastructure",
+          "list",
+          "nov.",
+          "11anthropic",
+          "announced",
+          "plans",
+          "to",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "on",
+          "ai",
+          "infrastructure",
+          ",",
+          "beginning",
+          "with",
+          "data",
+          "centers",
+          "in",
+          "texas",
+          "and",
+          "new",
+          "york",
+          ",",
+          "in",
+          "a",
+          "project",
+          "that",
+          "anthropic",
+          "expects",
+          "to",
+          "create",
+          "800",
+          "permanent",
+          "jobs",
+          "and",
+          "mor",
+          "5978",
+          "chars"
+        ],
+        "filtered": [
+          "2025s",
+          "ai",
+          "spending",
+          "frenzy",
+          "continues",
+          "anthropic",
+          "invests",
+          "$",
+          "50",
+          "billion",
+          "ai",
+          "infrastructure",
+          "list",
+          "nov.",
+          "11anthropic",
+          "announced",
+          "plans",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "ai",
+          "infrastructure",
+          ",",
+          "beginning",
+          "data",
+          "centers",
+          "texas",
+          "new",
+          "york",
+          ",",
+          "project",
+          "anthropic",
+          "expects",
+          "create",
+          "800",
+          "permanent",
+          "jobs",
+          "mor",
+          "5978",
+          "chars"
+        ],
+        "lemmatized": [
+          "2025s",
+          "ai",
+          "spending",
+          "frenzy",
+          "continue",
+          "anthropic",
+          "invests",
+          "$",
+          "50",
+          "billion",
+          "ai",
+          "infrastructure",
+          "list",
+          "nov.",
+          "11anthropic",
+          "announce",
+          "plan",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "ai",
+          "infrastructure",
+          ",",
+          "begin",
+          "data",
+          "center",
+          "texas",
+          "new",
+          "york",
+          ",",
+          "project",
+          "anthropic",
+          "expect",
+          "create",
+          "800",
+          "permanent",
+          "job",
+          "mor",
+          "5978",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Frenzy Continues",
+            "Anthropic"
+          ],
+          "ORGANIZATION": [
+            "AI Infrastructure",
+            "List"
+          ],
+          "GPE": [
+            "Texas",
+            "New York"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "expect",
+            "project"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "50",
+          "50",
+          "800",
+          "5978"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "anthropic",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "infrastructure",
+            2
+          ],
+          [
+            "2025s",
+            1
+          ],
+          [
+            "spending",
+            1
+          ],
+          [
+            "frenzy",
+            1
+          ],
+          [
+            "continue",
+            1
+          ],
+          [
+            "invests",
+            1
+          ],
+          [
+            "list",
+            1
+          ],
+          [
+            "nov.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 53,
+        "avg_words_per_sentence": 26.5,
+        "num_unique_words": 41
+      },
+      "processed_at": "2025-11-14T03:30:11.423874",
+      "preprocessing_version": "1.0",
+      "article_id": "c57d62ba7b2bf6c0",
+      "title": "2025’s AI Spending Frenzy Continues: Anthropic Invests $50 Billion on AI Infrastructure (List)",
+      "description": "Spending on AI has accelerated in recent months, as Wall Street anticipates global expenditures nearing half a trillion dollars by 2026.",
+      "body": "Nov. 11Anthropic announced plans to spend $50 billion on AI infrastructure, beginning with data centers in Texas and New York, in a project that Anthropic expects to create 800 permanent jobs and mor… [+5978 chars]",
+      "source": "Forbes",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.forbes.com/sites/tylerroush/2025/11/12/2025s-ai-spending-frenzy-continues-anthropic-invests-50-billion-on-ai-infrastructure-list/",
+      "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
+      "published_at": "2025-11-12T15:48:30Z",
+      "scraped_at": "2025-11-13T22:21:24.627351",
+      "ticker": "MSFT",
+      "raw_text": "2025’s AI Spending Frenzy Continues: Anthropic Invests $50 Billion on AI Infrastructure (List) Spending on AI has accelerated in recent months, as Wall Street anticipates global expenditures nearing half a trillion dollars by 2026. Nov. 11Anthropic announced plans to spend $50 billion on AI infrastructure, beginning with data centers in Texas and New York, in a project that Anthropic expects to create 800 permanent jobs and mor… [+5978 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "‘There’s Just No Reason to Deal With Young Employees’",
+      "original_body": "Not long after graduating from the University of Texas at Austin in 2021, Donald King landed a job as an associate at the London-based consulting firm PricewaterhouseCoopers. King had always assumed … [+24537 chars]",
+      "cleaned_title": "Theres Just No Reason to Deal With Young Employees",
+      "cleaned_body": "Not long after graduating from the University of Texas at Austin in 2021, Donald King landed a job as an associate at the London-based consulting firm PricewaterhouseCoopers. King had always assumed 24537 chars",
+      "cleaned_text": "Theres Just No Reason to Deal With Young Employees. Not long after graduating from the University of Texas at Austin in 2021, Donald King landed a job as an associate at the London-based consulting firm PricewaterhouseCoopers. King had always assumed 24537 chars",
+      "tokens": {
+        "original": [
+          "theres",
+          "just",
+          "no",
+          "reason",
+          "to",
+          "deal",
+          "with",
+          "young",
+          "employees",
+          "not",
+          "long",
+          "after",
+          "graduating",
+          "from",
+          "the",
+          "university",
+          "of",
+          "texas",
+          "at",
+          "austin",
+          "in",
+          "2021",
+          ",",
+          "donald",
+          "king",
+          "landed",
+          "a",
+          "job",
+          "as",
+          "an",
+          "associate",
+          "at",
+          "the",
+          "london-based",
+          "consulting",
+          "firm",
+          "pricewaterhousecoopers",
+          ".",
+          "king",
+          "had",
+          "always",
+          "assumed",
+          "24537",
+          "chars"
+        ],
+        "filtered": [
+          "theres",
+          "no",
+          "reason",
+          "deal",
+          "young",
+          "employees",
+          "not",
+          "long",
+          "graduating",
+          "university",
+          "texas",
+          "austin",
+          "2021",
+          ",",
+          "donald",
+          "king",
+          "landed",
+          "job",
+          "associate",
+          "london-based",
+          "consulting",
+          "firm",
+          "pricewaterhousecoopers",
+          ".",
+          "king",
+          "always",
+          "assumed",
+          "24537",
+          "chars"
+        ],
+        "lemmatized": [
+          "theres",
+          "no",
+          "reason",
+          "deal",
+          "young",
+          "employee",
+          "not",
+          "long",
+          "graduate",
+          "university",
+          "texas",
+          "austin",
+          "2021",
+          ",",
+          "donald",
+          "king",
+          "land",
+          "job",
+          "associate",
+          "london-based",
+          "consulting",
+          "firm",
+          "pricewaterhousecoopers",
+          ".",
+          "king",
+          "always",
+          "assume",
+          "24537",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Young Employees",
+            "Donald King"
+          ],
+          "ORGANIZATION": [
+            "University",
+            "Austin",
+            "PricewaterhouseCoopers"
+          ],
+          "GPE": [
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2021",
+          "24537"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "king",
+            2
+          ],
+          [
+            "theres",
+            1
+          ],
+          [
+            "reason",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "young",
+            1
+          ],
+          [
+            "employee",
+            1
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "long",
+            1
+          ],
+          [
+            "graduate",
+            1
+          ],
+          [
+            "university",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 45,
+        "avg_words_per_sentence": 15.0,
+        "num_unique_words": 41
+      },
+      "processed_at": "2025-11-14T03:30:13.738042",
+      "preprocessing_version": "1.0",
+      "article_id": "87d89a438eb8a365",
+      "title": "‘There’s Just No Reason to Deal With Young Employees’",
+      "description": "AI is taking entry-level jobs, writes James D. Walsh. What happens when Gen Z can’t start their careers?",
+      "body": "Not long after graduating from the University of Texas at Austin in 2021, Donald King landed a job as an associate at the London-based consulting firm PricewaterhouseCoopers. King had always assumed … [+24537 chars]",
+      "source": "New York Magazine",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "http://nymag.com/intelligencer/article/ai-replacing-entry-level-jobs-gen-z-careers.html",
+      "author": "James D. Walsh",
+      "published_at": "2025-11-12T10:00:45Z",
+      "scraped_at": "2025-11-13T22:21:24.627512",
+      "ticker": "MSFT",
+      "raw_text": "‘There’s Just No Reason to Deal With Young Employees’ AI is taking entry-level jobs, writes James D. Walsh. What happens when Gen Z can’t start their careers? Not long after graduating from the University of Texas at Austin in 2021, Donald King landed a job as an associate at the London-based consulting firm PricewaterhouseCoopers. King had always assumed … [+24537 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Anthropic commits US$50 billion to build AI data centres in US",
+      "original_body": "Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom.",
+      "cleaned_title": "Anthropic commits US$50 billion to build AI data centres in US",
+      "cleaned_body": "Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom.",
+      "cleaned_text": "Anthropic commits US$50 billion to build AI data centres in US. Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom.",
+      "tokens": {
+        "original": [
+          "anthropic",
+          "commits",
+          "us",
+          "$",
+          "50",
+          "billion",
+          "to",
+          "build",
+          "ai",
+          "data",
+          "centres",
+          "in",
+          "us",
+          "anthropic",
+          "plans",
+          "to",
+          "spend",
+          "us",
+          "$",
+          "50",
+          "billion",
+          "to",
+          "build",
+          "custom",
+          "data",
+          "centres",
+          "for",
+          "artificial",
+          "intelligence",
+          "work",
+          "in",
+          "several",
+          "us",
+          "locations",
+          ",",
+          "including",
+          "texas",
+          "and",
+          "new",
+          "york",
+          ",",
+          "the",
+          "latest",
+          "expensive",
+          "pledge",
+          "for",
+          "infrastructure",
+          "to",
+          "support",
+          "the",
+          "ai",
+          "boom",
+          "."
+        ],
+        "filtered": [
+          "anthropic",
+          "commits",
+          "us",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "ai",
+          "data",
+          "centres",
+          "us",
+          "anthropic",
+          "plans",
+          "spend",
+          "us",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "custom",
+          "data",
+          "centres",
+          "artificial",
+          "intelligence",
+          "work",
+          "several",
+          "us",
+          "locations",
+          ",",
+          "including",
+          "texas",
+          "new",
+          "york",
+          ",",
+          "latest",
+          "expensive",
+          "pledge",
+          "infrastructure",
+          "support",
+          "ai",
+          "boom",
+          "."
+        ],
+        "lemmatized": [
+          "anthropic",
+          "commit",
+          "u",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "ai",
+          "data",
+          "centre",
+          "u",
+          "anthropic",
+          "plan",
+          "spend",
+          "u",
+          "$",
+          "50",
+          "billion",
+          "build",
+          "custom",
+          "data",
+          "centre",
+          "artificial",
+          "intelligence",
+          "work",
+          "several",
+          "u",
+          "location",
+          ",",
+          "include",
+          "texas",
+          "new",
+          "york",
+          ",",
+          "late",
+          "expensive",
+          "pledge",
+          "infrastructure",
+          "support",
+          "ai",
+          "boom",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Anthropic",
+            "Texas"
+          ],
+          "ORGANIZATION": [
+            "US",
+            "AI"
+          ],
+          "GPE": [
+            "Anthropic",
+            "New York"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "50",
+          "50"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "anthropic",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "build",
+            2
+          ],
+          [
+            "data",
+            2
+          ],
+          [
+            "centre",
+            2
+          ],
+          [
+            "commit",
+            1
+          ],
+          [
+            "plan",
+            1
+          ],
+          [
+            "spend",
+            1
+          ],
+          [
+            "custom",
+            1
+          ],
+          [
+            "artificial",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 54,
+        "avg_words_per_sentence": 27.0,
+        "num_unique_words": 35
+      },
+      "processed_at": "2025-11-14T03:30:22.283553",
+      "preprocessing_version": "1.0",
+      "article_id": "fef0cefad8004b8c",
+      "title": "Anthropic commits US$50 billion to build AI data centres in US",
+      "description": "Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom.",
+      "body": "Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom.",
+      "source": "South China Morning Post",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.scmp.com/tech/tech-war/article/3332569/anthropic-commits-us50-billion-build-ai-data-centres-us",
+      "author": "Bloomberg",
+      "published_at": "20251113T021323",
+      "scraped_at": "2025-11-13T22:21:35.004692",
+      "ticker": "MSFT",
+      "raw_text": "Anthropic commits US$50 billion to build AI data centres in US Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom. Anthropic plans to spend US$50 billion to build custom data centres for artificial intelligence work in several US locations, including Texas and New York, the latest expensive pledge for infrastructure to support the AI boom.",
+      "sentiment_score": 0.136773,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "TTEC Digital recognized as the 2025 Microsoft Dynamics 365 Service Partner of the Year",
+      "original_body": "AUSTIN, Texas, Nov. 12, 2025 (GLOBE NEWSWIRE) -- TTEC Holdings Inc. (NASDAQ: TTEC), a leading global CX (customer experience) technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. “We are thrilled to be rec",
+      "cleaned_title": "TTEC Digital recognized as the 2025 Microsoft Dynamics 365 Service Partner of the Year",
+      "cleaned_body": "AUSTIN, Texas, Nov. 12, 2025 GLOBE NEWSWIRE -- TTEC Holdings Inc. NASDAQ TTEC, a leading global CX customer experience technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. We are thrilled to be rec",
+      "cleaned_text": "TTEC Digital recognized as the 2025 Microsoft Dynamics 365 Service Partner of the Year. AUSTIN, Texas, Nov. 12, 2025 GLOBE NEWSWIRE -- TTEC Holdings Inc. NASDAQ TTEC, a leading global CX customer experience technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. We are thrilled to be rec",
+      "tokens": {
+        "original": [
+          "ttec",
+          "digital",
+          "recognized",
+          "as",
+          "the",
+          "2025",
+          "microsoft",
+          "dynamics",
+          "365",
+          "service",
+          "partner",
+          "of",
+          "the",
+          "year",
+          "austin",
+          ",",
+          "texas",
+          ",",
+          "nov.",
+          "12",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "ttec",
+          "holdings",
+          "inc.",
+          "nasdaq",
+          "ttec",
+          ",",
+          "a",
+          "leading",
+          "global",
+          "cx",
+          "customer",
+          "experience",
+          "technology",
+          "and",
+          "services",
+          "innovator",
+          "for",
+          "ai-enabled",
+          "cx",
+          ",",
+          "today",
+          "announced",
+          "that",
+          "ttec",
+          "digital",
+          "has",
+          "won",
+          "the",
+          "2025",
+          "microsoft",
+          "dynamics",
+          "365",
+          "service",
+          "partner",
+          "of",
+          "the",
+          "year",
+          "award",
+          ".",
+          "the",
+          "company",
+          "was",
+          "honored",
+          "among",
+          "a",
+          "global",
+          "field",
+          "of",
+          "top",
+          "microsoft",
+          "partners",
+          "for",
+          "demonstrating",
+          "excellence",
+          "in",
+          "innovation",
+          "and",
+          "implementation",
+          "of",
+          "customer",
+          "solutions",
+          "based",
+          "on",
+          "microsoft",
+          "technology",
+          ".",
+          "we",
+          "are",
+          "thrilled",
+          "to",
+          "be",
+          "rec"
+        ],
+        "filtered": [
+          "ttec",
+          "digital",
+          "recognized",
+          "2025",
+          "microsoft",
+          "dynamics",
+          "365",
+          "service",
+          "partner",
+          "year",
+          "austin",
+          ",",
+          "texas",
+          ",",
+          "nov.",
+          "12",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "ttec",
+          "holdings",
+          "inc.",
+          "nasdaq",
+          "ttec",
+          ",",
+          "leading",
+          "global",
+          "cx",
+          "customer",
+          "experience",
+          "technology",
+          "services",
+          "innovator",
+          "ai-enabled",
+          "cx",
+          ",",
+          "today",
+          "announced",
+          "ttec",
+          "digital",
+          "2025",
+          "microsoft",
+          "dynamics",
+          "365",
+          "service",
+          "partner",
+          "year",
+          "award",
+          ".",
+          "company",
+          "honored",
+          "among",
+          "global",
+          "field",
+          "top",
+          "microsoft",
+          "partners",
+          "demonstrating",
+          "excellence",
+          "innovation",
+          "implementation",
+          "customer",
+          "solutions",
+          "based",
+          "microsoft",
+          "technology",
+          ".",
+          "thrilled",
+          "rec"
+        ],
+        "lemmatized": [
+          "ttec",
+          "digital",
+          "recognize",
+          "2025",
+          "microsoft",
+          "dynamic",
+          "365",
+          "service",
+          "partner",
+          "year",
+          "austin",
+          ",",
+          "texas",
+          ",",
+          "nov.",
+          "12",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "ttec",
+          "holdings",
+          "inc.",
+          "nasdaq",
+          "ttec",
+          ",",
+          "lead",
+          "global",
+          "cx",
+          "customer",
+          "experience",
+          "technology",
+          "service",
+          "innovator",
+          "ai-enabled",
+          "cx",
+          ",",
+          "today",
+          "announce",
+          "ttec",
+          "digital",
+          "2025",
+          "microsoft",
+          "dynamic",
+          "365",
+          "service",
+          "partner",
+          "year",
+          "award",
+          ".",
+          "company",
+          "honor",
+          "among",
+          "global",
+          "field",
+          "top",
+          "microsoft",
+          "partner",
+          "demonstrate",
+          "excellence",
+          "innovation",
+          "implementation",
+          "customer",
+          "solution",
+          "base",
+          "microsoft",
+          "technology",
+          ".",
+          "thrill",
+          "rec"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "TTEC",
+            "Digital",
+            "Microsoft",
+            "AUSTIN",
+            "GLOBE",
+            "TTEC Holdings Inc.",
+            "NASDAQ",
+            "TTEC Digital",
+            "Year Award"
+          ],
+          "GPE": [
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "365",
+          "12",
+          "2025",
+          "2025",
+          "365"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ttec",
+            4
+          ],
+          [
+            "microsoft",
+            4
+          ],
+          [
+            "2025",
+            3
+          ],
+          [
+            "service",
+            3
+          ],
+          [
+            "partner",
+            3
+          ],
+          [
+            "digital",
+            2
+          ],
+          [
+            "dynamic",
+            2
+          ],
+          [
+            "365",
+            2
+          ],
+          [
+            "year",
+            2
+          ],
+          [
+            "global",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 98,
+        "avg_words_per_sentence": 24.5,
+        "num_unique_words": 64
+      },
+      "processed_at": "2025-11-14T03:30:29.101752",
+      "preprocessing_version": "1.0",
+      "article_id": "0d30336d4e30b592",
+      "title": "TTEC Digital recognized as the 2025 Microsoft Dynamics 365 Service Partner of the Year",
+      "description": "AUSTIN, Texas, Nov. 12, 2025 (GLOBE NEWSWIRE) -- TTEC Holdings Inc. (NASDAQ: TTEC), a leading global CX (customer experience) technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. “We are thrilled to be rec",
+      "body": "AUSTIN, Texas, Nov. 12, 2025 (GLOBE NEWSWIRE) -- TTEC Holdings Inc. (NASDAQ: TTEC), a leading global CX (customer experience) technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. “We are thrilled to be rec",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=ab6bcec29ceec35d97850c549ad2845315445ba1dc2324257a91c668b30db390",
+      "author": "Unknown",
+      "published_at": "2025-11-13T03:00:00",
+      "scraped_at": "2025-11-13T22:21:35.498726",
+      "ticker": "MSFT",
+      "raw_text": "TTEC Digital recognized as the 2025 Microsoft Dynamics 365 Service Partner of the Year AUSTIN, Texas, Nov. 12, 2025 (GLOBE NEWSWIRE) -- TTEC Holdings Inc. (NASDAQ: TTEC), a leading global CX (customer experience) technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. “We are thrilled to be rec AUSTIN, Texas, Nov. 12, 2025 (GLOBE NEWSWIRE) -- TTEC Holdings Inc. (NASDAQ: TTEC), a leading global CX (customer experience) technology and services innovator for AI-enabled CX, today announced that TTEC Digital has won the 2025 Microsoft Dynamics 365 Service Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology. “We are thrilled to be rec",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Anthropic announces $50B investment in new US data centers to meet AI demand",
+      "original_body": "Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York.  Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems.  A report last month from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.",
+      "cleaned_title": "Anthropic announces 50 billion dollars investment in new US data centers to meet AI demand",
+      "cleaned_body": "Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York. Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems. A report last month from TD Cowen said that the leading cloud computing providers leased a staggering amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.",
+      "cleaned_text": "Anthropic announces 50 billion dollars investment in new US data centers to meet AI demand. Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York. Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems. A report last month from TD Cowen said that the leading cloud computing providers leased a staggering amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.",
+      "tokens": {
+        "original": [
+          "anthropic",
+          "announces",
+          "50",
+          "billion",
+          "dollars",
+          "investment",
+          "in",
+          "new",
+          "us",
+          "data",
+          "centers",
+          "to",
+          "meet",
+          "ai",
+          "demand",
+          "artificial",
+          "intelligence",
+          "company",
+          "anthropic",
+          "announced",
+          "a",
+          "$",
+          "50",
+          "billion",
+          "investment",
+          "in",
+          "computing",
+          "infrastructure",
+          "on",
+          "wednesday",
+          "that",
+          "will",
+          "include",
+          "new",
+          "data",
+          "centers",
+          "in",
+          "texas",
+          "and",
+          "new",
+          "york",
+          ".",
+          "anthropic",
+          ",",
+          "maker",
+          "of",
+          "the",
+          "chatbot",
+          "claude",
+          ",",
+          "said",
+          "it",
+          "is",
+          "working",
+          "with",
+          "london-based",
+          "fluidstack",
+          "to",
+          "build",
+          "the",
+          "new",
+          "computing",
+          "facilities",
+          "to",
+          "power",
+          "its",
+          "ai",
+          "systems",
+          ".",
+          "a",
+          "report",
+          "last",
+          "month",
+          "from",
+          "td",
+          "cowen",
+          "said",
+          "that",
+          "the",
+          "leading",
+          "cloud",
+          "computing",
+          "providers",
+          "leased",
+          "a",
+          "staggering",
+          "amount",
+          "of",
+          "u.s.",
+          "data",
+          "center",
+          "capacity",
+          "in",
+          "the",
+          "third",
+          "fiscal",
+          "quarter",
+          "of",
+          "this",
+          "year",
+          ",",
+          "amounting",
+          "to",
+          "more",
+          "than",
+          "7.4",
+          "gigawatts",
+          "of",
+          "energy",
+          ",",
+          "more",
+          "than",
+          "all",
+          "of",
+          "last",
+          "year",
+          "combined",
+          "."
+        ],
+        "filtered": [
+          "anthropic",
+          "announces",
+          "50",
+          "billion",
+          "dollars",
+          "investment",
+          "new",
+          "us",
+          "data",
+          "centers",
+          "meet",
+          "ai",
+          "demand",
+          "artificial",
+          "intelligence",
+          "company",
+          "anthropic",
+          "announced",
+          "$",
+          "50",
+          "billion",
+          "investment",
+          "computing",
+          "infrastructure",
+          "wednesday",
+          "include",
+          "new",
+          "data",
+          "centers",
+          "texas",
+          "new",
+          "york",
+          ".",
+          "anthropic",
+          ",",
+          "maker",
+          "chatbot",
+          "claude",
+          ",",
+          "said",
+          "working",
+          "london-based",
+          "fluidstack",
+          "build",
+          "new",
+          "computing",
+          "facilities",
+          "power",
+          "ai",
+          "systems",
+          ".",
+          "report",
+          "last",
+          "month",
+          "td",
+          "cowen",
+          "said",
+          "leading",
+          "cloud",
+          "computing",
+          "providers",
+          "leased",
+          "staggering",
+          "amount",
+          "u.s.",
+          "data",
+          "center",
+          "capacity",
+          "third",
+          "fiscal",
+          "quarter",
+          "year",
+          ",",
+          "amounting",
+          "more",
+          "7.4",
+          "gigawatts",
+          "energy",
+          ",",
+          "more",
+          "last",
+          "year",
+          "combined",
+          "."
+        ],
+        "lemmatized": [
+          "anthropic",
+          "announce",
+          "50",
+          "billion",
+          "dollar",
+          "investment",
+          "new",
+          "u",
+          "data",
+          "center",
+          "meet",
+          "ai",
+          "demand",
+          "artificial",
+          "intelligence",
+          "company",
+          "anthropic",
+          "announce",
+          "$",
+          "50",
+          "billion",
+          "investment",
+          "compute",
+          "infrastructure",
+          "wednesday",
+          "include",
+          "new",
+          "data",
+          "center",
+          "texas",
+          "new",
+          "york",
+          ".",
+          "anthropic",
+          ",",
+          "maker",
+          "chatbot",
+          "claude",
+          ",",
+          "say",
+          "work",
+          "london-based",
+          "fluidstack",
+          "build",
+          "new",
+          "compute",
+          "facility",
+          "power",
+          "ai",
+          "system",
+          ".",
+          "report",
+          "last",
+          "month",
+          "td",
+          "cowen",
+          "say",
+          "leading",
+          "cloud",
+          "compute",
+          "provider",
+          "lease",
+          "staggering",
+          "amount",
+          "u.s.",
+          "data",
+          "center",
+          "capacity",
+          "third",
+          "fiscal",
+          "quarter",
+          "year",
+          ",",
+          "amount",
+          "more",
+          "7.4",
+          "gigawatts",
+          "energy",
+          ",",
+          "more",
+          "last",
+          "year",
+          "combine",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Anthropic",
+            "Claude"
+          ],
+          "ORGANIZATION": [
+            "TD Cowen"
+          ],
+          "GPE": [
+            "Anthropic",
+            "US",
+            "Texas",
+            "New York",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "report",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "50B",
+          "50",
+          "7.4"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "new",
+            4
+          ],
+          [
+            "anthropic",
+            3
+          ],
+          [
+            "data",
+            3
+          ],
+          [
+            "center",
+            3
+          ],
+          [
+            "compute",
+            3
+          ],
+          [
+            "announce",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "investment",
+            2
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "last",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 119,
+        "avg_words_per_sentence": 29.75,
+        "num_unique_words": 78
+      },
+      "processed_at": "2025-11-14T03:30:30.970933",
+      "preprocessing_version": "1.0",
+      "article_id": "88f40b11aac209d0",
+      "title": "Anthropic announces $50B investment in new US data centers to meet AI demand",
+      "description": "Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York.  Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems.  A report last month from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.",
+      "body": "Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York.  Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems.  A report last month from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=73bfd8e8d4ba38946ba6c394814416063b4c876a8c9176314b2464addabe2f9f",
+      "author": "Unknown",
+      "published_at": "2025-11-12T21:51:52",
+      "scraped_at": "2025-11-13T22:21:35.498907",
+      "ticker": "MSFT",
+      "raw_text": "Anthropic announces $50B investment in new US data centers to meet AI demand Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York.  Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems.  A report last month from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined. Artificial intelligence company Anthropic announced a $50 billion investment in computing infrastructure on Wednesday that will include new data centers in Texas and New York.  Anthropic, maker of the chatbot Claude, said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems.  A report last month from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of U.S. data center capacity in the third fiscal quarter of this year, amounting to more than 7.4 gigawatts of energy, more than all of last year combined.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers",
+      "original_body": "Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers.",
+      "cleaned_title": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers",
+      "cleaned_body": "Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers.",
+      "cleaned_text": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers. Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers.",
+      "tokens": {
+        "original": [
+          "anthropic",
+          "to",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "on",
+          "u.s.",
+          "ai",
+          "infrastructure",
+          ",",
+          "starting",
+          "with",
+          "texas",
+          ",",
+          "new",
+          "york",
+          "data",
+          "centers",
+          "anthropic",
+          "rival",
+          "openai",
+          "has",
+          "secured",
+          "more",
+          "than",
+          "$",
+          "1.4",
+          "trillion",
+          "worth",
+          "of",
+          "deals",
+          "with",
+          "nvidia",
+          ",",
+          "broadcom",
+          ",",
+          "oracle",
+          "and",
+          "the",
+          "major",
+          "cloud",
+          "providers",
+          "."
+        ],
+        "filtered": [
+          "anthropic",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "u.s.",
+          "ai",
+          "infrastructure",
+          ",",
+          "starting",
+          "texas",
+          ",",
+          "new",
+          "york",
+          "data",
+          "centers",
+          "anthropic",
+          "rival",
+          "openai",
+          "secured",
+          "more",
+          "$",
+          "1.4",
+          "trillion",
+          "worth",
+          "deals",
+          "nvidia",
+          ",",
+          "broadcom",
+          ",",
+          "oracle",
+          "major",
+          "cloud",
+          "providers",
+          "."
+        ],
+        "lemmatized": [
+          "anthropic",
+          "spend",
+          "$",
+          "50",
+          "billion",
+          "u.s.",
+          "ai",
+          "infrastructure",
+          ",",
+          "start",
+          "texas",
+          ",",
+          "new",
+          "york",
+          "data",
+          "center",
+          "anthropic",
+          "rival",
+          "openai",
+          "secure",
+          "more",
+          "$",
+          "1.4",
+          "trillion",
+          "worth",
+          "deal",
+          "nvidia",
+          ",",
+          "broadcom",
+          ",",
+          "oracle",
+          "major",
+          "cloud",
+          "provider",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Oracle"
+          ],
+          "ORGANIZATION": [
+            "OpenAI"
+          ],
+          "GPE": [
+            "Anthropic",
+            "U.S.",
+            "Texas",
+            "New York",
+            "Nvidia",
+            "Broadcom"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "50",
+          "1.4"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "anthropic",
+            2
+          ],
+          [
+            "spend",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "infrastructure",
+            1
+          ],
+          [
+            "start",
+            1
+          ],
+          [
+            "texas",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "york",
+            1
+          ],
+          [
+            "data",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 45,
+        "avg_words_per_sentence": 22.5,
+        "num_unique_words": 38
+      },
+      "processed_at": "2025-11-14T03:30:34.017763",
+      "preprocessing_version": "1.0",
+      "article_id": "6b154b799103087d",
+      "title": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers",
+      "description": "Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers.",
+      "body": "Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers.",
+      "source": "CNBC",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=cdaaf590dcd215341fd860095f9323d43694321fa58f9c2c8d23ae5216a29266",
+      "author": "Unknown",
+      "published_at": "2025-11-12T15:30:12",
+      "scraped_at": "2025-11-13T22:21:35.499234",
+      "ticker": "MSFT",
+      "raw_text": "Anthropic to spend $50 billion on U.S. AI infrastructure, starting with Texas, New York data centers Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers. Anthropic rival OpenAI has secured more than $1.4 trillion worth of deals with Nvidia, Broadcom, Oracle and the major cloud providers.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://image.cnbcfm.com/api/v1/image/108089857-1737474976532-LcLfzNSg.jpg?v=1737475063&w=1920&h=1080",
+      "category": "company",
+      "tickers_mentioned": [
+        "NVDA",
+        "AVGO",
+        "TXN",
+        "ORCL"
+      ],
+      "ticker_confidence": {
+        "NVDA": 80,
+        "AVGO": 80,
+        "TXN": 80,
+        "ORCL": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "IREN Stock Could Soar Nearly 500% by 2028 on Microsoft AI Deal, Says Cantor",
+      "original_body": "IREN has joined the ranks of large-scale \"neocloud\" providers, said analyst Brett Knoblach, adding credibility to the company’s ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites.",
+      "cleaned_title": "IREN Stock Could Soar Nearly 500 percent by 2028 on Microsoft AI Deal, Says Cantor",
+      "cleaned_body": "IREN has joined the ranks of large-scale neocloud providers, said analyst Brett Knoblach, adding credibility to the companys ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites.",
+      "cleaned_text": "IREN Stock Could Soar Nearly 500 percent by 2028 on Microsoft AI Deal, Says Cantor. IREN has joined the ranks of large-scale neocloud providers, said analyst Brett Knoblach, adding credibility to the companys ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites.",
+      "tokens": {
+        "original": [
+          "iren",
+          "stock",
+          "could",
+          "soar",
+          "nearly",
+          "500",
+          "percent",
+          "by",
+          "2028",
+          "on",
+          "microsoft",
+          "ai",
+          "deal",
+          ",",
+          "says",
+          "cantor",
+          "iren",
+          "has",
+          "joined",
+          "the",
+          "ranks",
+          "of",
+          "large-scale",
+          "neocloud",
+          "providers",
+          ",",
+          "said",
+          "analyst",
+          "brett",
+          "knoblach",
+          ",",
+          "adding",
+          "credibility",
+          "to",
+          "the",
+          "companys",
+          "ambitions",
+          "to",
+          "scale",
+          "to",
+          "$",
+          "18.6",
+          "billion",
+          "in",
+          "annual",
+          "revenue",
+          "across",
+          "its",
+          "texas",
+          "and",
+          "canadian",
+          "sites",
+          "."
+        ],
+        "filtered": [
+          "iren",
+          "stock",
+          "could",
+          "soar",
+          "nearly",
+          "500",
+          "percent",
+          "2028",
+          "microsoft",
+          "ai",
+          "deal",
+          ",",
+          "says",
+          "cantor",
+          "iren",
+          "joined",
+          "ranks",
+          "large-scale",
+          "neocloud",
+          "providers",
+          ",",
+          "said",
+          "analyst",
+          "brett",
+          "knoblach",
+          ",",
+          "adding",
+          "credibility",
+          "companys",
+          "ambitions",
+          "scale",
+          "$",
+          "18.6",
+          "billion",
+          "annual",
+          "revenue",
+          "across",
+          "texas",
+          "canadian",
+          "sites",
+          "."
+        ],
+        "lemmatized": [
+          "iren",
+          "stock",
+          "could",
+          "soar",
+          "nearly",
+          "500",
+          "percent",
+          "2028",
+          "microsoft",
+          "ai",
+          "deal",
+          ",",
+          "say",
+          "cantor",
+          "iren",
+          "join",
+          "rank",
+          "large-scale",
+          "neocloud",
+          "provider",
+          ",",
+          "say",
+          "analyst",
+          "brett",
+          "knoblach",
+          ",",
+          "add",
+          "credibility",
+          "company",
+          "ambition",
+          "scale",
+          "$",
+          "18.6",
+          "billion",
+          "annual",
+          "revenue",
+          "across",
+          "texas",
+          "canadian",
+          "site",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock Could Soar",
+            "Says Cantor",
+            "Brett Knoblach"
+          ],
+          "ORGANIZATION": [
+            "IREN",
+            "Microsoft"
+          ],
+          "GPE": [
+            "Texas",
+            "Canadian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "soar"
+          ],
+          "negative": [],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "500",
+          "2028",
+          "18.6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "iren",
+            2
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "soar",
+            1
+          ],
+          [
+            "nearly",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "2028",
+            1
+          ],
+          [
+            "microsoft",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 54,
+        "avg_words_per_sentence": 27.0,
+        "num_unique_words": 47
+      },
+      "processed_at": "2025-11-14T03:30:43.729470",
+      "preprocessing_version": "1.0",
+      "article_id": "092139ca3df25fc8",
+      "title": "IREN Stock Could Soar Nearly 500% by 2028 on Microsoft AI Deal, Says Cantor",
+      "description": "IREN has joined the ranks of large-scale \"neocloud\" providers, said analyst Brett Knoblach, adding credibility to the company’s ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites.",
+      "body": "IREN has joined the ranks of large-scale \"neocloud\" providers, said analyst Brett Knoblach, adding credibility to the company’s ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=ae28b1c4307cb1ec7dd07a0ed561703b1edee8c4376154dc3f2ed79cc46876cc",
+      "author": "Unknown",
+      "published_at": "2025-11-10T20:19:36",
+      "scraped_at": "2025-11-13T22:21:35.500023",
+      "ticker": "MSFT",
+      "raw_text": "IREN Stock Could Soar Nearly 500% by 2028 on Microsoft AI Deal, Says Cantor IREN has joined the ranks of large-scale \"neocloud\" providers, said analyst Brett Knoblach, adding credibility to the company’s ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites. IREN has joined the ranks of large-scale \"neocloud\" providers, said analyst Brett Knoblach, adding credibility to the company’s ambitions to scale to $18.6 billion in annual revenue across its Texas and Canadian sites.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "What IREN (IREN)'s Landmark Microsoft AI Cloud Deal Means For Shareholders",
+      "original_body": "Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IREN's Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IREN's successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,...",
+      "cleaned_title": "What IREN IRENs Landmark Microsoft AI Cloud Deal Means For Shareholders",
+      "cleaned_body": "Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IRENs Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IRENs successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,...",
+      "cleaned_text": "What IREN IRENs Landmark Microsoft AI Cloud Deal Means For Shareholders. Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IRENs Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IRENs successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,...",
+      "tokens": {
+        "original": [
+          "what",
+          "iren",
+          "irens",
+          "landmark",
+          "microsoft",
+          "ai",
+          "cloud",
+          "deal",
+          "means",
+          "for",
+          "shareholders",
+          "microsoft",
+          "recently",
+          "announced",
+          "a",
+          "multi-year",
+          "us",
+          "$",
+          "9.7",
+          "billion",
+          "agreement",
+          "with",
+          "iren",
+          "limited",
+          "to",
+          "access",
+          "nvidia",
+          "gb300",
+          "gpus",
+          "through",
+          "phased",
+          "deployments",
+          "at",
+          "irens",
+          "texas",
+          "data",
+          "center",
+          "campus",
+          ",",
+          "supported",
+          "by",
+          "a",
+          "related",
+          "us",
+          "$",
+          "5.8",
+          "billion",
+          "procurement",
+          "agreement",
+          "for",
+          "gpus",
+          "and",
+          "equipment",
+          "with",
+          "dell",
+          "technologies",
+          ".",
+          "this",
+          "development",
+          "highlights",
+          "irens",
+          "successful",
+          "shift",
+          "from",
+          "cryptocurrency",
+          "mining",
+          "to",
+          "ai",
+          "cloud",
+          "infrastructure",
+          ",",
+          "positioning",
+          "the",
+          "company",
+          "as",
+          "a",
+          "significant",
+          "partner",
+          "for",
+          "global",
+          "technology",
+          "leaders",
+          "seeking",
+          "advanced",
+          ",",
+          "..."
+        ],
+        "filtered": [
+          "iren",
+          "irens",
+          "landmark",
+          "microsoft",
+          "ai",
+          "cloud",
+          "deal",
+          "means",
+          "shareholders",
+          "microsoft",
+          "recently",
+          "announced",
+          "multi-year",
+          "us",
+          "$",
+          "9.7",
+          "billion",
+          "agreement",
+          "iren",
+          "limited",
+          "access",
+          "nvidia",
+          "gb300",
+          "gpus",
+          "phased",
+          "deployments",
+          "irens",
+          "texas",
+          "data",
+          "center",
+          "campus",
+          ",",
+          "supported",
+          "related",
+          "us",
+          "$",
+          "5.8",
+          "billion",
+          "procurement",
+          "agreement",
+          "gpus",
+          "equipment",
+          "dell",
+          "technologies",
+          ".",
+          "development",
+          "highlights",
+          "irens",
+          "successful",
+          "shift",
+          "cryptocurrency",
+          "mining",
+          "ai",
+          "cloud",
+          "infrastructure",
+          ",",
+          "positioning",
+          "company",
+          "significant",
+          "partner",
+          "global",
+          "technology",
+          "leaders",
+          "seeking",
+          "advanced",
+          ",",
+          "..."
+        ],
+        "lemmatized": [
+          "iren",
+          "irens",
+          "landmark",
+          "microsoft",
+          "ai",
+          "cloud",
+          "deal",
+          "mean",
+          "shareholder",
+          "microsoft",
+          "recently",
+          "announce",
+          "multi-year",
+          "u",
+          "$",
+          "9.7",
+          "billion",
+          "agreement",
+          "iren",
+          "limit",
+          "access",
+          "nvidia",
+          "gb300",
+          "gpus",
+          "phase",
+          "deployment",
+          "irens",
+          "texas",
+          "data",
+          "center",
+          "campus",
+          ",",
+          "support",
+          "related",
+          "u",
+          "$",
+          "5.8",
+          "billion",
+          "procurement",
+          "agreement",
+          "gpus",
+          "equipment",
+          "dell",
+          "technology",
+          ".",
+          "development",
+          "highlight",
+          "irens",
+          "successful",
+          "shift",
+          "cryptocurrency",
+          "mining",
+          "ai",
+          "cloud",
+          "infrastructure",
+          ",",
+          "position",
+          "company",
+          "significant",
+          "partner",
+          "global",
+          "technology",
+          "leader",
+          "seek",
+          "advance",
+          ",",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Landmark Microsoft AI Cloud Deal",
+            "Microsoft",
+            "Nvidia GB300"
+          ],
+          "ORGANIZATION": [
+            "IREN",
+            "Shareholders",
+            "IREN Limited",
+            "GPUs",
+            "Dell Technologies"
+          ],
+          "GPE": [
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "9.7",
+          "5.8"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "irens",
+            3
+          ],
+          [
+            "iren",
+            2
+          ],
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "cloud",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "agreement",
+            2
+          ],
+          [
+            "gpus",
+            2
+          ],
+          [
+            "technology",
+            2
+          ],
+          [
+            "landmark",
+            1
+          ],
+          [
+            "deal",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 87,
+        "avg_words_per_sentence": 29.0,
+        "num_unique_words": 67
+      },
+      "processed_at": "2025-11-14T03:30:50.100747",
+      "preprocessing_version": "1.0",
+      "article_id": "6727d18504437652",
+      "title": "What IREN (IREN)'s Landmark Microsoft AI Cloud Deal Means For Shareholders",
+      "description": "Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IREN's Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IREN's successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,...",
+      "body": "Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IREN's Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IREN's successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=57001cf73cb61e9bc7fc2c7d63ba6a35f3b8b208120216cfbc3aa52acc404ab7",
+      "author": "Unknown",
+      "published_at": "2025-11-08T22:51:20",
+      "scraped_at": "2025-11-13T22:21:35.500550",
+      "ticker": "MSFT",
+      "raw_text": "What IREN (IREN)'s Landmark Microsoft AI Cloud Deal Means For Shareholders Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IREN's Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IREN's successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,... Microsoft recently announced a multi-year US$9.7 billion agreement with IREN Limited to access Nvidia GB300 GPUs through phased deployments at IREN's Texas data center campus, supported by a related US$5.8 billion procurement agreement for GPUs and equipment with Dell Technologies. This development highlights IREN's successful shift from cryptocurrency mining to AI cloud infrastructure, positioning the company as a significant partner for global technology leaders seeking advanced,...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "NVDA",
+        "AMD",
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "NVDA": 80,
+        "AMD": 80,
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "CORRECTING and REPLACING SolarWinds Launches Autonomous Operational Resilience Tour",
+      "original_body": "AUSTIN, Texas, November 07, 2025--The \"AWS re:Invent:\" section of the release dated November 6, 2025 should read: AWS re:Invent: You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets.",
+      "cleaned_title": "CORRECTING and REPLACING SolarWinds Launches Autonomous Operational Resilience Tour",
+      "cleaned_body": "AUSTIN, Texas, November 07, 2025--The AWS reInvent section of the release dated November 6, 2025 should read AWS reInvent You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets.",
+      "cleaned_text": "CORRECTING and REPLACING SolarWinds Launches Autonomous Operational Resilience Tour. AUSTIN, Texas, November 07, 2025--The AWS reInvent section of the release dated November 6, 2025 should read AWS reInvent You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets.",
+      "tokens": {
+        "original": [
+          "correcting",
+          "and",
+          "replacing",
+          "solarwinds",
+          "launches",
+          "autonomous",
+          "operational",
+          "resilience",
+          "tour",
+          "austin",
+          ",",
+          "texas",
+          ",",
+          "november",
+          "07",
+          ",",
+          "2025",
+          "--",
+          "the",
+          "aws",
+          "reinvent",
+          "section",
+          "of",
+          "the",
+          "release",
+          "dated",
+          "november",
+          "6",
+          ",",
+          "2025",
+          "should",
+          "read",
+          "aws",
+          "reinvent",
+          "you",
+          "can",
+          "find",
+          "solarwinds",
+          "at",
+          "booth",
+          "1380",
+          ",",
+          "where",
+          "three",
+          "demo",
+          "stations",
+          "and",
+          "refreshments",
+          "will",
+          "be",
+          "available",
+          ",",
+          "along",
+          "with",
+          "the",
+          "opportunity",
+          "to",
+          "enter",
+          "for",
+          "a",
+          "chance",
+          "to",
+          "win",
+          "exclusive",
+          "solarwinds",
+          "gear",
+          "and",
+          "build",
+          "and",
+          "connect",
+          "sets",
+          "."
+        ],
+        "filtered": [
+          "correcting",
+          "replacing",
+          "solarwinds",
+          "launches",
+          "autonomous",
+          "operational",
+          "resilience",
+          "tour",
+          "austin",
+          ",",
+          "texas",
+          ",",
+          "november",
+          "07",
+          ",",
+          "2025",
+          "--",
+          "aws",
+          "reinvent",
+          "section",
+          "release",
+          "dated",
+          "november",
+          "6",
+          ",",
+          "2025",
+          "read",
+          "aws",
+          "reinvent",
+          "find",
+          "solarwinds",
+          "booth",
+          "1380",
+          ",",
+          "three",
+          "demo",
+          "stations",
+          "refreshments",
+          "available",
+          ",",
+          "along",
+          "opportunity",
+          "enter",
+          "chance",
+          "win",
+          "exclusive",
+          "solarwinds",
+          "gear",
+          "build",
+          "connect",
+          "sets",
+          "."
+        ],
+        "lemmatized": [
+          "correct",
+          "replace",
+          "solarwinds",
+          "launch",
+          "autonomous",
+          "operational",
+          "resilience",
+          "tour",
+          "austin",
+          ",",
+          "texas",
+          ",",
+          "november",
+          "07",
+          ",",
+          "2025",
+          "--",
+          "aws",
+          "reinvent",
+          "section",
+          "release",
+          "date",
+          "november",
+          "6",
+          ",",
+          "2025",
+          "read",
+          "aws",
+          "reinvent",
+          "find",
+          "solarwinds",
+          "booth",
+          "1380",
+          ",",
+          "three",
+          "demo",
+          "station",
+          "refreshment",
+          "available",
+          ",",
+          "along",
+          "opportunity",
+          "enter",
+          "chance",
+          "win",
+          "exclusive",
+          "solarwinds",
+          "gear",
+          "build",
+          "connect",
+          "set",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Build"
+          ],
+          "ORGANIZATION": [
+            "CORRECTING",
+            "REPLACING",
+            "AUSTIN",
+            "AWS",
+            "SolarWinds",
+            "Connect"
+          ],
+          "GPE": [
+            "Texas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "release"
+          ]
+        },
+        "numbers": [
+          "07",
+          "2025",
+          "6",
+          "2025",
+          "1380"
+        ],
+        "percentages": [],
+        "dates": [
+          "November 07, 2025",
+          "November 6, 2025"
+        ],
+        "top_words": [
+          [
+            "solarwinds",
+            3
+          ],
+          [
+            "november",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "aws",
+            2
+          ],
+          [
+            "reinvent",
+            2
+          ],
+          [
+            "correct",
+            1
+          ],
+          [
+            "replace",
+            1
+          ],
+          [
+            "launch",
+            1
+          ],
+          [
+            "autonomous",
+            1
+          ],
+          [
+            "operational",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 2
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 73,
+        "avg_words_per_sentence": 36.5,
+        "num_unique_words": 55
+      },
+      "processed_at": "2025-11-14T03:30:53.838074",
+      "preprocessing_version": "1.0",
+      "article_id": "c1967b07d070ad0d",
+      "title": "CORRECTING and REPLACING SolarWinds Launches Autonomous Operational Resilience Tour",
+      "description": "AUSTIN, Texas, November 07, 2025--The \"AWS re:Invent:\" section of the release dated November 6, 2025 should read: AWS re:Invent: You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets.",
+      "body": "AUSTIN, Texas, November 07, 2025--The \"AWS re:Invent:\" section of the release dated November 6, 2025 should read: AWS re:Invent: You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=eae12fc5092277f8d45d9cc92b606cba4969027dbcdfec2f50a7b611f23fee5b",
+      "author": "Unknown",
+      "published_at": "2025-11-07T22:08:00",
+      "scraped_at": "2025-11-13T22:21:35.501106",
+      "ticker": "MSFT",
+      "raw_text": "CORRECTING and REPLACING SolarWinds Launches Autonomous Operational Resilience Tour AUSTIN, Texas, November 07, 2025--The \"AWS re:Invent:\" section of the release dated November 6, 2025 should read: AWS re:Invent: You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets. AUSTIN, Texas, November 07, 2025--The \"AWS re:Invent:\" section of the release dated November 6, 2025 should read: AWS re:Invent: You can find SolarWinds at booth 1380, where three demo stations and refreshments will be available, along with the opportunity to enter for a chance to win exclusive SolarWinds gear and Build and Connect sets.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TXN"
+      ],
+      "ticker_confidence": {
+        "TXN": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

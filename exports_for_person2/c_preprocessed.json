@@ -1,0 +1,295 @@
+{
+  "ticker": "C",
+  "export_date": "2025-11-15T01:16:26.143160",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Coinbase and Citi Team Up To Fix Crypto's Biggest Roadblock For Institutional Money—Here's Why That Matters",
+      "original_body": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "cleaned_title": "Coinbase and Citi Team Up To Fix Cryptos Biggest Roadblock For Institutional Moneyhere is Why That Matters",
+      "cleaned_body": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. NASDAQCOIN and Citigroup Inc. NYSEC announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "cleaned_text": "Coinbase and Citi Team Up To Fix Cryptos Biggest Roadblock For Institutional Moneyhere is Why That Matters. The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. NASDAQCOIN and Citigroup Inc. NYSEC announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "tokens": {
+        "original": [
+          "coinbase",
+          "and",
+          "citi",
+          "team",
+          "up",
+          "to",
+          "fix",
+          "cryptos",
+          "biggest",
+          "roadblock",
+          "for",
+          "institutional",
+          "moneyhere",
+          "is",
+          "why",
+          "that",
+          "matters",
+          "the",
+          "gap",
+          "between",
+          "traditional",
+          "finance",
+          "and",
+          "digital",
+          "assets",
+          "just",
+          "got",
+          "narrower",
+          ".",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "and",
+          "citigroup",
+          "inc.",
+          "nysec",
+          "announced",
+          "a",
+          "collaboration",
+          "last",
+          "week",
+          "aimed",
+          "at",
+          "making",
+          "it",
+          "easier",
+          "for",
+          "large",
+          "institutions",
+          "to",
+          "move",
+          "money",
+          "using",
+          "..."
+        ],
+        "filtered": [
+          "coinbase",
+          "citi",
+          "team",
+          "up",
+          "fix",
+          "cryptos",
+          "biggest",
+          "roadblock",
+          "institutional",
+          "moneyhere",
+          "matters",
+          "gap",
+          "traditional",
+          "finance",
+          "digital",
+          "assets",
+          "got",
+          "narrower",
+          ".",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "citigroup",
+          "inc.",
+          "nysec",
+          "announced",
+          "collaboration",
+          "last",
+          "week",
+          "aimed",
+          "making",
+          "easier",
+          "large",
+          "institutions",
+          "move",
+          "money",
+          "using",
+          "..."
+        ],
+        "lemmatized": [
+          "coinbase",
+          "citi",
+          "team",
+          "up",
+          "fix",
+          "cryptos",
+          "big",
+          "roadblock",
+          "institutional",
+          "moneyhere",
+          "matter",
+          "gap",
+          "traditional",
+          "finance",
+          "digital",
+          "asset",
+          "get",
+          "narrower",
+          ".",
+          "coinbase",
+          "global",
+          "inc.",
+          "nasdaqcoin",
+          "citigroup",
+          "inc.",
+          "nysec",
+          "announce",
+          "collaboration",
+          "last",
+          "week",
+          "aim",
+          "make",
+          "easy",
+          "large",
+          "institution",
+          "move",
+          "money",
+          "use",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Citi Team Up",
+            "Fix Crypto",
+            "Biggest Roadblock",
+            "Coinbase Global"
+          ],
+          "ORGANIZATION": [
+            "Institutional",
+            "NASDAQ",
+            "Citigroup Inc.",
+            "NYSE"
+          ],
+          "GPE": [
+            "Coinbase"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "coinbase",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "citi",
+            1
+          ],
+          [
+            "team",
+            1
+          ],
+          [
+            "fix",
+            1
+          ],
+          [
+            "cryptos",
+            1
+          ],
+          [
+            "big",
+            1
+          ],
+          [
+            "roadblock",
+            1
+          ],
+          [
+            "institutional",
+            1
+          ],
+          [
+            "moneyhere",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 56,
+        "avg_words_per_sentence": 18.67,
+        "num_unique_words": 49
+      },
+      "processed_at": "2025-11-14T03:30:08.802656",
+      "preprocessing_version": "1.0",
+      "article_id": "8afd608ce1dbfa9b",
+      "title": "Coinbase and Citi Team Up To Fix Crypto's Biggest Roadblock For Institutional Money—Here's Why That Matters",
+      "description": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "body": "The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=8a94ba6bbba965e5425fd21b7ff552ffe7eb7d0949762f7904704535da0ad419",
+      "author": "Unknown",
+      "published_at": "2025-11-07T19:46:04",
+      "scraped_at": "2025-11-13T22:21:23.910592",
+      "ticker": "TSLA",
+      "raw_text": "Coinbase and Citi Team Up To Fix Crypto's Biggest Roadblock For Institutional Money—Here's Why That Matters The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ... The gap between traditional finance and digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration last week aimed at making it easier for large institutions to move money using ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "C",
+        "COIN"
+      ],
+      "ticker_confidence": {
+        "C": 80,
+        "COIN": 80
+      },
+      "ticker_contexts": {
+        "C": [
+          "digital assets just got narrower. Coinbase Global Inc. (NASDAQ:COIN) and **Citigroup** Inc. (NYSE:C) announced a collaboration last week aimed at making"
+        ],
+        "COIN": [
+          "gap between traditional finance and digital assets just got narrower. **Coinbase** Global Inc. (NASDAQ:COIN) and Citigroup Inc. (NYSE:C) announced a collaboration"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

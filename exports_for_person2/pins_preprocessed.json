@@ -1,0 +1,227 @@
+{
+  "ticker": "PINS",
+  "export_date": "2025-11-15T01:16:26.130088",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "5 big analyst AI moves: Nvidia replaced as Top Pick, Pinterest downgraded",
+      "original_body": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "cleaned_title": "5 big analyst AI moves Nvidia replaced as Top Pick, Pinterest downgraded",
+      "cleaned_body": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence AI for this week.",
+      "cleaned_text": "5 big analyst AI moves Nvidia replaced as Top Pick, Pinterest downgraded. Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence AI for this week.",
+      "tokens": {
+        "original": [
+          "5",
+          "big",
+          "analyst",
+          "ai",
+          "moves",
+          "nvidia",
+          "replaced",
+          "as",
+          "top",
+          "pick",
+          ",",
+          "pinterest",
+          "downgraded",
+          "investing.com",
+          "--",
+          "here",
+          "are",
+          "the",
+          "biggest",
+          "analyst",
+          "moves",
+          "in",
+          "the",
+          "area",
+          "of",
+          "artificial",
+          "intelligence",
+          "ai",
+          "for",
+          "this",
+          "week",
+          "."
+        ],
+        "filtered": [
+          "5",
+          "big",
+          "analyst",
+          "ai",
+          "moves",
+          "nvidia",
+          "replaced",
+          "top",
+          "pick",
+          ",",
+          "pinterest",
+          "downgraded",
+          "investing.com",
+          "--",
+          "biggest",
+          "analyst",
+          "moves",
+          "area",
+          "artificial",
+          "intelligence",
+          "ai",
+          "week",
+          "."
+        ],
+        "lemmatized": [
+          "5",
+          "big",
+          "analyst",
+          "ai",
+          "move",
+          "nvidia",
+          "replace",
+          "top",
+          "pick",
+          ",",
+          "pinterest",
+          "downgrade",
+          "investing.com",
+          "--",
+          "big",
+          "analyst",
+          "move",
+          "area",
+          "artificial",
+          "intelligence",
+          "ai",
+          "week",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nvidia",
+            "Top Pick",
+            "Pinterest"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "downgrade"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "big",
+            2
+          ],
+          [
+            "analyst",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "replace",
+            1
+          ],
+          [
+            "top",
+            1
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "pinterest",
+            1
+          ],
+          [
+            "downgrade",
+            1
+          ],
+          [
+            "investing.com",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 33,
+        "avg_words_per_sentence": 16.5,
+        "num_unique_words": 28
+      },
+      "processed_at": "2025-11-14T03:29:16.525136",
+      "preprocessing_version": "1.0",
+      "article_id": "3915409145c23a8d",
+      "title": "5 big analyst AI moves: Nvidia replaced as Top Pick, Pinterest downgraded",
+      "description": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "body": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=3168df994a321b43e32f12fb7fd8438e253704898e83f6677e2a0b9cf6108cff",
+      "author": "Unknown",
+      "published_at": "2025-11-09T15:00:11",
+      "scraped_at": "2025-11-13T22:21:12.171732",
+      "ticker": "AAPL",
+      "raw_text": "5 big analyst AI moves: Nvidia replaced as Top Pick, Pinterest downgraded Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week. Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "NVDA",
+        "PINS"
+      ],
+      "ticker_confidence": {
+        "NVDA": 80,
+        "PINS": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

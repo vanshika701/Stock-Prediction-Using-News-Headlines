@@ -1,0 +1,228 @@
+{
+  "ticker": "NFLX",
+  "export_date": "2025-11-15T01:16:26.128141",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Netflix Just Announced a 10-for-1 Stock Split -- Here's Why the Stock Looks Like a No-Brainer Buy Right Now",
+      "original_body": "Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "cleaned_title": "Netflix Just Announced a 10-for-1 Stock Split -- here is Why the Stock Looks Like a No-Brainer Buy Right Now",
+      "cleaned_body": "Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "cleaned_text": "Netflix Just Announced a 10-for-1 Stock Split -- here is Why the Stock Looks Like a No-Brainer Buy Right Now. Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "tokens": {
+        "original": [
+          "netflix",
+          "just",
+          "announced",
+          "a",
+          "10-for-1",
+          "stock",
+          "split",
+          "--",
+          "here",
+          "is",
+          "why",
+          "the",
+          "stock",
+          "looks",
+          "like",
+          "a",
+          "no-brainer",
+          "buy",
+          "right",
+          "now",
+          "netflix",
+          "is",
+          "scheduled",
+          "to",
+          "execute",
+          "a",
+          "10-for-1",
+          "stock",
+          "split",
+          "later",
+          "this",
+          "month",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "announced",
+          "10-for-1",
+          "stock",
+          "split",
+          "--",
+          "stock",
+          "looks",
+          "like",
+          "no-brainer",
+          "buy",
+          "right",
+          "netflix",
+          "scheduled",
+          "execute",
+          "10-for-1",
+          "stock",
+          "split",
+          "later",
+          "month",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "announce",
+          "10-for-1",
+          "stock",
+          "split",
+          "--",
+          "stock",
+          "look",
+          "like",
+          "no-brainer",
+          "buy",
+          "right",
+          "netflix",
+          "schedule",
+          "execute",
+          "10-for-1",
+          "stock",
+          "split",
+          "later",
+          "month",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Just"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "10",
+          "1",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            3
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "10-for-1",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "announce",
+            1
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "like",
+            1
+          ],
+          [
+            "no-brainer",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "right",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 34,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:29:10.967595",
+      "preprocessing_version": "1.0",
+      "article_id": "77ee82a455800cb9",
+      "title": "Netflix Just Announced a 10-for-1 Stock Split -- Here's Why the Stock Looks Like a No-Brainer Buy Right Now",
+      "description": "Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "body": "Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=d2bbecdae678c34a2b436d7fc7b56a16ebf7696385f7ae3a4f428e90ef2a6c0a",
+      "author": "Unknown",
+      "published_at": "2025-11-11T04:45:00",
+      "scraped_at": "2025-11-13T22:21:12.171592",
+      "ticker": "AAPL",
+      "raw_text": "Netflix Just Announced a 10-for-1 Stock Split -- Here's Why the Stock Looks Like a No-Brainer Buy Right Now Netflix is scheduled to execute a 10-for-1 stock split later this month. Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "NFLX"
+      ],
+      "ticker_confidence": {
+        "NFLX": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

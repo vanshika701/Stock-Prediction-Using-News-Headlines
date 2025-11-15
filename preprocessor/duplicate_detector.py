@@ -1,4 +1,3 @@
-# preprocessor/duplicate_detector.py
 """
 Detect duplicate or near-duplicate news articles.
 Uses multiple similarity metrics for robust detection.
@@ -7,19 +6,25 @@ Uses multiple similarity metrics for robust detection.
 import re
 import hashlib
 from difflib import SequenceMatcher
+import json # Added for potential logging/testing needs
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class DuplicateDetector:
     """Detect duplicate articles using multiple similarity metrics."""
     
-    def __init__(self, similarity_threshold=0.85):
+    def __init__(self, similarity_threshold=0.85, title_similarity_threshold=0.90):
         """
         Initialize duplicate detector.
         
         Args:
-            similarity_threshold (float): Minimum similarity (0-1) to consider duplicate
+            similarity_threshold (float): Minimum similarity (0-1) for body/sequence.
+            title_similarity_threshold (float): Minimum similarity (0-1) for titles.
         """
         self.similarity_threshold = similarity_threshold
+        self.title_similarity_threshold = title_similarity_threshold 
         self.seen_articles = {}  # hash -> article_id mapping
     
     def compute_text_hash(self, text):
@@ -74,9 +79,13 @@ class DuplicateDetector:
         if not text1 or not text2:
             return 0.0
         
+        # Remove punctuation for better Jaccard similarity
+        clean_text1 = re.sub(r'[^\w\s]', '', text1.lower())
+        clean_text2 = re.sub(r'[^\w\s]', '', text2.lower())
+        
         # Convert to sets of words
-        words1 = set(text1.lower().split())
-        words2 = set(text2.lower().split())
+        words1 = set(clean_text1.split())
+        words2 = set(clean_text2.split())
         
         # Calculate Jaccard similarity
         intersection = words1.intersection(words2)
@@ -125,16 +134,22 @@ class DuplicateDetector:
         Check if two articles are duplicates using multiple metrics.
         
         Args:
-            article1 (dict): First article with 'title', 'body', 'url'
+            article1 (dict): First article
             article2 (dict): Second article
             
         Returns:
-            tuple: (is_duplicate (bool), similarity_score (float), reason (str))
+            tuple: (bool is_duplicate, float score, str reason)
         """
-        # Check exact text match
-        text1 = f"{article1.get('title', '')} {article1.get('body', '')}"
-        text2 = f"{article2.get('title', '')} {article2.get('body', '')}"
+        # Prioritize cleaned_title/body if the source data has been cleaned already
+        title1 = article1.get('cleaned_title', article1.get('title', ''))
+        body1 = article1.get('cleaned_body', article1.get('body', ''))
+        title2 = article2.get('cleaned_title', article2.get('title', ''))
+        body2 = article2.get('cleaned_body', article2.get('body', ''))
         
+        text1 = f"{title1} {body1}"
+        text2 = f"{title2} {body2}"
+        
+        # Check exact text match (using the combined cleaned text)
         hash1 = self.compute_text_hash(text1)
         hash2 = self.compute_text_hash(text2)
         
@@ -153,20 +168,14 @@ class DuplicateDetector:
                 return True, 1.0, "Same URL"
         
         # Check title similarity
-        title1 = article1.get('title', '')
-        title2 = article2.get('title', '')
-        
         if title1 and title2:
             title_sim = self.title_similarity(title1, title2)
             
-            # If titles are >90% similar, likely duplicate
-            if title_sim > 0.90:
+            # Use the instance variable threshold
+            if title_sim > self.title_similarity_threshold:
                 return True, title_sim, "Very similar titles"
         
         # Check body similarity using Jaccard
-        body1 = article1.get('body', '')
-        body2 = article2.get('body', '')
-        
         if body1 and body2:
             jaccard_sim = self.jaccard_similarity(body1, body2)
             
@@ -182,135 +191,116 @@ class DuplicateDetector:
         # Not a duplicate
         return False, 0.0, "Different articles"
     
+    # -----------------------------------------------------
+    # 🛑 MISSING METHODS ADDED HERE (Fixes AttributeError) 🛑
+    # -----------------------------------------------------
+
     def mark_duplicates(self, articles):
         """
-        Mark duplicate articles in a list.
-        
+        Identify duplicates within a list of articles and mark them.
+        The first article found is kept (is_duplicate=False), subsequent matches
+        are marked as duplicates of the first.
+
         Args:
-            articles (list): List of article dictionaries
-            
+            articles (list): List of article dictionaries.
+
         Returns:
-            list: Articles with 'is_duplicate' flag and 'duplicate_of' field
+            list: The list of articles, now marked with 'is_duplicate' and 'duplicate_of' fields.
         """
-        print(f"\n🔍 Checking {len(articles)} articles for duplicates...")
+        # Maps unique article ID/hash to the *first* article object seen
+        seen_articles_map = {} 
         
-        marked_articles = []
-        duplicate_count = 0
-        
-        for i, article in enumerate(articles):
-            # Add fields for duplicate tracking
+        for article in articles:
+            # Initialize duplication flags
             article['is_duplicate'] = False
             article['duplicate_of'] = None
             article['similarity_score'] = 0.0
+
+            # 1. Compute article's text hash
+            title = article.get('cleaned_title', article.get('title', ''))
+            body = article.get('cleaned_body', article.get('body', ''))
+            text_to_hash = f"{title} {body}"
+            current_hash = self.compute_text_hash(text_to_hash)
             
-            # Compare with all previous articles
-            for j, prev_article in enumerate(marked_articles):
-                # Skip if previous article is already a duplicate
-                if prev_article.get('is_duplicate'):
-                    continue
-                
-                # Check similarity
-                is_dup, sim_score, reason = self.is_duplicate(article, prev_article)
+            # Use the article's existing ID or a generated hash as its unique ID
+            unique_id = article.get('article_id') or current_hash
+
+            # 2. Check against previously seen articles for fuzzy match
+            is_dup = False
+            best_match_id = None
+            best_score = 0.0
+            best_reason = None
+            
+            # Note: The fuzzy check is O(N^2) relative to the number of articles
+            for seen_id, seen_article in seen_articles_map.items():
+                is_dup, score, reason = self.is_duplicate(article, seen_article)
                 
                 if is_dup:
-                    article['is_duplicate'] = True
-                    article['duplicate_of'] = prev_article.get('article_id', j)
-                    article['similarity_score'] = sim_score
-                    article['duplicate_reason'] = reason
-                    duplicate_count += 1
+                    # Update if this is a better match or simply accept
+                    if score > best_score:
+                        best_score = score
+                        best_match_id = seen_id
+                        best_reason = reason
                     
-                    print(f"   Duplicate found: Article {i+1} is duplicate of Article {j+1}")
-                    print(f"      Reason: {reason}")
-                    break
+                    if score == 1.0: # Break immediately for perfect matches
+                        break
             
-            marked_articles.append(article)
+            # 3. Apply markings
+            if best_match_id:
+                article['is_duplicate'] = True
+                article['duplicate_of'] = best_match_id
+                article['similarity_score'] = best_score
+                # logger.debug(f"Marked duplicate: {article.get('title', 'No Title')} (of {best_match_id})")
+            
+            # If it's a new unique article, add it to the map
+            if not article['is_duplicate']:
+                # The first time we see an article, its unique ID is stored
+                seen_articles_map[unique_id] = article
+                # logger.debug(f"Marked unique: {article.get('title', 'No Title')}")
         
-        print(f"✓ Found {duplicate_count} duplicates out of {len(articles)} articles")
-        print(f"✓ Duplicate rate: {duplicate_count/len(articles)*100:.1f}%")
-        
-        return marked_articles
-    
+        return articles
+
+
     def remove_duplicates(self, articles):
         """
-        Remove duplicate articles from list.
+        Marks duplicates and returns only the unique articles.
         
         Args:
-            articles (list): List of articles
+            articles (list): List of article dictionaries.
             
         Returns:
-            list: Unique articles only
+            list: List containing only unique articles.
         """
-        marked = self.mark_duplicates(articles)
-        unique = [a for a in marked if not a.get('is_duplicate', False)]
+        logger.info(f"Starting duplicate detection on {len(articles)} articles...")
+        marked_articles = self.mark_duplicates(articles)
+        unique_articles = [a for a in marked_articles if a['is_duplicate'] is False]
         
-        print(f"✓ Kept {len(unique)} unique articles (removed {len(articles) - len(unique)})")
-        
-        return unique
+        num_duplicates = len(articles) - len(unique_articles)
+        logger.info(f"✓ Found and removed {num_duplicates} duplicates. {len(unique_articles)} unique articles remaining.")
+
+        return unique_articles
 
 
+# Optional test function for local debugging
 def test_duplicate_detector():
-    """Test the duplicate detector with sample articles."""
+    detector = DuplicateDetector()
     
-    print("\n" + "="*80)
-    print("TESTING DUPLICATE DETECTOR")
-    print("="*80)
+    article_a = {'article_id': 'A', 'title': 'Apple just bought Shazam for $400M', 'body': 'The deal closed today. Apple is expanding.', 'url': 'apple.com/shazam'}
+    article_b = {'article_id': 'B', 'title': 'Apple just bought Shazam for $400M', 'body': 'The deal closed today. Apple is expanding.', 'url': 'apple.com/shazam'} # Exact match
+    article_c = {'article_id': 'C', 'title': 'Apple buys Shazam for 400M', 'body': 'The deal closed today. Apple is expanding. They announced it.', 'url': 'apple.com/shazam?v=2'} # Fuzzy body/title
+    article_d = {'article_id': 'D', 'title': 'Google is launching a new self-driving car', 'body': 'This is totally different news.', 'url': 'google.com/car'} # Different
     
-    detector = DuplicateDetector(similarity_threshold=0.85)
+    articles = [article_a, article_b, article_c, article_d]
     
-    # Test articles
-    articles = [
-        {
-            "article_id": "1",
-            "title": "Apple stock surges 5% on strong iPhone sales",
-            "body": "Apple Inc. reported record iPhone sales today, sending the stock up 5%.",
-            "url": "https://example.com/article1"
-        },
-        {
-            "article_id": "2",
-            "title": "Apple stock surges 5% on strong iPhone sales",
-            "body": "Apple Inc. reported record iPhone sales today, sending the stock up 5%.",
-            "url": "https://example.com/article1"
-        },
-        {
-            "article_id": "3",
-            "title": "AAPL stock rises on iPhone sales",
-            "body": "Apple reported strong iPhone demand, boosting shares by 5 percent.",
-            "url": "https://different.com/article3"
-        },
-        {
-            "article_id": "4",
-            "title": "Tesla announces new model",
-            "body": "Tesla Inc. unveiled a new electric vehicle model today.",
-            "url": "https://example.com/tesla"
-        }
-    ]
+    unique_articles = detector.remove_duplicates(articles)
     
-    print("\n📰 Test Articles:")
+    print("\n--- Test Results ---")
+    print(f"Original Count: {len(articles)}")
+    print(f"Unique Count: {len(unique_articles)}")
+    print("--------------------")
+    
     for article in articles:
-        print(f"   {article['article_id']}: {article['title']}")
-    
-    # Mark duplicates
-    marked = detector.mark_duplicates(articles)
-    
-    print("\n📊 Results:")
-    for article in marked:
-        status = "DUPLICATE" if article['is_duplicate'] else "UNIQUE"
-        print(f"\n   Article {article['article_id']}: {status}")
-        print(f"      Title: {article['title']}")
-        
-        if article['is_duplicate']:
-            print(f"      Duplicate of: {article['duplicate_of']}")
-            print(f"      Similarity: {article['similarity_score']:.2%}")
-            print(f"      Reason: {article['duplicate_reason']}")
-    
-    # Remove duplicates
-    unique = detector.remove_duplicates(articles)
-    
-    print("\n✅ Final unique articles:")
-    for article in unique:
-        print(f"   {article['article_id']}: {article['title']}")
-
+        print(f"ID: {article['article_id']}, Is Dup: {article.get('is_duplicate')}, Dup Of: {article.get('duplicate_of')}, Score: {article.get('similarity_score')}")
 
 if __name__ == "__main__":
     test_duplicate_detector()
-    print("\n✅ Duplicate detector tests complete!")

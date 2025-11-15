@@ -1,0 +1,261 @@
+{
+  "ticker": "MCD",
+  "export_date": "2025-11-15T01:16:26.048931",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "McDonald's Franchisee Arcos Dorados Pops In Q3 On Latin Flavor",
+      "original_body": "Arcos Dorados Holdings Inc. (NYSE:ARCO) shares climbed in premarket as the McDonalds operator delivered stronger profitability and momentum across key markets in the third quarter.Investors cheered r… [+146 chars]",
+      "cleaned_title": "McDonalds Franchisee Arcos Dorados Pops In third quarter On Latin Flavor",
+      "cleaned_body": "Arcos Dorados Holdings Inc. NYSEARCO shares climbed in premarket as the McDonalds operator delivered stronger profitability and momentum across key markets in the third quarter.Investors cheered r 146 chars",
+      "cleaned_text": "McDonalds Franchisee Arcos Dorados Pops In third quarter On Latin Flavor. Arcos Dorados Holdings Inc. NYSEARCO shares climbed in premarket as the McDonalds operator delivered stronger profitability and momentum across key markets in the third quarter.Investors cheered r 146 chars",
+      "tokens": {
+        "original": [
+          "mcdonalds",
+          "franchisee",
+          "arcos",
+          "dorados",
+          "pops",
+          "in",
+          "third",
+          "quarter",
+          "on",
+          "latin",
+          "flavor",
+          "arcos",
+          "dorados",
+          "holdings",
+          "inc.",
+          "nysearco",
+          "shares",
+          "climbed",
+          "in",
+          "premarket",
+          "as",
+          "the",
+          "mcdonalds",
+          "operator",
+          "delivered",
+          "stronger",
+          "profitability",
+          "and",
+          "momentum",
+          "across",
+          "key",
+          "markets",
+          "in",
+          "the",
+          "third",
+          "quarter.investors",
+          "cheered",
+          "r",
+          "146",
+          "chars"
+        ],
+        "filtered": [
+          "mcdonalds",
+          "franchisee",
+          "arcos",
+          "dorados",
+          "pops",
+          "third",
+          "quarter",
+          "latin",
+          "flavor",
+          "arcos",
+          "dorados",
+          "holdings",
+          "inc.",
+          "nysearco",
+          "shares",
+          "climbed",
+          "premarket",
+          "mcdonalds",
+          "operator",
+          "delivered",
+          "stronger",
+          "profitability",
+          "momentum",
+          "across",
+          "key",
+          "markets",
+          "third",
+          "quarter.investors",
+          "cheered",
+          "r",
+          "146",
+          "chars"
+        ],
+        "lemmatized": [
+          "mcdonalds",
+          "franchisee",
+          "arcos",
+          "dorado",
+          "pop",
+          "third",
+          "quarter",
+          "latin",
+          "flavor",
+          "arcos",
+          "dorado",
+          "holdings",
+          "inc.",
+          "nysearco",
+          "shares",
+          "climb",
+          "premarket",
+          "mcdonalds",
+          "operator",
+          "deliver",
+          "strong",
+          "profitability",
+          "momentum",
+          "across",
+          "key",
+          "market",
+          "third",
+          "quarter.investors",
+          "cheer",
+          "r",
+          "146",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Latin Flavor",
+            "Arcos Dorados Holdings"
+          ],
+          "ORGANIZATION": [
+            "McDonald",
+            "Franchisee Arcos Dorados Pops",
+            "NYSE",
+            "McDonalds"
+          ],
+          "GPE": [
+            "Q3"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "profit"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "146"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "mcdonalds",
+            2
+          ],
+          [
+            "arcos",
+            2
+          ],
+          [
+            "dorado",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "franchisee",
+            1
+          ],
+          [
+            "pop",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "latin",
+            1
+          ],
+          [
+            "flavor",
+            1
+          ],
+          [
+            "holdings",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 41,
+        "avg_words_per_sentence": 20.5,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:28:46.271980",
+      "preprocessing_version": "1.0",
+      "article_id": "7221a3884815ae70",
+      "title": "McDonald's Franchisee Arcos Dorados Pops In Q3 On Latin Flavor",
+      "description": "Arcos Dorados Holdings Inc. (NYSE:ARCO) shares climbed in premarket as the McDonald’s operator delivered stronger profitability and momentum across key markets in the third quarter.\nInvestors cheered rising digital mix, improving comps, and a Brazil tax credi…",
+      "body": "Arcos Dorados Holdings Inc. (NYSE:ARCO) shares climbed in premarket as the McDonalds operator delivered stronger profitability and momentum across key markets in the third quarter.Investors cheered r… [+146 chars]",
+      "source": "Biztoc.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://biztoc.com/x/0dd5c3e99d454674",
+      "author": "benzinga.com",
+      "published_at": "2025-11-12T16:10:16Z",
+      "scraped_at": "2025-11-13T22:21:10.043892",
+      "ticker": "AAPL",
+      "raw_text": "McDonald's Franchisee Arcos Dorados Pops In Q3 On Latin Flavor Arcos Dorados Holdings Inc. (NYSE:ARCO) shares climbed in premarket as the McDonald’s operator delivered stronger profitability and momentum across key markets in the third quarter.\nInvestors cheered rising digital mix, improving comps, and a Brazil tax credi… Arcos Dorados Holdings Inc. (NYSE:ARCO) shares climbed in premarket as the McDonalds operator delivered stronger profitability and momentum across key markets in the third quarter.Investors cheered r… [+146 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "MCD"
+      ],
+      "ticker_confidence": {
+        "MCD": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

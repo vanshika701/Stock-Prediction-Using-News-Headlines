@@ -1,0 +1,222 @@
+{
+  "ticker": "BA",
+  "export_date": "2025-11-15T01:16:26.142621",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Boeing: A Stock for the Long Haul",
+      "original_body": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "cleaned_title": "Boeing A Stock for the Long Haul",
+      "cleaned_body": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 6040 portfolio, and the Magnificent Seven.",
+      "cleaned_text": "Boeing A Stock for the Long Haul. Readers weigh in on Boeing, Elon Musk, Bank of America, the 6040 portfolio, and the Magnificent Seven.",
+      "tokens": {
+        "original": [
+          "boeing",
+          "a",
+          "stock",
+          "for",
+          "the",
+          "long",
+          "haul",
+          "readers",
+          "weigh",
+          "in",
+          "on",
+          "boeing",
+          ",",
+          "elon",
+          "musk",
+          ",",
+          "bank",
+          "of",
+          "america",
+          ",",
+          "the",
+          "6040",
+          "portfolio",
+          ",",
+          "and",
+          "the",
+          "magnificent",
+          "seven",
+          "."
+        ],
+        "filtered": [
+          "boeing",
+          "stock",
+          "long",
+          "haul",
+          "readers",
+          "weigh",
+          "boeing",
+          ",",
+          "elon",
+          "musk",
+          ",",
+          "bank",
+          "america",
+          ",",
+          "6040",
+          "portfolio",
+          ",",
+          "magnificent",
+          "seven",
+          "."
+        ],
+        "lemmatized": [
+          "boeing",
+          "stock",
+          "long",
+          "haul",
+          "reader",
+          "weigh",
+          "boeing",
+          ",",
+          "elon",
+          "musk",
+          ",",
+          "bank",
+          "america",
+          ",",
+          "6040",
+          "portfolio",
+          ",",
+          "magnificent",
+          "seven",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon Musk"
+          ],
+          "ORGANIZATION": [
+            "Long Haul",
+            "Bank",
+            "Magnificent Seven"
+          ],
+          "GPE": [
+            "Boeing",
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "60",
+          "40"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "boeing",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "long",
+            1
+          ],
+          [
+            "haul",
+            1
+          ],
+          [
+            "reader",
+            1
+          ],
+          [
+            "weigh",
+            1
+          ],
+          [
+            "elon",
+            1
+          ],
+          [
+            "musk",
+            1
+          ],
+          [
+            "bank",
+            1
+          ],
+          [
+            "america",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 30,
+        "avg_words_per_sentence": 15.0,
+        "num_unique_words": 23
+      },
+      "processed_at": "2025-11-14T03:30:02.328935",
+      "preprocessing_version": "1.0",
+      "article_id": "fd396d7955902221",
+      "title": "Boeing: A Stock for the Long Haul",
+      "description": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "body": "Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=72c2d3571171bc3de26a04cbc64da2ed7de2b6e0fa5ec2d1fdd973401f7f41e5",
+      "author": "Unknown",
+      "published_at": "2025-11-08T05:49:00",
+      "scraped_at": "2025-11-13T22:21:23.910198",
+      "ticker": "TSLA",
+      "raw_text": "Boeing: A Stock for the Long Haul Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven. Readers weigh in on Boeing, Elon Musk, Bank of America, the 60/40 portfolio, and the Magnificent Seven.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "BAC",
+        "BA"
+      ],
+      "ticker_confidence": {
+        "BAC": 80,
+        "BA": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

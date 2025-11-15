@@ -1,0 +1,1172 @@
+{
+  "ticker": "QCOM",
+  "export_date": "2025-11-15T01:16:26.129353",
+  "article_count": 4,
+  "articles": [
+    {
+      "original_title": "Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First",
+      "original_body": "QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "cleaned_title": "Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First",
+      "cleaned_body": "QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "cleaned_text": "Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First. QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "tokens": {
+        "original": [
+          "qualcomm",
+          "wants",
+          "to",
+          "beat",
+          "nvidia",
+          "in",
+          "ai",
+          "chips",
+          ",",
+          "but",
+          "qcom",
+          "stock",
+          "needs",
+          "to",
+          "win",
+          "over",
+          "wall",
+          "street",
+          "first",
+          "qcom",
+          "stock",
+          "is",
+          "down",
+          "after",
+          "earnings",
+          "after",
+          "failing",
+          "to",
+          "impress",
+          "investors",
+          "with",
+          "its",
+          "results",
+          ".",
+          "this",
+          "comes",
+          "as",
+          "qualcomm",
+          "plans",
+          "to",
+          "get",
+          "into",
+          "the",
+          "ai",
+          "chip",
+          "market",
+          "to",
+          "rival",
+          "amd",
+          "and",
+          "nvidia",
+          "."
+        ],
+        "filtered": [
+          "qualcomm",
+          "wants",
+          "beat",
+          "nvidia",
+          "ai",
+          "chips",
+          ",",
+          "qcom",
+          "stock",
+          "needs",
+          "win",
+          "over",
+          "wall",
+          "street",
+          "first",
+          "qcom",
+          "stock",
+          "down",
+          "earnings",
+          "failing",
+          "impress",
+          "investors",
+          "results",
+          ".",
+          "comes",
+          "qualcomm",
+          "plans",
+          "get",
+          "ai",
+          "chip",
+          "market",
+          "rival",
+          "amd",
+          "nvidia",
+          "."
+        ],
+        "lemmatized": [
+          "qualcomm",
+          "want",
+          "beat",
+          "nvidia",
+          "ai",
+          "chip",
+          ",",
+          "qcom",
+          "stock",
+          "need",
+          "win",
+          "over",
+          "wall",
+          "street",
+          "first",
+          "qcom",
+          "stock",
+          "down",
+          "earnings",
+          "fail",
+          "impress",
+          "investor",
+          "result",
+          ".",
+          "come",
+          "qualcomm",
+          "plan",
+          "get",
+          "ai",
+          "chip",
+          "market",
+          "rival",
+          "amd",
+          "nvidia",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Beat Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Wants",
+            "AI Chips",
+            "QCOM Stock Needs",
+            "QCOM",
+            "Qualcomm",
+            "AI",
+            "AMD"
+          ],
+          "GPE": [
+            "Qualcomm",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "beat"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "qualcomm",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "chip",
+            2
+          ],
+          [
+            "qcom",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "want",
+            1
+          ],
+          [
+            "beat",
+            1
+          ],
+          [
+            "need",
+            1
+          ],
+          [
+            "win",
+            1
+          ],
+          [
+            "over",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 53,
+        "avg_words_per_sentence": 17.67,
+        "num_unique_words": 41
+      },
+      "processed_at": "2025-11-14T03:29:11.581190",
+      "preprocessing_version": "1.0",
+      "article_id": "daba2b8bd6b1519d",
+      "title": "Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First",
+      "description": "QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "body": "QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=d0eb7c6ffe1fb55dc1c25ae4356b18db374bf361c716d457364a3d3d105e7ac2",
+      "author": "Unknown",
+      "published_at": "2025-11-11T01:43:15",
+      "scraped_at": "2025-11-13T22:21:12.171607",
+      "ticker": "AAPL",
+      "raw_text": "Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia. QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "NVDA",
+        "QCOM"
+      ],
+      "ticker_confidence": {
+        "NVDA": 80,
+        "QCOM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Qualcomm Q4: Looking Beyond FY2026, A Potential Secular Growth Story",
+      "original_body": "QUALCOMMâs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks.",
+      "cleaned_title": "Qualcomm fourth quarter Looking Beyond FY2026, A Potential Secular Growth Story",
+      "cleaned_body": "QUALCOMMs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks.",
+      "cleaned_text": "Qualcomm fourth quarter Looking Beyond FY2026, A Potential Secular Growth Story. QUALCOMMs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks.",
+      "tokens": {
+        "original": [
+          "qualcomm",
+          "fourth",
+          "quarter",
+          "looking",
+          "beyond",
+          "fy2026",
+          ",",
+          "a",
+          "potential",
+          "secular",
+          "growth",
+          "story",
+          "qualcomms",
+          "strong",
+          "results",
+          ",",
+          "future",
+          "ai",
+          "data",
+          "center",
+          "growth",
+          ",",
+          "and",
+          "apple",
+          "diversification",
+          "offer",
+          "investor",
+          "opportunity",
+          "despite",
+          "near-term",
+          "risks",
+          "."
+        ],
+        "filtered": [
+          "qualcomm",
+          "fourth",
+          "quarter",
+          "looking",
+          "beyond",
+          "fy2026",
+          ",",
+          "potential",
+          "secular",
+          "growth",
+          "story",
+          "qualcomms",
+          "strong",
+          "results",
+          ",",
+          "future",
+          "ai",
+          "data",
+          "center",
+          "growth",
+          ",",
+          "apple",
+          "diversification",
+          "offer",
+          "investor",
+          "opportunity",
+          "despite",
+          "near-term",
+          "risks",
+          "."
+        ],
+        "lemmatized": [
+          "qualcomm",
+          "fourth",
+          "quarter",
+          "look",
+          "beyond",
+          "fy2026",
+          ",",
+          "potential",
+          "secular",
+          "growth",
+          "story",
+          "qualcomms",
+          "strong",
+          "result",
+          ",",
+          "future",
+          "ai",
+          "data",
+          "center",
+          "growth",
+          ",",
+          "apple",
+          "diversification",
+          "offer",
+          "investor",
+          "opportunity",
+          "despite",
+          "near-term",
+          "risk",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Qualcomm Q4",
+            "Beyond FY2026"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "growth",
+            2
+          ],
+          [
+            "qualcomm",
+            1
+          ],
+          [
+            "fourth",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "beyond",
+            1
+          ],
+          [
+            "fy2026",
+            1
+          ],
+          [
+            "potential",
+            1
+          ],
+          [
+            "secular",
+            1
+          ],
+          [
+            "story",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 33,
+        "avg_words_per_sentence": 16.5,
+        "num_unique_words": 29
+      },
+      "processed_at": "2025-11-14T03:29:12.960518",
+      "preprocessing_version": "1.0",
+      "article_id": "9b4a39d0f0f5bd99",
+      "title": "Qualcomm Q4: Looking Beyond FY2026, A Potential Secular Growth Story",
+      "description": "QUALCOMMâs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks.",
+      "body": "QUALCOMMâs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=98ca4328fff6e301570835fa6f0e86cff26a118f85f953f5f02216a803d25929",
+      "author": "Unknown",
+      "published_at": "2025-11-10T20:39:03",
+      "scraped_at": "2025-11-13T22:21:12.171642",
+      "ticker": "AAPL",
+      "raw_text": "Qualcomm Q4: Looking Beyond FY2026, A Potential Secular Growth Story QUALCOMMâs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks. QUALCOMMâs strong results, future AI data center growth, and Apple diversification offer investor opportunity despite near-term risks.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223044277/image_2223044277.jpg?io=getty-c-w1536",
+      "category": "company",
+      "tickers_mentioned": [
+        "AAPL",
+        "QCOM"
+      ],
+      "ticker_confidence": {
+        "AAPL": 80,
+        "QCOM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Tech CEO Dan Herbatschek Announces Ramsey Theory Group to Attend Web Summit 2025 This Week in Lisbon as AI Spending Enters Unprecedented Growth Phase",
+      "original_body": "Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena & FIL-Feira Internacional de Lisboa. Herbatsc",
+      "cleaned_title": "Tech CEO Dan Herbatschek Announces Ramsey Theory Group to Attend Web Summit 2025 This Week in Lisbon as AI Spending Enters Unprecedented Growth Phase",
+      "cleaned_body": "Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 GLOBE NEWSWIRE -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena FIL-Feira Internacional de Lisboa. Herbatsc",
+      "cleaned_text": "Tech CEO Dan Herbatschek Announces Ramsey Theory Group to Attend Web Summit 2025 This Week in Lisbon as AI Spending Enters Unprecedented Growth Phase. Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 GLOBE NEWSWIRE -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena FIL-Feira Internacional de Lisboa. Herbatsc",
+      "tokens": {
+        "original": [
+          "tech",
+          "ceo",
+          "dan",
+          "herbatschek",
+          "announces",
+          "ramsey",
+          "theory",
+          "group",
+          "to",
+          "attend",
+          "web",
+          "summit",
+          "2025",
+          "this",
+          "week",
+          "in",
+          "lisbon",
+          "as",
+          "ai",
+          "spending",
+          "enters",
+          "unprecedented",
+          "growth",
+          "phase",
+          "executives",
+          "from",
+          "ramsey",
+          "theory",
+          "group",
+          "will",
+          "be",
+          "in",
+          "attendance",
+          "as",
+          "leaders",
+          "from",
+          "apple",
+          ",",
+          "meta",
+          ",",
+          "qualcomm",
+          ",",
+          "microsoft",
+          ",",
+          "and",
+          "nvidia",
+          "take",
+          "the",
+          "main",
+          "stage.new",
+          "york",
+          ",",
+          "nov.",
+          "10",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "ramsey",
+          "theory",
+          "group",
+          ",",
+          "a",
+          "technology",
+          "services",
+          "and",
+          "ai-driven",
+          "software",
+          "innovation",
+          "firm",
+          "led",
+          "by",
+          "noted",
+          "applied",
+          "mathematician",
+          ",",
+          "founder",
+          "and",
+          "ceo",
+          "dan",
+          "herbatschek",
+          ",",
+          "today",
+          "announced",
+          "it",
+          "will",
+          "attend",
+          "the",
+          "web",
+          "summit",
+          "2025",
+          "in",
+          "lisbon",
+          ",",
+          "portugal",
+          ",",
+          "being",
+          "held",
+          "november",
+          "10-13",
+          ",",
+          "2025",
+          "at",
+          "the",
+          "meo",
+          "arena",
+          "fil-feira",
+          "internacional",
+          "de",
+          "lisboa",
+          ".",
+          "herbatsc"
+        ],
+        "filtered": [
+          "tech",
+          "ceo",
+          "dan",
+          "herbatschek",
+          "announces",
+          "ramsey",
+          "theory",
+          "group",
+          "attend",
+          "web",
+          "summit",
+          "2025",
+          "week",
+          "lisbon",
+          "ai",
+          "spending",
+          "enters",
+          "unprecedented",
+          "growth",
+          "phase",
+          "executives",
+          "ramsey",
+          "theory",
+          "group",
+          "attendance",
+          "leaders",
+          "apple",
+          ",",
+          "meta",
+          ",",
+          "qualcomm",
+          ",",
+          "microsoft",
+          ",",
+          "nvidia",
+          "take",
+          "main",
+          "stage.new",
+          "york",
+          ",",
+          "nov.",
+          "10",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "ramsey",
+          "theory",
+          "group",
+          ",",
+          "technology",
+          "services",
+          "ai-driven",
+          "software",
+          "innovation",
+          "firm",
+          "led",
+          "noted",
+          "applied",
+          "mathematician",
+          ",",
+          "founder",
+          "ceo",
+          "dan",
+          "herbatschek",
+          ",",
+          "today",
+          "announced",
+          "attend",
+          "web",
+          "summit",
+          "2025",
+          "lisbon",
+          ",",
+          "portugal",
+          ",",
+          "held",
+          "november",
+          "10-13",
+          ",",
+          "2025",
+          "meo",
+          "arena",
+          "fil-feira",
+          "internacional",
+          "de",
+          "lisboa",
+          ".",
+          "herbatsc"
+        ],
+        "lemmatized": [
+          "tech",
+          "ceo",
+          "dan",
+          "herbatschek",
+          "announces",
+          "ramsey",
+          "theory",
+          "group",
+          "attend",
+          "web",
+          "summit",
+          "2025",
+          "week",
+          "lisbon",
+          "ai",
+          "spend",
+          "enters",
+          "unprecedented",
+          "growth",
+          "phase",
+          "executive",
+          "ramsey",
+          "theory",
+          "group",
+          "attendance",
+          "leader",
+          "apple",
+          ",",
+          "meta",
+          ",",
+          "qualcomm",
+          ",",
+          "microsoft",
+          ",",
+          "nvidia",
+          "take",
+          "main",
+          "stage.new",
+          "york",
+          ",",
+          "nov.",
+          "10",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "ramsey",
+          "theory",
+          "group",
+          ",",
+          "technology",
+          "service",
+          "ai-driven",
+          "software",
+          "innovation",
+          "firm",
+          "lead",
+          "note",
+          "applied",
+          "mathematician",
+          ",",
+          "founder",
+          "ceo",
+          "dan",
+          "herbatschek",
+          ",",
+          "today",
+          "announce",
+          "attend",
+          "web",
+          "summit",
+          "2025",
+          "lisbon",
+          ",",
+          "portugal",
+          ",",
+          "hold",
+          "november",
+          "10-13",
+          ",",
+          "2025",
+          "meo",
+          "arena",
+          "fil-feira",
+          "internacional",
+          "de",
+          "lisboa",
+          ".",
+          "herbatsc"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tech",
+            "Attend Web",
+            "Ramsey Theory Group",
+            "Microsoft",
+            "Herbatsc"
+          ],
+          "ORGANIZATION": [
+            "CEO Dan Herbatschek Announces Ramsey",
+            "AI",
+            "Meta",
+            "NVIDIA",
+            "YORK",
+            "GLOBE",
+            "CEO Dan Herbatschek",
+            "MEO Arena"
+          ],
+          "GPE": [
+            "Lisbon",
+            "Apple",
+            "Qualcomm",
+            "Portugal",
+            "Lisboa"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "10",
+          "2025",
+          "2025",
+          "10",
+          "13",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "2025",
+            4
+          ],
+          [
+            "ramsey",
+            3
+          ],
+          [
+            "theory",
+            3
+          ],
+          [
+            "group",
+            3
+          ],
+          [
+            "ceo",
+            2
+          ],
+          [
+            "dan",
+            2
+          ],
+          [
+            "herbatschek",
+            2
+          ],
+          [
+            "attend",
+            2
+          ],
+          [
+            "web",
+            2
+          ],
+          [
+            "summit",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 18,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 7,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 114,
+        "avg_words_per_sentence": 38.0,
+        "num_unique_words": 77
+      },
+      "processed_at": "2025-11-14T03:29:14.286625",
+      "preprocessing_version": "1.0",
+      "article_id": "a54fc50ba064f9a4",
+      "title": "Tech CEO Dan Herbatschek Announces Ramsey Theory Group to Attend Web Summit 2025 This Week in Lisbon as AI Spending Enters Unprecedented Growth Phase",
+      "description": "Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena & FIL-Feira Internacional de Lisboa. Herbatsc",
+      "body": "Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena & FIL-Feira Internacional de Lisboa. Herbatsc",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=c51a11378c7a6da2e275453e12af4e6d18399561ee83638d4a20304a426fb754",
+      "author": "Unknown",
+      "published_at": "2025-11-10T19:19:00",
+      "scraped_at": "2025-11-13T22:21:12.171671",
+      "ticker": "AAPL",
+      "raw_text": "Tech CEO Dan Herbatschek Announces Ramsey Theory Group to Attend Web Summit 2025 This Week in Lisbon as AI Spending Enters Unprecedented Growth Phase Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena & FIL-Feira Internacional de Lisboa. Herbatsc Executives from Ramsey Theory Group will be in attendance as leaders from Apple, Meta, Qualcomm, Microsoft, and NVIDIA take the main stage.NEW YORK, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Ramsey Theory Group, a technology services and AI-driven software innovation firm led by noted applied mathematician, founder and CEO Dan Herbatschek, today announced it will attend the Web Summit 2025 in Lisbon, Portugal, being held November 10-13, 2025 at the MEO Arena & FIL-Feira Internacional de Lisboa. Herbatsc",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "NVDA",
+        "QCOM",
+        "AAPL",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "NVDA": 80,
+        "QCOM": 80,
+        "AAPL": 50,
+        "FB": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Qualcomm Growth Could Slow in Q2 After Strong Q4, BofA Says",
+      "original_body": "Qualcomm (QCOM) reported strong Q4 results but growth could slow in fiscal Q2, BofA Securities said",
+      "cleaned_title": "Qualcomm Growth Could Slow in second quarter After Strong fourth quarter, BofA Says",
+      "cleaned_body": "Qualcomm QCOM reported strong fourth quarter results but growth could slow in fiscal second quarter, BofA Securities said",
+      "cleaned_text": "Qualcomm Growth Could Slow in second quarter After Strong fourth quarter, BofA Says. Qualcomm QCOM reported strong fourth quarter results but growth could slow in fiscal second quarter, BofA Securities said",
+      "tokens": {
+        "original": [
+          "qualcomm",
+          "growth",
+          "could",
+          "slow",
+          "in",
+          "second",
+          "quarter",
+          "after",
+          "strong",
+          "fourth",
+          "quarter",
+          ",",
+          "bofa",
+          "says",
+          "qualcomm",
+          "qcom",
+          "reported",
+          "strong",
+          "fourth",
+          "quarter",
+          "results",
+          "but",
+          "growth",
+          "could",
+          "slow",
+          "in",
+          "fiscal",
+          "second",
+          "quarter",
+          ",",
+          "bofa",
+          "securities",
+          "said"
+        ],
+        "filtered": [
+          "qualcomm",
+          "growth",
+          "could",
+          "slow",
+          "second",
+          "quarter",
+          "strong",
+          "fourth",
+          "quarter",
+          ",",
+          "bofa",
+          "says",
+          "qualcomm",
+          "qcom",
+          "reported",
+          "strong",
+          "fourth",
+          "quarter",
+          "results",
+          "growth",
+          "could",
+          "slow",
+          "fiscal",
+          "second",
+          "quarter",
+          ",",
+          "bofa",
+          "securities",
+          "said"
+        ],
+        "lemmatized": [
+          "qualcomm",
+          "growth",
+          "could",
+          "slow",
+          "second",
+          "quarter",
+          "strong",
+          "fourth",
+          "quarter",
+          ",",
+          "bofa",
+          "say",
+          "qualcomm",
+          "qcom",
+          "report",
+          "strong",
+          "fourth",
+          "quarter",
+          "result",
+          "growth",
+          "could",
+          "slow",
+          "fiscal",
+          "second",
+          "quarter",
+          ",",
+          "bofa",
+          "securities",
+          "say"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Qualcomm",
+            "Growth Could Slow",
+            "Strong Q4"
+          ],
+          "ORGANIZATION": [
+            "BofA Says",
+            "QCOM",
+            "BofA Securities"
+          ],
+          "GPE": [
+            "Q2"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "quarter",
+            4
+          ],
+          [
+            "qualcomm",
+            2
+          ],
+          [
+            "growth",
+            2
+          ],
+          [
+            "could",
+            2
+          ],
+          [
+            "slow",
+            2
+          ],
+          [
+            "second",
+            2
+          ],
+          [
+            "strong",
+            2
+          ],
+          [
+            "fourth",
+            2
+          ],
+          [
+            "bofa",
+            2
+          ],
+          [
+            "say",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 34,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 21
+      },
+      "processed_at": "2025-11-14T03:29:25.632727",
+      "preprocessing_version": "1.0",
+      "article_id": "53cd39ddd9b33a52",
+      "title": "Qualcomm Growth Could Slow in Q2 After Strong Q4, BofA Says",
+      "description": "Qualcomm (QCOM) reported strong Q4 results but growth could slow in fiscal Q2, BofA Securities said",
+      "body": "Qualcomm (QCOM) reported strong Q4 results but growth could slow in fiscal Q2, BofA Securities said",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=b855e3ff63a6f28c0ee01ff486948160fa0779835c46e590f50a9c827463ad94",
+      "author": "Unknown",
+      "published_at": "2025-11-06T22:35:17",
+      "scraped_at": "2025-11-13T22:21:12.171937",
+      "ticker": "AAPL",
+      "raw_text": "Qualcomm Growth Could Slow in Q2 After Strong Q4, BofA Says Qualcomm (QCOM) reported strong Q4 results but growth could slow in fiscal Q2, BofA Securities said Qualcomm (QCOM) reported strong Q4 results but growth could slow in fiscal Q2, BofA Securities said",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "QCOM"
+      ],
+      "ticker_confidence": {
+        "QCOM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

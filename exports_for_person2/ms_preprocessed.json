@@ -1,0 +1,1663 @@
+{
+  "ticker": "MS",
+  "export_date": "2025-11-15T01:16:26.133869",
+  "article_count": 7,
+  "articles": [
+    {
+      "original_title": "Apple could make $133 billion a year on humanoid robots by 2040: Morgan Stanley",
+      "original_body": "Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040.",
+      "cleaned_title": "Apple could make $133 billion a year on humanoid robots by 2040 Morgan Stanley",
+      "cleaned_body": "Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040.",
+      "cleaned_text": "Apple could make $133 billion a year on humanoid robots by 2040 Morgan Stanley. Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040.",
+      "tokens": {
+        "original": [
+          "apple",
+          "could",
+          "make",
+          "$",
+          "133",
+          "billion",
+          "a",
+          "year",
+          "on",
+          "humanoid",
+          "robots",
+          "by",
+          "2040",
+          "morgan",
+          "stanley",
+          "morgan",
+          "stanley",
+          "predicts",
+          "apple",
+          "could",
+          "generated",
+          "$",
+          "133",
+          "billion",
+          "a",
+          "year",
+          "from",
+          "humanoid",
+          "robots",
+          "by",
+          "the",
+          "year",
+          "2040",
+          "."
+        ],
+        "filtered": [
+          "apple",
+          "could",
+          "make",
+          "$",
+          "133",
+          "billion",
+          "year",
+          "humanoid",
+          "robots",
+          "2040",
+          "morgan",
+          "stanley",
+          "morgan",
+          "stanley",
+          "predicts",
+          "apple",
+          "could",
+          "generated",
+          "$",
+          "133",
+          "billion",
+          "year",
+          "humanoid",
+          "robots",
+          "year",
+          "2040",
+          "."
+        ],
+        "lemmatized": [
+          "apple",
+          "could",
+          "make",
+          "$",
+          "133",
+          "billion",
+          "year",
+          "humanoid",
+          "robot",
+          "2040",
+          "morgan",
+          "stanley",
+          "morgan",
+          "stanley",
+          "predicts",
+          "apple",
+          "could",
+          "generate",
+          "$",
+          "133",
+          "billion",
+          "year",
+          "humanoid",
+          "robot",
+          "year",
+          "2040",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Morgan Stanley",
+            "Apple"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "133",
+          "2040",
+          "133",
+          "2040"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "year",
+            3
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "could",
+            2
+          ],
+          [
+            "133",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "humanoid",
+            2
+          ],
+          [
+            "robot",
+            2
+          ],
+          [
+            "2040",
+            2
+          ],
+          [
+            "morgan",
+            2
+          ],
+          [
+            "stanley",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 35,
+        "avg_words_per_sentence": 17.5,
+        "num_unique_words": 20
+      },
+      "processed_at": "2025-11-14T03:29:24.153226",
+      "preprocessing_version": "1.0",
+      "article_id": "a16717856fe9755f",
+      "title": "Apple could make $133 billion a year on humanoid robots by 2040: Morgan Stanley",
+      "description": "Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040.",
+      "body": "Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=c125e263ad3c5bd66014dffce290d398a771fa20c7a8df5f82b796b5fa1b311d",
+      "author": "Unknown",
+      "published_at": "2025-11-07T01:14:19",
+      "scraped_at": "2025-11-13T22:21:12.171904",
+      "ticker": "AAPL",
+      "raw_text": "Apple could make $133 billion a year on humanoid robots by 2040: Morgan Stanley Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040. Morgan Stanley predicts Apple could generated $133 billion a year from humanoid robots by the year 2040.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MS",
+        "AAPL"
+      ],
+      "ticker_confidence": {
+        "MS": 80,
+        "AAPL": 50
+      },
+      "ticker_contexts": {
+        "MS": [
+          "make $133 billion a year on humanoid robots by 2040: **Morgan** Stanley Morgan Stanley predicts Apple could generated $133 billion a",
+          "billion a year on humanoid robots by 2040: Morgan Stanley **Morgan** Stanley predicts Apple could generated $133 billion a year from",
+          "billion a year from humanoid robots by the year 2040. **Morgan** Stanley predicts Apple could generated $133 billion a year from"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says",
+      "original_body": "Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "cleaned_title": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says",
+      "cleaned_body": "Snap SNAP delivered third quarter results ahead of Morgan Stanleys expectations, but its forward user growth",
+      "cleaned_text": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says. Snap SNAP delivered third quarter results ahead of Morgan Stanleys expectations, but its forward user growth",
+      "tokens": {
+        "original": [
+          "snap",
+          "faces",
+          "user",
+          "growth",
+          "uncertainty",
+          "amid",
+          "age",
+          "verification",
+          "rollout",
+          ",",
+          "morgan",
+          "stanley",
+          "says",
+          "snap",
+          "snap",
+          "delivered",
+          "third",
+          "quarter",
+          "results",
+          "ahead",
+          "of",
+          "morgan",
+          "stanleys",
+          "expectations",
+          ",",
+          "but",
+          "its",
+          "forward",
+          "user",
+          "growth"
+        ],
+        "filtered": [
+          "snap",
+          "faces",
+          "user",
+          "growth",
+          "uncertainty",
+          "amid",
+          "age",
+          "verification",
+          "rollout",
+          ",",
+          "morgan",
+          "stanley",
+          "says",
+          "snap",
+          "snap",
+          "delivered",
+          "third",
+          "quarter",
+          "results",
+          "ahead",
+          "morgan",
+          "stanleys",
+          "expectations",
+          ",",
+          "forward",
+          "user",
+          "growth"
+        ],
+        "lemmatized": [
+          "snap",
+          "face",
+          "user",
+          "growth",
+          "uncertainty",
+          "amid",
+          "age",
+          "verification",
+          "rollout",
+          ",",
+          "morgan",
+          "stanley",
+          "say",
+          "snap",
+          "snap",
+          "deliver",
+          "third",
+          "quarter",
+          "result",
+          "ahead",
+          "morgan",
+          "stanley",
+          "expectation",
+          ",",
+          "forward",
+          "user",
+          "growth"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Snap",
+            "Faces User Growth Uncertainty Amid Age",
+            "Morgan Stanley Says",
+            "Morgan Stanley"
+          ],
+          "ORGANIZATION": [
+            "SNAP"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "snap",
+            3
+          ],
+          [
+            "user",
+            2
+          ],
+          [
+            "growth",
+            2
+          ],
+          [
+            "morgan",
+            2
+          ],
+          [
+            "stanley",
+            2
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "uncertainty",
+            1
+          ],
+          [
+            "amid",
+            1
+          ],
+          [
+            "age",
+            1
+          ],
+          [
+            "verification",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 31,
+        "avg_words_per_sentence": 15.5,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:29:25.790393",
+      "preprocessing_version": "1.0",
+      "article_id": "97eb430eae9c7bc0",
+      "title": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says",
+      "description": "Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "body": "Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=509121071987f9ea610ac1520742bbcac528325272aaeac99096fbb8506a660d",
+      "author": "Unknown",
+      "published_at": "2025-11-06T22:04:05",
+      "scraped_at": "2025-11-13T22:21:12.171941",
+      "ticker": "AAPL",
+      "raw_text": "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, Morgan Stanley Says Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth Snap (SNAP) delivered Q3 results ahead of Morgan Stanley's expectations, but its forward user growth",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MS",
+        "SNAP"
+      ],
+      "ticker_confidence": {
+        "MS": 80,
+        "SNAP": 80
+      },
+      "ticker_contexts": {
+        "MS": [
+          "Snap Faces User Growth Uncertainty Amid Age Verification Rollout, **Morgan** Stanley Says Snap (SNAP) delivered Q3 results ahead of Morgan",
+          "Morgan Stanley Says Snap (SNAP) delivered Q3 results ahead of **Morgan** Stanley's expectations, but its forward user growth Snap (SNAP) delivered",
+          "forward user growth Snap (SNAP) delivered Q3 results ahead of **Morgan** Stanley's expectations, but its forward user growth"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Tesla Faces Key Turning Points as Morgan Stanley Flags Six-to-12-Month Catalysts",
+      "original_body": "Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase.",
+      "cleaned_title": "Tesla Faces Key Turning Points as Morgan Stanley Flags Six-to-12-Month Catalysts",
+      "cleaned_body": "Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase.",
+      "cleaned_text": "Tesla Faces Key Turning Points as Morgan Stanley Flags Six-to-12-Month Catalysts. Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase.",
+      "tokens": {
+        "original": [
+          "tesla",
+          "faces",
+          "key",
+          "turning",
+          "points",
+          "as",
+          "morgan",
+          "stanley",
+          "flags",
+          "six-to-12-month",
+          "catalysts",
+          "analyst",
+          "adam",
+          "jonas",
+          "points",
+          "to",
+          "xai",
+          "investment",
+          ",",
+          "full",
+          "self-driving",
+          "rollout",
+          ",",
+          "and",
+          "chip",
+          "ambitions",
+          "as",
+          "drivers",
+          "of",
+          "the",
+          "next",
+          "phase",
+          "."
+        ],
+        "filtered": [
+          "tesla",
+          "faces",
+          "key",
+          "turning",
+          "points",
+          "morgan",
+          "stanley",
+          "flags",
+          "six-to-12-month",
+          "catalysts",
+          "analyst",
+          "adam",
+          "jonas",
+          "points",
+          "xai",
+          "investment",
+          ",",
+          "full",
+          "self-driving",
+          "rollout",
+          ",",
+          "chip",
+          "ambitions",
+          "drivers",
+          "next",
+          "phase",
+          "."
+        ],
+        "lemmatized": [
+          "tesla",
+          "face",
+          "key",
+          "turn",
+          "point",
+          "morgan",
+          "stanley",
+          "flag",
+          "six-to-12-month",
+          "catalyst",
+          "analyst",
+          "adam",
+          "jonas",
+          "point",
+          "xai",
+          "investment",
+          ",",
+          "full",
+          "self-driving",
+          "rollout",
+          ",",
+          "chip",
+          "ambition",
+          "driver",
+          "next",
+          "phase",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla",
+            "Faces Key Turning Points",
+            "Morgan Stanley Flags",
+            "Analyst Adam Jonas",
+            "Full"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "12"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "point",
+            2
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "key",
+            1
+          ],
+          [
+            "turn",
+            1
+          ],
+          [
+            "morgan",
+            1
+          ],
+          [
+            "stanley",
+            1
+          ],
+          [
+            "flag",
+            1
+          ],
+          [
+            "six-to-12-month",
+            1
+          ],
+          [
+            "catalyst",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 34,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 30
+      },
+      "processed_at": "2025-11-14T03:29:43.790917",
+      "preprocessing_version": "1.0",
+      "article_id": "c2f8718af8bad054",
+      "title": "Tesla Faces Key Turning Points as Morgan Stanley Flags Six-to-12-Month Catalysts",
+      "description": "Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase.",
+      "body": "Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=6d123e2b5c823c5d9bea4ed01532e385d967720a3b93c1f0f583982e3c834fe2",
+      "author": "Unknown",
+      "published_at": "2025-11-12T21:43:50",
+      "scraped_at": "2025-11-13T22:21:23.908534",
+      "ticker": "TSLA",
+      "raw_text": "Tesla Faces Key Turning Points as Morgan Stanley Flags Six-to-12-Month Catalysts Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase. Analyst Adam Jonas points to xAI investment, Full Self-Driving rollout, and chip ambitions as drivers of the next phase.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "MS"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "MS": 80
+      },
+      "ticker_contexts": {
+        "MS": [
+          "Tesla Faces Key Turning Points as **Morgan** Stanley Flags Six-to-12-Month Catalysts Analyst Adam Jonas points to xAI"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "What will matter to Tesla stock price over the next 6 to 12 months?",
+      "original_body": "Investing.com -- Tesla’s latest annual general meeting gave investors more than just the approval of Elon Musk’s $1 trillion compensation package to think about, according to Morgan Stanley.",
+      "cleaned_title": "What will matter to Tesla stock price over the next 6 to 12 months?",
+      "cleaned_body": "Investing.com -- Teslas latest annual general meeting gave investors more than just the approval of Elon Musks $1 trillion compensation package to think about, according to Morgan Stanley.",
+      "cleaned_text": "What will matter to Tesla stock price over the next 6 to 12 months?. Investing.com -- Teslas latest annual general meeting gave investors more than just the approval of Elon Musks $1 trillion compensation package to think about, according to Morgan Stanley.",
+      "tokens": {
+        "original": [
+          "what",
+          "will",
+          "matter",
+          "to",
+          "tesla",
+          "stock",
+          "price",
+          "over",
+          "the",
+          "next",
+          "6",
+          "to",
+          "12",
+          "months",
+          "?",
+          "investing.com",
+          "--",
+          "teslas",
+          "latest",
+          "annual",
+          "general",
+          "meeting",
+          "gave",
+          "investors",
+          "more",
+          "than",
+          "just",
+          "the",
+          "approval",
+          "of",
+          "elon",
+          "musks",
+          "$",
+          "1",
+          "trillion",
+          "compensation",
+          "package",
+          "to",
+          "think",
+          "about",
+          ",",
+          "according",
+          "to",
+          "morgan",
+          "stanley",
+          "."
+        ],
+        "filtered": [
+          "matter",
+          "tesla",
+          "stock",
+          "price",
+          "over",
+          "next",
+          "6",
+          "12",
+          "months",
+          "?",
+          "investing.com",
+          "--",
+          "teslas",
+          "latest",
+          "annual",
+          "general",
+          "meeting",
+          "gave",
+          "investors",
+          "more",
+          "approval",
+          "elon",
+          "musks",
+          "$",
+          "1",
+          "trillion",
+          "compensation",
+          "package",
+          "think",
+          ",",
+          "according",
+          "morgan",
+          "stanley",
+          "."
+        ],
+        "lemmatized": [
+          "matter",
+          "tesla",
+          "stock",
+          "price",
+          "over",
+          "next",
+          "6",
+          "12",
+          "month",
+          "?",
+          "investing.com",
+          "--",
+          "teslas",
+          "late",
+          "annual",
+          "general",
+          "meeting",
+          "give",
+          "investor",
+          "more",
+          "approval",
+          "elon",
+          "musks",
+          "$",
+          "1",
+          "trillion",
+          "compensation",
+          "package",
+          "think",
+          ",",
+          "accord",
+          "morgan",
+          "stanley",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla",
+            "Elon Musk",
+            "Morgan Stanley"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "6",
+          "12",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "matter",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "over",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "month",
+            1
+          ],
+          [
+            "investing.com",
+            1
+          ],
+          [
+            "teslas",
+            1
+          ],
+          [
+            "late",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 47,
+        "avg_words_per_sentence": 23.5,
+        "num_unique_words": 42
+      },
+      "processed_at": "2025-11-14T03:29:44.619841",
+      "preprocessing_version": "1.0",
+      "article_id": "e73e21e59d29473c",
+      "title": "What will matter to Tesla stock price over the next 6 to 12 months?",
+      "description": "Investing.com -- Tesla’s latest annual general meeting gave investors more than just the approval of Elon Musk’s $1 trillion compensation package to think about, according to Morgan Stanley.",
+      "body": "Investing.com -- Tesla’s latest annual general meeting gave investors more than just the approval of Elon Musk’s $1 trillion compensation package to think about, according to Morgan Stanley.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=872ab94be1bbb9624b01fb0bcdc06e6f8ca0af5bb4da20489d0dbd1da0ccac75",
+      "author": "Unknown",
+      "published_at": "2025-11-12T18:58:13",
+      "scraped_at": "2025-11-13T22:21:23.908689",
+      "ticker": "TSLA",
+      "raw_text": "What will matter to Tesla stock price over the next 6 to 12 months? Investing.com -- Tesla’s latest annual general meeting gave investors more than just the approval of Elon Musk’s $1 trillion compensation package to think about, according to Morgan Stanley. Investing.com -- Tesla’s latest annual general meeting gave investors more than just the approval of Elon Musk’s $1 trillion compensation package to think about, according to Morgan Stanley.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "MS"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "MS": 80
+      },
+      "ticker_contexts": {
+        "MS": [
+          "Musk’s $1 trillion compensation package to think about, according to **Morgan** Stanley. Investing.com -- Tesla’s latest annual general meeting gave investors",
+          "Musk’s $1 trillion compensation package to think about, according to **Morgan** Stanley."
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Trump Admin To Lend “Hundreds Of Billions” To Build Nuclear Power Plants",
+      "original_body": "This article was originally published by Tyler Durden at ZeroHedge. \r\nWhile the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to buil… [+5210 chars]",
+      "cleaned_title": "Trump Admin To Lend Hundreds Of Billions To Build Nuclear Power Plants",
+      "cleaned_body": "This article was originally published by Tyler Durden at ZeroHedge. While the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to buil 5210 chars",
+      "cleaned_text": "Trump Admin To Lend Hundreds Of Billions To Build Nuclear Power Plants. This article was originally published by Tyler Durden at ZeroHedge. While the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to buil 5210 chars",
+      "tokens": {
+        "original": [
+          "trump",
+          "admin",
+          "to",
+          "lend",
+          "hundreds",
+          "of",
+          "billions",
+          "to",
+          "build",
+          "nuclear",
+          "power",
+          "plants",
+          "this",
+          "article",
+          "was",
+          "originally",
+          "published",
+          "by",
+          "tyler",
+          "durden",
+          "at",
+          "zerohedge",
+          ".",
+          "while",
+          "the",
+          "market",
+          "is",
+          "finally",
+          "starting",
+          "to",
+          "grapple",
+          "with",
+          "the",
+          "most",
+          "unpleasant",
+          "question",
+          "of",
+          "who",
+          "will",
+          "plug",
+          "the",
+          "funding",
+          "gap",
+          "needed",
+          "to",
+          "buil",
+          "5210",
+          "chars"
+        ],
+        "filtered": [
+          "trump",
+          "admin",
+          "lend",
+          "hundreds",
+          "billions",
+          "build",
+          "nuclear",
+          "power",
+          "plants",
+          "article",
+          "originally",
+          "published",
+          "tyler",
+          "durden",
+          "zerohedge",
+          ".",
+          "market",
+          "finally",
+          "starting",
+          "grapple",
+          "most",
+          "unpleasant",
+          "question",
+          "plug",
+          "funding",
+          "gap",
+          "needed",
+          "buil",
+          "5210",
+          "chars"
+        ],
+        "lemmatized": [
+          "trump",
+          "admin",
+          "lend",
+          "hundred",
+          "billion",
+          "build",
+          "nuclear",
+          "power",
+          "plant",
+          "article",
+          "originally",
+          "publish",
+          "tyler",
+          "durden",
+          "zerohedge",
+          ".",
+          "market",
+          "finally",
+          "start",
+          "grapple",
+          "most",
+          "unpleasant",
+          "question",
+          "plug",
+          "funding",
+          "gap",
+          "need",
+          "buil",
+          "5210",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Trump",
+            "Admin",
+            "Billions",
+            "Nuclear Power Plants",
+            "Tyler Durden"
+          ],
+          "ORGANIZATION": [
+            "ZeroHedge"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "5210"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "trump",
+            1
+          ],
+          [
+            "admin",
+            1
+          ],
+          [
+            "lend",
+            1
+          ],
+          [
+            "hundred",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "build",
+            1
+          ],
+          [
+            "nuclear",
+            1
+          ],
+          [
+            "power",
+            1
+          ],
+          [
+            "plant",
+            1
+          ],
+          [
+            "article",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 49,
+        "avg_words_per_sentence": 16.33,
+        "num_unique_words": 42
+      },
+      "processed_at": "2025-11-14T03:30:15.052014",
+      "preprocessing_version": "1.0",
+      "article_id": "5f98e54f63622602",
+      "title": "Trump Admin To Lend “Hundreds Of Billions” To Build Nuclear Power Plants",
+      "description": "While the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to build out all the data centers required to make the AI dream a reality, a gap which Morgan Stanley recently calculated would be as lar…",
+      "body": "This article was originally published by Tyler Durden at ZeroHedge. \r\nWhile the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to buil… [+5210 chars]",
+      "source": "Shtfplan.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.shtfplan.com/commodities/trump-admin-to-lend-hundreds-of-billions-to-build-nuclear-power-plants",
+      "author": "Tyler Durden",
+      "published_at": "2025-11-11T23:30:26Z",
+      "scraped_at": "2025-11-13T22:21:24.627624",
+      "ticker": "MSFT",
+      "raw_text": "Trump Admin To Lend “Hundreds Of Billions” To Build Nuclear Power Plants While the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to build out all the data centers required to make the AI dream a reality, a gap which Morgan Stanley recently calculated would be as lar… This article was originally published by Tyler Durden at ZeroHedge. \r\nWhile the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to buil… [+5210 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "MS"
+      ],
+      "ticker_confidence": {
+        "MS": 80
+      },
+      "ticker_contexts": {
+        "MS": [
+          "to make the AI dream a reality, a gap which **Morgan** Stanley recently calculated would be as lar… This article was"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "The $2.9 Trillion Question: Who Will Power the AI Revolution?",
+      "original_body": "Kemi Badenoch has declared an…\r\nAdvanced air mobility is moving…\r\nOil prices remain stagnant around…\r\nBy ZeroHedge - Nov 11, 2025, 1:00 PM CSTWhile the market is finally starting to grapple with the … [+5370 chars]",
+      "cleaned_title": "The $2.9 Trillion Question Who Will Power the AI Revolution?",
+      "cleaned_body": "Kemi Badenoch has declared an Advanced air mobility is moving Oil prices remain stagnant around By ZeroHedge - Nov 11, 2025, 100 PM CSTWhile the market is finally starting to grapple with the 5370 chars",
+      "cleaned_text": "The $2.9 Trillion Question Who Will Power the AI Revolution?. Kemi Badenoch has declared an Advanced air mobility is moving Oil prices remain stagnant around By ZeroHedge - Nov 11, 2025, 100 PM CSTWhile the market is finally starting to grapple with the 5370 chars",
+      "tokens": {
+        "original": [
+          "the",
+          "$",
+          "2.9",
+          "trillion",
+          "question",
+          "who",
+          "will",
+          "power",
+          "the",
+          "ai",
+          "revolution",
+          "?",
+          "kemi",
+          "badenoch",
+          "has",
+          "declared",
+          "an",
+          "advanced",
+          "air",
+          "mobility",
+          "is",
+          "moving",
+          "oil",
+          "prices",
+          "remain",
+          "stagnant",
+          "around",
+          "by",
+          "zerohedge",
+          "-",
+          "nov",
+          "11",
+          ",",
+          "2025",
+          ",",
+          "100",
+          "pm",
+          "cstwhile",
+          "the",
+          "market",
+          "is",
+          "finally",
+          "starting",
+          "to",
+          "grapple",
+          "with",
+          "the",
+          "5370",
+          "chars"
+        ],
+        "filtered": [
+          "$",
+          "2.9",
+          "trillion",
+          "question",
+          "power",
+          "ai",
+          "revolution",
+          "?",
+          "kemi",
+          "badenoch",
+          "declared",
+          "advanced",
+          "air",
+          "mobility",
+          "moving",
+          "oil",
+          "prices",
+          "remain",
+          "stagnant",
+          "around",
+          "zerohedge",
+          "-",
+          "nov",
+          "11",
+          ",",
+          "2025",
+          ",",
+          "100",
+          "pm",
+          "cstwhile",
+          "market",
+          "finally",
+          "starting",
+          "grapple",
+          "5370",
+          "chars"
+        ],
+        "lemmatized": [
+          "$",
+          "2.9",
+          "trillion",
+          "question",
+          "power",
+          "ai",
+          "revolution",
+          "?",
+          "kemi",
+          "badenoch",
+          "declare",
+          "advanced",
+          "air",
+          "mobility",
+          "move",
+          "oil",
+          "price",
+          "remain",
+          "stagnant",
+          "around",
+          "zerohedge",
+          "-",
+          "nov",
+          "11",
+          ",",
+          "2025",
+          ",",
+          "100",
+          "pm",
+          "cstwhile",
+          "market",
+          "finally",
+          "start",
+          "grapple",
+          "5370",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Kemi Badenoch"
+          ],
+          "ORGANIZATION": [
+            "AI Revolution",
+            "ZeroHedge"
+          ],
+          "GPE": [
+            "Advanced"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2.9",
+          "11",
+          "2025",
+          "1",
+          "00",
+          "5370"
+        ],
+        "percentages": [],
+        "dates": [
+          "Nov 11, 2025"
+        ],
+        "top_words": [
+          [
+            "2.9",
+            1
+          ],
+          [
+            "trillion",
+            1
+          ],
+          [
+            "question",
+            1
+          ],
+          [
+            "power",
+            1
+          ],
+          [
+            "revolution",
+            1
+          ],
+          [
+            "kemi",
+            1
+          ],
+          [
+            "badenoch",
+            1
+          ],
+          [
+            "declare",
+            1
+          ],
+          [
+            "advanced",
+            1
+          ],
+          [
+            "air",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 1
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 50,
+        "avg_words_per_sentence": 25.0,
+        "num_unique_words": 45
+      },
+      "processed_at": "2025-11-14T03:30:17.135501",
+      "preprocessing_version": "1.0",
+      "article_id": "dc8c2e18ad0f1f0f",
+      "title": "The $2.9 Trillion Question: Who Will Power the AI Revolution?",
+      "description": "While the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to build out all the data centers required to make the AI dream a reality, a gap which Morgan Stanley recently calculated would be as lar…",
+      "body": "Kemi Badenoch has declared an…\r\nAdvanced air mobility is moving…\r\nOil prices remain stagnant around…\r\nBy ZeroHedge - Nov 11, 2025, 1:00 PM CSTWhile the market is finally starting to grapple with the … [+5370 chars]",
+      "source": "OilPrice.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://oilprice.com/Energy/Energy-General/The-29-Trillion-Question-Who-Will-Power-the-AI-Revolution.html",
+      "author": "OilPrice.com",
+      "published_at": "2025-11-11T19:00:00Z",
+      "scraped_at": "2025-11-13T22:21:24.627741",
+      "ticker": "MSFT",
+      "raw_text": "The $2.9 Trillion Question: Who Will Power the AI Revolution? While the market is finally starting to grapple with the most unpleasant question of who will plug the funding gap needed to build out all the data centers required to make the AI dream a reality, a gap which Morgan Stanley recently calculated would be as lar… Kemi Badenoch has declared an…\r\nAdvanced air mobility is moving…\r\nOil prices remain stagnant around…\r\nBy ZeroHedge - Nov 11, 2025, 1:00 PM CSTWhile the market is finally starting to grapple with the … [+5370 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "AMD",
+        "MS"
+      ],
+      "ticker_confidence": {
+        "AMD": 80,
+        "MS": 80
+      },
+      "ticker_contexts": {
+        "MS": [
+          "to make the AI dream a reality, a gap which **Morgan** Stanley recently calculated would be as lar… Kemi Badenoch has"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal",
+      "original_body": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "cleaned_title": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal",
+      "cleaned_body": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IRENs cloud business.",
+      "cleaned_text": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal. The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IRENs cloud business.",
+      "tokens": {
+        "original": [
+          "j.p.",
+          "morgan",
+          "raises",
+          "iren",
+          "price",
+          "target",
+          "to",
+          "$",
+          "28",
+          "following",
+          "microsoft",
+          "cloud",
+          "deal",
+          "the",
+          "wall",
+          "street",
+          "bank",
+          "maintained",
+          "an",
+          "underweight",
+          "rating",
+          ",",
+          "citing",
+          "dilution",
+          "from",
+          "convertible",
+          "bonds",
+          "and",
+          "equity",
+          "issuance",
+          ",",
+          "despite",
+          "stronger",
+          "growth",
+          "prospects",
+          "in",
+          "irens",
+          "cloud",
+          "business",
+          "."
+        ],
+        "filtered": [
+          "j.p.",
+          "morgan",
+          "raises",
+          "iren",
+          "price",
+          "target",
+          "$",
+          "28",
+          "following",
+          "microsoft",
+          "cloud",
+          "deal",
+          "wall",
+          "street",
+          "bank",
+          "maintained",
+          "underweight",
+          "rating",
+          ",",
+          "citing",
+          "dilution",
+          "convertible",
+          "bonds",
+          "equity",
+          "issuance",
+          ",",
+          "despite",
+          "stronger",
+          "growth",
+          "prospects",
+          "irens",
+          "cloud",
+          "business",
+          "."
+        ],
+        "lemmatized": [
+          "j.p.",
+          "morgan",
+          "raise",
+          "iren",
+          "price",
+          "target",
+          "$",
+          "28",
+          "follow",
+          "microsoft",
+          "cloud",
+          "deal",
+          "wall",
+          "street",
+          "bank",
+          "maintain",
+          "underweight",
+          "rating",
+          ",",
+          "cite",
+          "dilution",
+          "convertible",
+          "bond",
+          "equity",
+          "issuance",
+          ",",
+          "despite",
+          "strong",
+          "growth",
+          "prospect",
+          "irens",
+          "cloud",
+          "business",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "IREN",
+            "Microsoft"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "28"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cloud",
+            2
+          ],
+          [
+            "j.p.",
+            1
+          ],
+          [
+            "morgan",
+            1
+          ],
+          [
+            "raise",
+            1
+          ],
+          [
+            "iren",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "follow",
+            1
+          ],
+          [
+            "microsoft",
+            1
+          ],
+          [
+            "deal",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 41,
+        "avg_words_per_sentence": 20.5,
+        "num_unique_words": 38
+      },
+      "processed_at": "2025-11-14T03:30:53.375457",
+      "preprocessing_version": "1.0",
+      "article_id": "2ffc48e5d8a9c930",
+      "title": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal",
+      "description": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "body": "The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=da581c8e068c3a23f2746db2e15f93f0bf07e93ee3fca874e7152ec25964db69",
+      "author": "Unknown",
+      "published_at": "2025-11-07T22:47:15",
+      "scraped_at": "2025-11-13T22:21:35.501063",
+      "ticker": "MSFT",
+      "raw_text": "J.P. Morgan raises IREN price target to $28 following Microsoft cloud deal The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business. The Wall Street bank maintained an Underweight rating, citing dilution from convertible bonds and equity issuance, despite stronger growth prospects in IREN’s cloud business.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "BAC",
+        "MS",
+        "TGT"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "BAC": 80,
+        "MS": 80,
+        "TGT": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

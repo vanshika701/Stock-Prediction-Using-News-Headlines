@@ -1,0 +1,465 @@
+{
+  "ticker": "JPM",
+  "export_date": "2025-11-15T01:16:26.121343",
+  "article_count": 2,
+  "articles": [
+    {
+      "original_title": "Wall Street chiefs flock to White House dinner with Donald Trump",
+      "original_body": "Donald Trump has summoned some of Wall Street’s biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House...",
+      "cleaned_title": "Wall Street chiefs flock to White House dinner with Donald Trump",
+      "cleaned_body": "Donald Trump has summoned some of Wall Streets biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House...",
+      "cleaned_text": "Wall Street chiefs flock to White House dinner with Donald Trump. Donald Trump has summoned some of Wall Streets biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House...",
+      "tokens": {
+        "original": [
+          "wall",
+          "street",
+          "chiefs",
+          "flock",
+          "to",
+          "white",
+          "house",
+          "dinner",
+          "with",
+          "donald",
+          "trump",
+          "donald",
+          "trump",
+          "has",
+          "summoned",
+          "some",
+          "of",
+          "wall",
+          "streets",
+          "biggest",
+          "names",
+          "including",
+          "jpmorgan",
+          "chief",
+          "jamie",
+          "dimon",
+          "and",
+          "billionaire",
+          "bill",
+          "ackman",
+          "to",
+          "a",
+          "white",
+          "house",
+          "..."
+        ],
+        "filtered": [
+          "wall",
+          "street",
+          "chiefs",
+          "flock",
+          "white",
+          "house",
+          "dinner",
+          "donald",
+          "trump",
+          "donald",
+          "trump",
+          "summoned",
+          "wall",
+          "streets",
+          "biggest",
+          "names",
+          "including",
+          "jpmorgan",
+          "chief",
+          "jamie",
+          "dimon",
+          "billionaire",
+          "bill",
+          "ackman",
+          "white",
+          "house",
+          "..."
+        ],
+        "lemmatized": [
+          "wall",
+          "street",
+          "chief",
+          "flock",
+          "white",
+          "house",
+          "dinner",
+          "donald",
+          "trump",
+          "donald",
+          "trump",
+          "summon",
+          "wall",
+          "street",
+          "big",
+          "name",
+          "include",
+          "jpmorgan",
+          "chief",
+          "jamie",
+          "dimon",
+          "billionaire",
+          "bill",
+          "ackman",
+          "white",
+          "house",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Donald Trump",
+            "Jamie Dimon",
+            "Bill Ackman"
+          ],
+          "ORGANIZATION": [
+            "JPMorgan"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "wall",
+            2
+          ],
+          [
+            "street",
+            2
+          ],
+          [
+            "chief",
+            2
+          ],
+          [
+            "white",
+            2
+          ],
+          [
+            "house",
+            2
+          ],
+          [
+            "donald",
+            2
+          ],
+          [
+            "trump",
+            2
+          ],
+          [
+            "flock",
+            1
+          ],
+          [
+            "dinner",
+            1
+          ],
+          [
+            "summon",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 36,
+        "avg_words_per_sentence": 18.0,
+        "num_unique_words": 30
+      },
+      "processed_at": "2025-11-14T03:29:02.339866",
+      "preprocessing_version": "1.0",
+      "article_id": "e8426e88636b8b3d",
+      "title": "Wall Street chiefs flock to White House dinner with Donald Trump",
+      "description": "Donald Trump has summoned some of Wall Street’s biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House...",
+      "body": "Donald Trump has summoned some of Wall Street’s biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=a4336eb3b224c2d6f5921d514d59e2411bb44bd6fd2c7fb97d443f98f5713f45",
+      "author": "Unknown",
+      "published_at": "2025-11-13T09:46:08",
+      "scraped_at": "2025-11-13T22:21:12.171293",
+      "ticker": "AAPL",
+      "raw_text": "Wall Street chiefs flock to White House dinner with Donald Trump Donald Trump has summoned some of Wall Street’s biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House... Donald Trump has summoned some of Wall Street’s biggest names including JPMorgan chief Jamie Dimon and billionaire Bill Ackman to a White House...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "JPM"
+      ],
+      "ticker_confidence": {
+        "JPM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "'That World Has Changed': Alex Gorsky on Shift to Regionalization",
+      "original_body": "Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "cleaned_title": "That World Has Changed Alex Gorsky on Shift to Regionalization",
+      "cleaned_body": "Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "cleaned_text": "That World Has Changed Alex Gorsky on Shift to Regionalization. Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "tokens": {
+        "original": [
+          "that",
+          "world",
+          "has",
+          "changed",
+          "alex",
+          "gorsky",
+          "on",
+          "shift",
+          "to",
+          "regionalization",
+          "alex",
+          "gorsky",
+          ",",
+          "board",
+          "director",
+          "for",
+          "apple",
+          ",",
+          "ibm",
+          ",",
+          "and",
+          "jpmorgan",
+          "chase",
+          ",",
+          "discusses",
+          "the",
+          "end",
+          "of",
+          "the",
+          "30-year",
+          "globalization",
+          "era",
+          "as",
+          "businesses",
+          "begin",
+          "to",
+          "take",
+          "a",
+          "more",
+          "regionalized",
+          "approach",
+          "."
+        ],
+        "filtered": [
+          "world",
+          "changed",
+          "alex",
+          "gorsky",
+          "shift",
+          "regionalization",
+          "alex",
+          "gorsky",
+          ",",
+          "board",
+          "director",
+          "apple",
+          ",",
+          "ibm",
+          ",",
+          "jpmorgan",
+          "chase",
+          ",",
+          "discusses",
+          "end",
+          "30-year",
+          "globalization",
+          "era",
+          "businesses",
+          "begin",
+          "take",
+          "more",
+          "regionalized",
+          "approach",
+          "."
+        ],
+        "lemmatized": [
+          "world",
+          "change",
+          "alex",
+          "gorsky",
+          "shift",
+          "regionalization",
+          "alex",
+          "gorsky",
+          ",",
+          "board",
+          "director",
+          "apple",
+          ",",
+          "ibm",
+          ",",
+          "jpmorgan",
+          "chase",
+          ",",
+          "discuss",
+          "end",
+          "30-year",
+          "globalization",
+          "era",
+          "business",
+          "begin",
+          "take",
+          "more",
+          "regionalized",
+          "approach",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Alex Gorsky",
+            "Apple"
+          ],
+          "ORGANIZATION": [
+            "IBM",
+            "JPMorgan"
+          ],
+          "GPE": [
+            "Shift",
+            "Regionalization"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "30"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "alex",
+            2
+          ],
+          [
+            "gorsky",
+            2
+          ],
+          [
+            "world",
+            1
+          ],
+          [
+            "change",
+            1
+          ],
+          [
+            "shift",
+            1
+          ],
+          [
+            "regionalization",
+            1
+          ],
+          [
+            "board",
+            1
+          ],
+          [
+            "director",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "ibm",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 43,
+        "avg_words_per_sentence": 21.5,
+        "num_unique_words": 35
+      },
+      "processed_at": "2025-11-14T03:29:07.399212",
+      "preprocessing_version": "1.0",
+      "article_id": "5a792247aeb20d71",
+      "title": "'That World Has Changed': Alex Gorsky on Shift to Regionalization",
+      "description": "Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "body": "Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=f8c9d46b0f8c239ef275a7e7abcdca0711854f11002128303dcbdbfe5af9e449",
+      "author": "Unknown",
+      "published_at": "2025-11-11T22:29:00",
+      "scraped_at": "2025-11-13T22:21:12.171498",
+      "ticker": "AAPL",
+      "raw_text": "'That World Has Changed': Alex Gorsky on Shift to Regionalization Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach. Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "JPM",
+        "AAPL"
+      ],
+      "ticker_confidence": {
+        "JPM": 80,
+        "AAPL": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

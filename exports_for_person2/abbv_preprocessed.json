@@ -1,0 +1,509 @@
+{
+  "ticker": "ABBV",
+  "export_date": "2025-11-15T01:16:26.067003",
+  "article_count": 2,
+  "articles": [
+    {
+      "original_title": "Surged Following Strong Results and Increased Guidance",
+      "original_body": "In its third-quarter 2025 investor letter, Carillon Eagle Growth &amp; Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical co… [+151 chars]",
+      "cleaned_title": "Surged Following Strong Results and Increased Guidance",
+      "cleaned_body": "In its third-quarter 2025 investor letter, Carillon Eagle Growth Income Fund highlighted stocks such as AbbVie Inc. NYSEABBV. AbbVie Inc. NYSEABBV is a research-based biopharmaceutical co 151 chars",
+      "cleaned_text": "Surged Following Strong Results and Increased Guidance. In its third-quarter 2025 investor letter, Carillon Eagle Growth Income Fund highlighted stocks such as AbbVie Inc. NYSEABBV. AbbVie Inc. NYSEABBV is a research-based biopharmaceutical co 151 chars",
+      "tokens": {
+        "original": [
+          "surged",
+          "following",
+          "strong",
+          "results",
+          "and",
+          "increased",
+          "guidance",
+          "in",
+          "its",
+          "third-quarter",
+          "2025",
+          "investor",
+          "letter",
+          ",",
+          "carillon",
+          "eagle",
+          "growth",
+          "income",
+          "fund",
+          "highlighted",
+          "stocks",
+          "such",
+          "as",
+          "abbvie",
+          "inc.",
+          "nyseabbv",
+          ".",
+          "abbvie",
+          "inc.",
+          "nyseabbv",
+          "is",
+          "a",
+          "research-based",
+          "biopharmaceutical",
+          "co",
+          "151",
+          "chars"
+        ],
+        "filtered": [
+          "surged",
+          "following",
+          "strong",
+          "results",
+          "increased",
+          "guidance",
+          "third-quarter",
+          "2025",
+          "investor",
+          "letter",
+          ",",
+          "carillon",
+          "eagle",
+          "growth",
+          "income",
+          "fund",
+          "highlighted",
+          "stocks",
+          "abbvie",
+          "inc.",
+          "nyseabbv",
+          ".",
+          "abbvie",
+          "inc.",
+          "nyseabbv",
+          "research-based",
+          "biopharmaceutical",
+          "co",
+          "151",
+          "chars"
+        ],
+        "lemmatized": [
+          "surge",
+          "follow",
+          "strong",
+          "result",
+          "increase",
+          "guidance",
+          "third-quarter",
+          "2025",
+          "investor",
+          "letter",
+          ",",
+          "carillon",
+          "eagle",
+          "growth",
+          "income",
+          "fund",
+          "highlight",
+          "stock",
+          "abbvie",
+          "inc.",
+          "nyseabbv",
+          ".",
+          "abbvie",
+          "inc.",
+          "nyseabbv",
+          "research-based",
+          "biopharmaceutical",
+          "co",
+          "151",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Carillon Eagle Growth",
+            "Income Fund"
+          ],
+          "ORGANIZATION": [
+            "AbbVie Inc.",
+            "NYSE"
+          ],
+          "GPE": [
+            "Strong",
+            "Guidance"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "strong",
+            "growth",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "151"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "abbvie",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "nyseabbv",
+            2
+          ],
+          [
+            "surge",
+            1
+          ],
+          [
+            "follow",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "increase",
+            1
+          ],
+          [
+            "guidance",
+            1
+          ],
+          [
+            "third-quarter",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 4,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 38,
+        "avg_words_per_sentence": 12.67,
+        "num_unique_words": 34
+      },
+      "processed_at": "2025-11-14T03:28:51.817054",
+      "preprocessing_version": "1.0",
+      "article_id": "c06a44ac59a91f47",
+      "title": "Surged Following Strong Results and Increased Guidance",
+      "description": "In its third-quarter 2025 investor letter, Carillon Eagle Growth & Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical company. The one-month return of AbbVie Inc. (NYSE:ABBV) was -0.46…",
+      "body": "In its third-quarter 2025 investor letter, Carillon Eagle Growth &amp; Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical co… [+151 chars]",
+      "source": "Biztoc.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://biztoc.com/x/ae97ceba25b59c05",
+      "author": "finance.yahoo.com",
+      "published_at": "2025-11-12T14:41:32Z",
+      "scraped_at": "2025-11-13T22:21:10.044020",
+      "ticker": "AAPL",
+      "raw_text": "Surged Following Strong Results and Increased Guidance In its third-quarter 2025 investor letter, Carillon Eagle Growth & Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical company. The one-month return of AbbVie Inc. (NYSE:ABBV) was -0.46… In its third-quarter 2025 investor letter, Carillon Eagle Growth &amp; Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical co… [+151 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "ABBV"
+      ],
+      "ticker_confidence": {
+        "ABBV": 80
+      },
+      "ticker_contexts": {
+        "ABBV": [
+          "Carillon Eagle Growth & Income Fund highlighted stocks such as **AbbVie** Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical company.",
+          "& Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). **AbbVie** Inc. (NYSE:ABBV) is a research-based biopharmaceutical company. The one-month return",
+          "(NYSE:ABBV) is a research-based biopharmaceutical company. The one-month return of **AbbVie** Inc. (NYSE:ABBV) was -0.46… In its third-quarter 2025 investor letter,",
+          "Carillon Eagle Growth &amp; Income Fund highlighted stocks such as **AbbVie** Inc. (NYSE:ABBV). AbbVie Inc. (NYSE:ABBV) is a research-based biopharmaceutical co…",
+          "&amp; Income Fund highlighted stocks such as AbbVie Inc. (NYSE:ABBV). **AbbVie** Inc. (NYSE:ABBV) is a research-based biopharmaceutical co… [+151 chars]"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "AbbVie (ABBV) Surged Following Strong Results and Increased Guidance",
+      "original_body": "Carillon Tower Advisers, an investment management company, released its Carillon Eagle Growth &amp; Income Fund third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The S&… [+2462 chars]",
+      "cleaned_title": "AbbVie ABBV Surged Following Strong Results and Increased Guidance",
+      "cleaned_body": "Carillon Tower Advisers, an investment management company, released its Carillon Eagle Growth Income Fund third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The S 2462 chars",
+      "cleaned_text": "AbbVie ABBV Surged Following Strong Results and Increased Guidance. Carillon Tower Advisers, an investment management company, released its Carillon Eagle Growth Income Fund third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The S 2462 chars",
+      "tokens": {
+        "original": [
+          "abbvie",
+          "abbv",
+          "surged",
+          "following",
+          "strong",
+          "results",
+          "and",
+          "increased",
+          "guidance",
+          "carillon",
+          "tower",
+          "advisers",
+          ",",
+          "an",
+          "investment",
+          "management",
+          "company",
+          ",",
+          "released",
+          "its",
+          "carillon",
+          "eagle",
+          "growth",
+          "income",
+          "fund",
+          "third-quarter",
+          "2025",
+          "investor",
+          "letter",
+          ".",
+          "a",
+          "copy",
+          "of",
+          "the",
+          "letter",
+          "can",
+          "be",
+          "downloaded",
+          "here",
+          ".",
+          "the",
+          "s",
+          "2462",
+          "chars"
+        ],
+        "filtered": [
+          "abbvie",
+          "abbv",
+          "surged",
+          "following",
+          "strong",
+          "results",
+          "increased",
+          "guidance",
+          "carillon",
+          "tower",
+          "advisers",
+          ",",
+          "investment",
+          "management",
+          "company",
+          ",",
+          "released",
+          "carillon",
+          "eagle",
+          "growth",
+          "income",
+          "fund",
+          "third-quarter",
+          "2025",
+          "investor",
+          "letter",
+          ".",
+          "copy",
+          "letter",
+          "downloaded",
+          ".",
+          "2462",
+          "chars"
+        ],
+        "lemmatized": [
+          "abbvie",
+          "abbv",
+          "surge",
+          "follow",
+          "strong",
+          "result",
+          "increase",
+          "guidance",
+          "carillon",
+          "tower",
+          "adviser",
+          ",",
+          "investment",
+          "management",
+          "company",
+          ",",
+          "release",
+          "carillon",
+          "eagle",
+          "growth",
+          "income",
+          "fund",
+          "third-quarter",
+          "2025",
+          "investor",
+          "letter",
+          ".",
+          "copy",
+          "letter",
+          "download",
+          ".",
+          "2462",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Carillon Tower Advisers",
+            "Carillon Eagle Growth",
+            "Income Fund"
+          ],
+          "ORGANIZATION": [
+            "ABBV"
+          ],
+          "GPE": [
+            "AbbVie",
+            "Strong",
+            "Guidance"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "release",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "2462"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "carillon",
+            2
+          ],
+          [
+            "letter",
+            2
+          ],
+          [
+            "abbvie",
+            1
+          ],
+          [
+            "abbv",
+            1
+          ],
+          [
+            "surge",
+            1
+          ],
+          [
+            "follow",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "increase",
+            1
+          ],
+          [
+            "guidance",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 45,
+        "avg_words_per_sentence": 11.25,
+        "num_unique_words": 39
+      },
+      "processed_at": "2025-11-14T03:28:53.231202",
+      "preprocessing_version": "1.0",
+      "article_id": "a0f4f945ded4faef",
+      "title": "AbbVie (ABBV) Surged Following Strong Results and Increased Guidance",
+      "description": "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” third-quarter 2025 investor letter. A copy of...",
+      "body": "Carillon Tower Advisers, an investment management company, released its Carillon Eagle Growth &amp; Income Fund third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The S&… [+2462 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/abbvie-abbv-surged-following-strong-141859611.html",
+      "author": "Soumya Eswaran",
+      "published_at": "2025-11-12T14:18:59Z",
+      "scraped_at": "2025-11-13T22:21:10.044052",
+      "ticker": "AAPL",
+      "raw_text": "AbbVie (ABBV) Surged Following Strong Results and Increased Guidance Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” third-quarter 2025 investor letter. A copy of... Carillon Tower Advisers, an investment management company, released its Carillon Eagle Growth &amp; Income Fund third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The S&… [+2462 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "ABBV"
+      ],
+      "ticker_confidence": {
+        "ABBV": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

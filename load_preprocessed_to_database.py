@@ -114,8 +114,14 @@ def load_preprocessed_articles():
         print(f"✓ Batch insertion complete!")
         print(f"   Result: {result}")
     except Exception as e:
-        print(f"⚠️  Batch insert failed: {e}")
-        print("\n💾 Trying individual inserts...")
+        # --- CRITICAL FIX 1: Log the full traceback for the batch failure ---
+        import traceback
+        print("\n" + "-"*50)
+        print("⚠️  CRITICAL BATCH INSERT FAILED! TRACEBACK BELOW:")
+        traceback.print_exc()
+        print("-"*50)
+        
+        print("\n💾 Trying individual inserts (to isolate the failing article)...")
         
         # Fall back to individual inserts
         inserted = 0
@@ -129,9 +135,13 @@ def load_preprocessed_articles():
                 db.insert_article(article)
                 inserted += 1
             except Exception as e:
+                # --- CRITICAL FIX 2: Log details on the first few errors ---
                 errors += 1
                 if errors <= 5:
-                    print(f"   ⚠️  Error inserting article {i+1}: {str(e)[:100]}")
+                    print(f"   ⚠️  Error inserting article {i+1} (ID: {article['article_id']}):")
+                    print(f"      Full Error: {e}") # Print full error, not just the start
+                # IMPORTANT: If the error persists, the issue is likely a data type mismatch
+                # in the article structure itself, not a unique constraint.
                 continue
         
         print(f"\n✓ Individual insertion complete!")
@@ -286,7 +296,7 @@ def load_preprocessed_articles():
             timestamp = datetime.now().isoformat()
         
         # Get tickers
-        tickers = article.get('tickers_mentioned', [])
+        tickers = article.get('ticker', [])
         ticker_str = ','.join(tickers) if tickers else None
         
         # Get sentiment data from features
@@ -364,7 +374,7 @@ def load_preprocessed_articles():
     # Sample articles
     print("\n📊 Sample articles:")
     for i, article in enumerate(db_articles[:5], 1):
-        tickers = article.get('tickers_mentioned', 'None')
+        tickers = article.get('ticker', 'None')
         sentiment = article.get('sentiment', 'Unknown')
         print(f"   {i}. {article['title'][:50]}...")
         print(f"      Tickers: {tickers}, Sentiment: {sentiment}")
@@ -412,8 +422,8 @@ def verify_database():
                     print(f"\n   ID: {article.get('article_id', 'N/A')}")
                     print(f"   Title: {article.get('title', 'N/A')[:70]}...")
                     print(f"   Source: {article.get('source', 'N/A')}")
-                    print(f"   Tickers: {article.get('tickers_mentioned', 'None')}")
-                    print(f"   Sentiment: {article.get('sentiment', 'Unknown')}")
+                    print(f"   Tickers: {article.get('ticker', 'None')}")
+                    print(f"   Sentiment: {article.get('sentiment_score', 'Unknown')}")
             else:
                 print("\n⚠️  No articles found")
         except Exception as e:

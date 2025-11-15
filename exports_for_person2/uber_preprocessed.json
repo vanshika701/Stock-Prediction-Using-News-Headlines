@@ -1,0 +1,207 @@
+{
+  "ticker": "UBER",
+  "export_date": "2025-11-15T01:16:26.138638",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Uber Stock Is a Buy: But You'll Have to Watch It Closely",
+      "original_body": "Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance.",
+      "cleaned_title": "Uber Stock Is a Buy But You will Have to Watch It Closely",
+      "cleaned_body": "Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance.",
+      "cleaned_text": "Uber Stock Is a Buy But You will Have to Watch It Closely. Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance.",
+      "tokens": {
+        "original": [
+          "uber",
+          "stock",
+          "is",
+          "a",
+          "buy",
+          "but",
+          "you",
+          "will",
+          "have",
+          "to",
+          "watch",
+          "it",
+          "closely",
+          "cash",
+          "generation",
+          "and",
+          "accelerating",
+          "growth",
+          "look",
+          "compelling",
+          "--",
+          "yet",
+          "autonomy",
+          "threats",
+          "demand",
+          "vigilance",
+          "."
+        ],
+        "filtered": [
+          "uber",
+          "stock",
+          "buy",
+          "watch",
+          "closely",
+          "cash",
+          "generation",
+          "accelerating",
+          "growth",
+          "look",
+          "compelling",
+          "--",
+          "yet",
+          "autonomy",
+          "threats",
+          "demand",
+          "vigilance",
+          "."
+        ],
+        "lemmatized": [
+          "uber",
+          "stock",
+          "buy",
+          "watch",
+          "closely",
+          "cash",
+          "generation",
+          "accelerate",
+          "growth",
+          "look",
+          "compelling",
+          "--",
+          "yet",
+          "autonomy",
+          "threat",
+          "demand",
+          "vigilance",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cash"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "uber",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "closely",
+            1
+          ],
+          [
+            "cash",
+            1
+          ],
+          [
+            "generation",
+            1
+          ],
+          [
+            "accelerate",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "look",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 28,
+        "avg_words_per_sentence": 14.0,
+        "num_unique_words": 27
+      },
+      "processed_at": "2025-11-14T03:29:36.790095",
+      "preprocessing_version": "1.0",
+      "article_id": "04b9a3564db4f8b6",
+      "title": "Uber Stock Is a Buy: But You'll Have to Watch It Closely",
+      "description": "Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance.",
+      "body": "Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance.",
+      "source": "Motley Fool",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.fool.com/investing/2025/11/12/uber-stock-is-a-buy-but-youll-have-to-watch-it-clo/",
+      "author": "Daniel Sparks",
+      "published_at": "20251112T093100",
+      "scraped_at": "2025-11-13T22:21:23.358333",
+      "ticker": "TSLA",
+      "raw_text": "Uber Stock Is a Buy: But You'll Have to Watch It Closely Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance. Cash generation and accelerating growth look compelling -- yet autonomy threats demand vigilance.",
+      "sentiment_score": 0.263023,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "UBER"
+      ],
+      "ticker_confidence": {
+        "UBER": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

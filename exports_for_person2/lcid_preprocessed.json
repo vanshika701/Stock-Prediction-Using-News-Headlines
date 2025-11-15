@@ -1,0 +1,215 @@
+{
+  "ticker": "LCID",
+  "export_date": "2025-11-15T01:16:26.142903",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Why I'm Watching Lucid Group Stock Closely Even If Experts Think It's Overvalued",
+      "original_body": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "cleaned_title": "Why I am Watching Lucid Group Stock Closely Even If Experts Think it is Overvalued",
+      "cleaned_body": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "cleaned_text": "Why I am Watching Lucid Group Stock Closely Even If Experts Think it is Overvalued. Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "tokens": {
+        "original": [
+          "why",
+          "i",
+          "am",
+          "watching",
+          "lucid",
+          "group",
+          "stock",
+          "closely",
+          "even",
+          "if",
+          "experts",
+          "think",
+          "it",
+          "is",
+          "overvalued",
+          "lucid",
+          "group",
+          ",",
+          "tesla",
+          ",",
+          "and",
+          "rivian",
+          "are",
+          "all",
+          "attempting",
+          "bold",
+          "transformations",
+          "."
+        ],
+        "filtered": [
+          "watching",
+          "lucid",
+          "group",
+          "stock",
+          "closely",
+          "even",
+          "experts",
+          "think",
+          "overvalued",
+          "lucid",
+          "group",
+          ",",
+          "tesla",
+          ",",
+          "rivian",
+          "attempting",
+          "bold",
+          "transformations",
+          "."
+        ],
+        "lemmatized": [
+          "watch",
+          "lucid",
+          "group",
+          "stock",
+          "closely",
+          "even",
+          "expert",
+          "think",
+          "overvalue",
+          "lucid",
+          "group",
+          ",",
+          "tesla",
+          ",",
+          "rivian",
+          "attempt",
+          "bold",
+          "transformation",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lucid Group Stock",
+            "Lucid Group",
+            "Tesla"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Rivian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "lucid",
+            2
+          ],
+          [
+            "group",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "closely",
+            1
+          ],
+          [
+            "even",
+            1
+          ],
+          [
+            "expert",
+            1
+          ],
+          [
+            "think",
+            1
+          ],
+          [
+            "overvalue",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 29,
+        "avg_words_per_sentence": 14.5,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:30:07.714996",
+      "preprocessing_version": "1.0",
+      "article_id": "f7170b82be915964",
+      "title": "Why I'm Watching Lucid Group Stock Closely Even If Experts Think It's Overvalued",
+      "description": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "body": "Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=1c041626a0a97a7b1bfd4e8f868e9c1a5412ce1aa5230100c2090c5054988af9",
+      "author": "Unknown",
+      "published_at": "2025-11-07T20:30:00",
+      "scraped_at": "2025-11-13T22:21:23.910515",
+      "ticker": "TSLA",
+      "raw_text": "Why I'm Watching Lucid Group Stock Closely Even If Experts Think It's Overvalued Lucid Group, Tesla, and Rivian are all attempting bold transformations. Lucid Group, Tesla, and Rivian are all attempting bold transformations.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "RIVN",
+        "LCID"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "RIVN": 80,
+        "LCID": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

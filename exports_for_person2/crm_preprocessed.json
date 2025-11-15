@@ -1,0 +1,425 @@
+{
+  "ticker": "CRM",
+  "export_date": "2025-11-15T01:16:26.149147",
+  "article_count": 2,
+  "articles": [
+    {
+      "original_title": "Al Gore's Generation Investment Management Makes Significant Move with Salesforce Inc",
+      "original_body": "Exploring Al Gore (Trades, Portfolio)'s Strategic Investment Decisions in Q3 2025",
+      "cleaned_title": "Al Gores Generation Investment Management Makes Significant Move with Salesforce Inc",
+      "cleaned_body": "Exploring Al Gore Trades, Portfolios Strategic Investment Decisions in third quarter 2025",
+      "cleaned_text": "Al Gores Generation Investment Management Makes Significant Move with Salesforce Inc. Exploring Al Gore Trades, Portfolios Strategic Investment Decisions in third quarter 2025",
+      "tokens": {
+        "original": [
+          "al",
+          "gores",
+          "generation",
+          "investment",
+          "management",
+          "makes",
+          "significant",
+          "move",
+          "with",
+          "salesforce",
+          "inc",
+          "exploring",
+          "al",
+          "gore",
+          "trades",
+          ",",
+          "portfolios",
+          "strategic",
+          "investment",
+          "decisions",
+          "in",
+          "third",
+          "quarter",
+          "2025"
+        ],
+        "filtered": [
+          "al",
+          "gores",
+          "generation",
+          "investment",
+          "management",
+          "makes",
+          "significant",
+          "move",
+          "salesforce",
+          "inc",
+          "exploring",
+          "al",
+          "gore",
+          "trades",
+          ",",
+          "portfolios",
+          "strategic",
+          "investment",
+          "decisions",
+          "third",
+          "quarter",
+          "2025"
+        ],
+        "lemmatized": [
+          "al",
+          "gore",
+          "generation",
+          "investment",
+          "management",
+          "make",
+          "significant",
+          "move",
+          "salesforce",
+          "inc",
+          "explore",
+          "al",
+          "gore",
+          "trade",
+          ",",
+          "portfolio",
+          "strategic",
+          "investment",
+          "decision",
+          "third",
+          "quarter",
+          "2025"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Al",
+            "Gore",
+            "Salesforce Inc",
+            "Al Gore",
+            "Strategic Investment"
+          ],
+          "ORGANIZATION": [
+            "Generation Investment Management Makes",
+            "Trades"
+          ],
+          "GPE": [
+            "Portfolio"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "gore",
+            2
+          ],
+          [
+            "investment",
+            2
+          ],
+          [
+            "generation",
+            1
+          ],
+          [
+            "management",
+            1
+          ],
+          [
+            "make",
+            1
+          ],
+          [
+            "significant",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "salesforce",
+            1
+          ],
+          [
+            "inc",
+            1
+          ],
+          [
+            "explore",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 24,
+        "avg_words_per_sentence": 12.0,
+        "num_unique_words": 22
+      },
+      "processed_at": "2025-11-14T03:30:40.006586",
+      "preprocessing_version": "1.0",
+      "article_id": "f4bb45c36254d60b",
+      "title": "Al Gore's Generation Investment Management Makes Significant Move with Salesforce Inc",
+      "description": "Exploring Al Gore (Trades, Portfolio)'s Strategic Investment Decisions in Q3 2025",
+      "body": "Exploring Al Gore (Trades, Portfolio)'s Strategic Investment Decisions in Q3 2025",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=04ee79ca8b1e50bea8bd89367dfefd685433d76589a8fac604f622cfcc5a9837",
+      "author": "Unknown",
+      "published_at": "2025-11-11T02:30:27",
+      "scraped_at": "2025-11-13T22:21:35.499720",
+      "ticker": "MSFT",
+      "raw_text": "Al Gore's Generation Investment Management Makes Significant Move with Salesforce Inc Exploring Al Gore (Trades, Portfolio)'s Strategic Investment Decisions in Q3 2025 Exploring Al Gore (Trades, Portfolio)'s Strategic Investment Decisions in Q3 2025",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "CRM"
+      ],
+      "ticker_confidence": {
+        "CRM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Salesforce Stock Trading Cheaper Than Industry: Time to Buy or Hold?",
+      "original_body": "CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism.",
+      "cleaned_title": "Salesforce Stock Trading Cheaper Than Industry Time to Buy or Hold?",
+      "cleaned_body": "CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism.",
+      "cleaned_text": "Salesforce Stock Trading Cheaper Than Industry Time to Buy or Hold?. CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism.",
+      "tokens": {
+        "original": [
+          "salesforce",
+          "stock",
+          "trading",
+          "cheaper",
+          "than",
+          "industry",
+          "time",
+          "to",
+          "buy",
+          "or",
+          "hold",
+          "?",
+          "crm",
+          "trades",
+          "at",
+          "a",
+          "steep",
+          "discount",
+          "to",
+          "software",
+          "peers",
+          ",",
+          "but",
+          "slowing",
+          "growth",
+          "and",
+          "shifting",
+          "it",
+          "budgets",
+          "temper",
+          "near-term",
+          "optimism",
+          "."
+        ],
+        "filtered": [
+          "salesforce",
+          "stock",
+          "trading",
+          "cheaper",
+          "industry",
+          "time",
+          "buy",
+          "hold",
+          "?",
+          "crm",
+          "trades",
+          "steep",
+          "discount",
+          "software",
+          "peers",
+          ",",
+          "slowing",
+          "growth",
+          "shifting",
+          "budgets",
+          "temper",
+          "near-term",
+          "optimism",
+          "."
+        ],
+        "lemmatized": [
+          "salesforce",
+          "stock",
+          "trading",
+          "cheap",
+          "industry",
+          "time",
+          "buy",
+          "hold",
+          "?",
+          "crm",
+          "trade",
+          "steep",
+          "discount",
+          "software",
+          "peer",
+          ",",
+          "slow",
+          "growth",
+          "shift",
+          "budget",
+          "temper",
+          "near-term",
+          "optimism",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Salesforce",
+            "Stock Trading Cheaper Than Industry"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "salesforce",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "trading",
+            1
+          ],
+          [
+            "cheap",
+            1
+          ],
+          [
+            "industry",
+            1
+          ],
+          [
+            "time",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "hold",
+            1
+          ],
+          [
+            "crm",
+            1
+          ],
+          [
+            "trade",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 34,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 32
+      },
+      "processed_at": "2025-11-14T03:30:44.496056",
+      "preprocessing_version": "1.0",
+      "article_id": "f62a0452527f776e",
+      "title": "Salesforce Stock Trading Cheaper Than Industry: Time to Buy or Hold?",
+      "description": "CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism.",
+      "body": "CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=40bc07e41a574791188f9126a25cbd991ef59e87ad5fe9da3c55e29859fb9de0",
+      "author": "Unknown",
+      "published_at": "2025-11-10T18:44:00",
+      "scraped_at": "2025-11-13T22:21:35.500104",
+      "ticker": "MSFT",
+      "raw_text": "Salesforce Stock Trading Cheaper Than Industry: Time to Buy or Hold? CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism. CRM trades at a steep discount to software peers, but slowing growth and shifting IT budgets temper near-term optimism.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "CRM"
+      ],
+      "ticker_confidence": {
+        "CRM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

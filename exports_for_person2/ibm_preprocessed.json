@@ -1,0 +1,1930 @@
+{
+  "ticker": "IBM",
+  "export_date": "2025-11-15T01:16:26.067478",
+  "article_count": 7,
+  "articles": [
+    {
+      "original_title": "What Are Wall Street Analysts' Target Price for Travelers Companies Stock?",
+      "original_body": "The Travelers Companies, Inc. (TRV) is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select interna… [+147 chars]",
+      "cleaned_title": "What Are Wall Street Analysts Target Price for Travelers Companies Stock?",
+      "cleaned_body": "The Travelers Companies, Inc. TRV is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select interna 147 chars",
+      "cleaned_text": "What Are Wall Street Analysts Target Price for Travelers Companies Stock?. The Travelers Companies, Inc. TRV is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select interna 147 chars",
+      "tokens": {
+        "original": [
+          "what",
+          "are",
+          "wall",
+          "street",
+          "analysts",
+          "target",
+          "price",
+          "for",
+          "travelers",
+          "companies",
+          "stock",
+          "?",
+          "the",
+          "travelers",
+          "companies",
+          ",",
+          "inc.",
+          "trv",
+          "is",
+          "a",
+          "major",
+          "american",
+          "insurance",
+          "provider",
+          ",",
+          "delivering",
+          "property",
+          "and",
+          "casualty",
+          "coverage",
+          "for",
+          "individuals",
+          ",",
+          "businesses",
+          ",",
+          "and",
+          "organizations",
+          "across",
+          "the",
+          "u.s.",
+          "and",
+          "select",
+          "interna",
+          "147",
+          "chars"
+        ],
+        "filtered": [
+          "wall",
+          "street",
+          "analysts",
+          "target",
+          "price",
+          "travelers",
+          "companies",
+          "stock",
+          "?",
+          "travelers",
+          "companies",
+          ",",
+          "inc.",
+          "trv",
+          "major",
+          "american",
+          "insurance",
+          "provider",
+          ",",
+          "delivering",
+          "property",
+          "casualty",
+          "coverage",
+          "individuals",
+          ",",
+          "businesses",
+          ",",
+          "organizations",
+          "across",
+          "u.s.",
+          "select",
+          "interna",
+          "147",
+          "chars"
+        ],
+        "lemmatized": [
+          "wall",
+          "street",
+          "analyst",
+          "target",
+          "price",
+          "traveler",
+          "company",
+          "stock",
+          "?",
+          "traveler",
+          "company",
+          ",",
+          "inc.",
+          "trv",
+          "major",
+          "american",
+          "insurance",
+          "provider",
+          ",",
+          "deliver",
+          "property",
+          "casualty",
+          "coverage",
+          "individual",
+          ",",
+          "business",
+          ",",
+          "organization",
+          "across",
+          "u.s.",
+          "select",
+          "interna",
+          "147",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Target Price"
+          ],
+          "ORGANIZATION": [
+            "Travelers",
+            "Travelers Companies",
+            "TRV"
+          ],
+          "GPE": [
+            "Inc.",
+            "American",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "147"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "traveler",
+            2
+          ],
+          [
+            "company",
+            2
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "trv",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 46,
+        "avg_words_per_sentence": 23.0,
+        "num_unique_words": 37
+      },
+      "processed_at": "2025-11-14T03:28:52.282788",
+      "preprocessing_version": "1.0",
+      "article_id": "1bbe19243a8da20a",
+      "title": "What Are Wall Street Analysts' Target Price for Travelers Companies Stock?",
+      "description": "The Travelers Companies, Inc. (TRV) is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select international markets. Its operations span personal insurance, busi…",
+      "body": "The Travelers Companies, Inc. (TRV) is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select interna… [+147 chars]",
+      "source": "Biztoc.com",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://biztoc.com/x/7d3230f6b8fa77f4",
+      "author": "barchart.com",
+      "published_at": "2025-11-12T14:29:54Z",
+      "scraped_at": "2025-11-13T22:21:10.044034",
+      "ticker": "AAPL",
+      "raw_text": "What Are Wall Street Analysts' Target Price for Travelers Companies Stock? The Travelers Companies, Inc. (TRV) is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select international markets. Its operations span personal insurance, busi… The Travelers Companies, Inc. (TRV) is a major American insurance provider, delivering property and casualty coverage for individuals, businesses, and organizations across the U.S. and select interna… [+147 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "IBM",
+        "AXP",
+        "TGT"
+      ],
+      "ticker_confidence": {
+        "IBM": 80,
+        "AXP": 80,
+        "TGT": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "15 Stocks To Consider Buying For The Supreme Court Ruling On Trump's Tariffs - Alcoa  ( NYSE:AA ) , Apple  ( NASDAQ:AAPL ) ",
+      "original_body": "Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trump's economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act ( IEEPA ) .",
+      "cleaned_title": "15 Stocks To Consider Buying For The Supreme Court Ruling On Trumps Tariffs - Alcoa NYSEAA , Apple NASDAQAAPL",
+      "cleaned_body": "Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trumps economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act IEEPA .",
+      "cleaned_text": "15 Stocks To Consider Buying For The Supreme Court Ruling On Trumps Tariffs - Alcoa NYSEAA , Apple NASDAQAAPL. Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trumps economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act IEEPA .",
+      "tokens": {
+        "original": [
+          "15",
+          "stocks",
+          "to",
+          "consider",
+          "buying",
+          "for",
+          "the",
+          "supreme",
+          "court",
+          "ruling",
+          "on",
+          "trumps",
+          "tariffs",
+          "-",
+          "alcoa",
+          "nyseaa",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          "right",
+          "now",
+          ",",
+          "the",
+          "u.s.",
+          "supreme",
+          "court",
+          "is",
+          "staring",
+          "down",
+          "a",
+          "case",
+          "that",
+          "could",
+          "unravel",
+          "some",
+          "of",
+          "the",
+          "biggest",
+          "pieces",
+          "of",
+          "trumps",
+          "economic",
+          "legacy-specifically",
+          ",",
+          "the",
+          "recent",
+          "tariffs",
+          "imposed",
+          "during",
+          "his",
+          "presidency",
+          "under",
+          "the",
+          "international",
+          "emergency",
+          "economic",
+          "powers",
+          "act",
+          "ieepa",
+          "."
+        ],
+        "filtered": [
+          "15",
+          "stocks",
+          "consider",
+          "buying",
+          "supreme",
+          "court",
+          "ruling",
+          "trumps",
+          "tariffs",
+          "-",
+          "alcoa",
+          "nyseaa",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          "right",
+          ",",
+          "u.s.",
+          "supreme",
+          "court",
+          "staring",
+          "down",
+          "case",
+          "could",
+          "unravel",
+          "biggest",
+          "pieces",
+          "trumps",
+          "economic",
+          "legacy-specifically",
+          ",",
+          "recent",
+          "tariffs",
+          "imposed",
+          "presidency",
+          "under",
+          "international",
+          "emergency",
+          "economic",
+          "powers",
+          "act",
+          "ieepa",
+          "."
+        ],
+        "lemmatized": [
+          "15",
+          "stock",
+          "consider",
+          "buy",
+          "supreme",
+          "court",
+          "rule",
+          "trump",
+          "tariff",
+          "-",
+          "alcoa",
+          "nyseaa",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          "right",
+          ",",
+          "u.s.",
+          "supreme",
+          "court",
+          "star",
+          "down",
+          "case",
+          "could",
+          "unravel",
+          "big",
+          "piece",
+          "trumps",
+          "economic",
+          "legacy-specifically",
+          ",",
+          "recent",
+          "tariff",
+          "impose",
+          "presidency",
+          "under",
+          "international",
+          "emergency",
+          "economic",
+          "power",
+          "act",
+          "ieepa",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Trump"
+          ],
+          "ORGANIZATION": [
+            "Supreme",
+            "Tariffs",
+            "NYSE",
+            "NASDAQ",
+            "Supreme Court",
+            "International Emergency Economic Powers Act",
+            "IEEPA"
+          ],
+          "GPE": [
+            "Alcoa",
+            "Apple",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "15"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "supreme",
+            2
+          ],
+          [
+            "court",
+            2
+          ],
+          [
+            "tariff",
+            2
+          ],
+          [
+            "economic",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "consider",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "rule",
+            1
+          ],
+          [
+            "trump",
+            1
+          ],
+          [
+            "alcoa",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 61,
+        "avg_words_per_sentence": 30.5,
+        "num_unique_words": 48
+      },
+      "processed_at": "2025-11-14T03:28:56.293936",
+      "preprocessing_version": "1.0",
+      "article_id": "02a475d1d4b9b136",
+      "title": "15 Stocks To Consider Buying For The Supreme Court Ruling On Trump's Tariffs - Alcoa  ( NYSE:AA ) , Apple  ( NASDAQ:AAPL ) ",
+      "description": "Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trump's economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act ( IEEPA ) .",
+      "body": "Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trump's economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act ( IEEPA ) .",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/news/25/11/48816408/15-stocks-to-consider-buying-for-the-supreme-court-ruling-on-trumps-tariffs",
+      "author": "Tom Gentile",
+      "published_at": "20251112T195543",
+      "scraped_at": "2025-11-13T22:21:11.606286",
+      "ticker": "AAPL",
+      "raw_text": "15 Stocks To Consider Buying For The Supreme Court Ruling On Trump's Tariffs - Alcoa  ( NYSE:AA ) , Apple  ( NASDAQ:AAPL )  Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trump's economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act ( IEEPA ) . Right now, the U.S. Supreme Court is staring down a case that could unravel some of the biggest pieces of Trump's economic legacy-specifically, the recent tariffs imposed during his presidency under the International Emergency Economic Powers Act ( IEEPA ) .",
+      "sentiment_score": 0.092915,
+      "sentiment_label": "Neutral",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "AAPL",
+        "IBM"
+      ],
+      "ticker_confidence": {
+        "AAPL": 80,
+        "IBM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "CNBC's The China Connection newsletter: Xpeng attempts a global transformation",
+      "original_body": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+6826 chars]",
+      "cleaned_title": "CNBCs The China Connection newsletter Xpeng attempts a global transformation",
+      "cleaned_body": "This report is from this weeks CNBCs The China Connection newsletter, which brings you insights and analysis on what is driving the worlds second-largest economy. You can subscribe here. The big s 6826 chars",
+      "cleaned_text": "CNBCs The China Connection newsletter Xpeng attempts a global transformation. This report is from this weeks CNBCs The China Connection newsletter, which brings you insights and analysis on what is driving the worlds second-largest economy. You can subscribe here. The big s 6826 chars",
+      "tokens": {
+        "original": [
+          "cnbcs",
+          "the",
+          "china",
+          "connection",
+          "newsletter",
+          "xpeng",
+          "attempts",
+          "a",
+          "global",
+          "transformation",
+          "this",
+          "report",
+          "is",
+          "from",
+          "this",
+          "weeks",
+          "cnbcs",
+          "the",
+          "china",
+          "connection",
+          "newsletter",
+          ",",
+          "which",
+          "brings",
+          "you",
+          "insights",
+          "and",
+          "analysis",
+          "on",
+          "what",
+          "is",
+          "driving",
+          "the",
+          "worlds",
+          "second-largest",
+          "economy",
+          ".",
+          "you",
+          "can",
+          "subscribe",
+          "here",
+          ".",
+          "the",
+          "big",
+          "s",
+          "6826",
+          "chars"
+        ],
+        "filtered": [
+          "cnbcs",
+          "china",
+          "connection",
+          "newsletter",
+          "xpeng",
+          "attempts",
+          "global",
+          "transformation",
+          "report",
+          "weeks",
+          "cnbcs",
+          "china",
+          "connection",
+          "newsletter",
+          ",",
+          "brings",
+          "insights",
+          "analysis",
+          "driving",
+          "worlds",
+          "second-largest",
+          "economy",
+          ".",
+          "subscribe",
+          ".",
+          "big",
+          "6826",
+          "chars"
+        ],
+        "lemmatized": [
+          "cnbcs",
+          "china",
+          "connection",
+          "newsletter",
+          "xpeng",
+          "attempt",
+          "global",
+          "transformation",
+          "report",
+          "week",
+          "cnbcs",
+          "china",
+          "connection",
+          "newsletter",
+          ",",
+          "bring",
+          "insight",
+          "analysis",
+          "drive",
+          "world",
+          "second-largest",
+          "economy",
+          ".",
+          "subscribe",
+          ".",
+          "big",
+          "6826",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Xpeng"
+          ],
+          "ORGANIZATION": [
+            "CNBC"
+          ],
+          "GPE": [
+            "China"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "6826"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cnbcs",
+            2
+          ],
+          [
+            "china",
+            2
+          ],
+          [
+            "connection",
+            2
+          ],
+          [
+            "newsletter",
+            2
+          ],
+          [
+            "xpeng",
+            1
+          ],
+          [
+            "attempt",
+            1
+          ],
+          [
+            "global",
+            1
+          ],
+          [
+            "transformation",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "week",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 48,
+        "avg_words_per_sentence": 12.0,
+        "num_unique_words": 36
+      },
+      "processed_at": "2025-11-14T03:29:30.349646",
+      "preprocessing_version": "1.0",
+      "article_id": "7e8bbe8be779586e",
+      "title": "CNBC's The China Connection newsletter: Xpeng attempts a global transformation",
+      "description": "What a trip to Chinese electric car company Xpeng's new headquarters shows about how the automaker's international ambitions.",
+      "body": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+6826 chars]",
+      "source": "CNBC",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://www.cnbc.com/2025/11/12/cnbcs-the-china-connection-newsletter-xpeng-attempts-a-global-transformation.html",
+      "author": null,
+      "published_at": "2025-11-12T09:02:26Z",
+      "scraped_at": "2025-11-13T22:21:13.286323",
+      "ticker": "TSLA",
+      "raw_text": "CNBC's The China Connection newsletter: Xpeng attempts a global transformation What a trip to Chinese electric car company Xpeng's new headquarters shows about how the automaker's international ambitions. This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+6826 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "IBM"
+      ],
+      "ticker_confidence": {
+        "IBM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Carahsoft and Partners Showcase HPC, AI/ML, Data Center and EDU Solutions at SuperComputing on November 16-21, 2025, in St. Louis Missouri",
+      "original_body": "RESTON, Va., Nov. 13, 2025 ( GLOBE NEWSWIRE ) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will join more than 30 of its vendor partners at SuperComputing 2025 ( SC25 ) , the International Conference for High Performance Computing, Networking, Storage and ...",
+      "cleaned_title": "Carahsoft and Partners Showcase HPC, AIML, Data Center and EDU Solutions at SuperComputing on November 16-21, 2025, in St. Louis Missouri",
+      "cleaned_body": "RESTON, Va., Nov. 13, 2025 GLOBE NEWSWIRE -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider, will join more than 30 of its vendor partners at SuperComputing 2025 SC25 , the International Conference for High Performance Computing, Networking, Storage and ...",
+      "cleaned_text": "Carahsoft and Partners Showcase HPC, AIML, Data Center and EDU Solutions at SuperComputing on November 16-21, 2025, in St. Louis Missouri. RESTON, Va., Nov. 13, 2025 GLOBE NEWSWIRE -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider, will join more than 30 of its vendor partners at SuperComputing 2025 SC25 , the International Conference for High Performance Computing, Networking, Storage and ...",
+      "tokens": {
+        "original": [
+          "carahsoft",
+          "and",
+          "partners",
+          "showcase",
+          "hpc",
+          ",",
+          "aiml",
+          ",",
+          "data",
+          "center",
+          "and",
+          "edu",
+          "solutions",
+          "at",
+          "supercomputing",
+          "on",
+          "november",
+          "16-21",
+          ",",
+          "2025",
+          ",",
+          "in",
+          "st.",
+          "louis",
+          "missouri",
+          "reston",
+          ",",
+          "va.",
+          ",",
+          "nov.",
+          "13",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "carahsoft",
+          "technology",
+          "corp.",
+          ",",
+          "the",
+          "trusted",
+          "government",
+          "it",
+          "solutions",
+          "provider",
+          ",",
+          "will",
+          "join",
+          "more",
+          "than",
+          "30",
+          "of",
+          "its",
+          "vendor",
+          "partners",
+          "at",
+          "supercomputing",
+          "2025",
+          "sc25",
+          ",",
+          "the",
+          "international",
+          "conference",
+          "for",
+          "high",
+          "performance",
+          "computing",
+          ",",
+          "networking",
+          ",",
+          "storage",
+          "and",
+          "..."
+        ],
+        "filtered": [
+          "carahsoft",
+          "partners",
+          "showcase",
+          "hpc",
+          ",",
+          "aiml",
+          ",",
+          "data",
+          "center",
+          "edu",
+          "solutions",
+          "supercomputing",
+          "november",
+          "16-21",
+          ",",
+          "2025",
+          ",",
+          "st.",
+          "louis",
+          "missouri",
+          "reston",
+          ",",
+          "va.",
+          ",",
+          "nov.",
+          "13",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "carahsoft",
+          "technology",
+          "corp.",
+          ",",
+          "trusted",
+          "government",
+          "solutions",
+          "provider",
+          ",",
+          "join",
+          "more",
+          "30",
+          "vendor",
+          "partners",
+          "supercomputing",
+          "2025",
+          "sc25",
+          ",",
+          "international",
+          "conference",
+          "high",
+          "performance",
+          "computing",
+          ",",
+          "networking",
+          ",",
+          "storage",
+          "..."
+        ],
+        "lemmatized": [
+          "carahsoft",
+          "partner",
+          "showcase",
+          "hpc",
+          ",",
+          "aiml",
+          ",",
+          "data",
+          "center",
+          "edu",
+          "solution",
+          "supercomputing",
+          "november",
+          "16-21",
+          ",",
+          "2025",
+          ",",
+          "st.",
+          "louis",
+          "missouri",
+          "reston",
+          ",",
+          "va.",
+          ",",
+          "nov.",
+          "13",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "carahsoft",
+          "technology",
+          "corp.",
+          ",",
+          "trusted",
+          "government",
+          "solution",
+          "provider",
+          ",",
+          "join",
+          "more",
+          "30",
+          "vendor",
+          "partner",
+          "supercomputing",
+          "2025",
+          "sc25",
+          ",",
+          "international",
+          "conference",
+          "high",
+          "performance",
+          "computing",
+          ",",
+          "networking",
+          ",",
+          "storage",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Data Center",
+            "Louis Missouri",
+            "Carahsoft Technology",
+            "Storage"
+          ],
+          "ORGANIZATION": [
+            "Partners Showcase",
+            "EDU Solutions",
+            "RESTON",
+            "GLOBE",
+            "Trusted",
+            "SC25",
+            "International Conference",
+            "High Performance"
+          ],
+          "GPE": [
+            "Carahsoft",
+            "St.",
+            "Networking"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "miss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "16",
+          "21",
+          "2025",
+          "13",
+          "2025",
+          "30",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "2025",
+            3
+          ],
+          [
+            "carahsoft",
+            2
+          ],
+          [
+            "partner",
+            2
+          ],
+          [
+            "solution",
+            2
+          ],
+          [
+            "supercomputing",
+            2
+          ],
+          [
+            "showcase",
+            1
+          ],
+          [
+            "hpc",
+            1
+          ],
+          [
+            "aiml",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "center",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 15,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 7,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 75,
+        "avg_words_per_sentence": 37.5,
+        "num_unique_words": 54
+      },
+      "processed_at": "2025-11-14T03:30:19.886763",
+      "preprocessing_version": "1.0",
+      "article_id": "588c8b9929acde0a",
+      "title": "Carahsoft and Partners Showcase HPC, AI/ML, Data Center and EDU Solutions at SuperComputing on November 16-21, 2025, in St. Louis Missouri",
+      "description": "RESTON, Va., Nov. 13, 2025 ( GLOBE NEWSWIRE ) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will join more than 30 of its vendor partners at SuperComputing 2025 ( SC25 ) , the International Conference for High Performance Computing, Networking, Storage and ...",
+      "body": "RESTON, Va., Nov. 13, 2025 ( GLOBE NEWSWIRE ) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will join more than 30 of its vendor partners at SuperComputing 2025 ( SC25 ) , the International Conference for High Performance Computing, Networking, Storage and ...",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/pressreleases/25/11/g48832900/carahsoft-and-partners-showcase-hpc-aiml-data-center-and-edu-solutions-at-supercomputing-on-novemb",
+      "author": "Globe Newswire",
+      "published_at": "20251113T140000",
+      "scraped_at": "2025-11-13T22:21:35.004448",
+      "ticker": "MSFT",
+      "raw_text": "Carahsoft and Partners Showcase HPC, AI/ML, Data Center and EDU Solutions at SuperComputing on November 16-21, 2025, in St. Louis Missouri RESTON, Va., Nov. 13, 2025 ( GLOBE NEWSWIRE ) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will join more than 30 of its vendor partners at SuperComputing 2025 ( SC25 ) , the International Conference for High Performance Computing, Networking, Storage and ... RESTON, Va., Nov. 13, 2025 ( GLOBE NEWSWIRE ) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will join more than 30 of its vendor partners at SuperComputing 2025 ( SC25 ) , the International Conference for High Performance Computing, Networking, Storage and ...",
+      "sentiment_score": 0.173986,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "IBM"
+      ],
+      "ticker_confidence": {
+        "IBM": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "What's Going On With IBM Stock Today? - IBM  ( NYSE:IBM ) ",
+      "original_body": "Shares of International Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here.",
+      "cleaned_title": "what is Going On With IBM Stock Today? - IBM NYSEIBM",
+      "cleaned_body": "Shares of International Business Machines Corporation NASDAQIBM are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here.",
+      "cleaned_text": "what is Going On With IBM Stock Today? - IBM NYSEIBM. Shares of International Business Machines Corporation NASDAQIBM are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here.",
+      "tokens": {
+        "original": [
+          "what",
+          "is",
+          "going",
+          "on",
+          "with",
+          "ibm",
+          "stock",
+          "today",
+          "?",
+          "-",
+          "ibm",
+          "nyseibm",
+          "shares",
+          "of",
+          "international",
+          "business",
+          "machines",
+          "corporation",
+          "nasdaqibm",
+          "are",
+          "rising",
+          "wednesday",
+          "after",
+          "the",
+          "company",
+          "announced",
+          "several",
+          "significant",
+          "technological",
+          "advancements",
+          ".",
+          "ibm",
+          "stock",
+          "is",
+          "at",
+          "important",
+          "technical",
+          "levels",
+          ".",
+          "see",
+          "what",
+          "is",
+          "driving",
+          "the",
+          "movement",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "going",
+          "ibm",
+          "stock",
+          "today",
+          "?",
+          "-",
+          "ibm",
+          "nyseibm",
+          "shares",
+          "international",
+          "business",
+          "machines",
+          "corporation",
+          "nasdaqibm",
+          "rising",
+          "wednesday",
+          "company",
+          "announced",
+          "several",
+          "significant",
+          "technological",
+          "advancements",
+          ".",
+          "ibm",
+          "stock",
+          "important",
+          "technical",
+          "levels",
+          ".",
+          "see",
+          "driving",
+          "movement",
+          "."
+        ],
+        "lemmatized": [
+          "go",
+          "ibm",
+          "stock",
+          "today",
+          "?",
+          "-",
+          "ibm",
+          "nyseibm",
+          "shares",
+          "international",
+          "business",
+          "machine",
+          "corporation",
+          "nasdaqibm",
+          "rise",
+          "wednesday",
+          "company",
+          "announce",
+          "several",
+          "significant",
+          "technological",
+          "advancement",
+          ".",
+          "ibm",
+          "stock",
+          "important",
+          "technical",
+          "level",
+          ".",
+          "see",
+          "driving",
+          "movement",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Shares"
+          ],
+          "ORGANIZATION": [
+            "IBM Stock",
+            "IBM",
+            "NYSE",
+            "International Business Machines Corporation",
+            "NASDAQ"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ibm",
+            3
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "nyseibm",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "international",
+            1
+          ],
+          [
+            "business",
+            1
+          ],
+          [
+            "machine",
+            1
+          ],
+          [
+            "corporation",
+            1
+          ],
+          [
+            "nasdaqibm",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 5,
+        "num_words": 48,
+        "avg_words_per_sentence": 9.6,
+        "num_unique_words": 38
+      },
+      "processed_at": "2025-11-14T03:30:24.170896",
+      "preprocessing_version": "1.0",
+      "article_id": "755c762e2fb4d17a",
+      "title": "What's Going On With IBM Stock Today? - IBM  ( NYSE:IBM ) ",
+      "description": "Shares of International Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here.",
+      "body": "Shares of International Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here.",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/11/48808734/whats-going-on-with-ibm-stock-today-3",
+      "author": "Alex Perry",
+      "published_at": "20251112T160506",
+      "scraped_at": "2025-11-13T22:21:35.004811",
+      "ticker": "MSFT",
+      "raw_text": "What's Going On With IBM Stock Today? - IBM  ( NYSE:IBM )  Shares of International Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here. Shares of International Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after the company announced several significant technological advancements. IBM stock is at important technical levels. See what is driving the movement here.",
+      "sentiment_score": 0.197706,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "IBM"
+      ],
+      "ticker_confidence": {
+        "IBM": 80
+      },
+      "ticker_contexts": {
+        "IBM": [
+          "IBM Stock Today? - IBM ( NYSE:IBM ) Shares of **International** Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after",
+          "levels. See what is driving the movement here. Shares of **International** Business Machines Corporation ( NASDAQ:IBM ) are rising Wednesday after"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming",
+      "original_body": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI. ",
+      "cleaned_title": "Underwater cables are a vital piece of the AI buildout and internet investment is booming",
+      "cleaned_body": "Over 95 percent of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.",
+      "cleaned_text": "Underwater cables are a vital piece of the AI buildout and internet investment is booming. Over 95 percent of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.",
+      "tokens": {
+        "original": [
+          "underwater",
+          "cables",
+          "are",
+          "a",
+          "vital",
+          "piece",
+          "of",
+          "the",
+          "ai",
+          "buildout",
+          "and",
+          "internet",
+          "investment",
+          "is",
+          "booming",
+          "over",
+          "95",
+          "percent",
+          "of",
+          "international",
+          "data",
+          "and",
+          "voice",
+          "traffic",
+          "travels",
+          "through",
+          "subsea",
+          "telecom",
+          "cables",
+          ".",
+          "tech",
+          "giants",
+          "meta",
+          ",",
+          "google",
+          ",",
+          "amazon",
+          "and",
+          "microsoft",
+          "are",
+          "investing",
+          "for",
+          "ai",
+          "."
+        ],
+        "filtered": [
+          "underwater",
+          "cables",
+          "vital",
+          "piece",
+          "ai",
+          "buildout",
+          "internet",
+          "investment",
+          "booming",
+          "over",
+          "95",
+          "percent",
+          "international",
+          "data",
+          "voice",
+          "traffic",
+          "travels",
+          "subsea",
+          "telecom",
+          "cables",
+          ".",
+          "tech",
+          "giants",
+          "meta",
+          ",",
+          "google",
+          ",",
+          "amazon",
+          "microsoft",
+          "investing",
+          "ai",
+          "."
+        ],
+        "lemmatized": [
+          "underwater",
+          "cable",
+          "vital",
+          "piece",
+          "ai",
+          "buildout",
+          "internet",
+          "investment",
+          "booming",
+          "over",
+          "95",
+          "percent",
+          "international",
+          "data",
+          "voice",
+          "traffic",
+          "travel",
+          "subsea",
+          "telecom",
+          "cable",
+          ".",
+          "tech",
+          "giant",
+          "meta",
+          ",",
+          "google",
+          ",",
+          "amazon",
+          "microsoft",
+          "invest",
+          "ai",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon"
+          ],
+          "ORGANIZATION": [
+            "AI",
+            "Meta",
+            "Microsoft"
+          ],
+          "GPE": [
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "95"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cable",
+            2
+          ],
+          [
+            "underwater",
+            1
+          ],
+          [
+            "vital",
+            1
+          ],
+          [
+            "piece",
+            1
+          ],
+          [
+            "buildout",
+            1
+          ],
+          [
+            "internet",
+            1
+          ],
+          [
+            "investment",
+            1
+          ],
+          [
+            "booming",
+            1
+          ],
+          [
+            "over",
+            1
+          ],
+          [
+            "percent",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 45,
+        "avg_words_per_sentence": 15.0,
+        "num_unique_words": 36
+      },
+      "processed_at": "2025-11-14T03:30:51.356655",
+      "preprocessing_version": "1.0",
+      "article_id": "4da7317ae426348e",
+      "title": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming",
+      "description": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI. ",
+      "body": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI. ",
+      "source": "CNBC",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=9223faa737f488a89e789eb089cf49aa0823cbdbbede2e155e5559a1e2cf02cd",
+      "author": "Unknown",
+      "published_at": "2025-11-08T13:30:01",
+      "scraped_at": "2025-11-13T22:21:35.500810",
+      "ticker": "MSFT",
+      "raw_text": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.  Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI. ",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://image.cnbcfm.com/api/v1/image/108221842-1762362592580-251028-cg-32-subsea-cables-gfx1_0-00-07-08.png?v=1762451999&w=1920&h=1080",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "IBM",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "IBM": 80,
+        "FB": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "How A Million Miles Of Undersea Cables Power The Internet — And Now AI",
+      "original_body": "Subsea fiber-optic cables are the world’s information superhighways with over 95% of the world’s international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers.",
+      "cleaned_title": "How A Million Miles Of Undersea Cables Power The Internet And Now AI",
+      "cleaned_body": "Subsea fiber-optic cables are the worlds information superhighways with over 95 percent of the worlds international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers.",
+      "cleaned_text": "How A Million Miles Of Undersea Cables Power The Internet And Now AI. Subsea fiber-optic cables are the worlds information superhighways with over 95 percent of the worlds international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers.",
+      "tokens": {
+        "original": [
+          "how",
+          "a",
+          "million",
+          "miles",
+          "of",
+          "undersea",
+          "cables",
+          "power",
+          "the",
+          "internet",
+          "and",
+          "now",
+          "ai",
+          "subsea",
+          "fiber-optic",
+          "cables",
+          "are",
+          "the",
+          "worlds",
+          "information",
+          "superhighways",
+          "with",
+          "over",
+          "95",
+          "percent",
+          "of",
+          "the",
+          "worlds",
+          "international",
+          "data",
+          "traveling",
+          "through",
+          "them",
+          ".",
+          "this",
+          "not",
+          "only",
+          "includes",
+          "communications",
+          "like",
+          "email",
+          "and",
+          "video",
+          "calls",
+          ",",
+          "but",
+          "also",
+          "financial",
+          "transactions",
+          "and",
+          "government",
+          "communications",
+          ".",
+          "tech",
+          "companies",
+          "including",
+          "google",
+          ",",
+          "amazon",
+          ",",
+          "meta",
+          "and",
+          "microsoft",
+          "are",
+          "heavily",
+          "investing",
+          "in",
+          "building",
+          "this",
+          "infrastructure",
+          "to",
+          "service",
+          "their",
+          "ai",
+          "demands",
+          "and",
+          "connect",
+          "their",
+          "growing",
+          "network",
+          "of",
+          "data",
+          "centers",
+          "."
+        ],
+        "filtered": [
+          "million",
+          "miles",
+          "undersea",
+          "cables",
+          "power",
+          "internet",
+          "ai",
+          "subsea",
+          "fiber-optic",
+          "cables",
+          "worlds",
+          "information",
+          "superhighways",
+          "over",
+          "95",
+          "percent",
+          "worlds",
+          "international",
+          "data",
+          "traveling",
+          ".",
+          "not",
+          "includes",
+          "communications",
+          "like",
+          "email",
+          "video",
+          "calls",
+          ",",
+          "also",
+          "financial",
+          "transactions",
+          "government",
+          "communications",
+          ".",
+          "tech",
+          "companies",
+          "including",
+          "google",
+          ",",
+          "amazon",
+          ",",
+          "meta",
+          "microsoft",
+          "heavily",
+          "investing",
+          "building",
+          "infrastructure",
+          "service",
+          "ai",
+          "demands",
+          "connect",
+          "growing",
+          "network",
+          "data",
+          "centers",
+          "."
+        ],
+        "lemmatized": [
+          "million",
+          "mile",
+          "undersea",
+          "cable",
+          "power",
+          "internet",
+          "ai",
+          "subsea",
+          "fiber-optic",
+          "cable",
+          "world",
+          "information",
+          "superhighways",
+          "over",
+          "95",
+          "percent",
+          "world",
+          "international",
+          "data",
+          "travel",
+          ".",
+          "not",
+          "include",
+          "communication",
+          "like",
+          "email",
+          "video",
+          "call",
+          ",",
+          "also",
+          "financial",
+          "transaction",
+          "government",
+          "communication",
+          ".",
+          "tech",
+          "company",
+          "include",
+          "google",
+          ",",
+          "amazon",
+          ",",
+          "meta",
+          "microsoft",
+          "heavily",
+          "invest",
+          "build",
+          "infrastructure",
+          "service",
+          "ai",
+          "demand",
+          "connect",
+          "grow",
+          "network",
+          "data",
+          "center",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Subsea",
+            "Google"
+          ],
+          "ORGANIZATION": [
+            "Undersea Cables",
+            "Meta",
+            "Microsoft"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "95"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cable",
+            2
+          ],
+          [
+            "world",
+            2
+          ],
+          [
+            "data",
+            2
+          ],
+          [
+            "include",
+            2
+          ],
+          [
+            "communication",
+            2
+          ],
+          [
+            "million",
+            1
+          ],
+          [
+            "mile",
+            1
+          ],
+          [
+            "undersea",
+            1
+          ],
+          [
+            "power",
+            1
+          ],
+          [
+            "internet",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 85,
+        "avg_words_per_sentence": 21.25,
+        "num_unique_words": 64
+      },
+      "processed_at": "2025-11-14T03:30:51.513607",
+      "preprocessing_version": "1.0",
+      "article_id": "6b47ec9d151d7863",
+      "title": "How A Million Miles Of Undersea Cables Power The Internet — And Now AI",
+      "description": "Subsea fiber-optic cables are the world’s information superhighways with over 95% of the world’s international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers.",
+      "body": "Subsea fiber-optic cables are the world’s information superhighways with over 95% of the world’s international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers.",
+      "source": "CNBC",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=20835a8e04480d1b38e755c846a5ca51602af64e6ecb4e33f37a88c4ee1a75f7",
+      "author": "Unknown",
+      "published_at": "2025-11-08T13:29:02",
+      "scraped_at": "2025-11-13T22:21:35.500824",
+      "ticker": "MSFT",
+      "raw_text": "How A Million Miles Of Undersea Cables Power The Internet — And Now AI Subsea fiber-optic cables are the world’s information superhighways with over 95% of the world’s international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers. Subsea fiber-optic cables are the world’s information superhighways with over 95% of the world’s international data traveling through them. This not only includes communications like email and video calls, but also financial transactions and government communications. Tech companies including Google, Amazon, Meta and Microsoft are heavily investing in building this infrastructure to service their AI demands and connect their growing network of data centers.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://image.cnbcfm.com/api/v1/image/108222632-1762459227652-cable_twist.jpg?v=1762459328&w=1920&h=1080",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "IBM",
+        "FB"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "IBM": 80,
+        "FB": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "ticker": "NKE",
+  "export_date": "2025-11-15T01:16:26.147498",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls",
+      "original_body": "Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls",
+      "cleaned_title": "Nike upgraded, Dollar Tree downgraded Wall Streets top analyst calls",
+      "cleaned_body": "Nike upgraded, Dollar Tree downgraded Wall Streets top analyst calls",
+      "cleaned_text": "Nike upgraded, Dollar Tree downgraded Wall Streets top analyst calls. Nike upgraded, Dollar Tree downgraded Wall Streets top analyst calls",
+      "tokens": {
+        "original": [
+          "nike",
+          "upgraded",
+          ",",
+          "dollar",
+          "tree",
+          "downgraded",
+          "wall",
+          "streets",
+          "top",
+          "analyst",
+          "calls",
+          "nike",
+          "upgraded",
+          ",",
+          "dollar",
+          "tree",
+          "downgraded",
+          "wall",
+          "streets",
+          "top",
+          "analyst",
+          "calls"
+        ],
+        "filtered": [
+          "nike",
+          "upgraded",
+          ",",
+          "dollar",
+          "tree",
+          "downgraded",
+          "wall",
+          "streets",
+          "top",
+          "analyst",
+          "calls",
+          "nike",
+          "upgraded",
+          ",",
+          "dollar",
+          "tree",
+          "downgraded",
+          "wall",
+          "streets",
+          "top",
+          "analyst",
+          "calls"
+        ],
+        "lemmatized": [
+          "nike",
+          "upgraded",
+          ",",
+          "dollar",
+          "tree",
+          "downgrade",
+          "wall",
+          "street",
+          "top",
+          "analyst",
+          "call",
+          "nike",
+          "upgraded",
+          ",",
+          "dollar",
+          "tree",
+          "downgrade",
+          "wall",
+          "street",
+          "top",
+          "analyst",
+          "call"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nike",
+            "Dollar Tree"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "upgrade"
+          ],
+          "negative": [
+            "downgrade"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nike",
+            2
+          ],
+          [
+            "upgraded",
+            2
+          ],
+          [
+            "dollar",
+            2
+          ],
+          [
+            "tree",
+            2
+          ],
+          [
+            "downgrade",
+            2
+          ],
+          [
+            "wall",
+            2
+          ],
+          [
+            "street",
+            2
+          ],
+          [
+            "top",
+            2
+          ],
+          [
+            "analyst",
+            2
+          ],
+          [
+            "call",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 23,
+        "avg_words_per_sentence": 11.5,
+        "num_unique_words": 12
+      },
+      "processed_at": "2025-11-14T03:30:26.290417",
+      "preprocessing_version": "1.0",
+      "article_id": "50faf0d1d78e9916",
+      "title": "Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls",
+      "description": "Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls",
+      "body": "Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=5aafec13e5283a7c16cdd2ef7a281b860ab6773670749212b5df63a2284578b0",
+      "author": "Unknown",
+      "published_at": "2025-11-13T20:15:38",
+      "scraped_at": "2025-11-13T22:21:35.498390",
+      "ticker": "MSFT",
+      "raw_text": "Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls Nike upgraded, Dollar Tree downgraded: Wall Street's top analyst calls",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "NKE"
+      ],
+      "ticker_confidence": {
+        "NKE": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

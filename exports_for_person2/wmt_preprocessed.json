@@ -1,0 +1,438 @@
+{
+  "ticker": "WMT",
+  "export_date": "2025-11-15T01:16:26.102327",
+  "article_count": 2,
+  "articles": [
+    {
+      "original_title": "Prediction: This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart",
+      "original_body": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "cleaned_title": "Prediction This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart",
+      "cleaned_body": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "cleaned_text": "Prediction This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart. The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "tokens": {
+        "original": [
+          "prediction",
+          "this",
+          "dividend-paying",
+          "value",
+          "stock",
+          "will",
+          "join",
+          "berkshire",
+          "hathaway",
+          "in",
+          "the",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "before",
+          "walmart",
+          "the",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "is",
+          "growing",
+          "due",
+          "to",
+          "record",
+          "earnings",
+          "and",
+          "investor",
+          "enthusiasm",
+          "."
+        ],
+        "filtered": [
+          "prediction",
+          "dividend-paying",
+          "value",
+          "stock",
+          "join",
+          "berkshire",
+          "hathaway",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "walmart",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "growing",
+          "due",
+          "record",
+          "earnings",
+          "investor",
+          "enthusiasm",
+          "."
+        ],
+        "lemmatized": [
+          "prediction",
+          "dividend-paying",
+          "value",
+          "stock",
+          "join",
+          "berkshire",
+          "hathaway",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "walmart",
+          "$",
+          "1",
+          "trillion",
+          "club",
+          "grow",
+          "due",
+          "record",
+          "earnings",
+          "investor",
+          "enthusiasm",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Value Stock Will Join Berkshire Hathaway",
+            "Walmart"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "1",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "trillion",
+            2
+          ],
+          [
+            "club",
+            2
+          ],
+          [
+            "prediction",
+            1
+          ],
+          [
+            "dividend-paying",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "join",
+            1
+          ],
+          [
+            "berkshire",
+            1
+          ],
+          [
+            "hathaway",
+            1
+          ],
+          [
+            "walmart",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 33,
+        "avg_words_per_sentence": 16.5,
+        "num_unique_words": 27
+      },
+      "processed_at": "2025-11-14T03:28:56.745175",
+      "preprocessing_version": "1.0",
+      "article_id": "e013026b292e732f",
+      "title": "Prediction: This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart",
+      "description": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "body": "The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "source": "Motley Fool",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.fool.com/investing/2025/11/12/buy-dividend-value-stock-jpmorgan-chase-berkshire/",
+      "author": "https://www.facebook.com/themotleyfool/",
+      "published_at": "20251112T080500",
+      "scraped_at": "2025-11-13T22:21:11.606347",
+      "ticker": "AAPL",
+      "raw_text": "Prediction: This Dividend-Paying Value Stock Will Join Berkshire Hathaway in the $1 Trillion Club Before Walmart The $1 trillion club is growing due to record earnings and investor enthusiasm. The $1 trillion club is growing due to record earnings and investor enthusiasm.",
+      "sentiment_score": 0.268762,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "WMT",
+        "BRK-B"
+      ],
+      "ticker_confidence": {
+        "WMT": 80,
+        "BRK-B": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "How Trump’s tariffs are crushing small businesses while big retailers weather the costs",
+      "original_body": "While large retailers like Walmart and Amazon are mostly brushing off Trump's tariffs, small businesses are being crushed under the weight of them.",
+      "cleaned_title": "How Trumps tariffs are crushing small businesses while big retailers weather the costs",
+      "cleaned_body": "While large retailers like Walmart and Amazon are mostly brushing off Trumps tariffs, small businesses are being crushed under the weight of them.",
+      "cleaned_text": "How Trumps tariffs are crushing small businesses while big retailers weather the costs. While large retailers like Walmart and Amazon are mostly brushing off Trumps tariffs, small businesses are being crushed under the weight of them.",
+      "tokens": {
+        "original": [
+          "how",
+          "trumps",
+          "tariffs",
+          "are",
+          "crushing",
+          "small",
+          "businesses",
+          "while",
+          "big",
+          "retailers",
+          "weather",
+          "the",
+          "costs",
+          "while",
+          "large",
+          "retailers",
+          "like",
+          "walmart",
+          "and",
+          "amazon",
+          "are",
+          "mostly",
+          "brushing",
+          "off",
+          "trumps",
+          "tariffs",
+          ",",
+          "small",
+          "businesses",
+          "are",
+          "being",
+          "crushed",
+          "under",
+          "the",
+          "weight",
+          "of",
+          "them",
+          "."
+        ],
+        "filtered": [
+          "trumps",
+          "tariffs",
+          "crushing",
+          "small",
+          "businesses",
+          "big",
+          "retailers",
+          "weather",
+          "costs",
+          "large",
+          "retailers",
+          "like",
+          "walmart",
+          "amazon",
+          "mostly",
+          "brushing",
+          "trumps",
+          "tariffs",
+          ",",
+          "small",
+          "businesses",
+          "crushed",
+          "under",
+          "weight",
+          "."
+        ],
+        "lemmatized": [
+          "trump",
+          "tariff",
+          "crush",
+          "small",
+          "business",
+          "big",
+          "retailer",
+          "weather",
+          "cost",
+          "large",
+          "retailer",
+          "like",
+          "walmart",
+          "amazon",
+          "mostly",
+          "brush",
+          "trump",
+          "tariff",
+          ",",
+          "small",
+          "business",
+          "crush",
+          "under",
+          "weight",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Trump",
+            "Walmart"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "trump",
+            2
+          ],
+          [
+            "tariff",
+            2
+          ],
+          [
+            "crush",
+            2
+          ],
+          [
+            "small",
+            2
+          ],
+          [
+            "business",
+            2
+          ],
+          [
+            "retailer",
+            2
+          ],
+          [
+            "big",
+            1
+          ],
+          [
+            "weather",
+            1
+          ],
+          [
+            "cost",
+            1
+          ],
+          [
+            "large",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 39,
+        "avg_words_per_sentence": 19.5,
+        "num_unique_words": 29
+      },
+      "processed_at": "2025-11-14T03:29:22.626006",
+      "preprocessing_version": "1.0",
+      "article_id": "85de30886f62c159",
+      "title": "How Trump’s tariffs are crushing small businesses while big retailers weather the costs",
+      "description": "While large retailers like Walmart and Amazon are mostly brushing off Trump's tariffs, small businesses are being crushed under the weight of them.",
+      "body": "While large retailers like Walmart and Amazon are mostly brushing off Trump's tariffs, small businesses are being crushed under the weight of them.",
+      "source": "CNBC",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=dba47902469e8f8a7b077ed3924bd196de2a04afba8a854fadfbc48833f6ef96",
+      "author": "Unknown",
+      "published_at": "2025-11-07T17:02:07",
+      "scraped_at": "2025-11-13T22:21:12.171869",
+      "ticker": "AAPL",
+      "raw_text": "How Trump’s tariffs are crushing small businesses while big retailers weather the costs While large retailers like Walmart and Amazon are mostly brushing off Trump's tariffs, small businesses are being crushed under the weight of them. While large retailers like Walmart and Amazon are mostly brushing off Trump's tariffs, small businesses are being crushed under the weight of them.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://image.cnbcfm.com/api/v1/image/108222655-1762461128540-SmBiz1.jpg?v=1762462073&w=1920&h=1080",
+      "category": "company",
+      "tickers_mentioned": [
+        "WMT"
+      ],
+      "ticker_confidence": {
+        "WMT": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

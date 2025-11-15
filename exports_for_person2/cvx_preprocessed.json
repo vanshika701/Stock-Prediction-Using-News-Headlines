@@ -1,0 +1,272 @@
+{
+  "ticker": "CVX",
+  "export_date": "2025-11-15T01:16:26.065489",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Chevron Picks Texas for First AI Data Center Power Project",
+      "original_body": "(Bloomberg) -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita… [+3392 chars]",
+      "cleaned_title": "Chevron Picks Texas for First AI Data Center Power Project",
+      "cleaned_body": "Bloomberg -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita 3392 chars",
+      "cleaned_text": "Chevron Picks Texas for First AI Data Center Power Project. Bloomberg -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita 3392 chars",
+      "tokens": {
+        "original": [
+          "chevron",
+          "picks",
+          "texas",
+          "for",
+          "first",
+          "ai",
+          "data",
+          "center",
+          "power",
+          "project",
+          "bloomberg",
+          "--",
+          "chevron",
+          "corp.",
+          "chose",
+          "west",
+          "texas",
+          "as",
+          "the",
+          "site",
+          "of",
+          "its",
+          "first",
+          "project",
+          "to",
+          "provide",
+          "natural",
+          "gas-fired",
+          "power",
+          "to",
+          "a",
+          "data",
+          "center",
+          ",",
+          "the",
+          "beginning",
+          "of",
+          "a",
+          "new",
+          "line",
+          "of",
+          "business",
+          "for",
+          "the",
+          "oil",
+          "giant",
+          "to",
+          "capita",
+          "3392",
+          "chars"
+        ],
+        "filtered": [
+          "chevron",
+          "picks",
+          "texas",
+          "first",
+          "ai",
+          "data",
+          "center",
+          "power",
+          "project",
+          "bloomberg",
+          "--",
+          "chevron",
+          "corp.",
+          "chose",
+          "west",
+          "texas",
+          "site",
+          "first",
+          "project",
+          "provide",
+          "natural",
+          "gas-fired",
+          "power",
+          "data",
+          "center",
+          ",",
+          "beginning",
+          "new",
+          "line",
+          "business",
+          "oil",
+          "giant",
+          "capita",
+          "3392",
+          "chars"
+        ],
+        "lemmatized": [
+          "chevron",
+          "pick",
+          "texas",
+          "first",
+          "ai",
+          "data",
+          "center",
+          "power",
+          "project",
+          "bloomberg",
+          "--",
+          "chevron",
+          "corp.",
+          "choose",
+          "west",
+          "texas",
+          "site",
+          "first",
+          "project",
+          "provide",
+          "natural",
+          "gas-fired",
+          "power",
+          "data",
+          "center",
+          ",",
+          "begin",
+          "new",
+          "line",
+          "business",
+          "oil",
+          "giant",
+          "caput",
+          "3392",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Chevron",
+            "Picks Texas",
+            "First AI Data Center Power Project",
+            "Chevron Corp."
+          ],
+          "ORGANIZATION": [
+            "Bloomberg"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "project"
+          ]
+        },
+        "numbers": [
+          "3392"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "chevron",
+            2
+          ],
+          [
+            "texas",
+            2
+          ],
+          [
+            "first",
+            2
+          ],
+          [
+            "data",
+            2
+          ],
+          [
+            "center",
+            2
+          ],
+          [
+            "power",
+            2
+          ],
+          [
+            "project",
+            2
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "bloomberg",
+            1
+          ],
+          [
+            "corp.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 51,
+        "avg_words_per_sentence": 25.5,
+        "num_unique_words": 36
+      },
+      "processed_at": "2025-11-14T03:28:50.600038",
+      "preprocessing_version": "1.0",
+      "article_id": "3563a684062928d0",
+      "title": "Chevron Picks Texas for First AI Data Center Power Project",
+      "description": "The company is in exclusive talks with the data center’s end user, which it didn’t name, and anticipates making a final investment decision early next year, ...",
+      "body": "(Bloomberg) -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita… [+3392 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/chevron-picks-west-texas-first-103423266.html",
+      "author": "Kevin Crowley",
+      "published_at": "2025-11-12T15:13:05Z",
+      "scraped_at": "2025-11-13T22:21:10.043994",
+      "ticker": "AAPL",
+      "raw_text": "Chevron Picks Texas for First AI Data Center Power Project The company is in exclusive talks with the data center’s end user, which it didn’t name, and anticipates making a final investment decision early next year, ... (Bloomberg) -- Chevron Corp. chose West Texas as the site of its first project to provide natural gas-fired power to a data center, the beginning of a new line of business for the oil giant to capita… [+3392 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "TXN",
+        "CVX"
+      ],
+      "ticker_confidence": {
+        "TXN": 80,
+        "CVX": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "ticker": "DIS",
+  "export_date": "2025-11-15T01:16:26.132745",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Cisco, Walt Disney To Report Earnings Next Week While U.S. Shutdown Drags On",
+      "original_body": "Stay ahead with Wall Street Week Ahead: get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "cleaned_title": "Cisco, Walt Disney To Report Earnings Next Week While U.S. Shutdown Drags On",
+      "cleaned_body": "Stay ahead with Wall Street Week Ahead get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "cleaned_text": "Cisco, Walt Disney To Report Earnings Next Week While U.S. Shutdown Drags On. Stay ahead with Wall Street Week Ahead get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "tokens": {
+        "original": [
+          "cisco",
+          ",",
+          "walt",
+          "disney",
+          "to",
+          "report",
+          "earnings",
+          "next",
+          "week",
+          "while",
+          "u.s.",
+          "shutdown",
+          "drags",
+          "on",
+          "stay",
+          "ahead",
+          "with",
+          "wall",
+          "street",
+          "week",
+          "ahead",
+          "get",
+          "key",
+          "market",
+          "previews",
+          ",",
+          "earnings",
+          "reports",
+          ",",
+          "dividend",
+          "alerts",
+          ",",
+          "and",
+          "insights",
+          "on",
+          "upcoming",
+          "economic",
+          "events",
+          "."
+        ],
+        "filtered": [
+          "cisco",
+          ",",
+          "walt",
+          "disney",
+          "report",
+          "earnings",
+          "next",
+          "week",
+          "u.s.",
+          "shutdown",
+          "drags",
+          "stay",
+          "ahead",
+          "wall",
+          "street",
+          "week",
+          "ahead",
+          "get",
+          "key",
+          "market",
+          "previews",
+          ",",
+          "earnings",
+          "reports",
+          ",",
+          "dividend",
+          "alerts",
+          ",",
+          "insights",
+          "upcoming",
+          "economic",
+          "events",
+          "."
+        ],
+        "lemmatized": [
+          "cisco",
+          ",",
+          "walt",
+          "disney",
+          "report",
+          "earnings",
+          "next",
+          "week",
+          "u.s.",
+          "shutdown",
+          "drag",
+          "stay",
+          "ahead",
+          "wall",
+          "street",
+          "week",
+          "ahead",
+          "get",
+          "key",
+          "market",
+          "preview",
+          ",",
+          "earnings",
+          "report",
+          ",",
+          "dividend",
+          "alert",
+          ",",
+          "insight",
+          "upcoming",
+          "economic",
+          "event",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walt Disney",
+            "Stay"
+          ],
+          "ORGANIZATION": [
+            "Report Earnings Next Week"
+          ],
+          "GPE": [
+            "Cisco",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "report",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "week",
+            2
+          ],
+          [
+            "ahead",
+            2
+          ],
+          [
+            "cisco",
+            1
+          ],
+          [
+            "walt",
+            1
+          ],
+          [
+            "disney",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "shutdown",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 40,
+        "avg_words_per_sentence": 20.0,
+        "num_unique_words": 32
+      },
+      "processed_at": "2025-11-14T03:29:18.274838",
+      "preprocessing_version": "1.0",
+      "article_id": "68c71f7fae7b78cd",
+      "title": "Cisco, Walt Disney To Report Earnings Next Week While U.S. Shutdown Drags On",
+      "description": "Stay ahead with Wall Street Week Ahead: get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "body": "Stay ahead with Wall Street Week Ahead: get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "source": "SeekingAlpha",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=8c7a8a31310ec0d491f7458a4829687876cc6b1fbfd02adcf0bad5a5ed9e419c",
+      "author": "Unknown",
+      "published_at": "2025-11-08T16:30:00",
+      "scraped_at": "2025-11-13T22:21:12.171770",
+      "ticker": "AAPL",
+      "raw_text": "Cisco, Walt Disney To Report Earnings Next Week While U.S. Shutdown Drags On Stay ahead with Wall Street Week Ahead: get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events. Stay ahead with Wall Street Week Ahead: get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "CSCO",
+        "DIS"
+      ],
+      "ticker_confidence": {
+        "CSCO": 80,
+        "DIS": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

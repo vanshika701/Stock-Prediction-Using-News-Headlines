@@ -1,0 +1,243 @@
+{
+  "ticker": "COP",
+  "export_date": "2025-11-15T01:16:26.148483",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Petronas signs MoUs to advance seismic imaging and AI initiatives",
+      "original_body": "The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies.",
+      "cleaned_title": "Petronas signs MoUs to advance seismic imaging and AI initiatives",
+      "cleaned_body": "The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies.",
+      "cleaned_text": "Petronas signs MoUs to advance seismic imaging and AI initiatives. The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies.",
+      "tokens": {
+        "original": [
+          "petronas",
+          "signs",
+          "mous",
+          "to",
+          "advance",
+          "seismic",
+          "imaging",
+          "and",
+          "ai",
+          "initiatives",
+          "the",
+          "mous",
+          "involve",
+          "organisations",
+          "such",
+          "as",
+          "beicip-franlab",
+          ",",
+          "conocophillips",
+          ",",
+          "eliis",
+          ",",
+          "microsoft",
+          ",",
+          "pttep",
+          ",",
+          "shell",
+          ",",
+          "slb",
+          "and",
+          "totalenergies",
+          "."
+        ],
+        "filtered": [
+          "petronas",
+          "signs",
+          "mous",
+          "advance",
+          "seismic",
+          "imaging",
+          "ai",
+          "initiatives",
+          "mous",
+          "involve",
+          "organisations",
+          "beicip-franlab",
+          ",",
+          "conocophillips",
+          ",",
+          "eliis",
+          ",",
+          "microsoft",
+          ",",
+          "pttep",
+          ",",
+          "shell",
+          ",",
+          "slb",
+          "totalenergies",
+          "."
+        ],
+        "lemmatized": [
+          "petronas",
+          "sign",
+          "mous",
+          "advance",
+          "seismic",
+          "imaging",
+          "ai",
+          "initiative",
+          "mous",
+          "involve",
+          "organisation",
+          "beicip-franlab",
+          ",",
+          "conocophillips",
+          ",",
+          "eliis",
+          ",",
+          "microsoft",
+          ",",
+          "pttep",
+          ",",
+          "shell",
+          ",",
+          "slb",
+          "totalenergies",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eliis",
+            "Microsoft"
+          ],
+          "ORGANIZATION": [
+            "MoUs",
+            "AI",
+            "ConocoPhillips",
+            "PTTEP",
+            "Shell",
+            "SLB",
+            "TotalEnergies"
+          ],
+          "GPE": [
+            "Petronas"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "mous",
+            2
+          ],
+          [
+            "petronas",
+            1
+          ],
+          [
+            "sign",
+            1
+          ],
+          [
+            "advance",
+            1
+          ],
+          [
+            "seismic",
+            1
+          ],
+          [
+            "imaging",
+            1
+          ],
+          [
+            "initiative",
+            1
+          ],
+          [
+            "involve",
+            1
+          ],
+          [
+            "organisation",
+            1
+          ],
+          [
+            "beicip-franlab",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 33,
+        "avg_words_per_sentence": 16.5,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:30:27.831882",
+      "preprocessing_version": "1.0",
+      "article_id": "d54d49c0c2b9f233",
+      "title": "Petronas signs MoUs to advance seismic imaging and AI initiatives",
+      "description": "The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies.",
+      "body": "The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=993889cceaad0afbfdfd29915dc8f363d9d8ef6623c5465cda1dd6f6343c89ee",
+      "author": "Unknown",
+      "published_at": "2025-11-13T15:25:03",
+      "scraped_at": "2025-11-13T22:21:35.498564",
+      "ticker": "MSFT",
+      "raw_text": "Petronas signs MoUs to advance seismic imaging and AI initiatives The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies. The MoUs involve organisations such as Beicip-Franlab, ConocoPhillips, Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "MSFT",
+        "COP"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "COP": 80
+      },
+      "ticker_contexts": {
+        "COP": [
+          "and AI initiatives The MoUs involve organisations such as Beicip-Franlab, **ConocoPhillips,** Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies. The MoUs involve",
+          "SLB and TotalEnergies. The MoUs involve organisations such as Beicip-Franlab, **ConocoPhillips,** Eliis, Microsoft, PTTEP, Shell, SLB and TotalEnergies."
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

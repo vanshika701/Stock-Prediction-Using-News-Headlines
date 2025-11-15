@@ -1,0 +1,361 @@
+{
+  "ticker": "TWTR",
+  "export_date": "2025-11-15T01:16:26.107633",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "iPhone Pocket For $230? Marques Brownlee Says It's A 'Litmus Test For People Who'll Buy/Defend Anything' From Apple - Apple  ( NASDAQ:AAPL ) ",
+      "original_body": "On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.'s ( NASDAQ:AAPL ) new $230 \"iPhone Pocket,\" calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, \"TWO hundred and thirty dollars..",
+      "cleaned_title": "iPhone Pocket For $230? Marques Brownlee Says it is A Litmus Test For People Who will BuyDefend Anything From Apple - Apple NASDAQAAPL",
+      "cleaned_body": "On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.s NASDAQAAPL new $230 iPhone Pocket, calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, TWO hundred and thirty dollars..",
+      "cleaned_text": "iPhone Pocket For $230? Marques Brownlee Says it is A Litmus Test For People Who will BuyDefend Anything From Apple - Apple NASDAQAAPL. On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.s NASDAQAAPL new $230 iPhone Pocket, calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, TWO hundred and thirty dollars..",
+      "tokens": {
+        "original": [
+          "iphone",
+          "pocket",
+          "for",
+          "$",
+          "230",
+          "?",
+          "marques",
+          "brownlee",
+          "says",
+          "it",
+          "is",
+          "a",
+          "litmus",
+          "test",
+          "for",
+          "people",
+          "who",
+          "will",
+          "buydefend",
+          "anything",
+          "from",
+          "apple",
+          "-",
+          "apple",
+          "nasdaqaapl",
+          "on",
+          "tuesday",
+          ",",
+          "popular",
+          "tech",
+          "youtuber",
+          "marques",
+          "brownlee",
+          ",",
+          "better",
+          "known",
+          "as",
+          "mkbhd",
+          ",",
+          "criticized",
+          "apple",
+          "inc.s",
+          "nasdaqaapl",
+          "new",
+          "$",
+          "230",
+          "iphone",
+          "pocket",
+          ",",
+          "calling",
+          "it",
+          "an",
+          "example",
+          "of",
+          "how",
+          "far",
+          "brand",
+          "loyalty",
+          "can",
+          "go",
+          ".",
+          "taking",
+          "to",
+          "x",
+          ",",
+          "formerly",
+          "twitter",
+          ",",
+          "brownlee",
+          "wrote",
+          ",",
+          "two",
+          "hundred",
+          "and",
+          "thirty",
+          "dollars",
+          ".."
+        ],
+        "filtered": [
+          "iphone",
+          "pocket",
+          "$",
+          "230",
+          "?",
+          "marques",
+          "brownlee",
+          "says",
+          "litmus",
+          "test",
+          "people",
+          "buydefend",
+          "anything",
+          "apple",
+          "-",
+          "apple",
+          "nasdaqaapl",
+          "tuesday",
+          ",",
+          "popular",
+          "tech",
+          "youtuber",
+          "marques",
+          "brownlee",
+          ",",
+          "better",
+          "known",
+          "mkbhd",
+          ",",
+          "criticized",
+          "apple",
+          "inc.s",
+          "nasdaqaapl",
+          "new",
+          "$",
+          "230",
+          "iphone",
+          "pocket",
+          ",",
+          "calling",
+          "example",
+          "far",
+          "brand",
+          "loyalty",
+          "go",
+          ".",
+          "taking",
+          "x",
+          ",",
+          "formerly",
+          "twitter",
+          ",",
+          "brownlee",
+          "wrote",
+          ",",
+          "two",
+          "hundred",
+          "thirty",
+          "dollars",
+          ".."
+        ],
+        "lemmatized": [
+          "iphone",
+          "pocket",
+          "$",
+          "230",
+          "?",
+          "marque",
+          "brownlee",
+          "say",
+          "litmus",
+          "test",
+          "people",
+          "buydefend",
+          "anything",
+          "apple",
+          "-",
+          "apple",
+          "nasdaqaapl",
+          "tuesday",
+          ",",
+          "popular",
+          "tech",
+          "youtuber",
+          "marque",
+          "brownlee",
+          ",",
+          "good",
+          "know",
+          "mkbhd",
+          ",",
+          "criticize",
+          "apple",
+          "inc.s",
+          "nasdaqaapl",
+          "new",
+          "$",
+          "230",
+          "iphone",
+          "pocket",
+          ",",
+          "call",
+          "example",
+          "far",
+          "brand",
+          "loyalty",
+          "go",
+          ".",
+          "take",
+          "x",
+          ",",
+          "formerly",
+          "twitter",
+          ",",
+          "brownlee",
+          "write",
+          ",",
+          "two",
+          "hundred",
+          "thirty",
+          "dollar",
+          ".."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Pocket",
+            "Marques Brownlee",
+            "Popular",
+            "Apple Inc.",
+            "Twitter",
+            "Brownlee"
+          ],
+          "ORGANIZATION": [
+            "iPhone",
+            "NASDAQ",
+            "MKBHD"
+          ],
+          "GPE": [
+            "Apple",
+            "X"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "230",
+          "230"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "brownlee",
+            3
+          ],
+          [
+            "apple",
+            3
+          ],
+          [
+            "iphone",
+            2
+          ],
+          [
+            "pocket",
+            2
+          ],
+          [
+            "230",
+            2
+          ],
+          [
+            "marque",
+            2
+          ],
+          [
+            "nasdaqaapl",
+            2
+          ],
+          [
+            "say",
+            1
+          ],
+          [
+            "litmus",
+            1
+          ],
+          [
+            "test",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 78,
+        "avg_words_per_sentence": 19.5,
+        "num_unique_words": 59
+      },
+      "processed_at": "2025-11-14T03:28:57.348525",
+      "preprocessing_version": "1.0",
+      "article_id": "5d6dd648680e1876",
+      "title": "iPhone Pocket For $230? Marques Brownlee Says It's A 'Litmus Test For People Who'll Buy/Defend Anything' From Apple - Apple  ( NASDAQ:AAPL ) ",
+      "description": "On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.'s ( NASDAQ:AAPL ) new $230 \"iPhone Pocket,\" calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, \"TWO hundred and thirty dollars..",
+      "body": "On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.'s ( NASDAQ:AAPL ) new $230 \"iPhone Pocket,\" calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, \"TWO hundred and thirty dollars..",
+      "source": "Benzinga",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.benzinga.com/markets/tech/25/11/48794574/iphone-pocket-for-230-marques-brownlee-says-its-a-litmus-test-for-people-wholl-buy-defend-anything-f",
+      "author": "Ananya Gairola",
+      "published_at": "20251112T044107",
+      "scraped_at": "2025-11-13T22:21:11.606382",
+      "ticker": "AAPL",
+      "raw_text": "iPhone Pocket For $230? Marques Brownlee Says It's A 'Litmus Test For People Who'll Buy/Defend Anything' From Apple - Apple  ( NASDAQ:AAPL )  On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.'s ( NASDAQ:AAPL ) new $230 \"iPhone Pocket,\" calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, \"TWO hundred and thirty dollars.. On Tuesday, Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized Apple Inc.'s ( NASDAQ:AAPL ) new $230 \"iPhone Pocket,\" calling it an example of how far brand loyalty can go. Taking to X, formerly Twitter, Brownlee wrote, \"TWO hundred and thirty dollars..",
+      "sentiment_score": 0.153746,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "AAPL",
+        "TWTR"
+      ],
+      "ticker_confidence": {
+        "AAPL": 80,
+        "TWTR": 80
+      },
+      "ticker_contexts": {
+        "AAPL": [
+          "Popular tech YouTuber Marques Brownlee, better known as MKBHD, criticized **Apple** Inc.'s ( NASDAQ:AAPL ) new $230 \"iPhone Pocket,\" calling it"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

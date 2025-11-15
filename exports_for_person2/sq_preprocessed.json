@@ -1,0 +1,977 @@
+{
+  "ticker": "SQ",
+  "export_date": "2025-11-15T01:16:26.127101",
+  "article_count": 4,
+  "articles": [
+    {
+      "original_title": "Apple caves to China demands to remove gay dating apps",
+      "original_body": "Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing.",
+      "cleaned_title": "Apple caves to China demands to remove gay dating apps",
+      "cleaned_body": "Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing.",
+      "cleaned_text": "Apple caves to China demands to remove gay dating apps. Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing.",
+      "tokens": {
+        "original": [
+          "apple",
+          "caves",
+          "to",
+          "china",
+          "demands",
+          "to",
+          "remove",
+          "gay",
+          "dating",
+          "apps",
+          "apple",
+          "has",
+          "agreed",
+          "to",
+          "block",
+          "two",
+          "popular",
+          "gay",
+          "dating",
+          "apps",
+          "in",
+          "china",
+          "as",
+          "part",
+          "of",
+          "a",
+          "fresh",
+          "wave",
+          "of",
+          "censorship",
+          "by",
+          "beijing",
+          "."
+        ],
+        "filtered": [
+          "apple",
+          "caves",
+          "china",
+          "demands",
+          "remove",
+          "gay",
+          "dating",
+          "apps",
+          "apple",
+          "agreed",
+          "block",
+          "two",
+          "popular",
+          "gay",
+          "dating",
+          "apps",
+          "china",
+          "part",
+          "fresh",
+          "wave",
+          "censorship",
+          "beijing",
+          "."
+        ],
+        "lemmatized": [
+          "apple",
+          "cave",
+          "china",
+          "demand",
+          "remove",
+          "gay",
+          "date",
+          "apps",
+          "apple",
+          "agree",
+          "block",
+          "two",
+          "popular",
+          "gay",
+          "date",
+          "apps",
+          "china",
+          "part",
+          "fresh",
+          "wave",
+          "censorship",
+          "beijing",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Apple",
+            "China",
+            "Beijing"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "apple",
+            2
+          ],
+          [
+            "china",
+            2
+          ],
+          [
+            "gay",
+            2
+          ],
+          [
+            "date",
+            2
+          ],
+          [
+            "apps",
+            2
+          ],
+          [
+            "cave",
+            1
+          ],
+          [
+            "demand",
+            1
+          ],
+          [
+            "remove",
+            1
+          ],
+          [
+            "agree",
+            1
+          ],
+          [
+            "block",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 34,
+        "avg_words_per_sentence": 17.0,
+        "num_unique_words": 25
+      },
+      "processed_at": "2025-11-14T03:29:08.173887",
+      "preprocessing_version": "1.0",
+      "article_id": "fe9f337c945e388c",
+      "title": "Apple caves to China demands to remove gay dating apps",
+      "description": "Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing.",
+      "body": "Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=77d9552de929a3cfd26661830ede59dc984770128479aa5a027666836e4e7ef7",
+      "author": "Unknown",
+      "published_at": "2025-11-11T20:00:03",
+      "scraped_at": "2025-11-13T22:21:12.171519",
+      "ticker": "AAPL",
+      "raw_text": "Apple caves to China demands to remove gay dating apps Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing. Apple has agreed to block two popular gay dating apps in China as part of a fresh wave of censorship by Beijing.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "SQ",
+        "AAPL"
+      ],
+      "ticker_confidence": {
+        "SQ": 80,
+        "AAPL": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Stocks to Watch Friday Recap: Tesla, Affirm, Block",
+      "original_body": "↘️ Tesla (TSLA): Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7% lower.",
+      "cleaned_title": "Stocks to Watch Friday Recap Tesla, Affirm, Block",
+      "cleaned_body": "Tesla TSLA Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7 percent lower.",
+      "cleaned_text": "Stocks to Watch Friday Recap Tesla, Affirm, Block. Tesla TSLA Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7 percent lower.",
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "friday",
+          "recap",
+          "tesla",
+          ",",
+          "affirm",
+          ",",
+          "block",
+          "tesla",
+          "tsla",
+          "shareholders",
+          "approved",
+          "a",
+          "$",
+          "1",
+          "trillion",
+          "pay",
+          "package",
+          "for",
+          "chief",
+          "executive",
+          "elon",
+          "musk",
+          ",",
+          "but",
+          "gave",
+          "mixed",
+          "support",
+          "to",
+          "the",
+          "idea",
+          "of",
+          "the",
+          "carmaker",
+          "investing",
+          "in",
+          "his",
+          "xai",
+          "ventures",
+          ".",
+          "the",
+          "stock",
+          "closed",
+          "3.7",
+          "percent",
+          "lower",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "friday",
+          "recap",
+          "tesla",
+          ",",
+          "affirm",
+          ",",
+          "block",
+          "tesla",
+          "tsla",
+          "shareholders",
+          "approved",
+          "$",
+          "1",
+          "trillion",
+          "pay",
+          "package",
+          "chief",
+          "executive",
+          "elon",
+          "musk",
+          ",",
+          "gave",
+          "mixed",
+          "support",
+          "idea",
+          "carmaker",
+          "investing",
+          "xai",
+          "ventures",
+          ".",
+          "stock",
+          "closed",
+          "3.7",
+          "percent",
+          "lower",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "friday",
+          "recap",
+          "tesla",
+          ",",
+          "affirm",
+          ",",
+          "block",
+          "tesla",
+          "tsla",
+          "shareholder",
+          "approve",
+          "$",
+          "1",
+          "trillion",
+          "pay",
+          "package",
+          "chief",
+          "executive",
+          "elon",
+          "musk",
+          ",",
+          "give",
+          "mixed",
+          "support",
+          "idea",
+          "carmaker",
+          "invest",
+          "xai",
+          "venture",
+          ".",
+          "stock",
+          "close",
+          "3.7",
+          "percent",
+          "low",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "TSLA",
+            "xAI"
+          ],
+          "GPE": [
+            "Affirm",
+            "Block",
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut",
+            "lower"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "1",
+          "3.7"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "friday",
+            1
+          ],
+          [
+            "recap",
+            1
+          ],
+          [
+            "affirm",
+            1
+          ],
+          [
+            "block",
+            1
+          ],
+          [
+            "tsla",
+            1
+          ],
+          [
+            "shareholder",
+            1
+          ],
+          [
+            "approve",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 50,
+        "avg_words_per_sentence": 16.67,
+        "num_unique_words": 42
+      },
+      "processed_at": "2025-11-14T03:30:03.611076",
+      "preprocessing_version": "1.0",
+      "article_id": "b10cd2e2e1ade368",
+      "title": "Stocks to Watch Friday Recap: Tesla, Affirm, Block",
+      "description": "↘️ Tesla (TSLA): Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7% lower.",
+      "body": "↘️ Tesla (TSLA): Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7% lower.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=145a95c4e705b5f23370f1444a9ce4970c750f1dcc75d8e4ea4e565ea393ae2b",
+      "author": "Unknown",
+      "published_at": "2025-11-08T03:10:15",
+      "scraped_at": "2025-11-13T22:21:23.910268",
+      "ticker": "TSLA",
+      "raw_text": "Stocks to Watch Friday Recap: Tesla, Affirm, Block ↘️ Tesla (TSLA): Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7% lower. ↘️ Tesla (TSLA): Shareholders approved a $1 trillion pay package for Chief Executive Elon Musk, but gave mixed support to the idea of the carmaker investing in his xAI ventures. The stock closed 3.7% lower.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "SQ"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "SQ": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "These Stocks Moved the Most Today: Tesla, Expedia, Take-Two, Block, Affirm, Sunrun, Globus Medical, JFrog, and More",
+      "original_body": "Tesla declines after the electric-vehicle maker's shareholders approve a massive pay package for CEO Elon Musk.",
+      "cleaned_title": "These Stocks Moved the Most Today Tesla, Expedia, Take-Two, Block, Affirm, Sunrun, Globus Medical, JFrog, and More",
+      "cleaned_body": "Tesla declines after the electric-vehicle makers shareholders approve a massive pay package for CEO Elon Musk.",
+      "cleaned_text": "These Stocks Moved the Most Today Tesla, Expedia, Take-Two, Block, Affirm, Sunrun, Globus Medical, JFrog, and More. Tesla declines after the electric-vehicle makers shareholders approve a massive pay package for CEO Elon Musk.",
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "moved",
+          "the",
+          "most",
+          "today",
+          "tesla",
+          ",",
+          "expedia",
+          ",",
+          "take-two",
+          ",",
+          "block",
+          ",",
+          "affirm",
+          ",",
+          "sunrun",
+          ",",
+          "globus",
+          "medical",
+          ",",
+          "jfrog",
+          ",",
+          "and",
+          "more",
+          "tesla",
+          "declines",
+          "after",
+          "the",
+          "electric-vehicle",
+          "makers",
+          "shareholders",
+          "approve",
+          "a",
+          "massive",
+          "pay",
+          "package",
+          "for",
+          "ceo",
+          "elon",
+          "musk",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moved",
+          "most",
+          "today",
+          "tesla",
+          ",",
+          "expedia",
+          ",",
+          "take-two",
+          ",",
+          "block",
+          ",",
+          "affirm",
+          ",",
+          "sunrun",
+          ",",
+          "globus",
+          "medical",
+          ",",
+          "jfrog",
+          ",",
+          "more",
+          "tesla",
+          "declines",
+          "electric-vehicle",
+          "makers",
+          "shareholders",
+          "approve",
+          "massive",
+          "pay",
+          "package",
+          "ceo",
+          "elon",
+          "musk",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "tesla",
+          ",",
+          "expedia",
+          ",",
+          "take-two",
+          ",",
+          "block",
+          ",",
+          "affirm",
+          ",",
+          "sunrun",
+          ",",
+          "globus",
+          "medical",
+          ",",
+          "jfrog",
+          ",",
+          "more",
+          "tesla",
+          "decline",
+          "electric-vehicle",
+          "maker",
+          "shareholder",
+          "approve",
+          "massive",
+          "pay",
+          "package",
+          "ceo",
+          "elon",
+          "musk",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stocks",
+            "Tesla",
+            "Globus Medical"
+          ],
+          "ORGANIZATION": [
+            "JFrog",
+            "CEO Elon Musk"
+          ],
+          "GPE": [
+            "Expedia",
+            "Block",
+            "Affirm",
+            "Sunrun"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "decline"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "expedia",
+            1
+          ],
+          [
+            "take-two",
+            1
+          ],
+          [
+            "block",
+            1
+          ],
+          [
+            "affirm",
+            1
+          ],
+          [
+            "sunrun",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 43,
+        "avg_words_per_sentence": 21.5,
+        "num_unique_words": 33
+      },
+      "processed_at": "2025-11-14T03:30:03.823810",
+      "preprocessing_version": "1.0",
+      "article_id": "feb71e8d2bf5868c",
+      "title": "These Stocks Moved the Most Today: Tesla, Expedia, Take-Two, Block, Affirm, Sunrun, Globus Medical, JFrog, and More",
+      "description": "Tesla declines after the electric-vehicle maker's shareholders approve a massive pay package for CEO Elon Musk.",
+      "body": "Tesla declines after the electric-vehicle maker's shareholders approve a massive pay package for CEO Elon Musk.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=0d17654fb182cf75aebf35c206d1d8a0fbb979db8c16ffe3db219b09cbaa0c80",
+      "author": "Unknown",
+      "published_at": "2025-11-08T02:51:00",
+      "scraped_at": "2025-11-13T22:21:23.910284",
+      "ticker": "TSLA",
+      "raw_text": "These Stocks Moved the Most Today: Tesla, Expedia, Take-Two, Block, Affirm, Sunrun, Globus Medical, JFrog, and More Tesla declines after the electric-vehicle maker's shareholders approve a massive pay package for CEO Elon Musk. Tesla declines after the electric-vehicle maker's shareholders approve a massive pay package for CEO Elon Musk.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "SQ"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "SQ": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Top Stock Movers Now: Tesla, Expedia, Take-Two, Block, and More",
+      "original_body": "Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports.",
+      "cleaned_title": "Top Stock Movers Now Tesla, Expedia, Take-Two, Block, and More",
+      "cleaned_body": "Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports.",
+      "cleaned_text": "Top Stock Movers Now Tesla, Expedia, Take-Two, Block, and More. Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports.",
+      "tokens": {
+        "original": [
+          "top",
+          "stock",
+          "movers",
+          "now",
+          "tesla",
+          ",",
+          "expedia",
+          ",",
+          "take-two",
+          ",",
+          "block",
+          ",",
+          "and",
+          "more",
+          "major",
+          "u.s.",
+          "equities",
+          "indexes",
+          "lost",
+          "ground",
+          "friday",
+          "afternoon",
+          ",",
+          "led",
+          "by",
+          "the",
+          "tech",
+          "sector",
+          "amid",
+          "lingering",
+          "worries",
+          "about",
+          "an",
+          "ai",
+          "bubble",
+          "and",
+          "after",
+          "a",
+          "string",
+          "of",
+          "weaker-than-expected",
+          "earnings",
+          "reports",
+          "."
+        ],
+        "filtered": [
+          "top",
+          "stock",
+          "movers",
+          "tesla",
+          ",",
+          "expedia",
+          ",",
+          "take-two",
+          ",",
+          "block",
+          ",",
+          "more",
+          "major",
+          "u.s.",
+          "equities",
+          "indexes",
+          "lost",
+          "ground",
+          "friday",
+          "afternoon",
+          ",",
+          "led",
+          "tech",
+          "sector",
+          "amid",
+          "lingering",
+          "worries",
+          "ai",
+          "bubble",
+          "string",
+          "weaker-than-expected",
+          "earnings",
+          "reports",
+          "."
+        ],
+        "lemmatized": [
+          "top",
+          "stock",
+          "mover",
+          "tesla",
+          ",",
+          "expedia",
+          ",",
+          "take-two",
+          ",",
+          "block",
+          ",",
+          "more",
+          "major",
+          "u.s.",
+          "equity",
+          "index",
+          "lose",
+          "ground",
+          "friday",
+          "afternoon",
+          ",",
+          "lead",
+          "tech",
+          "sector",
+          "amid",
+          "linger",
+          "worry",
+          "ai",
+          "bubble",
+          "string",
+          "weaker-than-expected",
+          "earnings",
+          "report",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla",
+            "Major"
+          ],
+          "ORGANIZATION": [
+            "Stock Movers"
+          ],
+          "GPE": [
+            "Expedia",
+            "Block",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "weak"
+          ],
+          "neutral": [
+            "report",
+            "expect",
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "top",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "mover",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "expedia",
+            1
+          ],
+          [
+            "take-two",
+            1
+          ],
+          [
+            "block",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "major",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 3,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 45,
+        "avg_words_per_sentence": 22.5,
+        "num_unique_words": 39
+      },
+      "processed_at": "2025-11-14T03:30:04.644273",
+      "preprocessing_version": "1.0",
+      "article_id": "bb0119dd96474c7f",
+      "title": "Top Stock Movers Now: Tesla, Expedia, Take-Two, Block, and More",
+      "description": "Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports.",
+      "body": "Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports.",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=3d8880962504f6ac6f8c695d99efab76a929ff8a6308cbb3c1ead3681d008625",
+      "author": "Unknown",
+      "published_at": "2025-11-07T23:44:53",
+      "scraped_at": "2025-11-13T22:21:23.910330",
+      "ticker": "TSLA",
+      "raw_text": "Top Stock Movers Now: Tesla, Expedia, Take-Two, Block, and More Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports. Major U.S. equities indexes lost ground Friday afternoon, led by the tech sector amid lingering worries about an AI bubble and after a string of weaker-than-expected earnings reports.",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "TSLA",
+        "SQ"
+      ],
+      "ticker_confidence": {
+        "TSLA": 80,
+        "SQ": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

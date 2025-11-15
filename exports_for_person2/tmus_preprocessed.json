@@ -1,0 +1,533 @@
+{
+  "ticker": "TMUS",
+  "export_date": "2025-11-15T01:16:26.138219",
+  "article_count": 2,
+  "articles": [
+    {
+      "original_title": "SoftBank Offloads $15 Billion Nvidia And T-Mobile Stakes To Fund AI Push",
+      "original_body": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nSoftBank Group Corp. (OTCPK: SFTBY) has raised over $15 billion by offloading its high-profile st… [+6482 chars]",
+      "cleaned_title": "SoftBank Offloads $15 Billion Nvidia And T-Mobile Stakes To Fund AI Push",
+      "cleaned_body": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. SoftBank Group Corp. OTCPK SFTBY has raised over $15 billion by offloading its high-profile st 6482 chars",
+      "cleaned_text": "SoftBank Offloads $15 Billion Nvidia And T-Mobile Stakes To Fund AI Push. Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. SoftBank Group Corp. OTCPK SFTBY has raised over $15 billion by offloading its high-profile st 6482 chars",
+      "tokens": {
+        "original": [
+          "softbank",
+          "offloads",
+          "$",
+          "15",
+          "billion",
+          "nvidia",
+          "and",
+          "t-mobile",
+          "stakes",
+          "to",
+          "fund",
+          "ai",
+          "push",
+          "benzinga",
+          "and",
+          "yahoo",
+          "finance",
+          "llc",
+          "may",
+          "earn",
+          "commission",
+          "or",
+          "revenue",
+          "on",
+          "some",
+          "items",
+          "through",
+          "the",
+          "links",
+          "below",
+          ".",
+          "softbank",
+          "group",
+          "corp.",
+          "otcpk",
+          "sftby",
+          "has",
+          "raised",
+          "over",
+          "$",
+          "15",
+          "billion",
+          "by",
+          "offloading",
+          "its",
+          "high-profile",
+          "st",
+          "6482",
+          "chars"
+        ],
+        "filtered": [
+          "softbank",
+          "offloads",
+          "$",
+          "15",
+          "billion",
+          "nvidia",
+          "t-mobile",
+          "stakes",
+          "fund",
+          "ai",
+          "push",
+          "benzinga",
+          "yahoo",
+          "finance",
+          "llc",
+          "may",
+          "earn",
+          "commission",
+          "revenue",
+          "items",
+          "links",
+          "below",
+          ".",
+          "softbank",
+          "group",
+          "corp.",
+          "otcpk",
+          "sftby",
+          "raised",
+          "over",
+          "$",
+          "15",
+          "billion",
+          "offloading",
+          "high-profile",
+          "st",
+          "6482",
+          "chars"
+        ],
+        "lemmatized": [
+          "softbank",
+          "offload",
+          "$",
+          "15",
+          "billion",
+          "nvidia",
+          "t-mobile",
+          "stake",
+          "fund",
+          "ai",
+          "push",
+          "benzinga",
+          "yahoo",
+          "finance",
+          "llc",
+          "may",
+          "earn",
+          "commission",
+          "revenue",
+          "item",
+          "link",
+          "below",
+          ".",
+          "softbank",
+          "group",
+          "corp.",
+          "otcpk",
+          "sftby",
+          "raise",
+          "over",
+          "$",
+          "15",
+          "billion",
+          "offload",
+          "high-profile",
+          "st",
+          "6482",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion Nvidia",
+            "Fund AI Push",
+            "Benzinga"
+          ],
+          "ORGANIZATION": [
+            "SoftBank",
+            "Yahoo Finance",
+            "SoftBank Group Corp.",
+            "OTCPK"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "miss"
+          ],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "15",
+          "15",
+          "6482"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "softbank",
+            2
+          ],
+          [
+            "offload",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "t-mobile",
+            1
+          ],
+          [
+            "stake",
+            1
+          ],
+          [
+            "fund",
+            1
+          ],
+          [
+            "push",
+            1
+          ],
+          [
+            "benzinga",
+            1
+          ],
+          [
+            "yahoo",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 3,
+        "num_words": 50,
+        "avg_words_per_sentence": 16.67,
+        "num_unique_words": 44
+      },
+      "processed_at": "2025-11-14T03:29:30.198790",
+      "preprocessing_version": "1.0",
+      "article_id": "4dbe2e2f42e25a2b",
+      "title": "SoftBank Offloads $15 Billion Nvidia And T-Mobile Stakes To Fund AI Push",
+      "description": "SoftBank Group Corp. (OTCPK: SFTBY) has raised over $15 billion by offloading its high-profile stakes in T-Mobile US Inc. (NASDAQ:TMUS) and Nvidia Corp...",
+      "body": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nSoftBank Group Corp. (OTCPK: SFTBY) has raised over $15 billion by offloading its high-profile st… [+6482 chars]",
+      "source": "Yahoo Entertainment",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://finance.yahoo.com/news/softbank-offloads-15-billion-nvidia-104606618.html",
+      "author": "Rishabh Mishra",
+      "published_at": "2025-11-12T10:46:06Z",
+      "scraped_at": "2025-11-13T22:21:13.286317",
+      "ticker": "TSLA",
+      "raw_text": "SoftBank Offloads $15 Billion Nvidia And T-Mobile Stakes To Fund AI Push SoftBank Group Corp. (OTCPK: SFTBY) has raised over $15 billion by offloading its high-profile stakes in T-Mobile US Inc. (NASDAQ:TMUS) and Nvidia Corp... Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nSoftBank Group Corp. (OTCPK: SFTBY) has raised over $15 billion by offloading its high-profile st… [+6482 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "NVDA",
+        "TMUS"
+      ],
+      "ticker_confidence": {
+        "NVDA": 80,
+        "TMUS": 80
+      },
+      "ticker_contexts": {
+        "TMUS": [
+          "raised over $15 billion by offloading its high-profile stakes in **T-Mobile** US Inc. (NASDAQ:TMUS) and Nvidia Corp... Benzinga and Yahoo Finance"
+        ]
+      },
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    },
+    {
+      "original_title": "Daily Tech News 12 November 2025",
+      "original_body": "<li>The worst-selling Microsoft product ever. (Tom's Hardware)Not the worst product, not by a long shot, but there was no real market for it.\r\nMicrosoft used to sell accelerator cards for computers. … [+3907 chars]",
+      "cleaned_title": "Daily Tech News 12 November 2025",
+      "cleaned_body": "The worst-selling Microsoft product ever. Toms HardwareNot the worst product, not by a long shot, but there was no real market for it. Microsoft used to sell accelerator cards for computers. 3907 chars",
+      "cleaned_text": "Daily Tech News 12 November 2025. The worst-selling Microsoft product ever. Toms HardwareNot the worst product, not by a long shot, but there was no real market for it. Microsoft used to sell accelerator cards for computers. 3907 chars",
+      "tokens": {
+        "original": [
+          "daily",
+          "tech",
+          "news",
+          "12",
+          "november",
+          "2025",
+          "the",
+          "worst-selling",
+          "microsoft",
+          "product",
+          "ever",
+          ".",
+          "toms",
+          "hardwarenot",
+          "the",
+          "worst",
+          "product",
+          ",",
+          "not",
+          "by",
+          "a",
+          "long",
+          "shot",
+          ",",
+          "but",
+          "there",
+          "was",
+          "no",
+          "real",
+          "market",
+          "for",
+          "it",
+          ".",
+          "microsoft",
+          "used",
+          "to",
+          "sell",
+          "accelerator",
+          "cards",
+          "for",
+          "computers",
+          ".",
+          "3907",
+          "chars"
+        ],
+        "filtered": [
+          "daily",
+          "tech",
+          "news",
+          "12",
+          "november",
+          "2025",
+          "worst-selling",
+          "microsoft",
+          "product",
+          "ever",
+          ".",
+          "toms",
+          "hardwarenot",
+          "worst",
+          "product",
+          ",",
+          "not",
+          "long",
+          "shot",
+          ",",
+          "no",
+          "real",
+          "market",
+          ".",
+          "microsoft",
+          "used",
+          "sell",
+          "accelerator",
+          "cards",
+          "computers",
+          ".",
+          "3907",
+          "chars"
+        ],
+        "lemmatized": [
+          "daily",
+          "tech",
+          "news",
+          "12",
+          "november",
+          "2025",
+          "worst-selling",
+          "microsoft",
+          "product",
+          "ever",
+          ".",
+          "tom",
+          "hardwarenot",
+          "bad",
+          "product",
+          ",",
+          "not",
+          "long",
+          "shot",
+          ",",
+          "no",
+          "real",
+          "market",
+          ".",
+          "microsoft",
+          "use",
+          "sell",
+          "accelerator",
+          "card",
+          "computer",
+          ".",
+          "3907",
+          "char"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Daily",
+            "Tom",
+            "Microsoft"
+          ],
+          "ORGANIZATION": [
+            "Tech",
+            "Microsoft",
+            "Hardware"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "12",
+          "2025",
+          "3907"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "product",
+            2
+          ],
+          [
+            "daily",
+            1
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "november",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "worst-selling",
+            1
+          ],
+          [
+            "ever",
+            1
+          ],
+          [
+            "tom",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 5,
+        "num_words": 44,
+        "avg_words_per_sentence": 8.8,
+        "num_unique_words": 37
+      },
+      "processed_at": "2025-11-14T03:29:30.502858",
+      "preprocessing_version": "1.0",
+      "article_id": "987bc91a6d5d13e4",
+      "title": "Daily Tech News 12 November 2025",
+      "description": "Top Story Japanese investment group SoftBank has sold its entire stake in Nvidia for $5.83 billion. (Tom's Hardware) Do they know something I know? Apparently not, because they also sold their stake in T-Mobile for $9.17 billion, making a quarterly...",
+      "body": "<li>The worst-selling Microsoft product ever. (Tom's Hardware)Not the worst product, not by a long shot, but there was no real market for it.\r\nMicrosoft used to sell accelerator cards for computers. … [+3907 chars]",
+      "source": "Acecomments.mu.nu",
+      "source_api": "newsapi",
+      "source_priority": 3,
+      "url": "https://acecomments.mu.nu/?post=417271",
+      "author": "Pixy Misa",
+      "published_at": "2025-11-12T09:00:00Z",
+      "scraped_at": "2025-11-13T22:21:13.286330",
+      "ticker": "TSLA",
+      "raw_text": "Daily Tech News 12 November 2025 Top Story Japanese investment group SoftBank has sold its entire stake in Nvidia for $5.83 billion. (Tom's Hardware) Do they know something I know? Apparently not, because they also sold their stake in T-Mobile for $9.17 billion, making a quarterly... <li>The worst-selling Microsoft product ever. (Tom's Hardware)Not the worst product, not by a long shot, but there was no real market for it.\r\nMicrosoft used to sell accelerator cards for computers. … [+3907 chars]",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "MSFT",
+        "NVDA",
+        "TMUS"
+      ],
+      "ticker_confidence": {
+        "MSFT": 80,
+        "NVDA": 80,
+        "TMUS": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

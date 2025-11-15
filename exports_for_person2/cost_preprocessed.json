@@ -1,0 +1,298 @@
+{
+  "ticker": "COST",
+  "export_date": "2025-11-15T01:16:26.130464",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Every payment method Costco accepts: From EBT to Apple Pay",
+      "original_body": "Costco is America’s favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sam’s Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "cleaned_title": "Every payment method Costco accepts From EBT to Apple Pay",
+      "cleaned_body": "Costco is Americas favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sams Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "cleaned_text": "Every payment method Costco accepts From EBT to Apple Pay. Costco is Americas favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sams Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "tokens": {
+        "original": [
+          "every",
+          "payment",
+          "method",
+          "costco",
+          "accepts",
+          "from",
+          "ebt",
+          "to",
+          "apple",
+          "pay",
+          "costco",
+          "is",
+          "americas",
+          "favorite",
+          "warehouse",
+          "club",
+          ",",
+          "boasting",
+          "almost",
+          "twice",
+          "as",
+          "many",
+          "members",
+          "as",
+          "its",
+          "next-biggest",
+          "rival",
+          ",",
+          "sams",
+          "club",
+          ",",
+          "despite",
+          "its",
+          "more",
+          "expensive",
+          "membership",
+          "fees",
+          ".",
+          "another",
+          "important",
+          "distinction",
+          "between",
+          "the",
+          "retailers",
+          "is",
+          "the",
+          "payment",
+          "methods",
+          "each",
+          "one",
+          "accepts",
+          ".",
+          "for",
+          "instance",
+          ",",
+          "while",
+          "you",
+          "can",
+          "use",
+          "any",
+          "..."
+        ],
+        "filtered": [
+          "every",
+          "payment",
+          "method",
+          "costco",
+          "accepts",
+          "ebt",
+          "apple",
+          "pay",
+          "costco",
+          "americas",
+          "favorite",
+          "warehouse",
+          "club",
+          ",",
+          "boasting",
+          "almost",
+          "twice",
+          "many",
+          "members",
+          "next-biggest",
+          "rival",
+          ",",
+          "sams",
+          "club",
+          ",",
+          "despite",
+          "more",
+          "expensive",
+          "membership",
+          "fees",
+          ".",
+          "another",
+          "important",
+          "distinction",
+          "retailers",
+          "payment",
+          "methods",
+          "one",
+          "accepts",
+          ".",
+          "instance",
+          ",",
+          "use",
+          "..."
+        ],
+        "lemmatized": [
+          "every",
+          "payment",
+          "method",
+          "costco",
+          "accept",
+          "ebt",
+          "apple",
+          "pay",
+          "costco",
+          "america",
+          "favorite",
+          "warehouse",
+          "club",
+          ",",
+          "boast",
+          "almost",
+          "twice",
+          "many",
+          "member",
+          "next-biggest",
+          "rival",
+          ",",
+          "sams",
+          "club",
+          ",",
+          "despite",
+          "more",
+          "expensive",
+          "membership",
+          "fee",
+          ".",
+          "another",
+          "important",
+          "distinction",
+          "retailer",
+          "payment",
+          "method",
+          "one",
+          "accepts",
+          ".",
+          "instance",
+          ",",
+          "use",
+          "..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Pay",
+            "Costco",
+            "Sam",
+            "Club"
+          ],
+          "ORGANIZATION": [
+            "EBT",
+            "America"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "payment",
+            2
+          ],
+          [
+            "method",
+            2
+          ],
+          [
+            "costco",
+            2
+          ],
+          [
+            "club",
+            2
+          ],
+          [
+            "every",
+            1
+          ],
+          [
+            "accept",
+            1
+          ],
+          [
+            "ebt",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "pay",
+            1
+          ],
+          [
+            "america",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 4,
+        "num_words": 62,
+        "avg_words_per_sentence": 15.5,
+        "num_unique_words": 49
+      },
+      "processed_at": "2025-11-14T03:29:17.482457",
+      "preprocessing_version": "1.0",
+      "article_id": "92b96a64672b0cc0",
+      "title": "Every payment method Costco accepts: From EBT to Apple Pay",
+      "description": "Costco is America’s favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sam’s Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "body": "Costco is America’s favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sam’s Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "source": "Yahoo",
+      "source_api": "finnhub",
+      "source_priority": 2,
+      "url": "https://finnhub.io/api/news?id=d3a884471779b85d177a35404dab1bfdcb3f86d0caa5d3c412b884f17354e502",
+      "author": "Unknown",
+      "published_at": "2025-11-08T20:38:00",
+      "scraped_at": "2025-11-13T22:21:12.171753",
+      "ticker": "AAPL",
+      "raw_text": "Every payment method Costco accepts: From EBT to Apple Pay Costco is America’s favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sam’s Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ... Costco is America’s favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sam’s Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "sentiment_score": null,
+      "sentiment_label": null,
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "category": "company",
+      "tickers_mentioned": [
+        "COST",
+        "AAPL"
+      ],
+      "ticker_confidence": {
+        "COST": 80,
+        "AAPL": 50
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}

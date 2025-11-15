@@ -1,0 +1,253 @@
+{
+  "ticker": "PG",
+  "export_date": "2025-11-15T01:16:26.085526",
+  "article_count": 1,
+  "articles": [
+    {
+      "original_title": "Top Analyst Reports for Apple, Procter & Gamble and UnitedHealth",
+      "original_body": "Apple, Procter & Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "cleaned_title": "Top Analyst Reports for Apple, Procter Gamble and UnitedHealth",
+      "cleaned_body": "Apple, Procter Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "cleaned_text": "Top Analyst Reports for Apple, Procter Gamble and UnitedHealth. Apple, Procter Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "tokens": {
+        "original": [
+          "top",
+          "analyst",
+          "reports",
+          "for",
+          "apple",
+          ",",
+          "procter",
+          "gamble",
+          "and",
+          "unitedhealth",
+          "apple",
+          ",",
+          "procter",
+          "gamble",
+          ",",
+          "and",
+          "unitedhealth",
+          "headline",
+          "fresh",
+          "analyst",
+          "insights",
+          ",",
+          "with",
+          "growth",
+          "forecasts",
+          ",",
+          "cost",
+          "challenges",
+          ",",
+          "and",
+          "strategic",
+          "updates",
+          "driving",
+          "investor",
+          "focus",
+          "."
+        ],
+        "filtered": [
+          "top",
+          "analyst",
+          "reports",
+          "apple",
+          ",",
+          "procter",
+          "gamble",
+          "unitedhealth",
+          "apple",
+          ",",
+          "procter",
+          "gamble",
+          ",",
+          "unitedhealth",
+          "headline",
+          "fresh",
+          "analyst",
+          "insights",
+          ",",
+          "growth",
+          "forecasts",
+          ",",
+          "cost",
+          "challenges",
+          ",",
+          "strategic",
+          "updates",
+          "driving",
+          "investor",
+          "focus",
+          "."
+        ],
+        "lemmatized": [
+          "top",
+          "analyst",
+          "report",
+          "apple",
+          ",",
+          "procter",
+          "gamble",
+          "unitedhealth",
+          "apple",
+          ",",
+          "procter",
+          "gamble",
+          ",",
+          "unitedhealth",
+          "headline",
+          "fresh",
+          "analyst",
+          "insight",
+          ",",
+          "growth",
+          "forecast",
+          ",",
+          "cost",
+          "challenge",
+          ",",
+          "strategic",
+          "update",
+          "drive",
+          "investor",
+          "focus",
+          "."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Analyst Reports",
+            "Apple"
+          ],
+          "ORGANIZATION": [
+            "UnitedHealth"
+          ],
+          "GPE": [
+            "Gamble"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "forecast"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "analyst",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "procter",
+            2
+          ],
+          [
+            "gamble",
+            2
+          ],
+          [
+            "unitedhealth",
+            2
+          ],
+          [
+            "top",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "headline",
+            1
+          ],
+          [
+            "fresh",
+            1
+          ],
+          [
+            "insight",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "stats": {
+        "num_sentences": 2,
+        "num_words": 37,
+        "avg_words_per_sentence": 18.5,
+        "num_unique_words": 24
+      },
+      "processed_at": "2025-11-14T03:28:56.141572",
+      "preprocessing_version": "1.0",
+      "article_id": "ec003b260f707806",
+      "title": "Top Analyst Reports for Apple, Procter & Gamble and UnitedHealth",
+      "description": "Apple, Procter & Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "body": "Apple, Procter & Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "source": "Zacks Commentary",
+      "source_api": "alphavantage",
+      "source_priority": 2,
+      "url": "https://www.zacks.com/research-daily/2789692/top-analyst-reports-for-apple-procter-gamble-and-unitedhealth",
+      "author": "Mark Vickery",
+      "published_at": "20251112T211500",
+      "scraped_at": "2025-11-13T22:21:11.606277",
+      "ticker": "AAPL",
+      "raw_text": "Top Analyst Reports for Apple, Procter & Gamble and UnitedHealth Apple, Procter & Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus. Apple, Procter & Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "sentiment_score": 0.282391,
+      "sentiment_label": "Somewhat-Bullish",
+      "image": null,
+      "category": null,
+      "tickers_mentioned": [
+        "AAPL",
+        "UNH",
+        "PG"
+      ],
+      "ticker_confidence": {
+        "AAPL": 80,
+        "UNH": 80,
+        "PG": 80
+      },
+      "ticker_contexts": {},
+      "is_duplicate": false,
+      "duplicate_of": null,
+      "similarity_score": 0.0
+    }
+  ],
+  "metadata": {
+    "preprocessing": {
+      "cleaned": true,
+      "tokenized": true,
+      "lemmatized": true,
+      "features_extracted": true
+    },
+    "fields_available": [
+      "cleaned_title",
+      "cleaned_body",
+      "tokens (original, filtered, lemmatized)",
+      "features (entities, financial_keywords, numbers, dates)",
+      "tickers_mentioned",
+      "ticker_contexts"
+    ]
+  }
+}
