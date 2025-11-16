@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 📰 Stock News Scraper & Analysis System
 
 A comprehensive financial news scraping, processing, and analysis system that collects news from multiple sources, detects stock tickers, processes text using NLP, and provides REST APIs for sentiment analysis and UI integration.
@@ -281,15 +281,8 @@ MIT License - See LICENSE file for details
 
 ## 👥 Team
 
-- **Person 1:** News Retrieval & Preprocessing (You!)
-- **Person 2:** Sentiment Analysis & Investment Recommendations
-- **Person 3:** UI/Frontend Development
+- **Vanshika** News Retrieval & Preprocessing (You!)
+- **Navya** Sentiment Analysis & Investment Recommendations
+- **Charvi:** UI/Frontend Development
 
 ---
-
-## 📧 Contact
-
-For questions or issues, contact: [Your Email]
-
-Last Updated: November 15, 2024
-EOF
