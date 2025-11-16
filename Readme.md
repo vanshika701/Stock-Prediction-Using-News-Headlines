@@ -15,9 +15,6 @@ This system automatically:
 - Provides REST APIs for team integration
 - Runs automatically every 15 minutes
 
-**Built by:** Person 1 (News Retrieval & Preprocessing)  
-**Team Integration:** APIs for Person 2 (Sentiment Analysis) & Person 3 (UI/Frontend)
-
 ---
 
 ## 📊 System Architecture
