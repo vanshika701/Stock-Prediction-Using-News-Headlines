@@ -278,7 +278,7 @@ MIT License - See LICENSE file for details
 
 ## 👥 Team
 
-- **Vanshika** News Retrieval & Preprocessing (You!)
+- **Vanshika** News Retrieval & Preprocessing
 - **Navya** Sentiment Analysis & Investment Recommendations
 - **Charvi:** UI/Frontend Development
 
