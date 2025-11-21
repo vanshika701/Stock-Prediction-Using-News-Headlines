@@ -1,0 +1,1775 @@
+{
+  "count": 7,
+  "articles": [
+    {
+      "article_id": "ba0539a4af9933eb",
+      "title": "Constellation gets 1 billion dollars loan from US, Tesla ride-hailing in Arizona",
+      "body": "Market Catalysts host Julie Hyman tracks several of the days top trending stock tickers, including Constellation Energys CEG $1 billion loan from the US Department of Energy to reopen a unit of the Three Mile Island nuclear plant, Williams-Sonoma WSM beat earnings and revenue estimates while Pottery Barn dragged down the companys growth, and Tesla TSLA receives a permit to offer ride-hailing services in Arizona. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:26.429539",
+      "url": "https://finnhub.io/api/news?id=07c1a0b92e25f7d319df9e907cb0000cf715ad11363bebbf84f768979ebb443a",
+      "raw_text": "Constellation gets 1 billion dollars loan from US, Tesla ride-hailing in Arizona. Market Catalysts host Julie Hyman tracks several of the days top trending stock tickers, including Constellation Energys CEG $1 billion loan from the US Department of Energy to reopen a unit of the Three Mile Island nuclear plant, Williams-Sonoma WSM beat earnings and revenue estimates while Pottery Barn dragged down the companys growth, and Tesla TSLA receives a permit to offer ride-hailing services in Arizona. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "tickers_mentioned": "TSLA,HST,CEG",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TSLA": [],
+        "HST": [],
+        "CEG": [
+          "tracks several of the day's top trending stock tickers, including **Constellation** Energy's (CEG) $1 billion loan from the US Department of"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market",
+            "Julie Hyman",
+            "Mile Island",
+            "Pottery Barn"
+          ],
+          "ORGANIZATION": [
+            "Constellation Energy",
+            "CEG",
+            "US Department",
+            "WSM",
+            "TSLA"
+          ],
+          "GPE": [
+            "US",
+            "Tesla",
+            "Arizona",
+            "Energy"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "beat",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "estimate",
+            "earnings",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "1B",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "market",
+            3
+          ],
+          [
+            "constellation",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "loan",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "ride-hailing",
+            2
+          ],
+          [
+            "arizona",
+            2
+          ],
+          [
+            "energy",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "get",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "constellation",
+          "gets",
+          "1",
+          "billion",
+          "dollars",
+          "loan",
+          "from",
+          "us",
+          ",",
+          "tesla",
+          "ride-hailing",
+          "in",
+          "arizona",
+          ".",
+          "market",
+          "catalysts",
+          "host",
+          "julie",
+          "hyman",
+          "tracks",
+          "several",
+          "of",
+          "the",
+          "days",
+          "top",
+          "trending",
+          "stock",
+          "tickers",
+          ",",
+          "including",
+          "constellation",
+          "energys",
+          "ceg",
+          "$",
+          "1",
+          "billion",
+          "loan",
+          "from",
+          "the",
+          "us",
+          "department",
+          "of",
+          "energy",
+          "to",
+          "reopen",
+          "a",
+          "unit",
+          "of",
+          "the",
+          "three",
+          "mile",
+          "island",
+          "nuclear",
+          "plant",
+          ",",
+          "williams-sonoma",
+          "wsm",
+          "beat",
+          "earnings",
+          "and",
+          "revenue",
+          "estimates",
+          "while",
+          "pottery",
+          "barn",
+          "dragged",
+          "down",
+          "the",
+          "companys",
+          "growth",
+          ",",
+          "and",
+          "tesla",
+          "tsla",
+          "receives",
+          "a",
+          "permit",
+          "to",
+          "offer",
+          "ride-hailing",
+          "services",
+          "in",
+          "arizona",
+          ".",
+          "to",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "and",
+          "analysis",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "out",
+          "more",
+          "market",
+          "catalysts",
+          "."
+        ],
+        "filtered": [
+          "constellation",
+          "gets",
+          "1",
+          "billion",
+          "dollars",
+          "loan",
+          "us",
+          ",",
+          "tesla",
+          "ride-hailing",
+          "arizona",
+          ".",
+          "market",
+          "catalysts",
+          "host",
+          "julie",
+          "hyman",
+          "tracks",
+          "several",
+          "days",
+          "top",
+          "trending",
+          "stock",
+          "tickers",
+          ",",
+          "including",
+          "constellation",
+          "energys",
+          "ceg",
+          "$",
+          "1",
+          "billion",
+          "loan",
+          "us",
+          "department",
+          "energy",
+          "reopen",
+          "unit",
+          "three",
+          "mile",
+          "island",
+          "nuclear",
+          "plant",
+          ",",
+          "williams-sonoma",
+          "wsm",
+          "beat",
+          "earnings",
+          "revenue",
+          "estimates",
+          "pottery",
+          "barn",
+          "dragged",
+          "down",
+          "companys",
+          "growth",
+          ",",
+          "tesla",
+          "tsla",
+          "receives",
+          "permit",
+          "offer",
+          "ride-hailing",
+          "services",
+          "arizona",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "analysis",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "catalysts",
+          "."
+        ],
+        "lemmatized": [
+          "constellation",
+          "get",
+          "1",
+          "billion",
+          "dollar",
+          "loan",
+          "u",
+          ",",
+          "tesla",
+          "ride-hailing",
+          "arizona",
+          ".",
+          "market",
+          "catalysts",
+          "host",
+          "julie",
+          "hyman",
+          "track",
+          "several",
+          "day",
+          "top",
+          "trend",
+          "stock",
+          "ticker",
+          ",",
+          "include",
+          "constellation",
+          "energy",
+          "ceg",
+          "$",
+          "1",
+          "billion",
+          "loan",
+          "u",
+          "department",
+          "energy",
+          "reopen",
+          "unit",
+          "three",
+          "mile",
+          "island",
+          "nuclear",
+          "plant",
+          ",",
+          "williams-sonoma",
+          "wsm",
+          "beat",
+          "earnings",
+          "revenue",
+          "estimate",
+          "pottery",
+          "barn",
+          "drag",
+          "down",
+          "companys",
+          "growth",
+          ",",
+          "tesla",
+          "tsla",
+          "receives",
+          "permit",
+          "offer",
+          "ride-hailing",
+          "service",
+          "arizona",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insight",
+          "analysis",
+          "late",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "catalyst",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4c5b62feeb253694",
+      "title": "Why Constellation Energy Stock Just Popped",
+      "body": "Constellation just got a steal of a deal -- from the U.S. Department of Energy.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:29.790789",
+      "url": "https://finnhub.io/api/news?id=8e8ac49e1084a7cd870630af0dde2e5bc440014e1028ebcdf68d135b8784efa2",
+      "raw_text": "Why Constellation Energy Stock Just Popped. Constellation just got a steal of a deal -- from the U.S. Department of Energy.",
+      "tickers_mentioned": "CEG",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "CEG": [
+          "Why **Constellation** Energy Stock Just Popped. Constellation just got a steal of"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Energy Stock Just Popped"
+          ],
+          "ORGANIZATION": [
+            "U.S. Department"
+          ],
+          "GPE": [
+            "Energy"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "constellation",
+            2
+          ],
+          [
+            "energy",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "pop",
+            1
+          ],
+          [
+            "get",
+            1
+          ],
+          [
+            "steal",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "department",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "why",
+          "constellation",
+          "energy",
+          "stock",
+          "just",
+          "popped",
+          ".",
+          "constellation",
+          "just",
+          "got",
+          "a",
+          "steal",
+          "of",
+          "a",
+          "deal",
+          "--",
+          "from",
+          "the",
+          "u.s.",
+          "department",
+          "of",
+          "energy",
+          "."
+        ],
+        "filtered": [
+          "constellation",
+          "energy",
+          "stock",
+          "popped",
+          ".",
+          "constellation",
+          "got",
+          "steal",
+          "deal",
+          "--",
+          "u.s.",
+          "department",
+          "energy",
+          "."
+        ],
+        "lemmatized": [
+          "constellation",
+          "energy",
+          "stock",
+          "pop",
+          ".",
+          "constellation",
+          "get",
+          "steal",
+          "deal",
+          "--",
+          "u.s.",
+          "department",
+          "energy",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "be434769d7660356",
+      "title": "Constellation Energy Stock Rises on DOE Deal. What a Shuttered Nuclear Plant Has to Do With It.",
+      "body": "Constellation Energy will receive a $1 billion loan to restart Three Mile Island, which has been renamed the Crane Clean Energy Center.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:29.832159",
+      "url": "https://finnhub.io/api/news?id=51014a9487a49cc3c1885e4e468270f394c886244e4a930ad80c5e2ba07ec83a",
+      "raw_text": "Constellation Energy Stock Rises on DOE Deal. What a Shuttered Nuclear Plant Has to Do With It.. Constellation Energy will receive a $1 billion loan to restart Three Mile Island, which has been renamed the Crane Clean Energy Center.",
+      "tickers_mentioned": "CEG",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "CEG": [
+          "**Constellation** Energy Stock Rises on DOE Deal. What a Shuttered Nuclear",
+          "What a Shuttered Nuclear Plant Has to Do With It.. **Constellation** Energy will receive a $1 billion loan to restart Three"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Energy Stock Rises",
+            "Three Mile Island"
+          ],
+          "ORGANIZATION": [
+            "DOE Deal",
+            "Shuttered Nuclear Plant Has",
+            "Constellation Energy",
+            "Crane Clean Energy Center"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "energy",
+            3
+          ],
+          [
+            "constellation",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "rise",
+            1
+          ],
+          [
+            "doe",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "shutter",
+            1
+          ],
+          [
+            "nuclear",
+            1
+          ],
+          [
+            "plant",
+            1
+          ],
+          [
+            "receive",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "constellation",
+          "energy",
+          "stock",
+          "rises",
+          "on",
+          "doe",
+          "deal",
+          ".",
+          "what",
+          "a",
+          "shuttered",
+          "nuclear",
+          "plant",
+          "has",
+          "to",
+          "do",
+          "with",
+          "it",
+          "..",
+          "constellation",
+          "energy",
+          "will",
+          "receive",
+          "a",
+          "$",
+          "1",
+          "billion",
+          "loan",
+          "to",
+          "restart",
+          "three",
+          "mile",
+          "island",
+          ",",
+          "which",
+          "has",
+          "been",
+          "renamed",
+          "the",
+          "crane",
+          "clean",
+          "energy",
+          "center",
+          "."
+        ],
+        "filtered": [
+          "constellation",
+          "energy",
+          "stock",
+          "rises",
+          "doe",
+          "deal",
+          ".",
+          "shuttered",
+          "nuclear",
+          "plant",
+          "..",
+          "constellation",
+          "energy",
+          "receive",
+          "$",
+          "1",
+          "billion",
+          "loan",
+          "restart",
+          "three",
+          "mile",
+          "island",
+          ",",
+          "renamed",
+          "crane",
+          "clean",
+          "energy",
+          "center",
+          "."
+        ],
+        "lemmatized": [
+          "constellation",
+          "energy",
+          "stock",
+          "rise",
+          "doe",
+          "deal",
+          ".",
+          "shutter",
+          "nuclear",
+          "plant",
+          "..",
+          "constellation",
+          "energy",
+          "receive",
+          "$",
+          "1",
+          "billion",
+          "loan",
+          "restart",
+          "three",
+          "mile",
+          "island",
+          ",",
+          "rename",
+          "crane",
+          "clean",
+          "energy",
+          "center",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5a8e740da30e49f6",
+      "title": "These Stocks Are Moving the Most Today Nvidia, Lowes, Target, Semrush, Constellation Energy, Plug Power, and More",
+      "body": "Nvidia is set to report its quarterly earnings on Wednesday as investors fret about lofty AI valuations.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:30.211670",
+      "url": "https://finnhub.io/api/news?id=2e263945ee833f015736be7b0816aedfee0d4ebf3841ab2d755e3cddf4ea1340",
+      "raw_text": "These Stocks Are Moving the Most Today Nvidia, Lowes, Target, Semrush, Constellation Energy, Plug Power, and More. Nvidia is set to report its quarterly earnings on Wednesday as investors fret about lofty AI valuations.",
+      "tickers_mentioned": "NVDA,CEG,TGT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: **Nvidia,** Lowe’s, Target, Semrush, Constellation Energy, Plug Power, and More. Nvidia",
+          "Nvidia, Lowe’s, Target, Semrush, Constellation Energy, Plug Power, and More. **Nvidia** is set to report its quarterly earnings on Wednesday as"
+        ],
+        "CEG": [
+          "Stocks Are Moving the Most Today: Nvidia, Lowe’s, Target, Semrush, **Constellation** Energy, Plug Power, and More. Nvidia is set to report"
+        ],
+        "TGT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lowe",
+            "Target",
+            "Semrush",
+            "Plug Power",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Constellation Energy"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "lowes",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "semrush",
+            1
+          ],
+          [
+            "constellation",
+            1
+          ],
+          [
+            "energy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "target",
+          ",",
+          "semrush",
+          ",",
+          "constellation",
+          "energy",
+          ",",
+          "plug",
+          "power",
+          ",",
+          "and",
+          "more",
+          ".",
+          "nvidia",
+          "is",
+          "set",
+          "to",
+          "report",
+          "its",
+          "quarterly",
+          "earnings",
+          "on",
+          "wednesday",
+          "as",
+          "investors",
+          "fret",
+          "about",
+          "lofty",
+          "ai",
+          "valuations",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "target",
+          ",",
+          "semrush",
+          ",",
+          "constellation",
+          "energy",
+          ",",
+          "plug",
+          "power",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "set",
+          "report",
+          "quarterly",
+          "earnings",
+          "wednesday",
+          "investors",
+          "fret",
+          "lofty",
+          "ai",
+          "valuations",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "target",
+          ",",
+          "semrush",
+          ",",
+          "constellation",
+          "energy",
+          ",",
+          "plug",
+          "power",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "set",
+          "report",
+          "quarterly",
+          "earnings",
+          "wednesday",
+          "investor",
+          "fret",
+          "lofty",
+          "ai",
+          "valuation",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "070ff75fa99edc2a",
+      "title": "Trump DOE gives Microsoft partner 1 billion dollars loan to restart Three Mile Island reactor",
+      "body": "Constellation Energy will use the loan to refurbish a reactor it idled in 2019. Microsoft has agreed to buy the power once the facility reopens in 2028.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:30.416983",
+      "url": "https://finnhub.io/api/news?id=977ba62a46dfabe2df0fad9fe67b5a5d719fa81b798bf789152c9c1abac3b3e6",
+      "raw_text": "Trump DOE gives Microsoft partner 1 billion dollars loan to restart Three Mile Island reactor. Constellation Energy will use the loan to refurbish a reactor it idled in 2019. Microsoft has agreed to buy the power once the facility reopens in 2028.",
+      "tickers_mentioned": "MSFT,CEG",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "MSFT": [
+          "Trump DOE gives **Microsoft** partner $1B loan to restart Three Mile Island reactor. Constellation",
+          "the loan to refurbish a reactor it idled in 2019. **Microsoft** has agreed to buy the power once the facility reopens"
+        ],
+        "CEG": [
+          "Microsoft partner $1B loan to restart Three Mile Island reactor. **Constellation** Energy will use the loan to refurbish a reactor it"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Trump",
+            "Microsoft",
+            "Three Mile Island"
+          ],
+          "ORGANIZATION": [
+            "DOE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1B",
+          "2019",
+          "2028"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "loan",
+            2
+          ],
+          [
+            "reactor",
+            2
+          ],
+          [
+            "trump",
+            1
+          ],
+          [
+            "doe",
+            1
+          ],
+          [
+            "give",
+            1
+          ],
+          [
+            "partner",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "restart",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "trump",
+          "doe",
+          "gives",
+          "microsoft",
+          "partner",
+          "1",
+          "billion",
+          "dollars",
+          "loan",
+          "to",
+          "restart",
+          "three",
+          "mile",
+          "island",
+          "reactor",
+          ".",
+          "constellation",
+          "energy",
+          "will",
+          "use",
+          "the",
+          "loan",
+          "to",
+          "refurbish",
+          "a",
+          "reactor",
+          "it",
+          "idled",
+          "in",
+          "2019.",
+          "microsoft",
+          "has",
+          "agreed",
+          "to",
+          "buy",
+          "the",
+          "power",
+          "once",
+          "the",
+          "facility",
+          "reopens",
+          "in",
+          "2028",
+          "."
+        ],
+        "filtered": [
+          "trump",
+          "doe",
+          "gives",
+          "microsoft",
+          "partner",
+          "1",
+          "billion",
+          "dollars",
+          "loan",
+          "restart",
+          "three",
+          "mile",
+          "island",
+          "reactor",
+          ".",
+          "constellation",
+          "energy",
+          "use",
+          "loan",
+          "refurbish",
+          "reactor",
+          "idled",
+          "2019.",
+          "microsoft",
+          "agreed",
+          "buy",
+          "power",
+          "facility",
+          "reopens",
+          "2028",
+          "."
+        ],
+        "lemmatized": [
+          "trump",
+          "doe",
+          "give",
+          "microsoft",
+          "partner",
+          "1",
+          "billion",
+          "dollar",
+          "loan",
+          "restart",
+          "three",
+          "mile",
+          "island",
+          "reactor",
+          ".",
+          "constellation",
+          "energy",
+          "use",
+          "loan",
+          "refurbish",
+          "reactor",
+          "idle",
+          "2019.",
+          "microsoft",
+          "agree",
+          "buy",
+          "power",
+          "facility",
+          "reopen",
+          "2028",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "bc5236ba60d6d351",
+      "title": "Energy Department loans 1 billion dollars to help finance the restart of nuclear reactor on Three Mile Island",
+      "body": "The U.S. Department of Energy said Tuesday that it will loan $1 billion to help finance the restart of the nuclear power plant on Pennsylvanias Three Mile Island that is under contract to supply power to data centers for tech giant Microsoft. The loan is in line with the priorities of President Donald Trumps administration, including bolstering nuclear power and artificial intelligence. For Constellation Energy, which owns Three Mile Islands lone functioning nuclear power reactor, the federal loan will lower its financing cost to get the mothballed plant up and running again.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:30.469738",
+      "url": "https://finnhub.io/api/news?id=793ac1e9208e827537c57b1ca9882fc03b0647a3717792ac57550fb10093f3c9",
+      "raw_text": "Energy Department loans 1 billion dollars to help finance the restart of nuclear reactor on Three Mile Island. The U.S. Department of Energy said Tuesday that it will loan $1 billion to help finance the restart of the nuclear power plant on Pennsylvanias Three Mile Island that is under contract to supply power to data centers for tech giant Microsoft. The loan is in line with the priorities of President Donald Trumps administration, including bolstering nuclear power and artificial intelligence. For Constellation Energy, which owns Three Mile Islands lone functioning nuclear power reactor, the federal loan will lower its financing cost to get the mothballed plant up and running again.",
+      "tickers_mentioned": "TECH,CEG,MSFT,COST,FRT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TECH": [],
+        "CEG": [
+          "Trump's administration, including bolstering nuclear power and artificial intelligence. For **Constellation** Energy, which owns Three Mile Island's lone functioning nuclear power"
+        ],
+        "MSFT": [
+          "contract to supply power to data centers for tech giant **Microsoft.** The loan is in line with the priorities of President"
+        ],
+        "COST": [],
+        "FRT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Energy",
+            "Three Mile Island",
+            "Mile Island",
+            "Donald Trump"
+          ],
+          "ORGANIZATION": [
+            "Department",
+            "U.S. Department",
+            "Microsoft",
+            "Constellation Energy"
+          ],
+          "GPE": [
+            "Pennsylvania"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [
+            "lower"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1B",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "loan",
+            4
+          ],
+          [
+            "nuclear",
+            4
+          ],
+          [
+            "power",
+            4
+          ],
+          [
+            "energy",
+            3
+          ],
+          [
+            "three",
+            3
+          ],
+          [
+            "mile",
+            3
+          ],
+          [
+            "department",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "help",
+            2
+          ],
+          [
+            "finance",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "energy",
+          "department",
+          "loans",
+          "1",
+          "billion",
+          "dollars",
+          "to",
+          "help",
+          "finance",
+          "the",
+          "restart",
+          "of",
+          "nuclear",
+          "reactor",
+          "on",
+          "three",
+          "mile",
+          "island",
+          ".",
+          "the",
+          "u.s.",
+          "department",
+          "of",
+          "energy",
+          "said",
+          "tuesday",
+          "that",
+          "it",
+          "will",
+          "loan",
+          "$",
+          "1",
+          "billion",
+          "to",
+          "help",
+          "finance",
+          "the",
+          "restart",
+          "of",
+          "the",
+          "nuclear",
+          "power",
+          "plant",
+          "on",
+          "pennsylvanias",
+          "three",
+          "mile",
+          "island",
+          "that",
+          "is",
+          "under",
+          "contract",
+          "to",
+          "supply",
+          "power",
+          "to",
+          "data",
+          "centers",
+          "for",
+          "tech",
+          "giant",
+          "microsoft",
+          ".",
+          "the",
+          "loan",
+          "is",
+          "in",
+          "line",
+          "with",
+          "the",
+          "priorities",
+          "of",
+          "president",
+          "donald",
+          "trumps",
+          "administration",
+          ",",
+          "including",
+          "bolstering",
+          "nuclear",
+          "power",
+          "and",
+          "artificial",
+          "intelligence",
+          ".",
+          "for",
+          "constellation",
+          "energy",
+          ",",
+          "which",
+          "owns",
+          "three",
+          "mile",
+          "islands",
+          "lone",
+          "functioning",
+          "nuclear",
+          "power",
+          "reactor",
+          ",",
+          "the",
+          "federal",
+          "loan",
+          "will",
+          "lower",
+          "its",
+          "financing",
+          "cost",
+          "to",
+          "get",
+          "the",
+          "mothballed",
+          "plant",
+          "up",
+          "and",
+          "running",
+          "again",
+          "."
+        ],
+        "filtered": [
+          "energy",
+          "department",
+          "loans",
+          "1",
+          "billion",
+          "dollars",
+          "help",
+          "finance",
+          "restart",
+          "nuclear",
+          "reactor",
+          "three",
+          "mile",
+          "island",
+          ".",
+          "u.s.",
+          "department",
+          "energy",
+          "said",
+          "tuesday",
+          "loan",
+          "$",
+          "1",
+          "billion",
+          "help",
+          "finance",
+          "restart",
+          "nuclear",
+          "power",
+          "plant",
+          "pennsylvanias",
+          "three",
+          "mile",
+          "island",
+          "under",
+          "contract",
+          "supply",
+          "power",
+          "data",
+          "centers",
+          "tech",
+          "giant",
+          "microsoft",
+          ".",
+          "loan",
+          "line",
+          "priorities",
+          "president",
+          "donald",
+          "trumps",
+          "administration",
+          ",",
+          "including",
+          "bolstering",
+          "nuclear",
+          "power",
+          "artificial",
+          "intelligence",
+          ".",
+          "constellation",
+          "energy",
+          ",",
+          "owns",
+          "three",
+          "mile",
+          "islands",
+          "lone",
+          "functioning",
+          "nuclear",
+          "power",
+          "reactor",
+          ",",
+          "federal",
+          "loan",
+          "lower",
+          "financing",
+          "cost",
+          "get",
+          "mothballed",
+          "plant",
+          "up",
+          "running",
+          "."
+        ],
+        "lemmatized": [
+          "energy",
+          "department",
+          "loan",
+          "1",
+          "billion",
+          "dollar",
+          "help",
+          "finance",
+          "restart",
+          "nuclear",
+          "reactor",
+          "three",
+          "mile",
+          "island",
+          ".",
+          "u.s.",
+          "department",
+          "energy",
+          "say",
+          "tuesday",
+          "loan",
+          "$",
+          "1",
+          "billion",
+          "help",
+          "finance",
+          "restart",
+          "nuclear",
+          "power",
+          "plant",
+          "pennsylvanias",
+          "three",
+          "mile",
+          "island",
+          "under",
+          "contract",
+          "supply",
+          "power",
+          "data",
+          "center",
+          "tech",
+          "giant",
+          "microsoft",
+          ".",
+          "loan",
+          "line",
+          "priority",
+          "president",
+          "donald",
+          "trumps",
+          "administration",
+          ",",
+          "include",
+          "bolster",
+          "nuclear",
+          "power",
+          "artificial",
+          "intelligence",
+          ".",
+          "constellation",
+          "energy",
+          ",",
+          "own",
+          "three",
+          "mile",
+          "islands",
+          "lone",
+          "function",
+          "nuclear",
+          "power",
+          "reactor",
+          ",",
+          "federal",
+          "loan",
+          "lower",
+          "financing",
+          "cost",
+          "get",
+          "mothball",
+          "plant",
+          "up",
+          "running",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5a8e740da30e49f6",
+      "title": "These Stocks Are Moving the Most Today Nvidia, Lowes, Target, Semrush, Constellation Energy, Plug Power, and More",
+      "body": "Nvidia is set to report its quarterly earnings on Wednesday as investors fret about lofty AI valuations.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:33.466233",
+      "url": "https://finnhub.io/api/news?id=2e263945ee833f015736be7b0816aedfee0d4ebf3841ab2d755e3cddf4ea1340",
+      "raw_text": "These Stocks Are Moving the Most Today Nvidia, Lowes, Target, Semrush, Constellation Energy, Plug Power, and More. Nvidia is set to report its quarterly earnings on Wednesday as investors fret about lofty AI valuations.",
+      "tickers_mentioned": "NVDA,CEG,TGT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: **Nvidia,** Lowe’s, Target, Semrush, Constellation Energy, Plug Power, and More. Nvidia",
+          "Nvidia, Lowe’s, Target, Semrush, Constellation Energy, Plug Power, and More. **Nvidia** is set to report its quarterly earnings on Wednesday as"
+        ],
+        "CEG": [
+          "Stocks Are Moving the Most Today: Nvidia, Lowe’s, Target, Semrush, **Constellation** Energy, Plug Power, and More. Nvidia is set to report"
+        ],
+        "TGT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lowe",
+            "Target",
+            "Semrush",
+            "Plug Power",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Constellation Energy"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "lowes",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "semrush",
+            1
+          ],
+          [
+            "constellation",
+            1
+          ],
+          [
+            "energy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "target",
+          ",",
+          "semrush",
+          ",",
+          "constellation",
+          "energy",
+          ",",
+          "plug",
+          "power",
+          ",",
+          "and",
+          "more",
+          ".",
+          "nvidia",
+          "is",
+          "set",
+          "to",
+          "report",
+          "its",
+          "quarterly",
+          "earnings",
+          "on",
+          "wednesday",
+          "as",
+          "investors",
+          "fret",
+          "about",
+          "lofty",
+          "ai",
+          "valuations",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "target",
+          ",",
+          "semrush",
+          ",",
+          "constellation",
+          "energy",
+          ",",
+          "plug",
+          "power",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "set",
+          "report",
+          "quarterly",
+          "earnings",
+          "wednesday",
+          "investors",
+          "fret",
+          "lofty",
+          "ai",
+          "valuations",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "target",
+          ",",
+          "semrush",
+          ",",
+          "constellation",
+          "energy",
+          ",",
+          "plug",
+          "power",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "set",
+          "report",
+          "quarterly",
+          "earnings",
+          "wednesday",
+          "investor",
+          "fret",
+          "lofty",
+          "ai",
+          "valuation",
+          "."
+        ]
+      }
+    }
+  ]
+}

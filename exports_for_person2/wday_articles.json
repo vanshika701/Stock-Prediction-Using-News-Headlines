@@ -1,0 +1,368 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "481faf62c8f84c9f",
+      "title": "WDAY Set to Report third quarter Results Will Revenue Growth Boost Earnings?",
+      "body": "WDAY readies its third quarter report with revenue gains fueled by AI-driven demand, acquisitions and new partnerships lifting expectations.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:49.046357",
+      "url": "https://www.zacks.com/stock/news/2794246/wday-set-to-report-q3-results-will-revenue-growth-boost-earnings",
+      "raw_text": "WDAY Set to Report third quarter Results Will Revenue Growth Boost Earnings?. WDAY readies its third quarter report with revenue gains fueled by AI-driven demand, acquisitions and new partnerships lifting expectations.",
+      "tickers_mentioned": "WDAY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WDAY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Will Revenue Growth Boost Earnings"
+          ],
+          "ORGANIZATION": [
+            "Report Q3"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "boost",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "expect",
+            "earnings",
+            "revenue"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "wday",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "revenue",
+            2
+          ],
+          [
+            "set",
+            1
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "boost",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 4,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wday",
+          "set",
+          "to",
+          "report",
+          "third",
+          "quarter",
+          "results",
+          "will",
+          "revenue",
+          "growth",
+          "boost",
+          "earnings",
+          "?",
+          ".",
+          "wday",
+          "readies",
+          "its",
+          "third",
+          "quarter",
+          "report",
+          "with",
+          "revenue",
+          "gains",
+          "fueled",
+          "by",
+          "ai-driven",
+          "demand",
+          ",",
+          "acquisitions",
+          "and",
+          "new",
+          "partnerships",
+          "lifting",
+          "expectations",
+          "."
+        ],
+        "filtered": [
+          "wday",
+          "set",
+          "report",
+          "third",
+          "quarter",
+          "results",
+          "revenue",
+          "growth",
+          "boost",
+          "earnings",
+          "?",
+          ".",
+          "wday",
+          "readies",
+          "third",
+          "quarter",
+          "report",
+          "revenue",
+          "gains",
+          "fueled",
+          "ai-driven",
+          "demand",
+          ",",
+          "acquisitions",
+          "new",
+          "partnerships",
+          "lifting",
+          "expectations",
+          "."
+        ],
+        "lemmatized": [
+          "wday",
+          "set",
+          "report",
+          "third",
+          "quarter",
+          "result",
+          "revenue",
+          "growth",
+          "boost",
+          "earnings",
+          "?",
+          ".",
+          "wday",
+          "ready",
+          "third",
+          "quarter",
+          "report",
+          "revenue",
+          "gain",
+          "fuel",
+          "ai-driven",
+          "demand",
+          ",",
+          "acquisition",
+          "new",
+          "partnership",
+          "lift",
+          "expectation",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1dd83c4d738fca65",
+      "title": "Workday Launches EU Sovereign Cloud, Adds Google BigQuery Data Link",
+      "body": "Workday WDAY said Wednesday it launched an EU sovereign cloud for its HR and finance platform and",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.385269",
+      "url": "https://finnhub.io/api/news?id=52c827cb6855063b564ddac3dff44b98d91009ce1aee8820c694e906edd10d54",
+      "raw_text": "Workday Launches EU Sovereign Cloud, Adds Google BigQuery Data Link. Workday WDAY said Wednesday it launched an EU sovereign cloud for its HR and finance platform and",
+      "tickers_mentioned": "WDAY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "WDAY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Adds Google"
+          ],
+          "ORGANIZATION": [
+            "Launches"
+          ],
+          "GPE": [
+            "EU"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "workday",
+            2
+          ],
+          [
+            "launch",
+            2
+          ],
+          [
+            "sovereign",
+            2
+          ],
+          [
+            "cloud",
+            2
+          ],
+          [
+            "add",
+            1
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "bigquery",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "link",
+            1
+          ],
+          [
+            "wday",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "workday",
+          "launches",
+          "eu",
+          "sovereign",
+          "cloud",
+          ",",
+          "adds",
+          "google",
+          "bigquery",
+          "data",
+          "link",
+          ".",
+          "workday",
+          "wday",
+          "said",
+          "wednesday",
+          "it",
+          "launched",
+          "an",
+          "eu",
+          "sovereign",
+          "cloud",
+          "for",
+          "its",
+          "hr",
+          "and",
+          "finance",
+          "platform",
+          "and"
+        ],
+        "filtered": [
+          "workday",
+          "launches",
+          "eu",
+          "sovereign",
+          "cloud",
+          ",",
+          "adds",
+          "google",
+          "bigquery",
+          "data",
+          "link",
+          ".",
+          "workday",
+          "wday",
+          "said",
+          "wednesday",
+          "launched",
+          "eu",
+          "sovereign",
+          "cloud",
+          "hr",
+          "finance",
+          "platform"
+        ],
+        "lemmatized": [
+          "workday",
+          "launch",
+          "eu",
+          "sovereign",
+          "cloud",
+          ",",
+          "add",
+          "google",
+          "bigquery",
+          "data",
+          "link",
+          ".",
+          "workday",
+          "wday",
+          "say",
+          "wednesday",
+          "launch",
+          "eu",
+          "sovereign",
+          "cloud",
+          "hr",
+          "finance",
+          "platform"
+        ]
+      }
+    }
+  ]
+}

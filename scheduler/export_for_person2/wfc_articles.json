@@ -1,0 +1,283 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "f2b8caebd2cdb55c",
+      "title": "Wells Fargo Reaffirms Underweight on Tesla TSLA Amid Sharp Delivery Declines",
+      "body": "Tesla Inc. NASDAQTSLA is among the most fantastic stocks every investor should pay attention to. With its innovations in electric vehicles and autonomous driving technology, the company remains a leader in this industry. However, demand headwinds and rising competition seem to be weighing on its outlook, as evidenced by the subdued price targets and cautious ratings",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.792746",
+      "url": "https://finnhub.io/api/news?id=23140e7cdd05ac614f52d2508431d20c41b7d206358b7df893e38f7e3d7f98c2",
+      "raw_text": "Wells Fargo Reaffirms Underweight on Tesla TSLA Amid Sharp Delivery Declines. Tesla Inc. NASDAQTSLA is among the most fantastic stocks every investor should pay attention to. With its innovations in electric vehicles and autonomous driving technology, the company remains a leader in this industry. However, demand headwinds and rising competition seem to be weighing on its outlook, as evidenced by the subdued price targets and cautious ratings",
+      "tickers_mentioned": "TSLA,WFC",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TSLA": [],
+        "WFC": [
+          "**Wells** Fargo Reaffirms Underweight on Tesla (TSLA) Amid Sharp Delivery Declines."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Wells",
+            "Fargo Reaffirms Underweight",
+            "Amid Sharp Delivery Declines",
+            "Tesla Inc."
+          ],
+          "ORGANIZATION": [
+            "TSLA",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "decline"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "well",
+            1
+          ],
+          [
+            "fargo",
+            1
+          ],
+          [
+            "reaffirms",
+            1
+          ],
+          [
+            "underweight",
+            1
+          ],
+          [
+            "tsla",
+            1
+          ],
+          [
+            "amid",
+            1
+          ],
+          [
+            "sharp",
+            1
+          ],
+          [
+            "delivery",
+            1
+          ],
+          [
+            "decline",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wells",
+          "fargo",
+          "reaffirms",
+          "underweight",
+          "on",
+          "tesla",
+          "tsla",
+          "amid",
+          "sharp",
+          "delivery",
+          "declines",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "is",
+          "among",
+          "the",
+          "most",
+          "fantastic",
+          "stocks",
+          "every",
+          "investor",
+          "should",
+          "pay",
+          "attention",
+          "to",
+          ".",
+          "with",
+          "its",
+          "innovations",
+          "in",
+          "electric",
+          "vehicles",
+          "and",
+          "autonomous",
+          "driving",
+          "technology",
+          ",",
+          "the",
+          "company",
+          "remains",
+          "a",
+          "leader",
+          "in",
+          "this",
+          "industry",
+          ".",
+          "however",
+          ",",
+          "demand",
+          "headwinds",
+          "and",
+          "rising",
+          "competition",
+          "seem",
+          "to",
+          "be",
+          "weighing",
+          "on",
+          "its",
+          "outlook",
+          ",",
+          "as",
+          "evidenced",
+          "by",
+          "the",
+          "subdued",
+          "price",
+          "targets",
+          "and",
+          "cautious",
+          "ratings"
+        ],
+        "filtered": [
+          "wells",
+          "fargo",
+          "reaffirms",
+          "underweight",
+          "tesla",
+          "tsla",
+          "amid",
+          "sharp",
+          "delivery",
+          "declines",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "among",
+          "most",
+          "fantastic",
+          "stocks",
+          "every",
+          "investor",
+          "pay",
+          "attention",
+          ".",
+          "innovations",
+          "electric",
+          "vehicles",
+          "autonomous",
+          "driving",
+          "technology",
+          ",",
+          "company",
+          "remains",
+          "leader",
+          "industry",
+          ".",
+          "however",
+          ",",
+          "demand",
+          "headwinds",
+          "rising",
+          "competition",
+          "seem",
+          "weighing",
+          "outlook",
+          ",",
+          "evidenced",
+          "subdued",
+          "price",
+          "targets",
+          "cautious",
+          "ratings"
+        ],
+        "lemmatized": [
+          "well",
+          "fargo",
+          "reaffirms",
+          "underweight",
+          "tesla",
+          "tsla",
+          "amid",
+          "sharp",
+          "delivery",
+          "decline",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "among",
+          "most",
+          "fantastic",
+          "stock",
+          "every",
+          "investor",
+          "pay",
+          "attention",
+          ".",
+          "innovation",
+          "electric",
+          "vehicle",
+          "autonomous",
+          "drive",
+          "technology",
+          ",",
+          "company",
+          "remain",
+          "leader",
+          "industry",
+          ".",
+          "however",
+          ",",
+          "demand",
+          "headwind",
+          "rise",
+          "competition",
+          "seem",
+          "weigh",
+          "outlook",
+          ",",
+          "evidence",
+          "subdue",
+          "price",
+          "target",
+          "cautious",
+          "rating"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "98ee601aaebadc82",
+      "title": "Jacobs Hits Record $23 Billion Backlog And Targets Strong 2026",
+      "body": "Jacobs Solutions Inc. NYSEJ stock rose after it reported fourth-quarter and full-year fiscal 2025 results that showed revenue growth and higher adjusted earnings, while GAAP profit declined due to 144 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:43.129090",
+      "url": "https://biztoc.com/x/f523f98ccad01076",
+      "raw_text": "Jacobs Hits Record $23 Billion Backlog And Targets Strong 2026. Jacobs Solutions Inc. NYSEJ stock rose after it reported fourth-quarter and full-year fiscal 2025 results that showed revenue growth and higher adjusted earnings, while GAAP profit declined due to 144 chars",
+      "tickers_mentioned": "J",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "J": [
+          "Jacobs Hits Record $23 Billion Backlog And Targets Strong 2026. **Jacobs** Solutions Inc. (NYSE:J) stock rose after it reported fourth-quarter and"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jacobs",
+            "Hits Record",
+            "Billion Backlog",
+            "Targets Strong",
+            "Jacobs Solutions"
+          ],
+          "ORGANIZATION": [
+            "NYSE",
+            "GAAP"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "profit",
+            "growth",
+            "record",
+            "high"
+          ],
+          "negative": [
+            "decline"
+          ],
+          "neutral": [
+            "report",
+            "quarter",
+            "earnings",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "23",
+          "2026",
+          "2025",
+          "144"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "jacob",
+            2
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "record",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "backlog",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "2026.",
+            1
+          ],
+          [
+            "solution",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 5,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 4,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "jacobs",
+          "hits",
+          "record",
+          "$",
+          "23",
+          "billion",
+          "backlog",
+          "and",
+          "targets",
+          "strong",
+          "2026.",
+          "jacobs",
+          "solutions",
+          "inc.",
+          "nysej",
+          "stock",
+          "rose",
+          "after",
+          "it",
+          "reported",
+          "fourth-quarter",
+          "and",
+          "full-year",
+          "fiscal",
+          "2025",
+          "results",
+          "that",
+          "showed",
+          "revenue",
+          "growth",
+          "and",
+          "higher",
+          "adjusted",
+          "earnings",
+          ",",
+          "while",
+          "gaap",
+          "profit",
+          "declined",
+          "due",
+          "to",
+          "144",
+          "chars"
+        ],
+        "filtered": [
+          "jacobs",
+          "hits",
+          "record",
+          "$",
+          "23",
+          "billion",
+          "backlog",
+          "targets",
+          "strong",
+          "2026.",
+          "jacobs",
+          "solutions",
+          "inc.",
+          "nysej",
+          "stock",
+          "rose",
+          "reported",
+          "fourth-quarter",
+          "full-year",
+          "fiscal",
+          "2025",
+          "results",
+          "showed",
+          "revenue",
+          "growth",
+          "higher",
+          "adjusted",
+          "earnings",
+          ",",
+          "gaap",
+          "profit",
+          "declined",
+          "due",
+          "144",
+          "chars"
+        ],
+        "lemmatized": [
+          "jacob",
+          "hit",
+          "record",
+          "$",
+          "23",
+          "billion",
+          "backlog",
+          "target",
+          "strong",
+          "2026.",
+          "jacob",
+          "solution",
+          "inc.",
+          "nysej",
+          "stock",
+          "rise",
+          "report",
+          "fourth-quarter",
+          "full-year",
+          "fiscal",
+          "2025",
+          "result",
+          "show",
+          "revenue",
+          "growth",
+          "high",
+          "adjust",
+          "earnings",
+          ",",
+          "gaap",
+          "profit",
+          "decline",
+          "due",
+          "144",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "25a7db0765e1686a",
+      "title": "Jacobs Appoints Global Technology Leader Diane Bryant to Board of Directors",
+      "body": "Jacobs NYSE J today announced the appointment of Diane Bryant to its Board of Directors, effective immediately. Bryant is a distinguished technology executive with more than three decades of leadership experience spanning the global semiconductor industry, cloud computing services, artificial intelligence applications and technology-based healthcare solutions.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.538769",
+      "url": "https://finnhub.io/api/news?id=86e3305b8dc1e3f1978f401ebfb3dc391b5471161908b611f2eb63208553deec",
+      "raw_text": "Jacobs Appoints Global Technology Leader Diane Bryant to Board of Directors. Jacobs NYSE J today announced the appointment of Diane Bryant to its Board of Directors, effective immediately. Bryant is a distinguished technology executive with more than three decades of leadership experience spanning the global semiconductor industry, cloud computing services, artificial intelligence applications and technology-based healthcare solutions.",
+      "tickers_mentioned": "GPN,J",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "GPN": [],
+        "J": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jacobs",
+            "Diane Bryant",
+            "Bryant"
+          ],
+          "ORGANIZATION": [
+            "Appoints Global Technology",
+            "Board",
+            "NYSE"
+          ],
+          "GPE": [
+            "Directors"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bryant",
+            3
+          ],
+          [
+            "jacob",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "technology",
+            2
+          ],
+          [
+            "diane",
+            2
+          ],
+          [
+            "board",
+            2
+          ],
+          [
+            "director",
+            2
+          ],
+          [
+            "appoints",
+            1
+          ],
+          [
+            "leader",
+            1
+          ],
+          [
+            "nyse",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "jacobs",
+          "appoints",
+          "global",
+          "technology",
+          "leader",
+          "diane",
+          "bryant",
+          "to",
+          "board",
+          "of",
+          "directors",
+          ".",
+          "jacobs",
+          "nyse",
+          "j",
+          "today",
+          "announced",
+          "the",
+          "appointment",
+          "of",
+          "diane",
+          "bryant",
+          "to",
+          "its",
+          "board",
+          "of",
+          "directors",
+          ",",
+          "effective",
+          "immediately",
+          ".",
+          "bryant",
+          "is",
+          "a",
+          "distinguished",
+          "technology",
+          "executive",
+          "with",
+          "more",
+          "than",
+          "three",
+          "decades",
+          "of",
+          "leadership",
+          "experience",
+          "spanning",
+          "the",
+          "global",
+          "semiconductor",
+          "industry",
+          ",",
+          "cloud",
+          "computing",
+          "services",
+          ",",
+          "artificial",
+          "intelligence",
+          "applications",
+          "and",
+          "technology-based",
+          "healthcare",
+          "solutions",
+          "."
+        ],
+        "filtered": [
+          "jacobs",
+          "appoints",
+          "global",
+          "technology",
+          "leader",
+          "diane",
+          "bryant",
+          "board",
+          "directors",
+          ".",
+          "jacobs",
+          "nyse",
+          "j",
+          "today",
+          "announced",
+          "appointment",
+          "diane",
+          "bryant",
+          "board",
+          "directors",
+          ",",
+          "effective",
+          "immediately",
+          ".",
+          "bryant",
+          "distinguished",
+          "technology",
+          "executive",
+          "more",
+          "three",
+          "decades",
+          "leadership",
+          "experience",
+          "spanning",
+          "global",
+          "semiconductor",
+          "industry",
+          ",",
+          "cloud",
+          "computing",
+          "services",
+          ",",
+          "artificial",
+          "intelligence",
+          "applications",
+          "technology-based",
+          "healthcare",
+          "solutions",
+          "."
+        ],
+        "lemmatized": [
+          "jacob",
+          "appoints",
+          "global",
+          "technology",
+          "leader",
+          "diane",
+          "bryant",
+          "board",
+          "director",
+          ".",
+          "jacob",
+          "nyse",
+          "j",
+          "today",
+          "announce",
+          "appointment",
+          "diane",
+          "bryant",
+          "board",
+          "director",
+          ",",
+          "effective",
+          "immediately",
+          ".",
+          "bryant",
+          "distinguished",
+          "technology",
+          "executive",
+          "more",
+          "three",
+          "decade",
+          "leadership",
+          "experience",
+          "span",
+          "global",
+          "semiconductor",
+          "industry",
+          ",",
+          "cloud",
+          "compute",
+          "service",
+          ",",
+          "artificial",
+          "intelligence",
+          "application",
+          "technology-based",
+          "healthcare",
+          "solution",
+          "."
+        ]
+      }
+    }
+  ]
+}

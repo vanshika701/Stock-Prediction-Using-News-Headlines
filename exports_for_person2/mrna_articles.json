@@ -1,0 +1,203 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "6b1b8ebf266cbe20",
+      "title": "what is Going On With Moderna Stock?",
+      "body": "Shares of Moderna, Inc. NASDAQMRNA are falling Thursday. The Massachusetts-based biotech company made two significant announcements regarding its finances and business strategy.MRNA is lagging beh 142 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:42.571978",
+      "url": "https://biztoc.com/x/fabcd64c754435d9",
+      "raw_text": "what is Going On With Moderna Stock?. Shares of Moderna, Inc. NASDAQMRNA are falling Thursday. The Massachusetts-based biotech company made two significant announcements regarding its finances and business strategy.MRNA is lagging beh 142 chars",
+      "tickers_mentioned": "MRNA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "MRNA": [
+          "What's Going On With **Moderna** Stock?. Shares of Moderna, Inc. (NASDAQ:MRNA) are falling Thursday. The",
+          "What's Going On With Moderna Stock?. Shares of **Moderna,** Inc. (NASDAQ:MRNA) are falling Thursday. The Massachusetts-based biotech company made"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Moderna Stock"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Moderna",
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "fall"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "142"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "moderna",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "nasdaqmrna",
+            1
+          ],
+          [
+            "fall",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "massachusetts-based",
+            1
+          ],
+          [
+            "biotech",
+            1
+          ],
+          [
+            "company",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "what",
+          "is",
+          "going",
+          "on",
+          "with",
+          "moderna",
+          "stock",
+          "?",
+          ".",
+          "shares",
+          "of",
+          "moderna",
+          ",",
+          "inc.",
+          "nasdaqmrna",
+          "are",
+          "falling",
+          "thursday",
+          ".",
+          "the",
+          "massachusetts-based",
+          "biotech",
+          "company",
+          "made",
+          "two",
+          "significant",
+          "announcements",
+          "regarding",
+          "its",
+          "finances",
+          "and",
+          "business",
+          "strategy.mrna",
+          "is",
+          "lagging",
+          "beh",
+          "142",
+          "chars"
+        ],
+        "filtered": [
+          "going",
+          "moderna",
+          "stock",
+          "?",
+          ".",
+          "shares",
+          "moderna",
+          ",",
+          "inc.",
+          "nasdaqmrna",
+          "falling",
+          "thursday",
+          ".",
+          "massachusetts-based",
+          "biotech",
+          "company",
+          "made",
+          "two",
+          "significant",
+          "announcements",
+          "regarding",
+          "finances",
+          "business",
+          "strategy.mrna",
+          "lagging",
+          "beh",
+          "142",
+          "chars"
+        ],
+        "lemmatized": [
+          "go",
+          "moderna",
+          "stock",
+          "?",
+          ".",
+          "shares",
+          "moderna",
+          ",",
+          "inc.",
+          "nasdaqmrna",
+          "fall",
+          "thursday",
+          ".",
+          "massachusetts-based",
+          "biotech",
+          "company",
+          "make",
+          "two",
+          "significant",
+          "announcement",
+          "regard",
+          "finance",
+          "business",
+          "strategy.mrna",
+          "lag",
+          "beh",
+          "142",
+          "char"
+        ]
+      }
+    }
+  ]
+}

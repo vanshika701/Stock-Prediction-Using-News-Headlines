@@ -1,0 +1,543 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "a553056e8fd1c62c",
+      "title": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron",
+      "body": "Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:29.249264",
+      "url": "https://finnhub.io/api/news?id=2952b41960798b4ec3377c7e89a13a3a3e807e801fdbef5f5a90e096172d3d14",
+      "raw_text": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron. Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "tickers_mentioned": "REGN,NVDA,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "REGN": [],
+        "NVDA": [
+          "Stocks to Watch Thursday: Walmart, **Nvidia,** Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S. retailer",
+          "quarterly results and raised its outlook. Shares climbed 6%. ↗️ **Nvidia** (NVDA): The chip maker reported record sales and issued strong"
+        ],
+        "WMT": [
+          "Stocks to Watch Thursday: **Walmart,** Nvidia, Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S.",
+          "Stocks to Watch Thursday: Walmart, Nvidia, Exact Sciences, Regeneron. ↗️ **Walmart** (WMT): The biggest U.S. retailer and private-sector employer posted solid"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Regeneron",
+            "Shares"
+          ],
+          "ORGANIZATION": [
+            "Exact Sciences",
+            "WMT",
+            "NVDA"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Walmart",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "exact",
+            1
+          ],
+          [
+            "science",
+            1
+          ],
+          [
+            "regeneron",
+            1
+          ],
+          [
+            "wmt",
+            1
+          ],
+          [
+            "big",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "the",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "and",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "and",
+          "raised",
+          "its",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "the",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "and",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "about",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "raised",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "science",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "big",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "post",
+          "solid",
+          "quarterly",
+          "result",
+          "raise",
+          "outlook",
+          ".",
+          "shares",
+          "climb",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "report",
+          "record",
+          "sales",
+          "issue",
+          "strong",
+          "guidance",
+          ",",
+          "help",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a553056e8fd1c62c",
+      "title": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron",
+      "body": "Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:37.121114",
+      "url": "https://finnhub.io/api/news?id=2952b41960798b4ec3377c7e89a13a3a3e807e801fdbef5f5a90e096172d3d14",
+      "raw_text": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron. Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "tickers_mentioned": "REGN,NVDA,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "REGN": [],
+        "NVDA": [
+          "Stocks to Watch Thursday: Walmart, **Nvidia,** Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S. retailer",
+          "quarterly results and raised its outlook. Shares climbed 6%. ↗️ **Nvidia** (NVDA): The chip maker reported record sales and issued strong"
+        ],
+        "WMT": [
+          "Stocks to Watch Thursday: **Walmart,** Nvidia, Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S.",
+          "Stocks to Watch Thursday: Walmart, Nvidia, Exact Sciences, Regeneron. ↗️ **Walmart** (WMT): The biggest U.S. retailer and private-sector employer posted solid"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Regeneron",
+            "Shares"
+          ],
+          "ORGANIZATION": [
+            "Exact Sciences",
+            "WMT",
+            "NVDA"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Walmart",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "exact",
+            1
+          ],
+          [
+            "science",
+            1
+          ],
+          [
+            "regeneron",
+            1
+          ],
+          [
+            "wmt",
+            1
+          ],
+          [
+            "big",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "the",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "and",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "and",
+          "raised",
+          "its",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "the",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "and",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "about",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "raised",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "science",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "big",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "post",
+          "solid",
+          "quarterly",
+          "result",
+          "raise",
+          "outlook",
+          ".",
+          "shares",
+          "climb",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "report",
+          "record",
+          "sales",
+          "issue",
+          "strong",
+          "guidance",
+          ",",
+          "help",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    }
+  ]
+}

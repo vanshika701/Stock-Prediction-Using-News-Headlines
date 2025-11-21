@@ -1,0 +1,829 @@
+{
+  "count": 4,
+  "articles": [
+    {
+      "article_id": "d78086d05be5cf92",
+      "title": "Tesla obtains permit to operate ride-hail service in Arizona",
+      "body": "The Arizona Department of Transportation said Tesla obtained a transportation network company permit in the state.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:47.836236",
+      "url": "https://finnhub.io/api/news?id=bceb4267edfda94d2367ef2b1c94c11eb7c696828cb190da0dc9c5ab656e1d22",
+      "raw_text": "Tesla obtains permit to operate ride-hail service in Arizona. The Arizona Department of Transportation said Tesla obtained a transportation network company permit in the state.",
+      "tickers_mentioned": "STT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "STT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Transportation",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "Arizona Department"
+          ],
+          "GPE": [
+            "Tesla",
+            "Arizona"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "obtain",
+            2
+          ],
+          [
+            "permit",
+            2
+          ],
+          [
+            "arizona",
+            2
+          ],
+          [
+            "transportation",
+            2
+          ],
+          [
+            "operate",
+            1
+          ],
+          [
+            "ride-hail",
+            1
+          ],
+          [
+            "service",
+            1
+          ],
+          [
+            "department",
+            1
+          ],
+          [
+            "say",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tesla",
+          "obtains",
+          "permit",
+          "to",
+          "operate",
+          "ride-hail",
+          "service",
+          "in",
+          "arizona",
+          ".",
+          "the",
+          "arizona",
+          "department",
+          "of",
+          "transportation",
+          "said",
+          "tesla",
+          "obtained",
+          "a",
+          "transportation",
+          "network",
+          "company",
+          "permit",
+          "in",
+          "the",
+          "state",
+          "."
+        ],
+        "filtered": [
+          "tesla",
+          "obtains",
+          "permit",
+          "operate",
+          "ride-hail",
+          "service",
+          "arizona",
+          ".",
+          "arizona",
+          "department",
+          "transportation",
+          "said",
+          "tesla",
+          "obtained",
+          "transportation",
+          "network",
+          "company",
+          "permit",
+          "state",
+          "."
+        ],
+        "lemmatized": [
+          "tesla",
+          "obtain",
+          "permit",
+          "operate",
+          "ride-hail",
+          "service",
+          "arizona",
+          ".",
+          "arizona",
+          "department",
+          "transportation",
+          "say",
+          "tesla",
+          "obtain",
+          "transportation",
+          "network",
+          "company",
+          "permit",
+          "state",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "83d9b3fae8e1655c",
+      "title": "U.S. greenlights AI chip exports to Gulf tech giants after Saudi Crown Princes Washington visit",
+      "body": "The approval marks a major reversal for the U.S., which had previously balked at the idea of direct exports to state-backed AI companies in the Gulf.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:49.921508",
+      "url": "https://finnhub.io/api/news?id=c900961080c4401eb522059d18868fd3b191a68e6f1da0c6f9e5f9abb7728004",
+      "raw_text": "U.S. greenlights AI chip exports to Gulf tech giants after Saudi Crown Princes Washington visit. The approval marks a major reversal for the U.S., which had previously balked at the idea of direct exports to state-backed AI companies in the Gulf.",
+      "tickers_mentioned": "CCI,TECH,STT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "CCI": [],
+        "TECH": [],
+        "STT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [],
+          "GPE": [
+            "U.S.",
+            "Gulf",
+            "Saudi",
+            "Washington"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "u.s.",
+            2
+          ],
+          [
+            "export",
+            2
+          ],
+          [
+            "gulf",
+            2
+          ],
+          [
+            "greenlights",
+            1
+          ],
+          [
+            "chip",
+            1
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "giant",
+            1
+          ],
+          [
+            "saudi",
+            1
+          ],
+          [
+            "crown",
+            1
+          ],
+          [
+            "prince",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "u.s.",
+          "greenlights",
+          "ai",
+          "chip",
+          "exports",
+          "to",
+          "gulf",
+          "tech",
+          "giants",
+          "after",
+          "saudi",
+          "crown",
+          "princes",
+          "washington",
+          "visit",
+          ".",
+          "the",
+          "approval",
+          "marks",
+          "a",
+          "major",
+          "reversal",
+          "for",
+          "the",
+          "u.s.",
+          ",",
+          "which",
+          "had",
+          "previously",
+          "balked",
+          "at",
+          "the",
+          "idea",
+          "of",
+          "direct",
+          "exports",
+          "to",
+          "state-backed",
+          "ai",
+          "companies",
+          "in",
+          "the",
+          "gulf",
+          "."
+        ],
+        "filtered": [
+          "u.s.",
+          "greenlights",
+          "ai",
+          "chip",
+          "exports",
+          "gulf",
+          "tech",
+          "giants",
+          "saudi",
+          "crown",
+          "princes",
+          "washington",
+          "visit",
+          ".",
+          "approval",
+          "marks",
+          "major",
+          "reversal",
+          "u.s.",
+          ",",
+          "previously",
+          "balked",
+          "idea",
+          "direct",
+          "exports",
+          "state-backed",
+          "ai",
+          "companies",
+          "gulf",
+          "."
+        ],
+        "lemmatized": [
+          "u.s.",
+          "greenlights",
+          "ai",
+          "chip",
+          "export",
+          "gulf",
+          "tech",
+          "giant",
+          "saudi",
+          "crown",
+          "prince",
+          "washington",
+          "visit",
+          ".",
+          "approval",
+          "mark",
+          "major",
+          "reversal",
+          "u.s.",
+          ",",
+          "previously",
+          "balk",
+          "idea",
+          "direct",
+          "export",
+          "state-backed",
+          "ai",
+          "company",
+          "gulf",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "8183a25a7b9daa87",
+      "title": "Google Drops $40 Billion on New Texas AI Data Centers",
+      "body": "Tech giants are piling into the state, turning West Texas into the epicenter of Americas AI buildout",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.163193",
+      "url": "https://finnhub.io/api/news?id=d448048b57c58d15004c2a4f4f307dd2fef5ab38d167b850ec919ca0e02f3763",
+      "raw_text": "Google Drops $40 Billion on New Texas AI Data Centers. Tech giants are piling into the state, turning West Texas into the epicenter of Americas AI buildout",
+      "tickers_mentioned": "TPL,WST,TECH,STT",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TPL": [],
+        "WST": [],
+        "TECH": [],
+        "STT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "New Texas",
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [
+          "40"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "texas",
+            2
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "center",
+            1
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "giant",
+            1
+          ],
+          [
+            "pile",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "google",
+          "drops",
+          "$",
+          "40",
+          "billion",
+          "on",
+          "new",
+          "texas",
+          "ai",
+          "data",
+          "centers",
+          ".",
+          "tech",
+          "giants",
+          "are",
+          "piling",
+          "into",
+          "the",
+          "state",
+          ",",
+          "turning",
+          "west",
+          "texas",
+          "into",
+          "the",
+          "epicenter",
+          "of",
+          "americas",
+          "ai",
+          "buildout"
+        ],
+        "filtered": [
+          "google",
+          "drops",
+          "$",
+          "40",
+          "billion",
+          "new",
+          "texas",
+          "ai",
+          "data",
+          "centers",
+          ".",
+          "tech",
+          "giants",
+          "piling",
+          "state",
+          ",",
+          "turning",
+          "west",
+          "texas",
+          "epicenter",
+          "americas",
+          "ai",
+          "buildout"
+        ],
+        "lemmatized": [
+          "google",
+          "drop",
+          "$",
+          "40",
+          "billion",
+          "new",
+          "texas",
+          "ai",
+          "data",
+          "center",
+          ".",
+          "tech",
+          "giant",
+          "pile",
+          "state",
+          ",",
+          "turn",
+          "west",
+          "texas",
+          "epicenter",
+          "america",
+          "ai",
+          "buildout"
+        ]
+      }
+    },
+    {
+      "article_id": "40b0713c283a89fe",
+      "title": "China Secretly Funnels Over $200 Billion Into Nearly 2,500 US Projects Despite Trump, Biden Crackdown - Amazon.com NASDAQAMZN , Boeing NYSEBA",
+      "body": "Chinese financial institutions have discreetly funneled over $200 billion into a multitude of projects in nearly every U.S. state over the last 25 years, a report by Virginia-based research lab AidData showed on Tuesday.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:25:55.238044",
+      "url": "https://www.benzinga.com/news/politics/25/11/48943744/china-secretly-funnels-over-200-billion-into-nearly-2500-us-projects-despite-trump-biden-crackdown",
+      "raw_text": "China Secretly Funnels Over $200 Billion Into Nearly 2,500 US Projects Despite Trump, Biden Crackdown - Amazon.com NASDAQAMZN , Boeing NYSEBA. Chinese financial institutions have discreetly funneled over $200 billion into a multitude of projects in nearly every U.S. state over the last 25 years, a report by Virginia-based research lab AidData showed on Tuesday.",
+      "tickers_mentioned": "BA,AMZN,STT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BA": [
+          "Despite Trump, Biden Crackdown - Amazon.com ( NASDAQ:AMZN ) , **Boeing** ( NYSE:BA ) . Chinese financial institutions have discreetly funneled"
+        ],
+        "AMZN": [
+          "Into Nearly 2,500 US Projects Despite Trump, Biden Crackdown - **Amazon.com** ( NASDAQ:AMZN ) , Boeing ( NYSE:BA ) . Chinese"
+        ],
+        "STT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion Into",
+            "Biden Crackdown"
+          ],
+          "ORGANIZATION": [
+            "US Projects Despite Trump",
+            "NASDAQ",
+            "NYSE",
+            "AidData"
+          ],
+          "GPE": [
+            "China",
+            "Boeing",
+            "Chinese",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "state",
+            "project"
+          ]
+        },
+        "numbers": [
+          "200",
+          "2",
+          "500",
+          "200",
+          "25"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "over",
+            3
+          ],
+          [
+            "funnel",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "nearly",
+            2
+          ],
+          [
+            "project",
+            2
+          ],
+          [
+            "china",
+            1
+          ],
+          [
+            "secretly",
+            1
+          ],
+          [
+            "2,500",
+            1
+          ],
+          [
+            "despite",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "china",
+          "secretly",
+          "funnels",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "into",
+          "nearly",
+          "2,500",
+          "us",
+          "projects",
+          "despite",
+          "trump",
+          ",",
+          "biden",
+          "crackdown",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ",",
+          "boeing",
+          "nyseba",
+          ".",
+          "chinese",
+          "financial",
+          "institutions",
+          "have",
+          "discreetly",
+          "funneled",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "into",
+          "a",
+          "multitude",
+          "of",
+          "projects",
+          "in",
+          "nearly",
+          "every",
+          "u.s.",
+          "state",
+          "over",
+          "the",
+          "last",
+          "25",
+          "years",
+          ",",
+          "a",
+          "report",
+          "by",
+          "virginia-based",
+          "research",
+          "lab",
+          "aiddata",
+          "showed",
+          "on",
+          "tuesday",
+          "."
+        ],
+        "filtered": [
+          "china",
+          "secretly",
+          "funnels",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "nearly",
+          "2,500",
+          "us",
+          "projects",
+          "despite",
+          "trump",
+          ",",
+          "biden",
+          "crackdown",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ",",
+          "boeing",
+          "nyseba",
+          ".",
+          "chinese",
+          "financial",
+          "institutions",
+          "discreetly",
+          "funneled",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "multitude",
+          "projects",
+          "nearly",
+          "every",
+          "u.s.",
+          "state",
+          "over",
+          "last",
+          "25",
+          "years",
+          ",",
+          "report",
+          "virginia-based",
+          "research",
+          "lab",
+          "aiddata",
+          "showed",
+          "tuesday",
+          "."
+        ],
+        "lemmatized": [
+          "china",
+          "secretly",
+          "funnel",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "nearly",
+          "2,500",
+          "u",
+          "project",
+          "despite",
+          "trump",
+          ",",
+          "biden",
+          "crackdown",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ",",
+          "boeing",
+          "nyseba",
+          ".",
+          "chinese",
+          "financial",
+          "institution",
+          "discreetly",
+          "funnel",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "multitude",
+          "project",
+          "nearly",
+          "every",
+          "u.s.",
+          "state",
+          "over",
+          "last",
+          "25",
+          "year",
+          ",",
+          "report",
+          "virginia-based",
+          "research",
+          "lab",
+          "aiddata",
+          "show",
+          "tuesday",
+          "."
+        ]
+      }
+    }
+  ]
+}

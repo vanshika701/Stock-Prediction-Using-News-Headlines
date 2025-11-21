@@ -1,0 +1,414 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "d252694d98f84845",
+      "title": "Stock market reacts to new jobs report data and Nvidia earnings excitement",
+      "body": "Copyright 2025 CBS Interactive Inc. All rights reserved.",
+      "source": "CBS News",
+      "timestamp": "2025-11-22T00:48:19.821079",
+      "url": "https://www.cbsnews.com/video/stock-market-reacts-to-new-jobs-report-data-and-nvidia-earnings-excitement/",
+      "raw_text": "Stock market reacts to new jobs report data and Nvidia earnings excitement. Copyright 2025 CBS Interactive Inc. All rights reserved.",
+      "tickers_mentioned": "IBKR,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "IBKR": [],
+        "NVDA": [
+          "Stock market reacts to new jobs report data and **Nvidia** earnings excitement. Copyright ©2025 CBS Interactive Inc. All rights reserved."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Copyright"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Stock",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "react",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "job",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "excitement",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "reacts",
+          "to",
+          "new",
+          "jobs",
+          "report",
+          "data",
+          "and",
+          "nvidia",
+          "earnings",
+          "excitement",
+          ".",
+          "copyright",
+          "2025",
+          "cbs",
+          "interactive",
+          "inc.",
+          "all",
+          "rights",
+          "reserved",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "reacts",
+          "new",
+          "jobs",
+          "report",
+          "data",
+          "nvidia",
+          "earnings",
+          "excitement",
+          ".",
+          "copyright",
+          "2025",
+          "cbs",
+          "interactive",
+          "inc.",
+          "rights",
+          "reserved",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "react",
+          "new",
+          "job",
+          "report",
+          "data",
+          "nvidia",
+          "earnings",
+          "excitement",
+          ".",
+          "copyright",
+          "2025",
+          "cbs",
+          "interactive",
+          "inc.",
+          "right",
+          "reserve",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "35624f9f3e61ab0e",
+      "title": "Creator Economy Ad Spend Projected To Hit 37 billion dollars This Year, IAB Report Says",
+      "body": "The creator economy ad market will hit 37 billion dollars this year, growing at four times the rate of the overall media industry, according to a new report on the sector. The Interactive Advertising Bureau IAB 3416 chars",
+      "source": "Deadline",
+      "timestamp": "2025-11-22T00:48:36.190366",
+      "url": "http://deadline.com/2025/11/iab-2025-creator-economy-ad-spend-report-1236623395/",
+      "raw_text": "Creator Economy Ad Spend Projected To Hit 37 billion dollars This Year, IAB Report Says. The creator economy ad market will hit 37 billion dollars this year, growing at four times the rate of the overall media industry, according to a new report on the sector. The Interactive Advertising Bureau IAB 3416 chars",
+      "tickers_mentioned": "IBKR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "IBKR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Creator",
+            "Economy Ad Spend"
+          ],
+          "ORGANIZATION": [
+            "IAB Report Says",
+            "Interactive Advertising Bureau",
+            "IAB"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "project"
+          ]
+        },
+        "numbers": [
+          "37B",
+          "37B",
+          "3416"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "creator",
+            2
+          ],
+          [
+            "economy",
+            2
+          ],
+          [
+            "hit",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "dollar",
+            2
+          ],
+          [
+            "year",
+            2
+          ],
+          [
+            "iab",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "spend",
+            1
+          ],
+          [
+            "project",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "creator",
+          "economy",
+          "ad",
+          "spend",
+          "projected",
+          "to",
+          "hit",
+          "37",
+          "billion",
+          "dollars",
+          "this",
+          "year",
+          ",",
+          "iab",
+          "report",
+          "says",
+          ".",
+          "the",
+          "creator",
+          "economy",
+          "ad",
+          "market",
+          "will",
+          "hit",
+          "37",
+          "billion",
+          "dollars",
+          "this",
+          "year",
+          ",",
+          "growing",
+          "at",
+          "four",
+          "times",
+          "the",
+          "rate",
+          "of",
+          "the",
+          "overall",
+          "media",
+          "industry",
+          ",",
+          "according",
+          "to",
+          "a",
+          "new",
+          "report",
+          "on",
+          "the",
+          "sector",
+          ".",
+          "the",
+          "interactive",
+          "advertising",
+          "bureau",
+          "iab",
+          "3416",
+          "chars"
+        ],
+        "filtered": [
+          "creator",
+          "economy",
+          "ad",
+          "spend",
+          "projected",
+          "hit",
+          "37",
+          "billion",
+          "dollars",
+          "year",
+          ",",
+          "iab",
+          "report",
+          "says",
+          ".",
+          "creator",
+          "economy",
+          "ad",
+          "market",
+          "hit",
+          "37",
+          "billion",
+          "dollars",
+          "year",
+          ",",
+          "growing",
+          "four",
+          "times",
+          "rate",
+          "overall",
+          "media",
+          "industry",
+          ",",
+          "according",
+          "new",
+          "report",
+          "sector",
+          ".",
+          "interactive",
+          "advertising",
+          "bureau",
+          "iab",
+          "3416",
+          "chars"
+        ],
+        "lemmatized": [
+          "creator",
+          "economy",
+          "ad",
+          "spend",
+          "project",
+          "hit",
+          "37",
+          "billion",
+          "dollar",
+          "year",
+          ",",
+          "iab",
+          "report",
+          "say",
+          ".",
+          "creator",
+          "economy",
+          "ad",
+          "market",
+          "hit",
+          "37",
+          "billion",
+          "dollar",
+          "year",
+          ",",
+          "grow",
+          "four",
+          "time",
+          "rate",
+          "overall",
+          "medium",
+          "industry",
+          ",",
+          "accord",
+          "new",
+          "report",
+          "sector",
+          ".",
+          "interactive",
+          "advertising",
+          "bureau",
+          "iab",
+          "3416",
+          "char"
+        ]
+      }
+    }
+  ]
+}

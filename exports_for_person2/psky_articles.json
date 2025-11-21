@@ -1,0 +1,307 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "b6ffec4b9273765b",
+      "title": "Paramount Is the Only Logical Winner in the Three-Horse Race for Warner",
+      "body": "Paramount Is the Only Logical Winner in the Three-Horse Race for Warner",
+      "source": "DowJones",
+      "timestamp": "2025-11-22T00:25:44.258195",
+      "url": "https://finnhub.io/api/news?id=dd0a0847165d890ae055a19e5ae647c693c8ac3787493461636d0446dd81d506",
+      "raw_text": "Paramount Is the Only Logical Winner in the Three-Horse Race for Warner. Paramount Is the Only Logical Winner in the Three-Horse Race for Warner",
+      "tickers_mentioned": "PSKY,WBD",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "PSKY": [],
+        "WBD": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warner",
+            "Paramount"
+          ],
+          "ORGANIZATION": [
+            "Only Logical Winner"
+          ],
+          "GPE": [
+            "Paramount"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "paramount",
+            2
+          ],
+          [
+            "logical",
+            2
+          ],
+          [
+            "winner",
+            2
+          ],
+          [
+            "three-horse",
+            2
+          ],
+          [
+            "race",
+            2
+          ],
+          [
+            "warner",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "paramount",
+          "is",
+          "the",
+          "only",
+          "logical",
+          "winner",
+          "in",
+          "the",
+          "three-horse",
+          "race",
+          "for",
+          "warner",
+          ".",
+          "paramount",
+          "is",
+          "the",
+          "only",
+          "logical",
+          "winner",
+          "in",
+          "the",
+          "three-horse",
+          "race",
+          "for",
+          "warner"
+        ],
+        "filtered": [
+          "paramount",
+          "logical",
+          "winner",
+          "three-horse",
+          "race",
+          "warner",
+          ".",
+          "paramount",
+          "logical",
+          "winner",
+          "three-horse",
+          "race",
+          "warner"
+        ],
+        "lemmatized": [
+          "paramount",
+          "logical",
+          "winner",
+          "three-horse",
+          "race",
+          "warner",
+          ".",
+          "paramount",
+          "logical",
+          "winner",
+          "three-horse",
+          "race",
+          "warner"
+        ]
+      }
+    },
+    {
+      "article_id": "6612fbd43db77077",
+      "title": "Market Chatter Paramount to Air Most Champions League Games in UK From 2027-31",
+      "body": "Paramount Skydance PSKY won the rights to broadcast most UEFA Champions League soccer matches in t",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:55.517995",
+      "url": "https://finnhub.io/api/news?id=acab6c7bd1508a8f3abeccde7eed897c92ed731f1148a54416edb2158d90e900",
+      "raw_text": "Market Chatter Paramount to Air Most Champions League Games in UK From 2027-31. Paramount Skydance PSKY won the rights to broadcast most UEFA Champions League soccer matches in t",
+      "tickers_mentioned": "PSKY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "PSKY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Chatter",
+            "Air Most Champions",
+            "Paramount Skydance"
+          ],
+          "ORGANIZATION": [
+            "PSKY",
+            "UEFA"
+          ],
+          "GPE": [
+            "Market"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2027",
+          "31"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "paramount",
+            2
+          ],
+          [
+            "most",
+            2
+          ],
+          [
+            "champion",
+            2
+          ],
+          [
+            "league",
+            2
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "chatter",
+            1
+          ],
+          [
+            "air",
+            1
+          ],
+          [
+            "game",
+            1
+          ],
+          [
+            "2027-31.",
+            1
+          ],
+          [
+            "skydance",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "market",
+          "chatter",
+          "paramount",
+          "to",
+          "air",
+          "most",
+          "champions",
+          "league",
+          "games",
+          "in",
+          "uk",
+          "from",
+          "2027-31.",
+          "paramount",
+          "skydance",
+          "psky",
+          "won",
+          "the",
+          "rights",
+          "to",
+          "broadcast",
+          "most",
+          "uefa",
+          "champions",
+          "league",
+          "soccer",
+          "matches",
+          "in",
+          "t"
+        ],
+        "filtered": [
+          "market",
+          "chatter",
+          "paramount",
+          "air",
+          "most",
+          "champions",
+          "league",
+          "games",
+          "uk",
+          "2027-31.",
+          "paramount",
+          "skydance",
+          "psky",
+          "rights",
+          "broadcast",
+          "most",
+          "uefa",
+          "champions",
+          "league",
+          "soccer",
+          "matches"
+        ],
+        "lemmatized": [
+          "market",
+          "chatter",
+          "paramount",
+          "air",
+          "most",
+          "champion",
+          "league",
+          "game",
+          "uk",
+          "2027-31.",
+          "paramount",
+          "skydance",
+          "psky",
+          "right",
+          "broadcast",
+          "most",
+          "uefa",
+          "champion",
+          "league",
+          "soccer",
+          "match"
+        ]
+      }
+    }
+  ]
+}

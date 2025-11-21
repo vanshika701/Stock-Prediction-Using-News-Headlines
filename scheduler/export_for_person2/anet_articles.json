@@ -1,0 +1,602 @@
+{
+  "count": 3,
+  "articles": [
+    {
+      "article_id": "8f5dbf76068a9420",
+      "title": "Baron Opportunity Fund third quarter 2025 Portfolio Update",
+      "body": "This quarter, we re-established a position in Arista Networks, a leading provider of high-performance networking solutions for data centers, cloud providers, and enterprises.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:27.045430",
+      "url": "https://finnhub.io/api/news?id=df4f7d93fdb6fd8a1226a5a3ec195a92dae2c91f1cfbe767ea62dcaf507af0b9",
+      "raw_text": "Baron Opportunity Fund third quarter 2025 Portfolio Update. This quarter, we re-established a position in Arista Networks, a leading provider of high-performance networking solutions for data centers, cloud providers, and enterprises.",
+      "tickers_mentioned": "ANET",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ANET": [
+          "2025 Portfolio Update. This quarter, we re-established a position in **Arista** Networks, a leading provider of high-performance networking solutions for data"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Baron",
+            "Portfolio Update"
+          ],
+          "ORGANIZATION": [
+            "Opportunity Fund"
+          ],
+          "GPE": [
+            "Arista Networks"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "quarter",
+            2
+          ],
+          [
+            "provider",
+            2
+          ],
+          [
+            "baron",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "fund",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "portfolio",
+            1
+          ],
+          [
+            "update",
+            1
+          ],
+          [
+            "re-established",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "this",
+          "quarter",
+          ",",
+          "we",
+          "re-established",
+          "a",
+          "position",
+          "in",
+          "arista",
+          "networks",
+          ",",
+          "a",
+          "leading",
+          "provider",
+          "of",
+          "high-performance",
+          "networking",
+          "solutions",
+          "for",
+          "data",
+          "centers",
+          ",",
+          "cloud",
+          "providers",
+          ",",
+          "and",
+          "enterprises",
+          "."
+        ],
+        "filtered": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "quarter",
+          ",",
+          "re-established",
+          "position",
+          "arista",
+          "networks",
+          ",",
+          "leading",
+          "provider",
+          "high-performance",
+          "networking",
+          "solutions",
+          "data",
+          "centers",
+          ",",
+          "cloud",
+          "providers",
+          ",",
+          "enterprises",
+          "."
+        ],
+        "lemmatized": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "quarter",
+          ",",
+          "re-established",
+          "position",
+          "arista",
+          "network",
+          ",",
+          "lead",
+          "provider",
+          "high-performance",
+          "networking",
+          "solution",
+          "data",
+          "center",
+          ",",
+          "cloud",
+          "provider",
+          ",",
+          "enterprise",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "8f5dbf76068a9420",
+      "title": "Baron Opportunity Fund third quarter 2025 Portfolio Update",
+      "body": "This quarter, we re-established a position in Arista Networks, a leading provider of high-performance networking solutions for data centers, cloud providers, and enterprises.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:31.119950",
+      "url": "https://finnhub.io/api/news?id=df4f7d93fdb6fd8a1226a5a3ec195a92dae2c91f1cfbe767ea62dcaf507af0b9",
+      "raw_text": "Baron Opportunity Fund third quarter 2025 Portfolio Update. This quarter, we re-established a position in Arista Networks, a leading provider of high-performance networking solutions for data centers, cloud providers, and enterprises.",
+      "tickers_mentioned": "ANET",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ANET": [
+          "2025 Portfolio Update. This quarter, we re-established a position in **Arista** Networks, a leading provider of high-performance networking solutions for data"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Baron",
+            "Portfolio Update"
+          ],
+          "ORGANIZATION": [
+            "Opportunity Fund"
+          ],
+          "GPE": [
+            "Arista Networks"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "quarter",
+            2
+          ],
+          [
+            "provider",
+            2
+          ],
+          [
+            "baron",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "fund",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "portfolio",
+            1
+          ],
+          [
+            "update",
+            1
+          ],
+          [
+            "re-established",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "this",
+          "quarter",
+          ",",
+          "we",
+          "re-established",
+          "a",
+          "position",
+          "in",
+          "arista",
+          "networks",
+          ",",
+          "a",
+          "leading",
+          "provider",
+          "of",
+          "high-performance",
+          "networking",
+          "solutions",
+          "for",
+          "data",
+          "centers",
+          ",",
+          "cloud",
+          "providers",
+          ",",
+          "and",
+          "enterprises",
+          "."
+        ],
+        "filtered": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "quarter",
+          ",",
+          "re-established",
+          "position",
+          "arista",
+          "networks",
+          ",",
+          "leading",
+          "provider",
+          "high-performance",
+          "networking",
+          "solutions",
+          "data",
+          "centers",
+          ",",
+          "cloud",
+          "providers",
+          ",",
+          "enterprises",
+          "."
+        ],
+        "lemmatized": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "quarter",
+          ",",
+          "re-established",
+          "position",
+          "arista",
+          "network",
+          ",",
+          "lead",
+          "provider",
+          "high-performance",
+          "networking",
+          "solution",
+          "data",
+          "center",
+          ",",
+          "cloud",
+          "provider",
+          ",",
+          "enterprise",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "8f5dbf76068a9420",
+      "title": "Baron Opportunity Fund third quarter 2025 Portfolio Update",
+      "body": "This quarter, we re-established a position in Arista Networks, a leading provider of high-performance networking solutions for data centers, cloud providers, and enterprises.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:38.660407",
+      "url": "https://finnhub.io/api/news?id=df4f7d93fdb6fd8a1226a5a3ec195a92dae2c91f1cfbe767ea62dcaf507af0b9",
+      "raw_text": "Baron Opportunity Fund third quarter 2025 Portfolio Update. This quarter, we re-established a position in Arista Networks, a leading provider of high-performance networking solutions for data centers, cloud providers, and enterprises.",
+      "tickers_mentioned": "ANET",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ANET": [
+          "2025 Portfolio Update. This quarter, we re-established a position in **Arista** Networks, a leading provider of high-performance networking solutions for data"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Baron",
+            "Portfolio Update"
+          ],
+          "ORGANIZATION": [
+            "Opportunity Fund"
+          ],
+          "GPE": [
+            "Arista Networks"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "quarter",
+            2
+          ],
+          [
+            "provider",
+            2
+          ],
+          [
+            "baron",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "fund",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "portfolio",
+            1
+          ],
+          [
+            "update",
+            1
+          ],
+          [
+            "re-established",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "this",
+          "quarter",
+          ",",
+          "we",
+          "re-established",
+          "a",
+          "position",
+          "in",
+          "arista",
+          "networks",
+          ",",
+          "a",
+          "leading",
+          "provider",
+          "of",
+          "high-performance",
+          "networking",
+          "solutions",
+          "for",
+          "data",
+          "centers",
+          ",",
+          "cloud",
+          "providers",
+          ",",
+          "and",
+          "enterprises",
+          "."
+        ],
+        "filtered": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "quarter",
+          ",",
+          "re-established",
+          "position",
+          "arista",
+          "networks",
+          ",",
+          "leading",
+          "provider",
+          "high-performance",
+          "networking",
+          "solutions",
+          "data",
+          "centers",
+          ",",
+          "cloud",
+          "providers",
+          ",",
+          "enterprises",
+          "."
+        ],
+        "lemmatized": [
+          "baron",
+          "opportunity",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "portfolio",
+          "update",
+          ".",
+          "quarter",
+          ",",
+          "re-established",
+          "position",
+          "arista",
+          "network",
+          ",",
+          "lead",
+          "provider",
+          "high-performance",
+          "networking",
+          "solution",
+          "data",
+          "center",
+          ",",
+          "cloud",
+          "provider",
+          ",",
+          "enterprise",
+          "."
+        ]
+      }
+    }
+  ]
+}

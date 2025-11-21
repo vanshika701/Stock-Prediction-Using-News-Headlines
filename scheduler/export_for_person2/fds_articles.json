@@ -1,0 +1,516 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "26545159761d6c11",
+      "title": "Tesla Stock Hit This Record Right Before Its Slide",
+      "body": "The average analyst price target for Tesla stock passed $400 for the first time this past week, according to FactSet.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.610588",
+      "url": "https://finnhub.io/api/news?id=d168713769e06453ac5f67b0307a10cd5108f6cf1298e9fcab51d50c10c947b2",
+      "raw_text": "Tesla Stock Hit This Record Right Before Its Slide. The average analyst price target for Tesla stock passed $400 for the first time this past week, according to FactSet.",
+      "tickers_mentioned": "TGT,FDS,FSLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TGT": [],
+        "FDS": [
+          "$400 for the first time this past week, according to **FactSet.**"
+        ],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla",
+            "Stock Hit"
+          ],
+          "ORGANIZATION": [
+            "Tesla",
+            "FactSet"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "400"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "record",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "slide",
+            1
+          ],
+          [
+            "average",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "target",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tesla",
+          "stock",
+          "hit",
+          "this",
+          "record",
+          "right",
+          "before",
+          "its",
+          "slide",
+          ".",
+          "the",
+          "average",
+          "analyst",
+          "price",
+          "target",
+          "for",
+          "tesla",
+          "stock",
+          "passed",
+          "$",
+          "400",
+          "for",
+          "the",
+          "first",
+          "time",
+          "this",
+          "past",
+          "week",
+          ",",
+          "according",
+          "to",
+          "factset",
+          "."
+        ],
+        "filtered": [
+          "tesla",
+          "stock",
+          "hit",
+          "record",
+          "right",
+          "slide",
+          ".",
+          "average",
+          "analyst",
+          "price",
+          "target",
+          "tesla",
+          "stock",
+          "passed",
+          "$",
+          "400",
+          "first",
+          "time",
+          "past",
+          "week",
+          ",",
+          "according",
+          "factset",
+          "."
+        ],
+        "lemmatized": [
+          "tesla",
+          "stock",
+          "hit",
+          "record",
+          "right",
+          "slide",
+          ".",
+          "average",
+          "analyst",
+          "price",
+          "target",
+          "tesla",
+          "stock",
+          "pass",
+          "$",
+          "400",
+          "first",
+          "time",
+          "past",
+          "week",
+          ",",
+          "accord",
+          "factset",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1fe1b0c5874eb6bf",
+      "title": "Nvidias Strong Earnings Soothe Skittish Investors",
+      "body": "Nvidia reported strong earnings late Wednesday and provided a revenue forecast for the January quarter that was above expectations. For its October quarter, the chip maker reported adjusted earnings per share of $1.30, compared to Wall Streets consensus estimate of $1.26, according to FactSet. For the current quarter, Nvidia forecast a revenue range with a midpoint of $65 billion, above the consensus of $62.2 billion.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:33.387095",
+      "url": "https://finnhub.io/api/news?id=d76b90dc96580c372ec560517a2f51ea5067974dac3bf63adf35dfd22a46b893",
+      "raw_text": "Nvidias Strong Earnings Soothe Skittish Investors. Nvidia reported strong earnings late Wednesday and provided a revenue forecast for the January quarter that was above expectations. For its October quarter, the chip maker reported adjusted earnings per share of $1.30, compared to Wall Streets consensus estimate of $1.26, according to FactSet. For the current quarter, Nvidia forecast a revenue range with a midpoint of $65 billion, above the consensus of $62.2 billion.",
+      "tickers_mentioned": "FDS,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "FDS": [
+          "compared to Wall Street’s consensus estimate of $1.26, according to **FactSet.** For the current quarter, Nvidia forecast a revenue range with"
+        ],
+        "NVDA": [
+          "**Nvidia's** Strong Earnings Soothe Skittish Investors. Nvidia reported strong earnings late",
+          "Nvidia's Strong Earnings Soothe Skittish Investors. **Nvidia** reported strong earnings late Wednesday and provided a revenue forecast",
+          "estimate of $1.26, according to FactSet. For the current quarter, **Nvidia** forecast a revenue range with a midpoint of $65 billion,"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Earnings Soothe Skittish Investors",
+            "FactSet"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Strong"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "expect",
+            "forecast",
+            "estimate",
+            "quarter",
+            "earnings",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "1.30",
+          "1.26",
+          "65",
+          "62.2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            3
+          ],
+          [
+            "quarter",
+            3
+          ],
+          [
+            "strong",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "revenue",
+            2
+          ],
+          [
+            "forecast",
+            2
+          ],
+          [
+            "above",
+            2
+          ],
+          [
+            "consensus",
+            2
+          ],
+          [
+            "billion",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 7,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidias",
+          "strong",
+          "earnings",
+          "soothe",
+          "skittish",
+          "investors",
+          ".",
+          "nvidia",
+          "reported",
+          "strong",
+          "earnings",
+          "late",
+          "wednesday",
+          "and",
+          "provided",
+          "a",
+          "revenue",
+          "forecast",
+          "for",
+          "the",
+          "january",
+          "quarter",
+          "that",
+          "was",
+          "above",
+          "expectations",
+          ".",
+          "for",
+          "its",
+          "october",
+          "quarter",
+          ",",
+          "the",
+          "chip",
+          "maker",
+          "reported",
+          "adjusted",
+          "earnings",
+          "per",
+          "share",
+          "of",
+          "$",
+          "1.30",
+          ",",
+          "compared",
+          "to",
+          "wall",
+          "streets",
+          "consensus",
+          "estimate",
+          "of",
+          "$",
+          "1.26",
+          ",",
+          "according",
+          "to",
+          "factset",
+          ".",
+          "for",
+          "the",
+          "current",
+          "quarter",
+          ",",
+          "nvidia",
+          "forecast",
+          "a",
+          "revenue",
+          "range",
+          "with",
+          "a",
+          "midpoint",
+          "of",
+          "$",
+          "65",
+          "billion",
+          ",",
+          "above",
+          "the",
+          "consensus",
+          "of",
+          "$",
+          "62.2",
+          "billion",
+          "."
+        ],
+        "filtered": [
+          "nvidias",
+          "strong",
+          "earnings",
+          "soothe",
+          "skittish",
+          "investors",
+          ".",
+          "nvidia",
+          "reported",
+          "strong",
+          "earnings",
+          "late",
+          "wednesday",
+          "provided",
+          "revenue",
+          "forecast",
+          "january",
+          "quarter",
+          "above",
+          "expectations",
+          ".",
+          "october",
+          "quarter",
+          ",",
+          "chip",
+          "maker",
+          "reported",
+          "adjusted",
+          "earnings",
+          "per",
+          "share",
+          "$",
+          "1.30",
+          ",",
+          "compared",
+          "wall",
+          "streets",
+          "consensus",
+          "estimate",
+          "$",
+          "1.26",
+          ",",
+          "according",
+          "factset",
+          ".",
+          "current",
+          "quarter",
+          ",",
+          "nvidia",
+          "forecast",
+          "revenue",
+          "range",
+          "midpoint",
+          "$",
+          "65",
+          "billion",
+          ",",
+          "above",
+          "consensus",
+          "$",
+          "62.2",
+          "billion",
+          "."
+        ],
+        "lemmatized": [
+          "nvidias",
+          "strong",
+          "earnings",
+          "soothe",
+          "skittish",
+          "investor",
+          ".",
+          "nvidia",
+          "report",
+          "strong",
+          "earnings",
+          "late",
+          "wednesday",
+          "provide",
+          "revenue",
+          "forecast",
+          "january",
+          "quarter",
+          "above",
+          "expectation",
+          ".",
+          "october",
+          "quarter",
+          ",",
+          "chip",
+          "maker",
+          "report",
+          "adjusted",
+          "earnings",
+          "per",
+          "share",
+          "$",
+          "1.30",
+          ",",
+          "compare",
+          "wall",
+          "street",
+          "consensus",
+          "estimate",
+          "$",
+          "1.26",
+          ",",
+          "accord",
+          "factset",
+          ".",
+          "current",
+          "quarter",
+          ",",
+          "nvidia",
+          "forecast",
+          "revenue",
+          "range",
+          "midpoint",
+          "$",
+          "65",
+          "billion",
+          ",",
+          "above",
+          "consensus",
+          "$",
+          "62.2",
+          "billion",
+          "."
+        ]
+      }
+    }
+  ]
+}

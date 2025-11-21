@@ -1,0 +1,235 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "17893d451bfa436d",
+      "title": "Big Pharma Has Spent Nearly $150 Billion On MA So Far In 2025",
+      "body": "In this weeks edition of InnovationRx, we look at the biotech deal frenzy, Recursions incoming CEO, the infant formula botulism outbreak, and more. To get it in your inbox, subscribe here. Merck ann 6271 chars",
+      "source": "Forbes",
+      "timestamp": "2025-11-22T00:25:46.002500",
+      "url": "https://www.forbes.com/sites/innovationrx/2025/11/19/big-pharma-has-spent-nearly-150-billion-on-ma-so-far-in-2025/",
+      "raw_text": "Big Pharma Has Spent Nearly $150 Billion On MA So Far In 2025. In this weeks edition of InnovationRx, we look at the biotech deal frenzy, Recursions incoming CEO, the infant formula botulism outbreak, and more. To get it in your inbox, subscribe here. Merck ann 6271 chars",
+      "tickers_mentioned": "MRK",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "MRK": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Pharma Has",
+            "Merck"
+          ],
+          "ORGANIZATION": [
+            "InnovationRx",
+            "CEO"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "150",
+          "2025",
+          "6271"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "big",
+            1
+          ],
+          [
+            "pharma",
+            1
+          ],
+          [
+            "spend",
+            1
+          ],
+          [
+            "nearly",
+            1
+          ],
+          [
+            "150",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "far",
+            1
+          ],
+          [
+            "2025.",
+            1
+          ],
+          [
+            "week",
+            1
+          ],
+          [
+            "edition",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "big",
+          "pharma",
+          "has",
+          "spent",
+          "nearly",
+          "$",
+          "150",
+          "billion",
+          "on",
+          "ma",
+          "so",
+          "far",
+          "in",
+          "2025.",
+          "in",
+          "this",
+          "weeks",
+          "edition",
+          "of",
+          "innovationrx",
+          ",",
+          "we",
+          "look",
+          "at",
+          "the",
+          "biotech",
+          "deal",
+          "frenzy",
+          ",",
+          "recursions",
+          "incoming",
+          "ceo",
+          ",",
+          "the",
+          "infant",
+          "formula",
+          "botulism",
+          "outbreak",
+          ",",
+          "and",
+          "more",
+          ".",
+          "to",
+          "get",
+          "it",
+          "in",
+          "your",
+          "inbox",
+          ",",
+          "subscribe",
+          "here",
+          ".",
+          "merck",
+          "ann",
+          "6271",
+          "chars"
+        ],
+        "filtered": [
+          "big",
+          "pharma",
+          "spent",
+          "nearly",
+          "$",
+          "150",
+          "billion",
+          "far",
+          "2025.",
+          "weeks",
+          "edition",
+          "innovationrx",
+          ",",
+          "look",
+          "biotech",
+          "deal",
+          "frenzy",
+          ",",
+          "recursions",
+          "incoming",
+          "ceo",
+          ",",
+          "infant",
+          "formula",
+          "botulism",
+          "outbreak",
+          ",",
+          "more",
+          ".",
+          "get",
+          "inbox",
+          ",",
+          "subscribe",
+          ".",
+          "merck",
+          "ann",
+          "6271",
+          "chars"
+        ],
+        "lemmatized": [
+          "big",
+          "pharma",
+          "spend",
+          "nearly",
+          "$",
+          "150",
+          "billion",
+          "far",
+          "2025.",
+          "week",
+          "edition",
+          "innovationrx",
+          ",",
+          "look",
+          "biotech",
+          "deal",
+          "frenzy",
+          ",",
+          "recursion",
+          "incoming",
+          "ceo",
+          ",",
+          "infant",
+          "formula",
+          "botulism",
+          "outbreak",
+          ",",
+          "more",
+          ".",
+          "get",
+          "inbox",
+          ",",
+          "subscribe",
+          ".",
+          "merck",
+          "ann",
+          "6271",
+          "char"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,7554 @@
+{
+  "count": 31,
+  "articles": [
+    {
+      "article_id": "a6c233a35cf5aac1",
+      "title": "Apple Is Apparently Getting Ready to Replace CEO Tim Cook. Is That Good News for AAPL Stock?",
+      "body": "Apple is apparently accelerating its plans to replace Cook amid concerns that the company is falling behind in AI.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.317283",
+      "url": "https://finnhub.io/api/news?id=500542cf88f410efa5c03b5dc490b78e06524f919d9d7da363061008e1340491",
+      "raw_text": "Apple Is Apparently Getting Ready to Replace CEO Tim Cook. Is That Good News for AAPL Stock?. Apple is apparently accelerating its plans to replace Cook amid concerns that the company is falling behind in AI.",
+      "tickers_mentioned": "AAPL,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AAPL": [],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Ready",
+            "Replace CEO Tim Cook",
+            "Apple",
+            "Cook"
+          ],
+          "ORGANIZATION": [
+            "Good News",
+            "AAPL Stock"
+          ],
+          "GPE": [
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "fall"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "apple",
+            2
+          ],
+          [
+            "apparently",
+            2
+          ],
+          [
+            "replace",
+            2
+          ],
+          [
+            "cook",
+            2
+          ],
+          [
+            "get",
+            1
+          ],
+          [
+            "ready",
+            1
+          ],
+          [
+            "ceo",
+            1
+          ],
+          [
+            "tim",
+            1
+          ],
+          [
+            "good",
+            1
+          ],
+          [
+            "news",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "apple",
+          "is",
+          "apparently",
+          "getting",
+          "ready",
+          "to",
+          "replace",
+          "ceo",
+          "tim",
+          "cook",
+          ".",
+          "is",
+          "that",
+          "good",
+          "news",
+          "for",
+          "aapl",
+          "stock",
+          "?",
+          ".",
+          "apple",
+          "is",
+          "apparently",
+          "accelerating",
+          "its",
+          "plans",
+          "to",
+          "replace",
+          "cook",
+          "amid",
+          "concerns",
+          "that",
+          "the",
+          "company",
+          "is",
+          "falling",
+          "behind",
+          "in",
+          "ai",
+          "."
+        ],
+        "filtered": [
+          "apple",
+          "apparently",
+          "getting",
+          "ready",
+          "replace",
+          "ceo",
+          "tim",
+          "cook",
+          ".",
+          "good",
+          "news",
+          "aapl",
+          "stock",
+          "?",
+          ".",
+          "apple",
+          "apparently",
+          "accelerating",
+          "plans",
+          "replace",
+          "cook",
+          "amid",
+          "concerns",
+          "company",
+          "falling",
+          "behind",
+          "ai",
+          "."
+        ],
+        "lemmatized": [
+          "apple",
+          "apparently",
+          "get",
+          "ready",
+          "replace",
+          "ceo",
+          "tim",
+          "cook",
+          ".",
+          "good",
+          "news",
+          "aapl",
+          "stock",
+          "?",
+          ".",
+          "apple",
+          "apparently",
+          "accelerate",
+          "plan",
+          "replace",
+          "cook",
+          "amid",
+          "concern",
+          "company",
+          "fall",
+          "behind",
+          "ai",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "be26fef50828ff15",
+      "title": "Tesla stock surges 5 percent after xAIs massive funding news",
+      "body": "Tesla shares climb on artificial intelligence developments Tesla shares experienced a notable uptick this week following announcements about CEO Elon Musks artificial intelligence venture xAI. The 6102 chars",
+      "source": "Rolling Out",
+      "timestamp": "2025-11-22T00:25:45.692698",
+      "url": "https://rollingout.com/2025/11/20/tesla-stock-surges-xai-funding-news/",
+      "raw_text": "Tesla stock surges 5 percent after xAIs massive funding news. Tesla shares climb on artificial intelligence developments Tesla shares experienced a notable uptick this week following announcements about CEO Elon Musks artificial intelligence venture xAI. The 6102 chars",
+      "tickers_mentioned": "NWS",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "xAI",
+            "CEO Elon Musk"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5",
+          "6102"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            3
+          ],
+          [
+            "shares",
+            2
+          ],
+          [
+            "artificial",
+            2
+          ],
+          [
+            "intelligence",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "surge",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "xais",
+            1
+          ],
+          [
+            "massive",
+            1
+          ],
+          [
+            "funding",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tesla",
+          "stock",
+          "surges",
+          "5",
+          "percent",
+          "after",
+          "xais",
+          "massive",
+          "funding",
+          "news",
+          ".",
+          "tesla",
+          "shares",
+          "climb",
+          "on",
+          "artificial",
+          "intelligence",
+          "developments",
+          "tesla",
+          "shares",
+          "experienced",
+          "a",
+          "notable",
+          "uptick",
+          "this",
+          "week",
+          "following",
+          "announcements",
+          "about",
+          "ceo",
+          "elon",
+          "musks",
+          "artificial",
+          "intelligence",
+          "venture",
+          "xai",
+          ".",
+          "the",
+          "6102",
+          "chars"
+        ],
+        "filtered": [
+          "tesla",
+          "stock",
+          "surges",
+          "5",
+          "percent",
+          "xais",
+          "massive",
+          "funding",
+          "news",
+          ".",
+          "tesla",
+          "shares",
+          "climb",
+          "artificial",
+          "intelligence",
+          "developments",
+          "tesla",
+          "shares",
+          "experienced",
+          "notable",
+          "uptick",
+          "week",
+          "following",
+          "announcements",
+          "ceo",
+          "elon",
+          "musks",
+          "artificial",
+          "intelligence",
+          "venture",
+          "xai",
+          ".",
+          "6102",
+          "chars"
+        ],
+        "lemmatized": [
+          "tesla",
+          "stock",
+          "surge",
+          "5",
+          "percent",
+          "xais",
+          "massive",
+          "funding",
+          "news",
+          ".",
+          "tesla",
+          "shares",
+          "climb",
+          "artificial",
+          "intelligence",
+          "development",
+          "tesla",
+          "shares",
+          "experience",
+          "notable",
+          "uptick",
+          "week",
+          "follow",
+          "announcement",
+          "ceo",
+          "elon",
+          "musk",
+          "artificial",
+          "intelligence",
+          "venture",
+          "xai",
+          ".",
+          "6102",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "58ca217a0f404be0",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest news in your city and across Canada. Exclusive articles from Barbara Shecter, Joe OConnor, Gabriel Friedman, 5322 chars",
+      "source": "Financial Post",
+      "timestamp": "2025-11-22T00:25:45.851040",
+      "url": "https://financialpost.com/globe-newswire/bitget-shatters-new-milestone-with-5b-in-stock-futures-cumulative-trading-volume",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest news in your city and across Canada. Exclusive articles from Barbara Shecter, Joe OConnor, Gabriel Friedman, 5322 chars",
+      "tickers_mentioned": "NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Barbara Shecter",
+            "Joe O'Connor",
+            "Gabriel Friedman"
+          ],
+          "ORGANIZATION": [
+            "Shatters New"
+          ],
+          "GPE": [
+            "Stock",
+            "Canada"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "5B",
+          "5322"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            1
+          ],
+          [
+            "shatters",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "milestone",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "futures",
+            1
+          ],
+          [
+            "cumulative",
+            1
+          ],
+          [
+            "trading",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "this",
+          "content",
+          "is",
+          "reserved",
+          "for",
+          "subscribers",
+          "only",
+          "subscribe",
+          "now",
+          "to",
+          "read",
+          "the",
+          "latest",
+          "news",
+          "in",
+          "your",
+          "city",
+          "and",
+          "across",
+          "canada",
+          ".",
+          "exclusive",
+          "articles",
+          "from",
+          "barbara",
+          "shecter",
+          ",",
+          "joe",
+          "oconnor",
+          ",",
+          "gabriel",
+          "friedman",
+          ",",
+          "5322",
+          "chars"
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "content",
+          "reserved",
+          "subscribers",
+          "subscribe",
+          "read",
+          "latest",
+          "news",
+          "city",
+          "across",
+          "canada",
+          ".",
+          "exclusive",
+          "articles",
+          "barbara",
+          "shecter",
+          ",",
+          "joe",
+          "oconnor",
+          ",",
+          "gabriel",
+          "friedman",
+          ",",
+          "5322",
+          "chars"
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "content",
+          "reserve",
+          "subscriber",
+          "subscribe",
+          "read",
+          "late",
+          "news",
+          "city",
+          "across",
+          "canada",
+          ".",
+          "exclusive",
+          "article",
+          "barbara",
+          "shecter",
+          ",",
+          "joe",
+          "oconnor",
+          ",",
+          "gabriel",
+          "friedman",
+          ",",
+          "5322",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "09a1d10bf666d413",
+      "title": "Bullish Shares Drop After Crypto Exchange Reports Record third quarter Revenue",
+      "body": "In brief Crypto exchange Bullish announced record adjusted revenue and net income in third quarter.Shares of BLSH still fell more than 5 percent following the news, now trading below its August IPO p 3074 chars",
+      "source": "Decrypt",
+      "timestamp": "2025-11-22T00:25:46.055115",
+      "url": "https://decrypt.co/349232/bullish-shares-drop-crypto-exchange-record-q3-revenue",
+      "raw_text": "Bullish Shares Drop After Crypto Exchange Reports Record third quarter Revenue. In brief Crypto exchange Bullish announced record adjusted revenue and net income in third quarter.Shares of BLSH still fell more than 5 percent following the news, now trading below its August IPO p 3074 chars",
+      "tickers_mentioned": "NWS",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Shares Drop",
+            "Crypto Exchange Reports Record Q3 Revenue",
+            "Bullish"
+          ],
+          "ORGANIZATION": [
+            "BLSH"
+          ],
+          "GPE": [
+            "Bullish"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "record",
+            "bullish"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "announce",
+            "report",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "5",
+          "3074"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bullish",
+            2
+          ],
+          [
+            "crypto",
+            2
+          ],
+          [
+            "exchange",
+            2
+          ],
+          [
+            "record",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "revenue",
+            2
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 3,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bullish",
+          "shares",
+          "drop",
+          "after",
+          "crypto",
+          "exchange",
+          "reports",
+          "record",
+          "third",
+          "quarter",
+          "revenue",
+          ".",
+          "in",
+          "brief",
+          "crypto",
+          "exchange",
+          "bullish",
+          "announced",
+          "record",
+          "adjusted",
+          "revenue",
+          "and",
+          "net",
+          "income",
+          "in",
+          "third",
+          "quarter.shares",
+          "of",
+          "blsh",
+          "still",
+          "fell",
+          "more",
+          "than",
+          "5",
+          "percent",
+          "following",
+          "the",
+          "news",
+          ",",
+          "now",
+          "trading",
+          "below",
+          "its",
+          "august",
+          "ipo",
+          "p",
+          "3074",
+          "chars"
+        ],
+        "filtered": [
+          "bullish",
+          "shares",
+          "drop",
+          "crypto",
+          "exchange",
+          "reports",
+          "record",
+          "third",
+          "quarter",
+          "revenue",
+          ".",
+          "brief",
+          "crypto",
+          "exchange",
+          "bullish",
+          "announced",
+          "record",
+          "adjusted",
+          "revenue",
+          "net",
+          "income",
+          "third",
+          "quarter.shares",
+          "blsh",
+          "still",
+          "fell",
+          "more",
+          "5",
+          "percent",
+          "following",
+          "news",
+          ",",
+          "trading",
+          "below",
+          "august",
+          "ipo",
+          "p",
+          "3074",
+          "chars"
+        ],
+        "lemmatized": [
+          "bullish",
+          "shares",
+          "drop",
+          "crypto",
+          "exchange",
+          "report",
+          "record",
+          "third",
+          "quarter",
+          "revenue",
+          ".",
+          "brief",
+          "crypto",
+          "exchange",
+          "bullish",
+          "announce",
+          "record",
+          "adjust",
+          "revenue",
+          "net",
+          "income",
+          "third",
+          "quarter.shares",
+          "blsh",
+          "still",
+          "fell",
+          "more",
+          "5",
+          "percent",
+          "follow",
+          "news",
+          ",",
+          "trading",
+          "below",
+          "august",
+          "ipo",
+          "p",
+          "3074",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "418c8471a6d17f7b",
+      "title": "Global Equities Poised for a Complex and Uncertain 2026, According to TradingKey",
+      "body": "Global markets are closing 2025 on an unpredictable note, marked by rapid reversals and mixed investor sentiment. The year tested seasoned investors as policy shifts, geopolitical events and AI-fuelled rallies disrupted traditional market patterns. TradingKey, a global financial markets platform providing real-time news, analysis and tools, emphasises the growing importance of data-led strategies as investors recalibrate for 2026.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.203830",
+      "url": "https://finnhub.io/api/news?id=2a43a36bdfce829d78f0915fed193046d2e5cddc3dacc02edef22d2e8b5dccf1",
+      "raw_text": "Global Equities Poised for a Complex and Uncertain 2026, According to TradingKey. Global markets are closing 2025 on an unpredictable note, marked by rapid reversals and mixed investor sentiment. The year tested seasoned investors as policy shifts, geopolitical events and AI-fuelled rallies disrupted traditional market patterns. TradingKey, a global financial markets platform providing real-time news, analysis and tools, emphasises the growing importance of data-led strategies as investors recalibrate for 2026.",
+      "tickers_mentioned": "GPN,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GPN": [],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Complex",
+            "TradingKey"
+          ],
+          "GPE": [
+            "Global"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2026",
+          "2025",
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "global",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "2026",
+            2
+          ],
+          [
+            "tradingkey",
+            2
+          ],
+          [
+            "equity",
+            1
+          ],
+          [
+            "poise",
+            1
+          ],
+          [
+            "complex",
+            1
+          ],
+          [
+            "uncertain",
+            1
+          ],
+          [
+            "accord",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "global",
+          "equities",
+          "poised",
+          "for",
+          "a",
+          "complex",
+          "and",
+          "uncertain",
+          "2026",
+          ",",
+          "according",
+          "to",
+          "tradingkey",
+          ".",
+          "global",
+          "markets",
+          "are",
+          "closing",
+          "2025",
+          "on",
+          "an",
+          "unpredictable",
+          "note",
+          ",",
+          "marked",
+          "by",
+          "rapid",
+          "reversals",
+          "and",
+          "mixed",
+          "investor",
+          "sentiment",
+          ".",
+          "the",
+          "year",
+          "tested",
+          "seasoned",
+          "investors",
+          "as",
+          "policy",
+          "shifts",
+          ",",
+          "geopolitical",
+          "events",
+          "and",
+          "ai-fuelled",
+          "rallies",
+          "disrupted",
+          "traditional",
+          "market",
+          "patterns",
+          ".",
+          "tradingkey",
+          ",",
+          "a",
+          "global",
+          "financial",
+          "markets",
+          "platform",
+          "providing",
+          "real-time",
+          "news",
+          ",",
+          "analysis",
+          "and",
+          "tools",
+          ",",
+          "emphasises",
+          "the",
+          "growing",
+          "importance",
+          "of",
+          "data-led",
+          "strategies",
+          "as",
+          "investors",
+          "recalibrate",
+          "for",
+          "2026",
+          "."
+        ],
+        "filtered": [
+          "global",
+          "equities",
+          "poised",
+          "complex",
+          "uncertain",
+          "2026",
+          ",",
+          "according",
+          "tradingkey",
+          ".",
+          "global",
+          "markets",
+          "closing",
+          "2025",
+          "unpredictable",
+          "note",
+          ",",
+          "marked",
+          "rapid",
+          "reversals",
+          "mixed",
+          "investor",
+          "sentiment",
+          ".",
+          "year",
+          "tested",
+          "seasoned",
+          "investors",
+          "policy",
+          "shifts",
+          ",",
+          "geopolitical",
+          "events",
+          "ai-fuelled",
+          "rallies",
+          "disrupted",
+          "traditional",
+          "market",
+          "patterns",
+          ".",
+          "tradingkey",
+          ",",
+          "global",
+          "financial",
+          "markets",
+          "platform",
+          "providing",
+          "real-time",
+          "news",
+          ",",
+          "analysis",
+          "tools",
+          ",",
+          "emphasises",
+          "growing",
+          "importance",
+          "data-led",
+          "strategies",
+          "investors",
+          "recalibrate",
+          "2026",
+          "."
+        ],
+        "lemmatized": [
+          "global",
+          "equity",
+          "poise",
+          "complex",
+          "uncertain",
+          "2026",
+          ",",
+          "accord",
+          "tradingkey",
+          ".",
+          "global",
+          "market",
+          "close",
+          "2025",
+          "unpredictable",
+          "note",
+          ",",
+          "mark",
+          "rapid",
+          "reversal",
+          "mixed",
+          "investor",
+          "sentiment",
+          ".",
+          "year",
+          "test",
+          "seasoned",
+          "investor",
+          "policy",
+          "shift",
+          ",",
+          "geopolitical",
+          "event",
+          "ai-fuelled",
+          "rally",
+          "disrupt",
+          "traditional",
+          "market",
+          "pattern",
+          ".",
+          "tradingkey",
+          ",",
+          "global",
+          "financial",
+          "market",
+          "platform",
+          "provide",
+          "real-time",
+          "news",
+          ",",
+          "analysis",
+          "tool",
+          ",",
+          "emphasise",
+          "grow",
+          "importance",
+          "data-led",
+          "strategy",
+          "investor",
+          "recalibrate",
+          "2026",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "38a1dafadc4a9424",
+      "title": "Stock Market Today Indexes Mixed Ahead Of Nvidia Earnings SEO Stock Soars On Adobe News Live Coverage",
+      "body": "Stock Market Today The Dow Jones index dipped Wednesday ahead of the Fed minutes. Nvidia stock rallied ahead of earnings.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.368594",
+      "url": "https://finnhub.io/api/news?id=a37e15756976acfd118690fa8294a31ea136795768b8607154974e6107825195",
+      "raw_text": "Stock Market Today Indexes Mixed Ahead Of Nvidia Earnings SEO Stock Soars On Adobe News Live Coverage. Stock Market Today The Dow Jones index dipped Wednesday ahead of the Fed minutes. Nvidia stock rallied ahead of earnings.",
+      "tickers_mentioned": "LYV,ADBE,NVDA,NWS",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "ADBE": [],
+        "NVDA": [
+          "Stock Market Today: Indexes Mixed Ahead Of **Nvidia** Earnings; SEO Stock Soars On Adobe News (Live Coverage). Stock",
+          "Dow Jones index dipped Wednesday ahead of the Fed minutes. **Nvidia** stock rallied ahead of earnings."
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Indexes Mixed Ahead",
+            "Live Coverage",
+            "Stock Market"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Of Nvidia Earnings",
+            "SEO Stock Soars",
+            "Adobe News",
+            "Dow Jones",
+            "Fed"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "soar"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            4
+          ],
+          [
+            "ahead",
+            3
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "index",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "mixed",
+            1
+          ],
+          [
+            "seo",
+            1
+          ],
+          [
+            "soar",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "indexes",
+          "mixed",
+          "ahead",
+          "of",
+          "nvidia",
+          "earnings",
+          "seo",
+          "stock",
+          "soars",
+          "on",
+          "adobe",
+          "news",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "dipped",
+          "wednesday",
+          "ahead",
+          "of",
+          "the",
+          "fed",
+          "minutes",
+          ".",
+          "nvidia",
+          "stock",
+          "rallied",
+          "ahead",
+          "of",
+          "earnings",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "indexes",
+          "mixed",
+          "ahead",
+          "nvidia",
+          "earnings",
+          "seo",
+          "stock",
+          "soars",
+          "adobe",
+          "news",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dipped",
+          "wednesday",
+          "ahead",
+          "fed",
+          "minutes",
+          ".",
+          "nvidia",
+          "stock",
+          "rallied",
+          "ahead",
+          "earnings",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "index",
+          "mixed",
+          "ahead",
+          "nvidia",
+          "earnings",
+          "seo",
+          "stock",
+          "soar",
+          "adobe",
+          "news",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dip",
+          "wednesday",
+          "ahead",
+          "feed",
+          "minute",
+          ".",
+          "nvidia",
+          "stock",
+          "rally",
+          "ahead",
+          "earnings",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "38888ed06f26356b",
+      "title": "AMD, Intel and TSMC brace for Nvidia earnings trending stocks",
+      "body": "Stocks of chipmakers including AMD AMD, Intel INTC and TSMC TSM, TSMC.BA waver as markets hold their breath ahead of Nvidia NVDAs earnings report. Cloudflare NET ticks up despite a widespread outage. Tesla TSLA challenger Xiaomi 1810.HK, XIACY, XIACF, 3CP.F, 1810N.MX sees shares plummet - even as its EV arm turns an operating profit for the first time. Following a crisis sparked by an accounting error in its North American division, British high-street retailer WH Smith SMWH.L pushes for a turnaround. And Doordash DASH delivers some news - including a new partnership. For more live coverage of the markets, watch the full episode of Market Sunrise and visit Yahoo Finance.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.599151",
+      "url": "https://finnhub.io/api/news?id=05c4bce3b38fc6e3afdc84215f1aeeb5a1d1fc5c0344b2574c7757928ec76a18",
+      "raw_text": "AMD, Intel and TSMC brace for Nvidia earnings trending stocks. Stocks of chipmakers including AMD AMD, Intel INTC and TSMC TSM, TSMC.BA waver as markets hold their breath ahead of Nvidia NVDAs earnings report. Cloudflare NET ticks up despite a widespread outage. Tesla TSLA challenger Xiaomi 1810.HK, XIACY, XIACF, 3CP.F, 1810N.MX sees shares plummet - even as its EV arm turns an operating profit for the first time. Following a crisis sparked by an accounting error in its North American division, British high-street retailer WH Smith SMWH.L pushes for a turnaround. And Doordash DASH delivers some news - including a new partnership. For more live coverage of the markets, watch the full episode of Market Sunrise and visit Yahoo Finance.",
+      "tickers_mentioned": "FSLR,LYV,TSLA,NVDA,AWK,DASH,NWS,INTC",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "FSLR": [],
+        "LYV": [],
+        "TSLA": [],
+        "NVDA": [
+          "AMD, Intel and TSMC brace for **Nvidia** earnings: trending stocks. Stocks of chipmakers including AMD (AMD), Intel",
+          "(TSM, TSMC.BA) waver as markets hold their breath ahead of **Nvidia** (NVDA)'s earnings report. Cloudflare (NET) ticks up despite a widespread"
+        ],
+        "AWK": [],
+        "DASH": [
+          "high-street retailer WH Smith (SMWH.L) pushes for a turnaround. And **Doordash** (DASH) delivers some news - including a new partnership. For"
+        ],
+        "NWS": [],
+        "INTC": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market Sunrise",
+            "Yahoo Finance"
+          ],
+          "ORGANIZATION": [
+            "Intel",
+            "TSMC",
+            "AMD",
+            "INTC",
+            "TSM",
+            "NVDA",
+            "NET",
+            "TSLA",
+            "XIACY",
+            "XIACF",
+            "WH Smith",
+            "DASH"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Intel",
+            "Xiaomi",
+            "North American",
+            "British",
+            "Doordash"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "profit",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "earnings",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "1810"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amd",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "intel",
+            2
+          ],
+          [
+            "tsmc",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "include",
+            2
+          ],
+          [
+            "brace",
+            1
+          ],
+          [
+            "trend",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 20,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amd",
+          ",",
+          "intel",
+          "and",
+          "tsmc",
+          "brace",
+          "for",
+          "nvidia",
+          "earnings",
+          "trending",
+          "stocks",
+          ".",
+          "stocks",
+          "of",
+          "chipmakers",
+          "including",
+          "amd",
+          "amd",
+          ",",
+          "intel",
+          "intc",
+          "and",
+          "tsmc",
+          "tsm",
+          ",",
+          "tsmc.ba",
+          "waver",
+          "as",
+          "markets",
+          "hold",
+          "their",
+          "breath",
+          "ahead",
+          "of",
+          "nvidia",
+          "nvdas",
+          "earnings",
+          "report",
+          ".",
+          "cloudflare",
+          "net",
+          "ticks",
+          "up",
+          "despite",
+          "a",
+          "widespread",
+          "outage",
+          ".",
+          "tesla",
+          "tsla",
+          "challenger",
+          "xiaomi",
+          "1810.hk",
+          ",",
+          "xiacy",
+          ",",
+          "xiacf",
+          ",",
+          "3cp.f",
+          ",",
+          "1810n.mx",
+          "sees",
+          "shares",
+          "plummet",
+          "-",
+          "even",
+          "as",
+          "its",
+          "ev",
+          "arm",
+          "turns",
+          "an",
+          "operating",
+          "profit",
+          "for",
+          "the",
+          "first",
+          "time",
+          ".",
+          "following",
+          "a",
+          "crisis",
+          "sparked",
+          "by",
+          "an",
+          "accounting",
+          "error",
+          "in",
+          "its",
+          "north",
+          "american",
+          "division",
+          ",",
+          "british",
+          "high-street",
+          "retailer",
+          "wh",
+          "smith",
+          "smwh.l",
+          "pushes",
+          "for",
+          "a",
+          "turnaround",
+          ".",
+          "and",
+          "doordash",
+          "dash",
+          "delivers",
+          "some",
+          "news",
+          "-",
+          "including",
+          "a",
+          "new",
+          "partnership",
+          ".",
+          "for",
+          "more",
+          "live",
+          "coverage",
+          "of",
+          "the",
+          "markets",
+          ",",
+          "watch",
+          "the",
+          "full",
+          "episode",
+          "of",
+          "market",
+          "sunrise",
+          "and",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ],
+        "filtered": [
+          "amd",
+          ",",
+          "intel",
+          "tsmc",
+          "brace",
+          "nvidia",
+          "earnings",
+          "trending",
+          "stocks",
+          ".",
+          "stocks",
+          "chipmakers",
+          "including",
+          "amd",
+          "amd",
+          ",",
+          "intel",
+          "intc",
+          "tsmc",
+          "tsm",
+          ",",
+          "tsmc.ba",
+          "waver",
+          "markets",
+          "hold",
+          "breath",
+          "ahead",
+          "nvidia",
+          "nvdas",
+          "earnings",
+          "report",
+          ".",
+          "cloudflare",
+          "net",
+          "ticks",
+          "up",
+          "despite",
+          "widespread",
+          "outage",
+          ".",
+          "tesla",
+          "tsla",
+          "challenger",
+          "xiaomi",
+          "1810.hk",
+          ",",
+          "xiacy",
+          ",",
+          "xiacf",
+          ",",
+          "3cp.f",
+          ",",
+          "1810n.mx",
+          "sees",
+          "shares",
+          "plummet",
+          "-",
+          "even",
+          "ev",
+          "arm",
+          "turns",
+          "operating",
+          "profit",
+          "first",
+          "time",
+          ".",
+          "following",
+          "crisis",
+          "sparked",
+          "accounting",
+          "error",
+          "north",
+          "american",
+          "division",
+          ",",
+          "british",
+          "high-street",
+          "retailer",
+          "wh",
+          "smith",
+          "smwh.l",
+          "pushes",
+          "turnaround",
+          ".",
+          "doordash",
+          "dash",
+          "delivers",
+          "news",
+          "-",
+          "including",
+          "new",
+          "partnership",
+          ".",
+          "more",
+          "live",
+          "coverage",
+          "markets",
+          ",",
+          "watch",
+          "full",
+          "episode",
+          "market",
+          "sunrise",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ],
+        "lemmatized": [
+          "amd",
+          ",",
+          "intel",
+          "tsmc",
+          "brace",
+          "nvidia",
+          "earnings",
+          "trend",
+          "stock",
+          ".",
+          "stock",
+          "chipmakers",
+          "include",
+          "amd",
+          "amd",
+          ",",
+          "intel",
+          "intc",
+          "tsmc",
+          "tsm",
+          ",",
+          "tsmc.ba",
+          "waver",
+          "market",
+          "hold",
+          "breath",
+          "ahead",
+          "nvidia",
+          "nvdas",
+          "earnings",
+          "report",
+          ".",
+          "cloudflare",
+          "net",
+          "tick",
+          "up",
+          "despite",
+          "widespread",
+          "outage",
+          ".",
+          "tesla",
+          "tsla",
+          "challenger",
+          "xiaomi",
+          "1810.hk",
+          ",",
+          "xiacy",
+          ",",
+          "xiacf",
+          ",",
+          "3cp.f",
+          ",",
+          "1810n.mx",
+          "see",
+          "shares",
+          "plummet",
+          "-",
+          "even",
+          "ev",
+          "arm",
+          "turn",
+          "operating",
+          "profit",
+          "first",
+          "time",
+          ".",
+          "follow",
+          "crisis",
+          "spark",
+          "accounting",
+          "error",
+          "north",
+          "american",
+          "division",
+          ",",
+          "british",
+          "high-street",
+          "retailer",
+          "wh",
+          "smith",
+          "smwh.l",
+          "push",
+          "turnaround",
+          ".",
+          "doordash",
+          "dash",
+          "delivers",
+          "news",
+          "-",
+          "include",
+          "new",
+          "partnership",
+          ".",
+          "more",
+          "live",
+          "coverage",
+          "market",
+          ",",
+          "watch",
+          "full",
+          "episode",
+          "market",
+          "sunrise",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "25e213570dea5ce2",
+      "title": "Elon Musk Calls Jeff Bezos Copycat After Reported Launch Of AI Startup Project Prometheus Haha No Way",
+      "body": "Tesla Inc. NASDAQTSLA and SpaceX CEO Elon Musk on Monday took a jibe at reports of Amazon.com Inc. NASDAQAMZN founder Jeff Bezoss new startup, Project Prometheus. Elon Musk Says Jeff Bezos Is A Copycat Taking to the social media platform X, Musk quoted a post by influencer Sawyer Merritt on Monday, which shared the news of Bezoss startup. Haha no way ? Copy ?, Musk said in the post. Its worth noting that Musk and Bezos have companies that are direct competitors, with SpaceX and Blue",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.695926",
+      "url": "https://finnhub.io/api/news?id=0f06013ccf56dba26a1cd3d8d60ab2284578374ef0b890fcd60aee8a490d31eb",
+      "raw_text": "Elon Musk Calls Jeff Bezos Copycat After Reported Launch Of AI Startup Project Prometheus Haha No Way. Tesla Inc. NASDAQTSLA and SpaceX CEO Elon Musk on Monday took a jibe at reports of Amazon.com Inc. NASDAQAMZN founder Jeff Bezoss new startup, Project Prometheus. Elon Musk Says Jeff Bezos Is A Copycat Taking to the social media platform X, Musk quoted a post by influencer Sawyer Merritt on Monday, which shared the news of Bezoss startup. Haha no way ? Copy ?, Musk said in the post. Its worth noting that Musk and Bezos have companies that are direct competitors, with SpaceX and Blue",
+      "tickers_mentioned": "TSLA,AMZN,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TSLA": [],
+        "AMZN": [
+          "Elon Musk on Monday took a jibe at reports of **Amazon.com** Inc. (NASDAQ:AMZN) founder Jeff Bezos's new startup, Project Prometheus. Elon"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk Calls Jeff Bezos",
+            "Tesla Inc.",
+            "Jeff Bezos",
+            "Project Prometheus",
+            "Elon Musk Says Jeff Bezos",
+            "Musk",
+            "Sawyer Merritt",
+            "Blue"
+          ],
+          "ORGANIZATION": [
+            "Reported Launch Of AI Startup",
+            "NASDAQ",
+            "SpaceX",
+            "Amazon.com Inc."
+          ],
+          "GPE": [
+            "Bezos"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "project"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "musk",
+            6
+          ],
+          [
+            "elon",
+            3
+          ],
+          [
+            "jeff",
+            3
+          ],
+          [
+            "bezos",
+            3
+          ],
+          [
+            "startup",
+            3
+          ],
+          [
+            "copycat",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "project",
+            2
+          ],
+          [
+            "prometheus",
+            2
+          ],
+          [
+            "haha",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 14,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "calls",
+          "jeff",
+          "bezos",
+          "copycat",
+          "after",
+          "reported",
+          "launch",
+          "of",
+          "ai",
+          "startup",
+          "project",
+          "prometheus",
+          "haha",
+          "no",
+          "way",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "and",
+          "spacex",
+          "ceo",
+          "elon",
+          "musk",
+          "on",
+          "monday",
+          "took",
+          "a",
+          "jibe",
+          "at",
+          "reports",
+          "of",
+          "amazon.com",
+          "inc.",
+          "nasdaqamzn",
+          "founder",
+          "jeff",
+          "bezoss",
+          "new",
+          "startup",
+          ",",
+          "project",
+          "prometheus",
+          ".",
+          "elon",
+          "musk",
+          "says",
+          "jeff",
+          "bezos",
+          "is",
+          "a",
+          "copycat",
+          "taking",
+          "to",
+          "the",
+          "social",
+          "media",
+          "platform",
+          "x",
+          ",",
+          "musk",
+          "quoted",
+          "a",
+          "post",
+          "by",
+          "influencer",
+          "sawyer",
+          "merritt",
+          "on",
+          "monday",
+          ",",
+          "which",
+          "shared",
+          "the",
+          "news",
+          "of",
+          "bezoss",
+          "startup",
+          ".",
+          "haha",
+          "no",
+          "way",
+          "?",
+          "copy",
+          "?",
+          ",",
+          "musk",
+          "said",
+          "in",
+          "the",
+          "post",
+          ".",
+          "its",
+          "worth",
+          "noting",
+          "that",
+          "musk",
+          "and",
+          "bezos",
+          "have",
+          "companies",
+          "that",
+          "are",
+          "direct",
+          "competitors",
+          ",",
+          "with",
+          "spacex",
+          "and",
+          "blue"
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "calls",
+          "jeff",
+          "bezos",
+          "copycat",
+          "reported",
+          "launch",
+          "ai",
+          "startup",
+          "project",
+          "prometheus",
+          "haha",
+          "no",
+          "way",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "spacex",
+          "ceo",
+          "elon",
+          "musk",
+          "monday",
+          "took",
+          "jibe",
+          "reports",
+          "amazon.com",
+          "inc.",
+          "nasdaqamzn",
+          "founder",
+          "jeff",
+          "bezoss",
+          "new",
+          "startup",
+          ",",
+          "project",
+          "prometheus",
+          ".",
+          "elon",
+          "musk",
+          "says",
+          "jeff",
+          "bezos",
+          "copycat",
+          "taking",
+          "social",
+          "media",
+          "platform",
+          "x",
+          ",",
+          "musk",
+          "quoted",
+          "post",
+          "influencer",
+          "sawyer",
+          "merritt",
+          "monday",
+          ",",
+          "shared",
+          "news",
+          "bezoss",
+          "startup",
+          ".",
+          "haha",
+          "no",
+          "way",
+          "?",
+          "copy",
+          "?",
+          ",",
+          "musk",
+          "said",
+          "post",
+          ".",
+          "worth",
+          "noting",
+          "musk",
+          "bezos",
+          "companies",
+          "direct",
+          "competitors",
+          ",",
+          "spacex",
+          "blue"
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "call",
+          "jeff",
+          "bezos",
+          "copycat",
+          "report",
+          "launch",
+          "ai",
+          "startup",
+          "project",
+          "prometheus",
+          "haha",
+          "no",
+          "way",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "spacex",
+          "ceo",
+          "elon",
+          "musk",
+          "monday",
+          "take",
+          "jibe",
+          "report",
+          "amazon.com",
+          "inc.",
+          "nasdaqamzn",
+          "founder",
+          "jeff",
+          "bezoss",
+          "new",
+          "startup",
+          ",",
+          "project",
+          "prometheus",
+          ".",
+          "elon",
+          "musk",
+          "say",
+          "jeff",
+          "bezos",
+          "copycat",
+          "take",
+          "social",
+          "medium",
+          "platform",
+          "x",
+          ",",
+          "musk",
+          "quote",
+          "post",
+          "influencer",
+          "sawyer",
+          "merritt",
+          "monday",
+          ",",
+          "share",
+          "news",
+          "bezoss",
+          "startup",
+          ".",
+          "haha",
+          "no",
+          "way",
+          "?",
+          "copy",
+          "?",
+          ",",
+          "musk",
+          "say",
+          "post",
+          ".",
+          "worth",
+          "note",
+          "musk",
+          "bezos",
+          "company",
+          "direct",
+          "competitor",
+          ",",
+          "spacex",
+          "blue"
+        ]
+      }
+    },
+    {
+      "article_id": "b1a41299c72b6188",
+      "title": "More Bad News for Tesla Rolls In",
+      "body": "While Tesla has faced numerous speed bumps and headwinds in 2025, not enough people are talking about this growing problem.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.542847",
+      "url": "https://finnhub.io/api/news?id=75b21d92139a6b8ea5c917fc8c26144520e1c63a70b8677082003cc91ceebbc6",
+      "raw_text": "More Bad News for Tesla Rolls In. While Tesla has faced numerous speed bumps and headwinds in 2025, not enough people are talking about this growing problem.",
+      "tickers_mentioned": "NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla Rolls",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "Bad News"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "bad",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "roll",
+            1
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "numerous",
+            1
+          ],
+          [
+            "speed",
+            1
+          ],
+          [
+            "bump",
+            1
+          ],
+          [
+            "headwinds",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "more",
+          "bad",
+          "news",
+          "for",
+          "tesla",
+          "rolls",
+          "in",
+          ".",
+          "while",
+          "tesla",
+          "has",
+          "faced",
+          "numerous",
+          "speed",
+          "bumps",
+          "and",
+          "headwinds",
+          "in",
+          "2025",
+          ",",
+          "not",
+          "enough",
+          "people",
+          "are",
+          "talking",
+          "about",
+          "this",
+          "growing",
+          "problem",
+          "."
+        ],
+        "filtered": [
+          "more",
+          "bad",
+          "news",
+          "tesla",
+          "rolls",
+          ".",
+          "tesla",
+          "faced",
+          "numerous",
+          "speed",
+          "bumps",
+          "headwinds",
+          "2025",
+          ",",
+          "not",
+          "enough",
+          "people",
+          "talking",
+          "growing",
+          "problem",
+          "."
+        ],
+        "lemmatized": [
+          "more",
+          "bad",
+          "news",
+          "tesla",
+          "roll",
+          ".",
+          "tesla",
+          "face",
+          "numerous",
+          "speed",
+          "bump",
+          "headwinds",
+          "2025",
+          ",",
+          "not",
+          "enough",
+          "people",
+          "talk",
+          "grow",
+          "problem",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "ed1ea9b5f471d80c",
+      "title": "Stock Market News for Nov 21, 2025",
+      "body": "U.S. stocks ended sharply lower on Thursday after a market rally fueled by robust earnings from NVIDIA came to an abrupt halt as investors worried that the Federal Reserve may not go for another interest rate cut in December.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:49.078931",
+      "url": "https://www.zacks.com/stock/news/2794108/stock-market-news-for-nov-21-2025",
+      "raw_text": "Stock Market News for Nov 21, 2025. U.S. stocks ended sharply lower on Thursday after a market rally fueled by robust earnings from NVIDIA came to an abrupt halt as investors worried that the Federal Reserve may not go for another interest rate cut in December.",
+      "tickers_mentioned": "NVDA,NWS,FRT",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "NVDA": [
+          "Thursday after a market rally fueled by robust earnings from **NVIDIA** came to an abrupt halt as investors worried that the"
+        ],
+        "NWS": [],
+        "FRT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock",
+            "Market News"
+          ],
+          "ORGANIZATION": [
+            "NVIDIA",
+            "Federal Reserve"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rally"
+          ],
+          "negative": [
+            "cut",
+            "lower"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "21",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [
+          "Nov 21, 2025"
+        ],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "nov",
+            1
+          ],
+          [
+            "2025.",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "end",
+            1
+          ],
+          [
+            "sharply",
+            1
+          ],
+          [
+            "low",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 1
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "news",
+          "for",
+          "nov",
+          "21",
+          ",",
+          "2025.",
+          "u.s.",
+          "stocks",
+          "ended",
+          "sharply",
+          "lower",
+          "on",
+          "thursday",
+          "after",
+          "a",
+          "market",
+          "rally",
+          "fueled",
+          "by",
+          "robust",
+          "earnings",
+          "from",
+          "nvidia",
+          "came",
+          "to",
+          "an",
+          "abrupt",
+          "halt",
+          "as",
+          "investors",
+          "worried",
+          "that",
+          "the",
+          "federal",
+          "reserve",
+          "may",
+          "not",
+          "go",
+          "for",
+          "another",
+          "interest",
+          "rate",
+          "cut",
+          "in",
+          "december",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "news",
+          "nov",
+          "21",
+          ",",
+          "2025.",
+          "u.s.",
+          "stocks",
+          "ended",
+          "sharply",
+          "lower",
+          "thursday",
+          "market",
+          "rally",
+          "fueled",
+          "robust",
+          "earnings",
+          "nvidia",
+          "came",
+          "abrupt",
+          "halt",
+          "investors",
+          "worried",
+          "federal",
+          "reserve",
+          "may",
+          "not",
+          "go",
+          "another",
+          "interest",
+          "rate",
+          "cut",
+          "december",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "news",
+          "nov",
+          "21",
+          ",",
+          "2025.",
+          "u.s.",
+          "stock",
+          "end",
+          "sharply",
+          "low",
+          "thursday",
+          "market",
+          "rally",
+          "fuel",
+          "robust",
+          "earnings",
+          "nvidia",
+          "come",
+          "abrupt",
+          "halt",
+          "investor",
+          "worry",
+          "federal",
+          "reserve",
+          "may",
+          "not",
+          "go",
+          "another",
+          "interest",
+          "rate",
+          "cut",
+          "december",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "62cad8425a7db879",
+      "title": "SP500 Good News For Nvidia Is Bad News For Everybody Else - Stay Short",
+      "body": "Get insights on why Nvidias AI boom may signal market trouble and a bursting AI bubble. Learn what this means for the SP 500.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:49.565888",
+      "url": "https://finnhub.io/api/news?id=91e5d6c4f9215bf0bdaa84ba2ae3cf6d9b6fe919cb49770251b5df9847a16b6e",
+      "raw_text": "SP500 Good News For Nvidia Is Bad News For Everybody Else - Stay Short. Get insights on why Nvidias AI boom may signal market trouble and a bursting AI bubble. Learn what this means for the SP 500.",
+      "tickers_mentioned": "NVDA,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "SP500: Good News For **Nvidia** Is Bad News For Everybody Else - Stay Short. Get",
+          "For Everybody Else - Stay Short. Get insights on why **Nvidia's** AI boom may signal market trouble and a bursting AI"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stay Short",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Good News For Nvidia Is Bad News For Everybody Else"
+          ],
+          "GPE": [
+            "SP500"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "news",
+            2
+          ],
+          [
+            "sp500",
+            1
+          ],
+          [
+            "good",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "bad",
+            1
+          ],
+          [
+            "everybody",
+            1
+          ],
+          [
+            "else",
+            1
+          ],
+          [
+            "stay",
+            1
+          ],
+          [
+            "short",
+            1
+          ],
+          [
+            "get",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "sp500",
+          "good",
+          "news",
+          "for",
+          "nvidia",
+          "is",
+          "bad",
+          "news",
+          "for",
+          "everybody",
+          "else",
+          "-",
+          "stay",
+          "short",
+          ".",
+          "get",
+          "insights",
+          "on",
+          "why",
+          "nvidias",
+          "ai",
+          "boom",
+          "may",
+          "signal",
+          "market",
+          "trouble",
+          "and",
+          "a",
+          "bursting",
+          "ai",
+          "bubble",
+          ".",
+          "learn",
+          "what",
+          "this",
+          "means",
+          "for",
+          "the",
+          "sp",
+          "500",
+          "."
+        ],
+        "filtered": [
+          "sp500",
+          "good",
+          "news",
+          "nvidia",
+          "bad",
+          "news",
+          "everybody",
+          "else",
+          "-",
+          "stay",
+          "short",
+          ".",
+          "get",
+          "insights",
+          "nvidias",
+          "ai",
+          "boom",
+          "may",
+          "signal",
+          "market",
+          "trouble",
+          "bursting",
+          "ai",
+          "bubble",
+          ".",
+          "learn",
+          "means",
+          "sp",
+          "500",
+          "."
+        ],
+        "lemmatized": [
+          "sp500",
+          "good",
+          "news",
+          "nvidia",
+          "bad",
+          "news",
+          "everybody",
+          "else",
+          "-",
+          "stay",
+          "short",
+          ".",
+          "get",
+          "insights",
+          "nvidias",
+          "ai",
+          "boom",
+          "may",
+          "signal",
+          "market",
+          "trouble",
+          "burst",
+          "ai",
+          "bubble",
+          ".",
+          "learn",
+          "mean",
+          "sp",
+          "500",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0287bc155e7b354c",
+      "title": "Why Amazon Stock Plummeted Today",
+      "body": "The latest news for the company on the regulatory and analysis fronts was not encouraging.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:50.708231",
+      "url": "https://finnhub.io/api/news?id=a85c94c27b44bae357d33a37cfb633b89699ccc5d98abd9238eaf7e4a8a5bdcd",
+      "raw_text": "Why Amazon Stock Plummeted Today. The latest news for the company on the regulatory and analysis fronts was not encouraging.",
+      "tickers_mentioned": "AMZN,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AMZN": [
+          "Why **Amazon** Stock Plummeted Today. The latest news for the company on"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon Stock"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "plummet",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "late",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "regulatory",
+            1
+          ],
+          [
+            "analysis",
+            1
+          ],
+          [
+            "front",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "why",
+          "amazon",
+          "stock",
+          "plummeted",
+          "today",
+          ".",
+          "the",
+          "latest",
+          "news",
+          "for",
+          "the",
+          "company",
+          "on",
+          "the",
+          "regulatory",
+          "and",
+          "analysis",
+          "fronts",
+          "was",
+          "not",
+          "encouraging",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          "stock",
+          "plummeted",
+          "today",
+          ".",
+          "latest",
+          "news",
+          "company",
+          "regulatory",
+          "analysis",
+          "fronts",
+          "not",
+          "encouraging",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          "stock",
+          "plummet",
+          "today",
+          ".",
+          "late",
+          "news",
+          "company",
+          "regulatory",
+          "analysis",
+          "front",
+          "not",
+          "encourage",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1fc9b33e8c1c193f",
+      "title": "Nebius Valuation Update After third quarter Results -- Raising Price Target To $147",
+      "body": "Nebius Group N.V. sees strong AI growth and a 3 billion dollars Meta deal, yet shares dip. Click for my updated look at NBIS stock following its earnings and other news.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:51.005315",
+      "url": "https://finnhub.io/api/news?id=1f186880decaf85f107d7ea89544e702fe81641708d1f67b1c68f3cae4c3906c",
+      "raw_text": "Nebius Valuation Update After third quarter Results -- Raising Price Target To $147. Nebius Group N.V. sees strong AI growth and a 3 billion dollars Meta deal, yet shares dip. Click for my updated look at NBIS stock following its earnings and other news.",
+      "tickers_mentioned": "NWS,TGT,META",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NWS": [],
+        "TGT": [],
+        "META": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Q3 Results",
+            "Nebius Group",
+            "Click"
+          ],
+          "ORGANIZATION": [
+            "Meta",
+            "NBIS"
+          ],
+          "GPE": [
+            "Nebius"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "147",
+          "3B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nebius",
+            2
+          ],
+          [
+            "update",
+            2
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "raise",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "target",
+            1
+          ],
+          [
+            "147",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nebius",
+          "valuation",
+          "update",
+          "after",
+          "third",
+          "quarter",
+          "results",
+          "--",
+          "raising",
+          "price",
+          "target",
+          "to",
+          "$",
+          "147",
+          ".",
+          "nebius",
+          "group",
+          "n.v.",
+          "sees",
+          "strong",
+          "ai",
+          "growth",
+          "and",
+          "a",
+          "3",
+          "billion",
+          "dollars",
+          "meta",
+          "deal",
+          ",",
+          "yet",
+          "shares",
+          "dip",
+          ".",
+          "click",
+          "for",
+          "my",
+          "updated",
+          "look",
+          "at",
+          "nbis",
+          "stock",
+          "following",
+          "its",
+          "earnings",
+          "and",
+          "other",
+          "news",
+          "."
+        ],
+        "filtered": [
+          "nebius",
+          "valuation",
+          "update",
+          "third",
+          "quarter",
+          "results",
+          "--",
+          "raising",
+          "price",
+          "target",
+          "$",
+          "147",
+          ".",
+          "nebius",
+          "group",
+          "n.v.",
+          "sees",
+          "strong",
+          "ai",
+          "growth",
+          "3",
+          "billion",
+          "dollars",
+          "meta",
+          "deal",
+          ",",
+          "yet",
+          "shares",
+          "dip",
+          ".",
+          "click",
+          "updated",
+          "look",
+          "nbis",
+          "stock",
+          "following",
+          "earnings",
+          "news",
+          "."
+        ],
+        "lemmatized": [
+          "nebius",
+          "valuation",
+          "update",
+          "third",
+          "quarter",
+          "result",
+          "--",
+          "raise",
+          "price",
+          "target",
+          "$",
+          "147",
+          ".",
+          "nebius",
+          "group",
+          "n.v.",
+          "see",
+          "strong",
+          "ai",
+          "growth",
+          "3",
+          "billion",
+          "dollar",
+          "meta",
+          "deal",
+          ",",
+          "yet",
+          "shares",
+          "dip",
+          ".",
+          "click",
+          "update",
+          "look",
+          "nbis",
+          "stock",
+          "follow",
+          "earnings",
+          "news",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "2e376a500a28e15f",
+      "title": "Satya Nadella relinquishes his role as Microsofts communicator-in-chiefright when hes needed most",
+      "body": "Also All the news and watercooler chat from Fortune.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:51.138276",
+      "url": "https://finnhub.io/api/news?id=7001c7a6ff441c90fdb9e9f40066098a4fbca3d4aea4e9ca7706b0adcd503b47",
+      "raw_text": "Satya Nadella relinquishes his role as Microsofts communicator-in-chiefright when hes needed most. Also All the news and watercooler chat from Fortune.",
+      "tickers_mentioned": "NWS,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NWS": [],
+        "MSFT": [
+          "Satya Nadella relinquishes his role as **Microsoft’s** communicator-in-chief—right when he’s needed most. Also: All the news and"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Satya"
+          ],
+          "ORGANIZATION": [
+            "Nadella",
+            "Microsoft"
+          ],
+          "GPE": [
+            "Fortune"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "satya",
+            1
+          ],
+          [
+            "nadella",
+            1
+          ],
+          [
+            "relinquishes",
+            1
+          ],
+          [
+            "role",
+            1
+          ],
+          [
+            "microsofts",
+            1
+          ],
+          [
+            "communicator-in-chiefright",
+            1
+          ],
+          [
+            "need",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "also",
+            1
+          ],
+          [
+            "news",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "satya",
+          "nadella",
+          "relinquishes",
+          "his",
+          "role",
+          "as",
+          "microsofts",
+          "communicator-in-chiefright",
+          "when",
+          "hes",
+          "needed",
+          "most",
+          ".",
+          "also",
+          "all",
+          "the",
+          "news",
+          "and",
+          "watercooler",
+          "chat",
+          "from",
+          "fortune",
+          "."
+        ],
+        "filtered": [
+          "satya",
+          "nadella",
+          "relinquishes",
+          "role",
+          "microsofts",
+          "communicator-in-chiefright",
+          "hes",
+          "needed",
+          "most",
+          ".",
+          "also",
+          "news",
+          "watercooler",
+          "chat",
+          "fortune",
+          "."
+        ],
+        "lemmatized": [
+          "satya",
+          "nadella",
+          "relinquishes",
+          "role",
+          "microsofts",
+          "communicator-in-chiefright",
+          "he",
+          "need",
+          "most",
+          ".",
+          "also",
+          "news",
+          "watercooler",
+          "chat",
+          "fortune",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "cf84e9cf8fc9f67e",
+      "title": "Anthropic to spend 30 billion dollars in compute through Nvidia and Microsoft",
+      "body": "CNBCs Steve Kovach breaks down the latest news on a new investments from Anthropic, what the spend means for the AI competitive landscape, and more.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:51.145154",
+      "url": "https://finnhub.io/api/news?id=8b61bf03a183f2034798cdde6d51e29abac101bb7e3a397e0743a6322a021e13",
+      "raw_text": "Anthropic to spend 30 billion dollars in compute through Nvidia and Microsoft. CNBCs Steve Kovach breaks down the latest news on a new investments from Anthropic, what the spend means for the AI competitive landscape, and more.",
+      "tickers_mentioned": "NVDA,NWS,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "Anthropic to spend $30B in compute through **Nvidia** and Microsoft. CNBC's Steve Kovach breaks down the latest news"
+        ],
+        "NWS": [],
+        "MSFT": [
+          "Anthropic to spend $30B in compute through Nvidia and **Microsoft.** CNBC's Steve Kovach breaks down the latest news on a"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Steve Kovach"
+          ],
+          "ORGANIZATION": [
+            "Microsoft",
+            "CNBC",
+            "AI"
+          ],
+          "GPE": [
+            "Anthropic",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "30B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "anthropic",
+            2
+          ],
+          [
+            "spend",
+            2
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "compute",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "microsoft",
+            1
+          ],
+          [
+            "cnbcs",
+            1
+          ],
+          [
+            "steve",
+            1
+          ],
+          [
+            "kovach",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "anthropic",
+          "to",
+          "spend",
+          "30",
+          "billion",
+          "dollars",
+          "in",
+          "compute",
+          "through",
+          "nvidia",
+          "and",
+          "microsoft",
+          ".",
+          "cnbcs",
+          "steve",
+          "kovach",
+          "breaks",
+          "down",
+          "the",
+          "latest",
+          "news",
+          "on",
+          "a",
+          "new",
+          "investments",
+          "from",
+          "anthropic",
+          ",",
+          "what",
+          "the",
+          "spend",
+          "means",
+          "for",
+          "the",
+          "ai",
+          "competitive",
+          "landscape",
+          ",",
+          "and",
+          "more",
+          "."
+        ],
+        "filtered": [
+          "anthropic",
+          "spend",
+          "30",
+          "billion",
+          "dollars",
+          "compute",
+          "nvidia",
+          "microsoft",
+          ".",
+          "cnbcs",
+          "steve",
+          "kovach",
+          "breaks",
+          "down",
+          "latest",
+          "news",
+          "new",
+          "investments",
+          "anthropic",
+          ",",
+          "spend",
+          "means",
+          "ai",
+          "competitive",
+          "landscape",
+          ",",
+          "more",
+          "."
+        ],
+        "lemmatized": [
+          "anthropic",
+          "spend",
+          "30",
+          "billion",
+          "dollar",
+          "compute",
+          "nvidia",
+          "microsoft",
+          ".",
+          "cnbcs",
+          "steve",
+          "kovach",
+          "break",
+          "down",
+          "late",
+          "news",
+          "new",
+          "investment",
+          "anthropic",
+          ",",
+          "spend",
+          "mean",
+          "ai",
+          "competitive",
+          "landscape",
+          ",",
+          "more",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "9546d566f21531e7",
+      "title": "Google Pixel Satellite Texting Expands to a New Market",
+      "body": "We hope that you will never find yourself in a position where you need to send an emergency SMS, but its good to know that more phones and carriers out there are supporting it. The good news is that 2032 chars",
+      "source": "Android Headlines",
+      "timestamp": "2025-11-22T00:25:52.098697",
+      "url": "https://www.androidheadlines.com/2025/11/google-pixel-satellite-texting-expands-to-a-new-market.html",
+      "raw_text": "Google Pixel Satellite Texting Expands to a New Market. We hope that you will never find yourself in a position where you need to send an emergency SMS, but its good to know that more phones and carriers out there are supporting it. The good news is that 2032 chars",
+      "tickers_mentioned": "NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google",
+            "Pixel Satellite Texting Expands"
+          ],
+          "ORGANIZATION": [
+            "SMS"
+          ],
+          "GPE": [
+            "New Market"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2032"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "good",
+            2
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "pixel",
+            1
+          ],
+          [
+            "satellite",
+            1
+          ],
+          [
+            "texting",
+            1
+          ],
+          [
+            "expand",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "hope",
+            1
+          ],
+          [
+            "never",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "google",
+          "pixel",
+          "satellite",
+          "texting",
+          "expands",
+          "to",
+          "a",
+          "new",
+          "market",
+          ".",
+          "we",
+          "hope",
+          "that",
+          "you",
+          "will",
+          "never",
+          "find",
+          "yourself",
+          "in",
+          "a",
+          "position",
+          "where",
+          "you",
+          "need",
+          "to",
+          "send",
+          "an",
+          "emergency",
+          "sms",
+          ",",
+          "but",
+          "its",
+          "good",
+          "to",
+          "know",
+          "that",
+          "more",
+          "phones",
+          "and",
+          "carriers",
+          "out",
+          "there",
+          "are",
+          "supporting",
+          "it",
+          ".",
+          "the",
+          "good",
+          "news",
+          "is",
+          "that",
+          "2032",
+          "chars"
+        ],
+        "filtered": [
+          "google",
+          "pixel",
+          "satellite",
+          "texting",
+          "expands",
+          "new",
+          "market",
+          ".",
+          "hope",
+          "never",
+          "find",
+          "position",
+          "need",
+          "send",
+          "emergency",
+          "sms",
+          ",",
+          "good",
+          "know",
+          "more",
+          "phones",
+          "carriers",
+          "supporting",
+          ".",
+          "good",
+          "news",
+          "2032",
+          "chars"
+        ],
+        "lemmatized": [
+          "google",
+          "pixel",
+          "satellite",
+          "texting",
+          "expand",
+          "new",
+          "market",
+          ".",
+          "hope",
+          "never",
+          "find",
+          "position",
+          "need",
+          "send",
+          "emergency",
+          "sm",
+          ",",
+          "good",
+          "know",
+          "more",
+          "phone",
+          "carrier",
+          "support",
+          ".",
+          "good",
+          "news",
+          "2032",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "a58f6525446b9ced",
+      "title": "Stock Market News for Nov 20, 2025",
+      "body": "U.S. stocks rebounded on Wednesday after suffering in the past few sessions, triggered by a tech slump, while investors also looked forward to NVIDIAs upcoming quarterly results.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.572247",
+      "url": "https://finnhub.io/api/news?id=1e3db5034310d5df2ae3c372b24e01f9df09b03c132c180a157c88bd49389b81",
+      "raw_text": "Stock Market News for Nov 20, 2025. U.S. stocks rebounded on Wednesday after suffering in the past few sessions, triggered by a tech slump, while investors also looked forward to NVIDIAs upcoming quarterly results.",
+      "tickers_mentioned": "NWS,NVDA,TECH",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "NWS": [],
+        "NVDA": [
+          "by a tech slump, while investors also looked forward to **NVIDIA's** upcoming quarterly results."
+        ],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock",
+            "Market News"
+          ],
+          "ORGANIZATION": [
+            "NVIDIA"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "slump"
+          ],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "20",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [
+          "Nov 20, 2025"
+        ],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "nov",
+            1
+          ],
+          [
+            "2025.",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "rebound",
+            1
+          ],
+          [
+            "wednesday",
+            1
+          ],
+          [
+            "suffer",
+            1
+          ],
+          [
+            "past",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 1
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "news",
+          "for",
+          "nov",
+          "20",
+          ",",
+          "2025.",
+          "u.s.",
+          "stocks",
+          "rebounded",
+          "on",
+          "wednesday",
+          "after",
+          "suffering",
+          "in",
+          "the",
+          "past",
+          "few",
+          "sessions",
+          ",",
+          "triggered",
+          "by",
+          "a",
+          "tech",
+          "slump",
+          ",",
+          "while",
+          "investors",
+          "also",
+          "looked",
+          "forward",
+          "to",
+          "nvidias",
+          "upcoming",
+          "quarterly",
+          "results",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "news",
+          "nov",
+          "20",
+          ",",
+          "2025.",
+          "u.s.",
+          "stocks",
+          "rebounded",
+          "wednesday",
+          "suffering",
+          "past",
+          "sessions",
+          ",",
+          "triggered",
+          "tech",
+          "slump",
+          ",",
+          "investors",
+          "also",
+          "looked",
+          "forward",
+          "nvidias",
+          "upcoming",
+          "quarterly",
+          "results",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "news",
+          "nov",
+          "20",
+          ",",
+          "2025.",
+          "u.s.",
+          "stock",
+          "rebound",
+          "wednesday",
+          "suffer",
+          "past",
+          "session",
+          ",",
+          "trigger",
+          "tech",
+          "slump",
+          ",",
+          "investor",
+          "also",
+          "look",
+          "forward",
+          "nvidias",
+          "upcoming",
+          "quarterly",
+          "result",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c3d56675113642fd",
+      "title": "Warren Buffett Just Delivered Incredible News for Nvidia Stock Investors",
+      "body": "The noted investors latest move looks like an endorsement of the huge spending on AI infrastructure by tech giants.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.709411",
+      "url": "https://finnhub.io/api/news?id=cb1d54a6061071a856fb566b8da170bb6adcd00b271ee3a752b724a2e47fc537",
+      "raw_text": "Warren Buffett Just Delivered Incredible News for Nvidia Stock Investors. The noted investors latest move looks like an endorsement of the huge spending on AI infrastructure by tech giants.",
+      "tickers_mentioned": "NWS,NVDA,TECH",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NWS": [],
+        "NVDA": [
+          "Warren Buffett Just Delivered Incredible News for **Nvidia** Stock Investors. The noted investor's latest move looks like an"
+        ],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Warren",
+            "Buffett Just Delivered Incredible News"
+          ],
+          "ORGANIZATION": [
+            "Nvidia Stock Investors"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "investor",
+            2
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "deliver",
+            1
+          ],
+          [
+            "incredible",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "note",
+            1
+          ],
+          [
+            "late",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "warren",
+          "buffett",
+          "just",
+          "delivered",
+          "incredible",
+          "news",
+          "for",
+          "nvidia",
+          "stock",
+          "investors",
+          ".",
+          "the",
+          "noted",
+          "investors",
+          "latest",
+          "move",
+          "looks",
+          "like",
+          "an",
+          "endorsement",
+          "of",
+          "the",
+          "huge",
+          "spending",
+          "on",
+          "ai",
+          "infrastructure",
+          "by",
+          "tech",
+          "giants",
+          "."
+        ],
+        "filtered": [
+          "warren",
+          "buffett",
+          "delivered",
+          "incredible",
+          "news",
+          "nvidia",
+          "stock",
+          "investors",
+          ".",
+          "noted",
+          "investors",
+          "latest",
+          "move",
+          "looks",
+          "like",
+          "endorsement",
+          "huge",
+          "spending",
+          "ai",
+          "infrastructure",
+          "tech",
+          "giants",
+          "."
+        ],
+        "lemmatized": [
+          "warren",
+          "buffett",
+          "deliver",
+          "incredible",
+          "news",
+          "nvidia",
+          "stock",
+          "investor",
+          ".",
+          "note",
+          "investor",
+          "late",
+          "move",
+          "look",
+          "like",
+          "endorsement",
+          "huge",
+          "spending",
+          "ai",
+          "infrastructure",
+          "tech",
+          "giant",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "418c8471a6d17f7b",
+      "title": "Global Equities Poised for a Complex and Uncertain 2026, According to TradingKey",
+      "body": "Global markets are closing 2025 on an unpredictable note, marked by rapid reversals and mixed investor sentiment. The year tested seasoned investors as policy shifts, geopolitical events and AI-fuelled rallies disrupted traditional market patterns. TradingKey, a global financial markets platform providing real-time news, analysis and tools, emphasises the growing importance of data-led strategies as investors recalibrate for 2026.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.890844",
+      "url": "https://finnhub.io/api/news?id=2a43a36bdfce829d78f0915fed193046d2e5cddc3dacc02edef22d2e8b5dccf1",
+      "raw_text": "Global Equities Poised for a Complex and Uncertain 2026, According to TradingKey. Global markets are closing 2025 on an unpredictable note, marked by rapid reversals and mixed investor sentiment. The year tested seasoned investors as policy shifts, geopolitical events and AI-fuelled rallies disrupted traditional market patterns. TradingKey, a global financial markets platform providing real-time news, analysis and tools, emphasises the growing importance of data-led strategies as investors recalibrate for 2026.",
+      "tickers_mentioned": "GPN,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GPN": [],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Complex",
+            "TradingKey"
+          ],
+          "GPE": [
+            "Global"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2026",
+          "2025",
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "global",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "2026",
+            2
+          ],
+          [
+            "tradingkey",
+            2
+          ],
+          [
+            "equity",
+            1
+          ],
+          [
+            "poise",
+            1
+          ],
+          [
+            "complex",
+            1
+          ],
+          [
+            "uncertain",
+            1
+          ],
+          [
+            "accord",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "global",
+          "equities",
+          "poised",
+          "for",
+          "a",
+          "complex",
+          "and",
+          "uncertain",
+          "2026",
+          ",",
+          "according",
+          "to",
+          "tradingkey",
+          ".",
+          "global",
+          "markets",
+          "are",
+          "closing",
+          "2025",
+          "on",
+          "an",
+          "unpredictable",
+          "note",
+          ",",
+          "marked",
+          "by",
+          "rapid",
+          "reversals",
+          "and",
+          "mixed",
+          "investor",
+          "sentiment",
+          ".",
+          "the",
+          "year",
+          "tested",
+          "seasoned",
+          "investors",
+          "as",
+          "policy",
+          "shifts",
+          ",",
+          "geopolitical",
+          "events",
+          "and",
+          "ai-fuelled",
+          "rallies",
+          "disrupted",
+          "traditional",
+          "market",
+          "patterns",
+          ".",
+          "tradingkey",
+          ",",
+          "a",
+          "global",
+          "financial",
+          "markets",
+          "platform",
+          "providing",
+          "real-time",
+          "news",
+          ",",
+          "analysis",
+          "and",
+          "tools",
+          ",",
+          "emphasises",
+          "the",
+          "growing",
+          "importance",
+          "of",
+          "data-led",
+          "strategies",
+          "as",
+          "investors",
+          "recalibrate",
+          "for",
+          "2026",
+          "."
+        ],
+        "filtered": [
+          "global",
+          "equities",
+          "poised",
+          "complex",
+          "uncertain",
+          "2026",
+          ",",
+          "according",
+          "tradingkey",
+          ".",
+          "global",
+          "markets",
+          "closing",
+          "2025",
+          "unpredictable",
+          "note",
+          ",",
+          "marked",
+          "rapid",
+          "reversals",
+          "mixed",
+          "investor",
+          "sentiment",
+          ".",
+          "year",
+          "tested",
+          "seasoned",
+          "investors",
+          "policy",
+          "shifts",
+          ",",
+          "geopolitical",
+          "events",
+          "ai-fuelled",
+          "rallies",
+          "disrupted",
+          "traditional",
+          "market",
+          "patterns",
+          ".",
+          "tradingkey",
+          ",",
+          "global",
+          "financial",
+          "markets",
+          "platform",
+          "providing",
+          "real-time",
+          "news",
+          ",",
+          "analysis",
+          "tools",
+          ",",
+          "emphasises",
+          "growing",
+          "importance",
+          "data-led",
+          "strategies",
+          "investors",
+          "recalibrate",
+          "2026",
+          "."
+        ],
+        "lemmatized": [
+          "global",
+          "equity",
+          "poise",
+          "complex",
+          "uncertain",
+          "2026",
+          ",",
+          "accord",
+          "tradingkey",
+          ".",
+          "global",
+          "market",
+          "close",
+          "2025",
+          "unpredictable",
+          "note",
+          ",",
+          "mark",
+          "rapid",
+          "reversal",
+          "mixed",
+          "investor",
+          "sentiment",
+          ".",
+          "year",
+          "test",
+          "seasoned",
+          "investor",
+          "policy",
+          "shift",
+          ",",
+          "geopolitical",
+          "event",
+          "ai-fuelled",
+          "rally",
+          "disrupt",
+          "traditional",
+          "market",
+          "pattern",
+          ".",
+          "tradingkey",
+          ",",
+          "global",
+          "financial",
+          "market",
+          "platform",
+          "provide",
+          "real-time",
+          "news",
+          ",",
+          "analysis",
+          "tool",
+          ",",
+          "emphasise",
+          "grow",
+          "importance",
+          "data-led",
+          "strategy",
+          "investor",
+          "recalibrate",
+          "2026",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0a9cbb5c1c4148ab",
+      "title": "YouTube TV drops more good news to subscribers after Disney deal",
+      "body": "Googles YouTube and The Walt Disney Company confirmed on Nov. 14 they had reached an agreement to restore Disney-owned networks on YouTube TV, after two weeks of blackout. The dispute left millions of subscribers without access to popular Disney channels, including ABC, ESPN, The Disney Channel, ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.959112",
+      "url": "https://finnhub.io/api/news?id=0ec678eb447fedd0df24415cfe57bab67d57dac3664c3d4889e6007daaa4a116",
+      "raw_text": "YouTube TV drops more good news to subscribers after Disney deal. Googles YouTube and The Walt Disney Company confirmed on Nov. 14 they had reached an agreement to restore Disney-owned networks on YouTube TV, after two weeks of blackout. The dispute left millions of subscribers without access to popular Disney channels, including ABC, ESPN, The Disney Channel, ...",
+      "tickers_mentioned": "DIS,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "DIS": [
+          "good news to subscribers after Disney deal. Google’s YouTube and **The** Walt Disney Company confirmed on Nov. 14 they had reached"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google"
+          ],
+          "ORGANIZATION": [
+            "Disney",
+            "YouTube",
+            "Walt Disney Company",
+            "ABC",
+            "ESPN",
+            "Disney Channel"
+          ],
+          "GPE": [
+            "YouTube"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "14"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "disney",
+            4
+          ],
+          [
+            "youtube",
+            3
+          ],
+          [
+            "subscriber",
+            2
+          ],
+          [
+            "channel",
+            2
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "good",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "google",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "youtube",
+          "tv",
+          "drops",
+          "more",
+          "good",
+          "news",
+          "to",
+          "subscribers",
+          "after",
+          "disney",
+          "deal",
+          ".",
+          "googles",
+          "youtube",
+          "and",
+          "the",
+          "walt",
+          "disney",
+          "company",
+          "confirmed",
+          "on",
+          "nov.",
+          "14",
+          "they",
+          "had",
+          "reached",
+          "an",
+          "agreement",
+          "to",
+          "restore",
+          "disney-owned",
+          "networks",
+          "on",
+          "youtube",
+          "tv",
+          ",",
+          "after",
+          "two",
+          "weeks",
+          "of",
+          "blackout",
+          ".",
+          "the",
+          "dispute",
+          "left",
+          "millions",
+          "of",
+          "subscribers",
+          "without",
+          "access",
+          "to",
+          "popular",
+          "disney",
+          "channels",
+          ",",
+          "including",
+          "abc",
+          ",",
+          "espn",
+          ",",
+          "the",
+          "disney",
+          "channel",
+          ",",
+          "..."
+        ],
+        "filtered": [
+          "youtube",
+          "tv",
+          "drops",
+          "more",
+          "good",
+          "news",
+          "subscribers",
+          "disney",
+          "deal",
+          ".",
+          "googles",
+          "youtube",
+          "walt",
+          "disney",
+          "company",
+          "confirmed",
+          "nov.",
+          "14",
+          "reached",
+          "agreement",
+          "restore",
+          "disney-owned",
+          "networks",
+          "youtube",
+          "tv",
+          ",",
+          "two",
+          "weeks",
+          "blackout",
+          ".",
+          "dispute",
+          "left",
+          "millions",
+          "subscribers",
+          "without",
+          "access",
+          "popular",
+          "disney",
+          "channels",
+          ",",
+          "including",
+          "abc",
+          ",",
+          "espn",
+          ",",
+          "disney",
+          "channel",
+          ",",
+          "..."
+        ],
+        "lemmatized": [
+          "youtube",
+          "tv",
+          "drop",
+          "more",
+          "good",
+          "news",
+          "subscriber",
+          "disney",
+          "deal",
+          ".",
+          "google",
+          "youtube",
+          "walt",
+          "disney",
+          "company",
+          "confirm",
+          "nov.",
+          "14",
+          "reach",
+          "agreement",
+          "restore",
+          "disney-owned",
+          "network",
+          "youtube",
+          "tv",
+          ",",
+          "two",
+          "week",
+          "blackout",
+          ".",
+          "dispute",
+          "leave",
+          "million",
+          "subscriber",
+          "without",
+          "access",
+          "popular",
+          "disney",
+          "channel",
+          ",",
+          "include",
+          "abc",
+          ",",
+          "espn",
+          ",",
+          "disney",
+          "channel",
+          ",",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "b81210f561c67b02",
+      "title": "AI Spending Fears Haunt Stock Markets. Why Nvidia, Microsoft, Google Wont Blink.",
+      "body": "Anthropic in deal with Microsoft and Nvidia, Meta Platforms can avoid divesting Instagram, prediction markets in focus at CFTC nominee hearing, and more news to start your day.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.339778",
+      "url": "https://finnhub.io/api/news?id=b598aacf33f8ca18a8dd3272e7eb22019b340e1d46357598b28fce318fe4cbd1",
+      "raw_text": "AI Spending Fears Haunt Stock Markets. Why Nvidia, Microsoft, Google Wont Blink.. Anthropic in deal with Microsoft and Nvidia, Meta Platforms can avoid divesting Instagram, prediction markets in focus at CFTC nominee hearing, and more news to start your day.",
+      "tickers_mentioned": "NWS,NVDA,META,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NWS": [],
+        "NVDA": [
+          "AI Spending Fears Haunt Stock Markets. Why **Nvidia,** Microsoft, Google Won’t Blink.. Anthropic in deal with Microsoft and",
+          "Microsoft, Google Won’t Blink.. Anthropic in deal with Microsoft and **Nvidia,** Meta Platforms can avoid divesting Instagram, prediction markets in focus"
+        ],
+        "META": [
+          "Google Won’t Blink.. Anthropic in deal with Microsoft and Nvidia, **Meta** Platforms can avoid divesting Instagram, prediction markets in focus at"
+        ],
+        "MSFT": [
+          "AI Spending Fears Haunt Stock Markets. Why Nvidia, **Microsoft,** Google Won’t Blink.. Anthropic in deal with Microsoft and Nvidia,",
+          "Why Nvidia, Microsoft, Google Won’t Blink.. Anthropic in deal with **Microsoft** and Nvidia, Meta Platforms can avoid divesting Instagram, prediction markets"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Fears Haunt Stock Markets",
+            "Microsoft",
+            "Google Won",
+            "Blink",
+            "Instagram"
+          ],
+          "ORGANIZATION": [
+            "Meta",
+            "CFTC"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "market",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "spending",
+            1
+          ],
+          [
+            "fear",
+            1
+          ],
+          [
+            "haunt",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "wont",
+            1
+          ],
+          [
+            "blink",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ai",
+          "spending",
+          "fears",
+          "haunt",
+          "stock",
+          "markets",
+          ".",
+          "why",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "google",
+          "wont",
+          "blink",
+          "..",
+          "anthropic",
+          "in",
+          "deal",
+          "with",
+          "microsoft",
+          "and",
+          "nvidia",
+          ",",
+          "meta",
+          "platforms",
+          "can",
+          "avoid",
+          "divesting",
+          "instagram",
+          ",",
+          "prediction",
+          "markets",
+          "in",
+          "focus",
+          "at",
+          "cftc",
+          "nominee",
+          "hearing",
+          ",",
+          "and",
+          "more",
+          "news",
+          "to",
+          "start",
+          "your",
+          "day",
+          "."
+        ],
+        "filtered": [
+          "ai",
+          "spending",
+          "fears",
+          "haunt",
+          "stock",
+          "markets",
+          ".",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "google",
+          "wont",
+          "blink",
+          "..",
+          "anthropic",
+          "deal",
+          "microsoft",
+          "nvidia",
+          ",",
+          "meta",
+          "platforms",
+          "avoid",
+          "divesting",
+          "instagram",
+          ",",
+          "prediction",
+          "markets",
+          "focus",
+          "cftc",
+          "nominee",
+          "hearing",
+          ",",
+          "more",
+          "news",
+          "start",
+          "day",
+          "."
+        ],
+        "lemmatized": [
+          "ai",
+          "spending",
+          "fear",
+          "haunt",
+          "stock",
+          "market",
+          ".",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "google",
+          "wont",
+          "blink",
+          "..",
+          "anthropic",
+          "deal",
+          "microsoft",
+          "nvidia",
+          ",",
+          "meta",
+          "platform",
+          "avoid",
+          "divest",
+          "instagram",
+          ",",
+          "prediction",
+          "market",
+          "focus",
+          "cftc",
+          "nominee",
+          "hearing",
+          ",",
+          "more",
+          "news",
+          "start",
+          "day",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0287bc155e7b354c",
+      "title": "Why Amazon Stock Plummeted Today",
+      "body": "The latest news for the company on the regulatory and analysis fronts was not encouraging.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.497970",
+      "url": "https://finnhub.io/api/news?id=a85c94c27b44bae357d33a37cfb633b89699ccc5d98abd9238eaf7e4a8a5bdcd",
+      "raw_text": "Why Amazon Stock Plummeted Today. The latest news for the company on the regulatory and analysis fronts was not encouraging.",
+      "tickers_mentioned": "AMZN,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AMZN": [
+          "Why **Amazon** Stock Plummeted Today. The latest news for the company on"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon Stock"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "plummet",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "late",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "regulatory",
+            1
+          ],
+          [
+            "analysis",
+            1
+          ],
+          [
+            "front",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "why",
+          "amazon",
+          "stock",
+          "plummeted",
+          "today",
+          ".",
+          "the",
+          "latest",
+          "news",
+          "for",
+          "the",
+          "company",
+          "on",
+          "the",
+          "regulatory",
+          "and",
+          "analysis",
+          "fronts",
+          "was",
+          "not",
+          "encouraging",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          "stock",
+          "plummeted",
+          "today",
+          ".",
+          "latest",
+          "news",
+          "company",
+          "regulatory",
+          "analysis",
+          "fronts",
+          "not",
+          "encouraging",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          "stock",
+          "plummet",
+          "today",
+          ".",
+          "late",
+          "news",
+          "company",
+          "regulatory",
+          "analysis",
+          "front",
+          "not",
+          "encourage",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c76bdd90d9f98ca6",
+      "title": "Wealthy New Yorkers Reportedly Looking For Therapy After Zohran Mamdani Taps Former FTC Chair Lena Khan As His Transition Team Co-Chair",
+      "body": "New York Citys business elite did not wait long to panic after Mayor-elect Zohran Mamdani announced that former Federal Trade Commission Chair Lina Khan would co-lead his transition team. Khans appointment reportedly left some financiers and tech executives reeling, with CNBCs Andrew Ross Sorkin even saying that the wealthy are looking for therapy after the news. Do not Miss The AI Marketing Platform Backed by Insiders from Google, Meta, and Amazon Invest at $0.81Share Before Nov. 20 An E",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.732960",
+      "url": "https://finnhub.io/api/news?id=1804b18fac91725b54c159f7aefbf512104b6e4a06ae9f6e95a0c8d623565d09",
+      "raw_text": "Wealthy New Yorkers Reportedly Looking For Therapy After Zohran Mamdani Taps Former FTC Chair Lena Khan As His Transition Team Co-Chair. New York Citys business elite did not wait long to panic after Mayor-elect Zohran Mamdani announced that former Federal Trade Commission Chair Lina Khan would co-lead his transition team. Khans appointment reportedly left some financiers and tech executives reeling, with CNBCs Andrew Ross Sorkin even saying that the wealthy are looking for therapy after the news. Do not Miss The AI Marketing Platform Backed by Insiders from Google, Meta, and Amazon Invest at $0.81Share Before Nov. 20 An E",
+      "tickers_mentioned": "TECH,META,TTD,ROST,AMZN,FRT,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "META": [],
+        "TTD": [],
+        "ROST": [],
+        "AMZN": [
+          "AI Marketing Platform Backed by Insiders from Google, Meta, and **Amazon** — Invest at $0.81/Share Before Nov. 20 An E"
+        ],
+        "FRT": [],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Wealthy",
+            "Zohran Mamdani Taps Former",
+            "Zohran Mamdani",
+            "Lina Khan",
+            "Khan",
+            "Andrew Ross Sorkin",
+            "Amazon"
+          ],
+          "ORGANIZATION": [
+            "New Yorkers",
+            "FTC",
+            "Transition Team",
+            "Federal Trade Commission",
+            "CNBC",
+            "AI",
+            "Meta"
+          ],
+          "GPE": [
+            "New York City",
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "miss",
+            "cut"
+          ],
+          "neutral": [
+            "announce",
+            "report"
+          ]
+        },
+        "numbers": [
+          "0.81",
+          "20"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "khan",
+            3
+          ],
+          [
+            "wealthy",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "reportedly",
+            2
+          ],
+          [
+            "look",
+            2
+          ],
+          [
+            "therapy",
+            2
+          ],
+          [
+            "zohran",
+            2
+          ],
+          [
+            "mamdani",
+            2
+          ],
+          [
+            "former",
+            2
+          ],
+          [
+            "chair",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 16,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wealthy",
+          "new",
+          "yorkers",
+          "reportedly",
+          "looking",
+          "for",
+          "therapy",
+          "after",
+          "zohran",
+          "mamdani",
+          "taps",
+          "former",
+          "ftc",
+          "chair",
+          "lena",
+          "khan",
+          "as",
+          "his",
+          "transition",
+          "team",
+          "co-chair",
+          ".",
+          "new",
+          "york",
+          "citys",
+          "business",
+          "elite",
+          "did",
+          "not",
+          "wait",
+          "long",
+          "to",
+          "panic",
+          "after",
+          "mayor-elect",
+          "zohran",
+          "mamdani",
+          "announced",
+          "that",
+          "former",
+          "federal",
+          "trade",
+          "commission",
+          "chair",
+          "lina",
+          "khan",
+          "would",
+          "co-lead",
+          "his",
+          "transition",
+          "team",
+          ".",
+          "khans",
+          "appointment",
+          "reportedly",
+          "left",
+          "some",
+          "financiers",
+          "and",
+          "tech",
+          "executives",
+          "reeling",
+          ",",
+          "with",
+          "cnbcs",
+          "andrew",
+          "ross",
+          "sorkin",
+          "even",
+          "saying",
+          "that",
+          "the",
+          "wealthy",
+          "are",
+          "looking",
+          "for",
+          "therapy",
+          "after",
+          "the",
+          "news",
+          ".",
+          "do",
+          "not",
+          "miss",
+          "the",
+          "ai",
+          "marketing",
+          "platform",
+          "backed",
+          "by",
+          "insiders",
+          "from",
+          "google",
+          ",",
+          "meta",
+          ",",
+          "and",
+          "amazon",
+          "invest",
+          "at",
+          "$",
+          "0.81share",
+          "before",
+          "nov.",
+          "20",
+          "an",
+          "e"
+        ],
+        "filtered": [
+          "wealthy",
+          "new",
+          "yorkers",
+          "reportedly",
+          "looking",
+          "therapy",
+          "zohran",
+          "mamdani",
+          "taps",
+          "former",
+          "ftc",
+          "chair",
+          "lena",
+          "khan",
+          "transition",
+          "team",
+          "co-chair",
+          ".",
+          "new",
+          "york",
+          "citys",
+          "business",
+          "elite",
+          "not",
+          "wait",
+          "long",
+          "panic",
+          "mayor-elect",
+          "zohran",
+          "mamdani",
+          "announced",
+          "former",
+          "federal",
+          "trade",
+          "commission",
+          "chair",
+          "lina",
+          "khan",
+          "would",
+          "co-lead",
+          "transition",
+          "team",
+          ".",
+          "khans",
+          "appointment",
+          "reportedly",
+          "left",
+          "financiers",
+          "tech",
+          "executives",
+          "reeling",
+          ",",
+          "cnbcs",
+          "andrew",
+          "ross",
+          "sorkin",
+          "even",
+          "saying",
+          "wealthy",
+          "looking",
+          "therapy",
+          "news",
+          ".",
+          "not",
+          "miss",
+          "ai",
+          "marketing",
+          "platform",
+          "backed",
+          "insiders",
+          "google",
+          ",",
+          "meta",
+          ",",
+          "amazon",
+          "invest",
+          "$",
+          "0.81share",
+          "nov.",
+          "20",
+          "e"
+        ],
+        "lemmatized": [
+          "wealthy",
+          "new",
+          "yorkers",
+          "reportedly",
+          "look",
+          "therapy",
+          "zohran",
+          "mamdani",
+          "tap",
+          "former",
+          "ftc",
+          "chair",
+          "lena",
+          "khan",
+          "transition",
+          "team",
+          "co-chair",
+          ".",
+          "new",
+          "york",
+          "city",
+          "business",
+          "elite",
+          "not",
+          "wait",
+          "long",
+          "panic",
+          "mayor-elect",
+          "zohran",
+          "mamdani",
+          "announce",
+          "former",
+          "federal",
+          "trade",
+          "commission",
+          "chair",
+          "lina",
+          "khan",
+          "would",
+          "co-lead",
+          "transition",
+          "team",
+          ".",
+          "khan",
+          "appointment",
+          "reportedly",
+          "leave",
+          "financier",
+          "tech",
+          "executive",
+          "reel",
+          ",",
+          "cnbcs",
+          "andrew",
+          "ross",
+          "sorkin",
+          "even",
+          "say",
+          "wealthy",
+          "look",
+          "therapy",
+          "news",
+          ".",
+          "not",
+          "miss",
+          "ai",
+          "market",
+          "platform",
+          "back",
+          "insider",
+          "google",
+          ",",
+          "meta",
+          ",",
+          "amazon",
+          "invest",
+          "$",
+          "0.81share",
+          "nov.",
+          "20",
+          "e"
+        ]
+      }
+    },
+    {
+      "article_id": "fb09159e07c2a6b0",
+      "title": "Expedia And Booking Stocks Slide As Google Expand AI Travel Planning Tools",
+      "body": "Google will soon bring hotel, flight and other type of reservations bookings into its AI-powered search offering. The news sent shares of Expedia Group and Booking Holdings falling Monday. The online search giant said in a blog post Monday that its AI Mode tab has new features to help build custom travel plans.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.079859",
+      "url": "https://finnhub.io/api/news?id=c478dbd318f6482e5e8bacbe19ffe1f1527e50924b6e6c992da951a1e4f097b4",
+      "raw_text": "Expedia And Booking Stocks Slide As Google Expand AI Travel Planning Tools. Google will soon bring hotel, flight and other type of reservations bookings into its AI-powered search offering. The news sent shares of Expedia Group and Booking Holdings falling Monday. The online search giant said in a blog post Monday that its AI Mode tab has new features to help build custom travel plans.",
+      "tickers_mentioned": "EXE,BKNG,EXPE,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "EXE": [],
+        "BKNG": [
+          "search offering. The news sent shares of Expedia Group and **Booking** Holdings falling Monday. The online search giant said in a"
+        ],
+        "EXPE": [
+          "into its AI-powered search offering. The news sent shares of **Expedia** Group and Booking Holdings falling Monday. The online search giant"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Travel Planning Tools",
+            "Google"
+          ],
+          "ORGANIZATION": [
+            "And Booking Stocks Slide As Google Expand",
+            "Expedia Group",
+            "Booking Holdings"
+          ],
+          "GPE": [
+            "Expedia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "fall"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "expedia",
+            2
+          ],
+          [
+            "book",
+            2
+          ],
+          [
+            "google",
+            2
+          ],
+          [
+            "travel",
+            2
+          ],
+          [
+            "search",
+            2
+          ],
+          [
+            "monday",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "slide",
+            1
+          ],
+          [
+            "expand",
+            1
+          ],
+          [
+            "planning",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "expedia",
+          "and",
+          "booking",
+          "stocks",
+          "slide",
+          "as",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tools",
+          ".",
+          "google",
+          "will",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "and",
+          "other",
+          "type",
+          "of",
+          "reservations",
+          "bookings",
+          "into",
+          "its",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "the",
+          "news",
+          "sent",
+          "shares",
+          "of",
+          "expedia",
+          "group",
+          "and",
+          "booking",
+          "holdings",
+          "falling",
+          "monday",
+          ".",
+          "the",
+          "online",
+          "search",
+          "giant",
+          "said",
+          "in",
+          "a",
+          "blog",
+          "post",
+          "monday",
+          "that",
+          "its",
+          "ai",
+          "mode",
+          "tab",
+          "has",
+          "new",
+          "features",
+          "to",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plans",
+          "."
+        ],
+        "filtered": [
+          "expedia",
+          "booking",
+          "stocks",
+          "slide",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tools",
+          ".",
+          "google",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "type",
+          "reservations",
+          "bookings",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "news",
+          "sent",
+          "shares",
+          "expedia",
+          "group",
+          "booking",
+          "holdings",
+          "falling",
+          "monday",
+          ".",
+          "online",
+          "search",
+          "giant",
+          "said",
+          "blog",
+          "post",
+          "monday",
+          "ai",
+          "mode",
+          "tab",
+          "new",
+          "features",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plans",
+          "."
+        ],
+        "lemmatized": [
+          "expedia",
+          "book",
+          "stock",
+          "slide",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tool",
+          ".",
+          "google",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "type",
+          "reservation",
+          "booking",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "news",
+          "send",
+          "shares",
+          "expedia",
+          "group",
+          "book",
+          "holdings",
+          "fall",
+          "monday",
+          ".",
+          "online",
+          "search",
+          "giant",
+          "say",
+          "blog",
+          "post",
+          "monday",
+          "ai",
+          "mode",
+          "tab",
+          "new",
+          "feature",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plan",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "b03575438a0aeb20",
+      "title": "Stock Markets Face a Crunch Week. Its About Much More Than Nvidia Earnings.",
+      "body": "Nvidia earnings are coming, the Feds path forward is getting murkier, Berkshire Hathaway bought $4.3 billion worth of Alphabet stock, and more news to start your day.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.352347",
+      "url": "https://finnhub.io/api/news?id=ad4104d43b3457e4ad2c1698f7d92331d074c2db0900f0f84619a98e190b5718",
+      "raw_text": "Stock Markets Face a Crunch Week. Its About Much More Than Nvidia Earnings.. Nvidia earnings are coming, the Feds path forward is getting murkier, Berkshire Hathaway bought $4.3 billion worth of Alphabet stock, and more news to start your day.",
+      "tickers_mentioned": "BRK.B,GOOG,NVDA,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BRK.B": [
+          "earnings are coming, the Fed’s path forward is getting murkier, **Berkshire** Hathaway bought $4.3 billion worth of Alphabet stock, and more"
+        ],
+        "GOOG": [],
+        "NVDA": [
+          "Markets Face a Crunch Week. It’s About Much More Than **Nvidia** Earnings.. Nvidia earnings are coming, the Fed’s path forward is",
+          "a Crunch Week. It’s About Much More Than Nvidia Earnings.. **Nvidia** earnings are coming, the Fed’s path forward is getting murkier,"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nvidia Earnings"
+          ],
+          "ORGANIZATION": [
+            "Markets",
+            "Crunch Week",
+            "Fed",
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Stock",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "4.3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "crunch",
+            1
+          ],
+          [
+            "week",
+            1
+          ],
+          [
+            "much",
+            1
+          ],
+          [
+            "come",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "markets",
+          "face",
+          "a",
+          "crunch",
+          "week",
+          ".",
+          "its",
+          "about",
+          "much",
+          "more",
+          "than",
+          "nvidia",
+          "earnings",
+          "..",
+          "nvidia",
+          "earnings",
+          "are",
+          "coming",
+          ",",
+          "the",
+          "feds",
+          "path",
+          "forward",
+          "is",
+          "getting",
+          "murkier",
+          ",",
+          "berkshire",
+          "hathaway",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "of",
+          "alphabet",
+          "stock",
+          ",",
+          "and",
+          "more",
+          "news",
+          "to",
+          "start",
+          "your",
+          "day",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "markets",
+          "face",
+          "crunch",
+          "week",
+          ".",
+          "much",
+          "more",
+          "nvidia",
+          "earnings",
+          "..",
+          "nvidia",
+          "earnings",
+          "coming",
+          ",",
+          "feds",
+          "path",
+          "forward",
+          "getting",
+          "murkier",
+          ",",
+          "berkshire",
+          "hathaway",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "alphabet",
+          "stock",
+          ",",
+          "more",
+          "news",
+          "start",
+          "day",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "face",
+          "crunch",
+          "week",
+          ".",
+          "much",
+          "more",
+          "nvidia",
+          "earnings",
+          "..",
+          "nvidia",
+          "earnings",
+          "come",
+          ",",
+          "fed",
+          "path",
+          "forward",
+          "get",
+          "murky",
+          ",",
+          "berkshire",
+          "hathaway",
+          "buy",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "alphabet",
+          "stock",
+          ",",
+          "more",
+          "news",
+          "start",
+          "day",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "617636a52e1ab7a7",
+      "title": "Why it is Great News For Nvidia Stock That Jeff Bezos Will Co-Lead the New AI Start-Up Project Prometheus",
+      "body": "In what promises to be a fierce competition, Amazon founder Jeff Bezos will compete with fellow billionaires Elon Musk and Sam Altman in the AI start-up space.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:25:55.217787",
+      "url": "https://www.fool.com/investing/2025/11/19/nvda-stock-bezos-project-prometheus-ai-startup/",
+      "raw_text": "Why it is Great News For Nvidia Stock That Jeff Bezos Will Co-Lead the New AI Start-Up Project Prometheus. In what promises to be a fierce competition, Amazon founder Jeff Bezos will compete with fellow billionaires Elon Musk and Sam Altman in the AI start-up space.",
+      "tickers_mentioned": "NVDA,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "Why It's Great News For **Nvidia** Stock That Jeff Bezos Will Co-Lead the New AI Start-Up"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeff Bezos Will",
+            "Jeff Bezos",
+            "Elon Musk",
+            "Sam Altman"
+          ],
+          "ORGANIZATION": [
+            "Great News For Nvidia",
+            "New",
+            "AI"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "project"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "jeff",
+            2
+          ],
+          [
+            "bezos",
+            2
+          ],
+          [
+            "start-up",
+            2
+          ],
+          [
+            "great",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "co-lead",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "project",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "why",
+          "it",
+          "is",
+          "great",
+          "news",
+          "for",
+          "nvidia",
+          "stock",
+          "that",
+          "jeff",
+          "bezos",
+          "will",
+          "co-lead",
+          "the",
+          "new",
+          "ai",
+          "start-up",
+          "project",
+          "prometheus",
+          ".",
+          "in",
+          "what",
+          "promises",
+          "to",
+          "be",
+          "a",
+          "fierce",
+          "competition",
+          ",",
+          "amazon",
+          "founder",
+          "jeff",
+          "bezos",
+          "will",
+          "compete",
+          "with",
+          "fellow",
+          "billionaires",
+          "elon",
+          "musk",
+          "and",
+          "sam",
+          "altman",
+          "in",
+          "the",
+          "ai",
+          "start-up",
+          "space",
+          "."
+        ],
+        "filtered": [
+          "great",
+          "news",
+          "nvidia",
+          "stock",
+          "jeff",
+          "bezos",
+          "co-lead",
+          "new",
+          "ai",
+          "start-up",
+          "project",
+          "prometheus",
+          ".",
+          "promises",
+          "fierce",
+          "competition",
+          ",",
+          "amazon",
+          "founder",
+          "jeff",
+          "bezos",
+          "compete",
+          "fellow",
+          "billionaires",
+          "elon",
+          "musk",
+          "sam",
+          "altman",
+          "ai",
+          "start-up",
+          "space",
+          "."
+        ],
+        "lemmatized": [
+          "great",
+          "news",
+          "nvidia",
+          "stock",
+          "jeff",
+          "bezos",
+          "co-lead",
+          "new",
+          "ai",
+          "start-up",
+          "project",
+          "prometheus",
+          ".",
+          "promise",
+          "fierce",
+          "competition",
+          ",",
+          "amazon",
+          "founder",
+          "jeff",
+          "bezos",
+          "compete",
+          "fellow",
+          "billionaire",
+          "elon",
+          "musk",
+          "sam",
+          "altman",
+          "ai",
+          "start-up",
+          "space",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "62cad8425a7db879",
+      "title": "SP500 Good News For Nvidia Is Bad News For Everybody Else - Stay Short",
+      "body": "Get insights on why Nvidias AI boom may signal market trouble and a bursting AI bubble. Learn what this means for the SP 500.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:55.411978",
+      "url": "https://finnhub.io/api/news?id=91e5d6c4f9215bf0bdaa84ba2ae3cf6d9b6fe919cb49770251b5df9847a16b6e",
+      "raw_text": "SP500 Good News For Nvidia Is Bad News For Everybody Else - Stay Short. Get insights on why Nvidias AI boom may signal market trouble and a bursting AI bubble. Learn what this means for the SP 500.",
+      "tickers_mentioned": "NVDA,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "SP500: Good News For **Nvidia** Is Bad News For Everybody Else - Stay Short. Get",
+          "For Everybody Else - Stay Short. Get insights on why **Nvidia's** AI boom may signal market trouble and a bursting AI"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stay Short",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Good News For Nvidia Is Bad News For Everybody Else"
+          ],
+          "GPE": [
+            "SP500"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "news",
+            2
+          ],
+          [
+            "sp500",
+            1
+          ],
+          [
+            "good",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "bad",
+            1
+          ],
+          [
+            "everybody",
+            1
+          ],
+          [
+            "else",
+            1
+          ],
+          [
+            "stay",
+            1
+          ],
+          [
+            "short",
+            1
+          ],
+          [
+            "get",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "sp500",
+          "good",
+          "news",
+          "for",
+          "nvidia",
+          "is",
+          "bad",
+          "news",
+          "for",
+          "everybody",
+          "else",
+          "-",
+          "stay",
+          "short",
+          ".",
+          "get",
+          "insights",
+          "on",
+          "why",
+          "nvidias",
+          "ai",
+          "boom",
+          "may",
+          "signal",
+          "market",
+          "trouble",
+          "and",
+          "a",
+          "bursting",
+          "ai",
+          "bubble",
+          ".",
+          "learn",
+          "what",
+          "this",
+          "means",
+          "for",
+          "the",
+          "sp",
+          "500",
+          "."
+        ],
+        "filtered": [
+          "sp500",
+          "good",
+          "news",
+          "nvidia",
+          "bad",
+          "news",
+          "everybody",
+          "else",
+          "-",
+          "stay",
+          "short",
+          ".",
+          "get",
+          "insights",
+          "nvidias",
+          "ai",
+          "boom",
+          "may",
+          "signal",
+          "market",
+          "trouble",
+          "bursting",
+          "ai",
+          "bubble",
+          ".",
+          "learn",
+          "means",
+          "sp",
+          "500",
+          "."
+        ],
+        "lemmatized": [
+          "sp500",
+          "good",
+          "news",
+          "nvidia",
+          "bad",
+          "news",
+          "everybody",
+          "else",
+          "-",
+          "stay",
+          "short",
+          ".",
+          "get",
+          "insights",
+          "nvidias",
+          "ai",
+          "boom",
+          "may",
+          "signal",
+          "market",
+          "trouble",
+          "burst",
+          "ai",
+          "bubble",
+          ".",
+          "learn",
+          "mean",
+          "sp",
+          "500",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0287bc155e7b354c",
+      "title": "Why Amazon Stock Plummeted Today",
+      "body": "The latest news for the company on the regulatory and analysis fronts was not encouraging.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.555377",
+      "url": "https://finnhub.io/api/news?id=a85c94c27b44bae357d33a37cfb633b89699ccc5d98abd9238eaf7e4a8a5bdcd",
+      "raw_text": "Why Amazon Stock Plummeted Today. The latest news for the company on the regulatory and analysis fronts was not encouraging.",
+      "tickers_mentioned": "AMZN,NWS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AMZN": [
+          "Why **Amazon** Stock Plummeted Today. The latest news for the company on"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon Stock"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "plummet",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "late",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "regulatory",
+            1
+          ],
+          [
+            "analysis",
+            1
+          ],
+          [
+            "front",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "why",
+          "amazon",
+          "stock",
+          "plummeted",
+          "today",
+          ".",
+          "the",
+          "latest",
+          "news",
+          "for",
+          "the",
+          "company",
+          "on",
+          "the",
+          "regulatory",
+          "and",
+          "analysis",
+          "fronts",
+          "was",
+          "not",
+          "encouraging",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          "stock",
+          "plummeted",
+          "today",
+          ".",
+          "latest",
+          "news",
+          "company",
+          "regulatory",
+          "analysis",
+          "fronts",
+          "not",
+          "encouraging",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          "stock",
+          "plummet",
+          "today",
+          ".",
+          "late",
+          "news",
+          "company",
+          "regulatory",
+          "analysis",
+          "front",
+          "not",
+          "encourage",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c76bdd90d9f98ca6",
+      "title": "Wealthy New Yorkers Reportedly Looking For Therapy After Zohran Mamdani Taps Former FTC Chair Lena Khan As His Transition Team Co-Chair",
+      "body": "New York Citys business elite did not wait long to panic after Mayor-elect Zohran Mamdani announced that former Federal Trade Commission Chair Lina Khan would co-lead his transition team. Khans appointment reportedly left some financiers and tech executives reeling, with CNBCs Andrew Ross Sorkin even saying that the wealthy are looking for therapy after the news. Do not Miss The AI Marketing Platform Backed by Insiders from Google, Meta, and Amazon Invest at $0.81Share Before Nov. 20 An E",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.914844",
+      "url": "https://finnhub.io/api/news?id=1804b18fac91725b54c159f7aefbf512104b6e4a06ae9f6e95a0c8d623565d09",
+      "raw_text": "Wealthy New Yorkers Reportedly Looking For Therapy After Zohran Mamdani Taps Former FTC Chair Lena Khan As His Transition Team Co-Chair. New York Citys business elite did not wait long to panic after Mayor-elect Zohran Mamdani announced that former Federal Trade Commission Chair Lina Khan would co-lead his transition team. Khans appointment reportedly left some financiers and tech executives reeling, with CNBCs Andrew Ross Sorkin even saying that the wealthy are looking for therapy after the news. Do not Miss The AI Marketing Platform Backed by Insiders from Google, Meta, and Amazon Invest at $0.81Share Before Nov. 20 An E",
+      "tickers_mentioned": "TECH,META,TTD,ROST,AMZN,FRT,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "META": [],
+        "TTD": [],
+        "ROST": [],
+        "AMZN": [
+          "AI Marketing Platform Backed by Insiders from Google, Meta, and **Amazon** — Invest at $0.81/Share Before Nov. 20 An E"
+        ],
+        "FRT": [],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Wealthy",
+            "Zohran Mamdani Taps Former",
+            "Zohran Mamdani",
+            "Lina Khan",
+            "Khan",
+            "Andrew Ross Sorkin",
+            "Amazon"
+          ],
+          "ORGANIZATION": [
+            "New Yorkers",
+            "FTC",
+            "Transition Team",
+            "Federal Trade Commission",
+            "CNBC",
+            "AI",
+            "Meta"
+          ],
+          "GPE": [
+            "New York City",
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "miss",
+            "cut"
+          ],
+          "neutral": [
+            "announce",
+            "report"
+          ]
+        },
+        "numbers": [
+          "0.81",
+          "20"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "khan",
+            3
+          ],
+          [
+            "wealthy",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "reportedly",
+            2
+          ],
+          [
+            "look",
+            2
+          ],
+          [
+            "therapy",
+            2
+          ],
+          [
+            "zohran",
+            2
+          ],
+          [
+            "mamdani",
+            2
+          ],
+          [
+            "former",
+            2
+          ],
+          [
+            "chair",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 16,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wealthy",
+          "new",
+          "yorkers",
+          "reportedly",
+          "looking",
+          "for",
+          "therapy",
+          "after",
+          "zohran",
+          "mamdani",
+          "taps",
+          "former",
+          "ftc",
+          "chair",
+          "lena",
+          "khan",
+          "as",
+          "his",
+          "transition",
+          "team",
+          "co-chair",
+          ".",
+          "new",
+          "york",
+          "citys",
+          "business",
+          "elite",
+          "did",
+          "not",
+          "wait",
+          "long",
+          "to",
+          "panic",
+          "after",
+          "mayor-elect",
+          "zohran",
+          "mamdani",
+          "announced",
+          "that",
+          "former",
+          "federal",
+          "trade",
+          "commission",
+          "chair",
+          "lina",
+          "khan",
+          "would",
+          "co-lead",
+          "his",
+          "transition",
+          "team",
+          ".",
+          "khans",
+          "appointment",
+          "reportedly",
+          "left",
+          "some",
+          "financiers",
+          "and",
+          "tech",
+          "executives",
+          "reeling",
+          ",",
+          "with",
+          "cnbcs",
+          "andrew",
+          "ross",
+          "sorkin",
+          "even",
+          "saying",
+          "that",
+          "the",
+          "wealthy",
+          "are",
+          "looking",
+          "for",
+          "therapy",
+          "after",
+          "the",
+          "news",
+          ".",
+          "do",
+          "not",
+          "miss",
+          "the",
+          "ai",
+          "marketing",
+          "platform",
+          "backed",
+          "by",
+          "insiders",
+          "from",
+          "google",
+          ",",
+          "meta",
+          ",",
+          "and",
+          "amazon",
+          "invest",
+          "at",
+          "$",
+          "0.81share",
+          "before",
+          "nov.",
+          "20",
+          "an",
+          "e"
+        ],
+        "filtered": [
+          "wealthy",
+          "new",
+          "yorkers",
+          "reportedly",
+          "looking",
+          "therapy",
+          "zohran",
+          "mamdani",
+          "taps",
+          "former",
+          "ftc",
+          "chair",
+          "lena",
+          "khan",
+          "transition",
+          "team",
+          "co-chair",
+          ".",
+          "new",
+          "york",
+          "citys",
+          "business",
+          "elite",
+          "not",
+          "wait",
+          "long",
+          "panic",
+          "mayor-elect",
+          "zohran",
+          "mamdani",
+          "announced",
+          "former",
+          "federal",
+          "trade",
+          "commission",
+          "chair",
+          "lina",
+          "khan",
+          "would",
+          "co-lead",
+          "transition",
+          "team",
+          ".",
+          "khans",
+          "appointment",
+          "reportedly",
+          "left",
+          "financiers",
+          "tech",
+          "executives",
+          "reeling",
+          ",",
+          "cnbcs",
+          "andrew",
+          "ross",
+          "sorkin",
+          "even",
+          "saying",
+          "wealthy",
+          "looking",
+          "therapy",
+          "news",
+          ".",
+          "not",
+          "miss",
+          "ai",
+          "marketing",
+          "platform",
+          "backed",
+          "insiders",
+          "google",
+          ",",
+          "meta",
+          ",",
+          "amazon",
+          "invest",
+          "$",
+          "0.81share",
+          "nov.",
+          "20",
+          "e"
+        ],
+        "lemmatized": [
+          "wealthy",
+          "new",
+          "yorkers",
+          "reportedly",
+          "look",
+          "therapy",
+          "zohran",
+          "mamdani",
+          "tap",
+          "former",
+          "ftc",
+          "chair",
+          "lena",
+          "khan",
+          "transition",
+          "team",
+          "co-chair",
+          ".",
+          "new",
+          "york",
+          "city",
+          "business",
+          "elite",
+          "not",
+          "wait",
+          "long",
+          "panic",
+          "mayor-elect",
+          "zohran",
+          "mamdani",
+          "announce",
+          "former",
+          "federal",
+          "trade",
+          "commission",
+          "chair",
+          "lina",
+          "khan",
+          "would",
+          "co-lead",
+          "transition",
+          "team",
+          ".",
+          "khan",
+          "appointment",
+          "reportedly",
+          "leave",
+          "financier",
+          "tech",
+          "executive",
+          "reel",
+          ",",
+          "cnbcs",
+          "andrew",
+          "ross",
+          "sorkin",
+          "even",
+          "say",
+          "wealthy",
+          "look",
+          "therapy",
+          "news",
+          ".",
+          "not",
+          "miss",
+          "ai",
+          "market",
+          "platform",
+          "back",
+          "insider",
+          "google",
+          ",",
+          "meta",
+          ",",
+          "amazon",
+          "invest",
+          "$",
+          "0.81share",
+          "nov.",
+          "20",
+          "e"
+        ]
+      }
+    },
+    {
+      "article_id": "a6178389c82c0f3f",
+      "title": "Amazon, Ford Partner on Used Cars. 4 Stocks That Could Be Impacted.",
+      "body": "Amazon com, with its penchant for disrupting retail industries, is going after the used car business with the help of Ford Motor That could be bad news for CarGurus Cars.com CarMax and Carvana though they werent really acting like it, for the most part. Monday, Ford Motor and Amazon announced that car buyers can shop for certified preowned Ford vehicles on Amazon Autos. Amazon launched its car buying platform in late 2024, partnering with Hyundai Motor Hertz was Amazon Autos first fleet customer.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.157743",
+      "url": "https://finnhub.io/api/news?id=631aff413c80a8814551bc1579fc726ed618524ce2b4537ef441a7036b51b528",
+      "raw_text": "Amazon, Ford Partner on Used Cars. 4 Stocks That Could Be Impacted.. Amazon com, with its penchant for disrupting retail industries, is going after the used car business with the help of Ford Motor That could be bad news for CarGurus Cars.com CarMax and Carvana though they werent really acting like it, for the most part. Monday, Ford Motor and Amazon announced that car buyers can shop for certified preowned Ford vehicles on Amazon Autos. Amazon launched its car buying platform in late 2024, partnering with Hyundai Motor Hertz was Amazon Autos first fleet customer.",
+      "tickers_mentioned": "NWS,AMZN,F,FSLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NWS": [],
+        "AMZN": [
+          "**Amazon,** Ford Partner on Used Cars. 4 Stocks That Could Be",
+          "Partner on Used Cars. 4 Stocks That Could Be Impacted.. **Amazon** com, with its penchant for disrupting retail industries, is going",
+          "like it, for the most part. Monday, Ford Motor and **Amazon** announced that car buyers can shop for certified preowned Ford",
+          "car buyers can shop for certified preowned Ford vehicles on **Amazon** Autos. Amazon launched its car buying platform in late 2024,",
+          "can shop for certified preowned Ford vehicles on Amazon Autos. **Amazon** launched its car buying platform in late 2024, partnering with",
+          "platform in late 2024, partnering with Hyundai Motor Hertz was **Amazon** Autos’ first fleet customer."
+        ],
+        "F": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cars",
+            "Carvana",
+            "Amazon",
+            "Amazon Autos",
+            "Hyundai Motor Hertz"
+          ],
+          "ORGANIZATION": [
+            "Ford Partner",
+            "Ford",
+            "CarGurus",
+            "Ford Motor"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "4",
+          "2024"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            6
+          ],
+          [
+            "ford",
+            4
+          ],
+          [
+            "car",
+            4
+          ],
+          [
+            "motor",
+            3
+          ],
+          [
+            "partner",
+            2
+          ],
+          [
+            "could",
+            2
+          ],
+          [
+            "auto",
+            2
+          ],
+          [
+            "used",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "impact",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazon",
+          ",",
+          "ford",
+          "partner",
+          "on",
+          "used",
+          "cars",
+          ".",
+          "4",
+          "stocks",
+          "that",
+          "could",
+          "be",
+          "impacted",
+          "..",
+          "amazon",
+          "com",
+          ",",
+          "with",
+          "its",
+          "penchant",
+          "for",
+          "disrupting",
+          "retail",
+          "industries",
+          ",",
+          "is",
+          "going",
+          "after",
+          "the",
+          "used",
+          "car",
+          "business",
+          "with",
+          "the",
+          "help",
+          "of",
+          "ford",
+          "motor",
+          "that",
+          "could",
+          "be",
+          "bad",
+          "news",
+          "for",
+          "cargurus",
+          "cars.com",
+          "carmax",
+          "and",
+          "carvana",
+          "though",
+          "they",
+          "werent",
+          "really",
+          "acting",
+          "like",
+          "it",
+          ",",
+          "for",
+          "the",
+          "most",
+          "part",
+          ".",
+          "monday",
+          ",",
+          "ford",
+          "motor",
+          "and",
+          "amazon",
+          "announced",
+          "that",
+          "car",
+          "buyers",
+          "can",
+          "shop",
+          "for",
+          "certified",
+          "preowned",
+          "ford",
+          "vehicles",
+          "on",
+          "amazon",
+          "autos",
+          ".",
+          "amazon",
+          "launched",
+          "its",
+          "car",
+          "buying",
+          "platform",
+          "in",
+          "late",
+          "2024",
+          ",",
+          "partnering",
+          "with",
+          "hyundai",
+          "motor",
+          "hertz",
+          "was",
+          "amazon",
+          "autos",
+          "first",
+          "fleet",
+          "customer",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          ",",
+          "ford",
+          "partner",
+          "used",
+          "cars",
+          ".",
+          "4",
+          "stocks",
+          "could",
+          "impacted",
+          "..",
+          "amazon",
+          "com",
+          ",",
+          "penchant",
+          "disrupting",
+          "retail",
+          "industries",
+          ",",
+          "going",
+          "used",
+          "car",
+          "business",
+          "help",
+          "ford",
+          "motor",
+          "could",
+          "bad",
+          "news",
+          "cargurus",
+          "cars.com",
+          "carmax",
+          "carvana",
+          "though",
+          "werent",
+          "really",
+          "acting",
+          "like",
+          ",",
+          "most",
+          "part",
+          ".",
+          "monday",
+          ",",
+          "ford",
+          "motor",
+          "amazon",
+          "announced",
+          "car",
+          "buyers",
+          "shop",
+          "certified",
+          "preowned",
+          "ford",
+          "vehicles",
+          "amazon",
+          "autos",
+          ".",
+          "amazon",
+          "launched",
+          "car",
+          "buying",
+          "platform",
+          "late",
+          "2024",
+          ",",
+          "partnering",
+          "hyundai",
+          "motor",
+          "hertz",
+          "amazon",
+          "autos",
+          "first",
+          "fleet",
+          "customer",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          ",",
+          "ford",
+          "partner",
+          "used",
+          "car",
+          ".",
+          "4",
+          "stock",
+          "could",
+          "impact",
+          "..",
+          "amazon",
+          "com",
+          ",",
+          "penchant",
+          "disrupt",
+          "retail",
+          "industry",
+          ",",
+          "go",
+          "use",
+          "car",
+          "business",
+          "help",
+          "ford",
+          "motor",
+          "could",
+          "bad",
+          "news",
+          "cargurus",
+          "cars.com",
+          "carmax",
+          "carvana",
+          "though",
+          "werent",
+          "really",
+          "act",
+          "like",
+          ",",
+          "most",
+          "part",
+          ".",
+          "monday",
+          ",",
+          "ford",
+          "motor",
+          "amazon",
+          "announce",
+          "car",
+          "buyer",
+          "shop",
+          "certify",
+          "preowned",
+          "ford",
+          "vehicle",
+          "amazon",
+          "auto",
+          ".",
+          "amazon",
+          "launched",
+          "car",
+          "buying",
+          "platform",
+          "late",
+          "2024",
+          ",",
+          "partner",
+          "hyundai",
+          "motor",
+          "hertz",
+          "amazon",
+          "auto",
+          "first",
+          "fleet",
+          "customer",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "aad774283be157a9",
+      "title": "16 Words From Amazons Andy Jassy That Represent Spectacular News for Nvidia Investors Ahead of Nov. 19",
+      "body": "Nvidias benefited greatly from the AI boom, thanks to the strength of its chips.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.790953",
+      "url": "https://finnhub.io/api/news?id=d3db2522044107c10d3ce7d1c65775ee5fe61678c55c458e7cce7a86cfa9c0ab",
+      "raw_text": "16 Words From Amazons Andy Jassy That Represent Spectacular News for Nvidia Investors Ahead of Nov. 19. Nvidias benefited greatly from the AI boom, thanks to the strength of its chips.",
+      "tickers_mentioned": "AMZN,NWS,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AMZN": [
+          "16 Words From **Amazon's** Andy Jassy That Represent Spectacular News for Nvidia Investors Ahead"
+        ],
+        "NWS": [],
+        "NVDA": [
+          "Words From Amazon's Andy Jassy That Represent Spectacular News for **Nvidia** Investors Ahead of Nov. 19. Nvidia's benefited greatly from the",
+          "Represent Spectacular News for Nvidia Investors Ahead of Nov. 19. **Nvidia's** benefited greatly from the AI boom, thanks to the strength"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Andy Jassy",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Represent Spectacular News",
+            "Nvidia Investors Ahead",
+            "AI"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "16",
+          "19"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "word",
+            1
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "andy",
+            1
+          ],
+          [
+            "jassy",
+            1
+          ],
+          [
+            "represent",
+            1
+          ],
+          [
+            "spectacular",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "ahead",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "16",
+          "words",
+          "from",
+          "amazons",
+          "andy",
+          "jassy",
+          "that",
+          "represent",
+          "spectacular",
+          "news",
+          "for",
+          "nvidia",
+          "investors",
+          "ahead",
+          "of",
+          "nov.",
+          "19.",
+          "nvidias",
+          "benefited",
+          "greatly",
+          "from",
+          "the",
+          "ai",
+          "boom",
+          ",",
+          "thanks",
+          "to",
+          "the",
+          "strength",
+          "of",
+          "its",
+          "chips",
+          "."
+        ],
+        "filtered": [
+          "16",
+          "words",
+          "amazons",
+          "andy",
+          "jassy",
+          "represent",
+          "spectacular",
+          "news",
+          "nvidia",
+          "investors",
+          "ahead",
+          "nov.",
+          "19.",
+          "nvidias",
+          "benefited",
+          "greatly",
+          "ai",
+          "boom",
+          ",",
+          "thanks",
+          "strength",
+          "chips",
+          "."
+        ],
+        "lemmatized": [
+          "16",
+          "word",
+          "amazon",
+          "andy",
+          "jassy",
+          "represent",
+          "spectacular",
+          "news",
+          "nvidia",
+          "investor",
+          "ahead",
+          "nov.",
+          "19.",
+          "nvidias",
+          "benefit",
+          "greatly",
+          "ai",
+          "boom",
+          ",",
+          "thanks",
+          "strength",
+          "chip",
+          "."
+        ]
+      }
+    }
+  ]
+}

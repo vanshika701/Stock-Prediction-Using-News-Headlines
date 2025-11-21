@@ -1,0 +1,231 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "f1234fa8976c87d5",
+      "title": "Stock Market Today Dow Jones Climbs Off Lows As Nvidia Jumps Micron, Palantir Lead Nasdaq Live Coverage",
+      "body": "Stock Market Today The Dow Jones index dropped 400 points Friday. But Nvidia and Palantir recovered well off session lows.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-21T23:53:34.747980",
+      "url": "https://finnhub.io/api/news?id=333e9e8f32ba76abe1fe6dfb734d7c4bfe4aa366598178d2283386f8789605e9",
+      "raw_text": "Stock Market Today Dow Jones Climbs Off Lows As Nvidia Jumps Micron, Palantir Lead Nasdaq Live Coverage. Stock Market Today The Dow Jones index dropped 400 points Friday. But Nvidia and Palantir recovered well off session lows.",
+      "tickers_mentioned": "LYV,NVDA,MU,WELL,PLTR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LYV": [],
+        "NVDA": [
+          "Stock Market Today: Dow Jones Climbs Off Lows As **Nvidia** Jumps; Micron, Palantir Lead Nasdaq (Live Coverage). Stock Market Today:",
+          "Today: The Dow Jones index dropped 400 points Friday. But **Nvidia** and Palantir recovered well off session lows."
+        ],
+        "MU": [],
+        "WELL": [],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Jones Climbs Off Lows",
+            "Nvidia Jumps",
+            "Micron",
+            "Palantir Lead Nasdaq",
+            "Live Coverage",
+            "Stock Market",
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "400"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "low",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ],
+          [
+            "climb",
+            1
+          ],
+          [
+            "jump",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "climbs",
+          "off",
+          "lows",
+          "as",
+          "nvidia",
+          "jumps",
+          "micron",
+          ",",
+          "palantir",
+          "lead",
+          "nasdaq",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "friday",
+          ".",
+          "but",
+          "nvidia",
+          "and",
+          "palantir",
+          "recovered",
+          "well",
+          "off",
+          "session",
+          "lows",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "climbs",
+          "lows",
+          "nvidia",
+          "jumps",
+          "micron",
+          ",",
+          "palantir",
+          "lead",
+          "nasdaq",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "friday",
+          ".",
+          "nvidia",
+          "palantir",
+          "recovered",
+          "well",
+          "session",
+          "lows",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "climb",
+          "low",
+          "nvidia",
+          "jump",
+          "micron",
+          ",",
+          "palantir",
+          "lead",
+          "nasdaq",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "drop",
+          "400",
+          "point",
+          "friday",
+          ".",
+          "nvidia",
+          "palantir",
+          "recover",
+          "well",
+          "session",
+          "low",
+          "."
+        ]
+      }
+    }
+  ]
+}

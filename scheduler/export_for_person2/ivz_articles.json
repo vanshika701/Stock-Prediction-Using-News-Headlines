@@ -1,0 +1,1859 @@
+{
+  "count": 10,
+  "articles": [
+    {
+      "article_id": "952f13ca8c12cbe4",
+      "title": "Should Invesco Russell 1000 Dynamic Multifactor ETF OMFL Be on Your Investing Radar?",
+      "body": "Style Box ETF report for ...",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:20.961863",
+      "url": "https://www.zacks.com/stock/news/2793365/should-invesco-russell-1000-dynamic-multifactor-etf-omfl-be-on-your-investing-radar",
+      "raw_text": "Should Invesco Russell 1000 Dynamic Multifactor ETF OMFL Be on Your Investing Radar?. Style Box ETF report for ...",
+      "tickers_mentioned": "IVZ",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "IVZ": [
+          "Should **Invesco** Russell 1000 Dynamic Multifactor ETF ( OMFL ) Be on"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Invesco Russell",
+            "Radar",
+            "Style Box"
+          ],
+          "ORGANIZATION": [
+            "OMFL"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "1000"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "etf",
+            2
+          ],
+          [
+            "invesco",
+            1
+          ],
+          [
+            "russell",
+            1
+          ],
+          [
+            "1000",
+            1
+          ],
+          [
+            "dynamic",
+            1
+          ],
+          [
+            "multifactor",
+            1
+          ],
+          [
+            "omfl",
+            1
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "radar",
+            1
+          ],
+          [
+            "style",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "should",
+          "invesco",
+          "russell",
+          "1000",
+          "dynamic",
+          "multifactor",
+          "etf",
+          "omfl",
+          "be",
+          "on",
+          "your",
+          "investing",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "for",
+          "..."
+        ],
+        "filtered": [
+          "invesco",
+          "russell",
+          "1000",
+          "dynamic",
+          "multifactor",
+          "etf",
+          "omfl",
+          "investing",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "..."
+        ],
+        "lemmatized": [
+          "invesco",
+          "russell",
+          "1000",
+          "dynamic",
+          "multifactor",
+          "etf",
+          "omfl",
+          "invest",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "c772e1dead7fb10c",
+      "title": "Should Invesco SP 500 Top 50 ETF XLG Be on Your Investing Radar?",
+      "body": "Style Box ETF report for ...",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:21.233353",
+      "url": "https://www.zacks.com/stock/news/2792806/should-invesco-sp-500-top-50-etf-xlg-be-on-your-investing-radar",
+      "raw_text": "Should Invesco SP 500 Top 50 ETF XLG Be on Your Investing Radar?. Style Box ETF report for ...",
+      "tickers_mentioned": "IVZ",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "IVZ": [
+          "Should **Invesco** S&P 500 Top 50 ETF ( XLG ) Be on"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Invesco S",
+            "Radar",
+            "Style Box"
+          ],
+          "ORGANIZATION": [
+            "XLG"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "500",
+          "50"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "etf",
+            2
+          ],
+          [
+            "invesco",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "top",
+            1
+          ],
+          [
+            "xlg",
+            1
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "radar",
+            1
+          ],
+          [
+            "style",
+            1
+          ],
+          [
+            "box",
+            1
+          ],
+          [
+            "report",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "should",
+          "invesco",
+          "sp",
+          "500",
+          "top",
+          "50",
+          "etf",
+          "xlg",
+          "be",
+          "on",
+          "your",
+          "investing",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "for",
+          "..."
+        ],
+        "filtered": [
+          "invesco",
+          "sp",
+          "500",
+          "top",
+          "50",
+          "etf",
+          "xlg",
+          "investing",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "..."
+        ],
+        "lemmatized": [
+          "invesco",
+          "sp",
+          "500",
+          "top",
+          "50",
+          "etf",
+          "xlg",
+          "invest",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "68f9e4b0e8a951d1",
+      "title": "Should Invesco RAFI US 1000 ETF PRF Be on Your Investing Radar?",
+      "body": "Style Box ETF report for PRF ...",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:21.238898",
+      "url": "https://www.zacks.com/stock/news/2792804/should-invesco-rafi-us-1000-etf-prf-be-on-your-investing-radar",
+      "raw_text": "Should Invesco RAFI US 1000 ETF PRF Be on Your Investing Radar?. Style Box ETF report for PRF ...",
+      "tickers_mentioned": "IVZ",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "IVZ": [
+          "Should **Invesco** RAFI US 1000 ETF ( PRF ) Be on Your"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Invesco RAFI US",
+            "Radar",
+            "Style Box"
+          ],
+          "ORGANIZATION": [
+            "PRF"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "1000"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "etf",
+            2
+          ],
+          [
+            "prf",
+            2
+          ],
+          [
+            "invesco",
+            1
+          ],
+          [
+            "rafi",
+            1
+          ],
+          [
+            "1000",
+            1
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "radar",
+            1
+          ],
+          [
+            "style",
+            1
+          ],
+          [
+            "box",
+            1
+          ],
+          [
+            "report",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "should",
+          "invesco",
+          "rafi",
+          "us",
+          "1000",
+          "etf",
+          "prf",
+          "be",
+          "on",
+          "your",
+          "investing",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "for",
+          "prf",
+          "..."
+        ],
+        "filtered": [
+          "invesco",
+          "rafi",
+          "us",
+          "1000",
+          "etf",
+          "prf",
+          "investing",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "prf",
+          "..."
+        ],
+        "lemmatized": [
+          "invesco",
+          "rafi",
+          "u",
+          "1000",
+          "etf",
+          "prf",
+          "invest",
+          "radar",
+          "?",
+          ".",
+          "style",
+          "box",
+          "etf",
+          "report",
+          "prf",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "5d0ff9dfd0f2ba34",
+      "title": "If You would Invested $1,000 in the Invesco QQQ Trust ETF 5 Years Ago, here is How Much You would Have Today",
+      "body": "This booming exchange-traded fund is a great way for investors to gain AI exposure.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:22.640162",
+      "url": "https://finnhub.io/api/news?id=8fb68c5171246a52dd0f4657e11271b9faa49dd825dea6373bfd982e513d6a02",
+      "raw_text": "If You would Invested $1,000 in the Invesco QQQ Trust ETF 5 Years Ago, here is How Much You would Have Today. This booming exchange-traded fund is a great way for investors to gain AI exposure.",
+      "tickers_mentioned": "IVZ",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "IVZ": [
+          "If You'd Invested $1,000 in the **Invesco** QQQ Trust ETF 5 Years Ago, Here's How Much You'd"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Years Ago"
+          ],
+          "ORGANIZATION": [
+            "Invesco"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "000",
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "would",
+            2
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "1,000",
+            1
+          ],
+          [
+            "invesco",
+            1
+          ],
+          [
+            "qqq",
+            1
+          ],
+          [
+            "trust",
+            1
+          ],
+          [
+            "etf",
+            1
+          ],
+          [
+            "year",
+            1
+          ],
+          [
+            "ago",
+            1
+          ],
+          [
+            "much",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "if",
+          "you",
+          "would",
+          "invested",
+          "$",
+          "1,000",
+          "in",
+          "the",
+          "invesco",
+          "qqq",
+          "trust",
+          "etf",
+          "5",
+          "years",
+          "ago",
+          ",",
+          "here",
+          "is",
+          "how",
+          "much",
+          "you",
+          "would",
+          "have",
+          "today",
+          ".",
+          "this",
+          "booming",
+          "exchange-traded",
+          "fund",
+          "is",
+          "a",
+          "great",
+          "way",
+          "for",
+          "investors",
+          "to",
+          "gain",
+          "ai",
+          "exposure",
+          "."
+        ],
+        "filtered": [
+          "would",
+          "invested",
+          "$",
+          "1,000",
+          "invesco",
+          "qqq",
+          "trust",
+          "etf",
+          "5",
+          "years",
+          "ago",
+          ",",
+          "much",
+          "would",
+          "today",
+          ".",
+          "booming",
+          "exchange-traded",
+          "fund",
+          "great",
+          "way",
+          "investors",
+          "gain",
+          "ai",
+          "exposure",
+          "."
+        ],
+        "lemmatized": [
+          "would",
+          "invest",
+          "$",
+          "1,000",
+          "invesco",
+          "qqq",
+          "trust",
+          "etf",
+          "5",
+          "year",
+          "ago",
+          ",",
+          "much",
+          "would",
+          "today",
+          ".",
+          "boom",
+          "exchange-traded",
+          "fund",
+          "great",
+          "way",
+          "investor",
+          "gain",
+          "ai",
+          "exposure",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4151b12eb50a71b3",
+      "title": "RSPT Not My Preferred Tech ETF",
+      "body": "The Invesco SP 500 Equal Weight Technology ETF RSPT has underperformed market cap weighted tech ETFs due to lack of mega cap exposure.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:23.017726",
+      "url": "https://finnhub.io/api/news?id=88ab7a7b0e81d35d37cff72b548021ca0c1d65f9456e253324d8c81b956bbc58",
+      "raw_text": "RSPT Not My Preferred Tech ETF. The Invesco SP 500 Equal Weight Technology ETF RSPT has underperformed market cap weighted tech ETFs due to lack of mega cap exposure.",
+      "tickers_mentioned": "TECH,IVZ",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "IVZ": [
+          "RSPT: Not My Preferred Tech ETF. The **Invesco** S&P 500 Equal Weight Technology ETF (RSPT) has underperformed market"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Weight Technology ETF"
+          ],
+          "ORGANIZATION": [
+            "Invesco",
+            "RSPT",
+            "ETFs"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "underperform"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "etf",
+            3
+          ],
+          [
+            "rspt",
+            2
+          ],
+          [
+            "tech",
+            2
+          ],
+          [
+            "weight",
+            2
+          ],
+          [
+            "cap",
+            2
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "prefer",
+            1
+          ],
+          [
+            "invesco",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "equal",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "rspt",
+          "not",
+          "my",
+          "preferred",
+          "tech",
+          "etf",
+          ".",
+          "the",
+          "invesco",
+          "sp",
+          "500",
+          "equal",
+          "weight",
+          "technology",
+          "etf",
+          "rspt",
+          "has",
+          "underperformed",
+          "market",
+          "cap",
+          "weighted",
+          "tech",
+          "etfs",
+          "due",
+          "to",
+          "lack",
+          "of",
+          "mega",
+          "cap",
+          "exposure",
+          "."
+        ],
+        "filtered": [
+          "rspt",
+          "not",
+          "preferred",
+          "tech",
+          "etf",
+          ".",
+          "invesco",
+          "sp",
+          "500",
+          "equal",
+          "weight",
+          "technology",
+          "etf",
+          "rspt",
+          "underperformed",
+          "market",
+          "cap",
+          "weighted",
+          "tech",
+          "etfs",
+          "due",
+          "lack",
+          "mega",
+          "cap",
+          "exposure",
+          "."
+        ],
+        "lemmatized": [
+          "rspt",
+          "not",
+          "prefer",
+          "tech",
+          "etf",
+          ".",
+          "invesco",
+          "sp",
+          "500",
+          "equal",
+          "weight",
+          "technology",
+          "etf",
+          "rspt",
+          "underperformed",
+          "market",
+          "cap",
+          "weight",
+          "tech",
+          "etf",
+          "due",
+          "lack",
+          "mega",
+          "cap",
+          "exposure",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "688e292a3aad0b78",
+      "title": "Should Investors Own Vanguards VOO ETF Over Invescos QQQ for Broader Diversification?",
+      "body": "You cannot beat Vanguards rock-bottom expense ratio.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:48:28.472453",
+      "url": "https://www.fool.com/coverage/etfs/2025/11/21/should-investors-own-vanguard-s-voo-etf-over-invesco-s-qqq-for-broader-diversification/",
+      "raw_text": "Should Investors Own Vanguards VOO ETF Over Invescos QQQ for Broader Diversification?. You cannot beat Vanguards rock-bottom expense ratio.",
+      "tickers_mentioned": "IVZ",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "IVZ": [
+          "Should Investors Own Vanguard's VOO ETF Over **Invesco's** QQQ for Broader Diversification?. You can't beat Vanguard's rock-bottom expense"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Own Vanguard",
+            "Invesco",
+            "Broader Diversification",
+            "Vanguard"
+          ],
+          "ORGANIZATION": [
+            "VOO",
+            "QQQ"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "beat"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "vanguard",
+            2
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "voo",
+            1
+          ],
+          [
+            "etf",
+            1
+          ],
+          [
+            "over",
+            1
+          ],
+          [
+            "invescos",
+            1
+          ],
+          [
+            "qqq",
+            1
+          ],
+          [
+            "broad",
+            1
+          ],
+          [
+            "diversification",
+            1
+          ],
+          [
+            "not",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "should",
+          "investors",
+          "own",
+          "vanguards",
+          "voo",
+          "etf",
+          "over",
+          "invescos",
+          "qqq",
+          "for",
+          "broader",
+          "diversification",
+          "?",
+          ".",
+          "you",
+          "can",
+          "not",
+          "beat",
+          "vanguards",
+          "rock-bottom",
+          "expense",
+          "ratio",
+          "."
+        ],
+        "filtered": [
+          "investors",
+          "vanguards",
+          "voo",
+          "etf",
+          "over",
+          "invescos",
+          "qqq",
+          "broader",
+          "diversification",
+          "?",
+          ".",
+          "not",
+          "beat",
+          "vanguards",
+          "rock-bottom",
+          "expense",
+          "ratio",
+          "."
+        ],
+        "lemmatized": [
+          "investor",
+          "vanguard",
+          "voo",
+          "etf",
+          "over",
+          "invescos",
+          "qqq",
+          "broad",
+          "diversification",
+          "?",
+          ".",
+          "not",
+          "beat",
+          "vanguard",
+          "rock-bottom",
+          "expense",
+          "ratio",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "8bd20d6938f0a6de",
+      "title": "4 Top-Ranked Invesco Mutual Funds Worth Buying Now",
+      "body": "Invesco mutual funds like ASMYX, VSMIX, MLPTX and ODIYX stand out in a volatile market with diversified portfolios, low costs and strong multi-year returns.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:28.503638",
+      "url": "https://www.zacks.com/stock/news/2794052/4-top-ranked-invesco-mutual-funds-worth-buying-now",
+      "raw_text": "4 Top-Ranked Invesco Mutual Funds Worth Buying Now. Invesco mutual funds like ASMYX, VSMIX, MLPTX and ODIYX stand out in a volatile market with diversified portfolios, low costs and strong multi-year returns.",
+      "tickers_mentioned": "IVZ",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "IVZ": [
+          "4 Top-Ranked **Invesco** Mutual Funds Worth Buying Now. Invesco mutual funds like ASMYX,",
+          "4 Top-Ranked Invesco Mutual Funds Worth Buying Now. **Invesco** mutual funds like ASMYX, VSMIX, MLPTX and ODIYX stand out"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Invesco"
+          ],
+          "ORGANIZATION": [
+            "Invesco Mutual Funds Worth",
+            "ASMYX",
+            "VSMIX",
+            "MLPTX",
+            "ODIYX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "invesco",
+            2
+          ],
+          [
+            "mutual",
+            2
+          ],
+          [
+            "fund",
+            2
+          ],
+          [
+            "top-ranked",
+            1
+          ],
+          [
+            "worth",
+            1
+          ],
+          [
+            "buying",
+            1
+          ],
+          [
+            "like",
+            1
+          ],
+          [
+            "asmyx",
+            1
+          ],
+          [
+            "vsmix",
+            1
+          ],
+          [
+            "mlptx",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "4",
+          "top-ranked",
+          "invesco",
+          "mutual",
+          "funds",
+          "worth",
+          "buying",
+          "now",
+          ".",
+          "invesco",
+          "mutual",
+          "funds",
+          "like",
+          "asmyx",
+          ",",
+          "vsmix",
+          ",",
+          "mlptx",
+          "and",
+          "odiyx",
+          "stand",
+          "out",
+          "in",
+          "a",
+          "volatile",
+          "market",
+          "with",
+          "diversified",
+          "portfolios",
+          ",",
+          "low",
+          "costs",
+          "and",
+          "strong",
+          "multi-year",
+          "returns",
+          "."
+        ],
+        "filtered": [
+          "4",
+          "top-ranked",
+          "invesco",
+          "mutual",
+          "funds",
+          "worth",
+          "buying",
+          ".",
+          "invesco",
+          "mutual",
+          "funds",
+          "like",
+          "asmyx",
+          ",",
+          "vsmix",
+          ",",
+          "mlptx",
+          "odiyx",
+          "stand",
+          "volatile",
+          "market",
+          "diversified",
+          "portfolios",
+          ",",
+          "low",
+          "costs",
+          "strong",
+          "multi-year",
+          "returns",
+          "."
+        ],
+        "lemmatized": [
+          "4",
+          "top-ranked",
+          "invesco",
+          "mutual",
+          "fund",
+          "worth",
+          "buying",
+          ".",
+          "invesco",
+          "mutual",
+          "fund",
+          "like",
+          "asmyx",
+          ",",
+          "vsmix",
+          ",",
+          "mlptx",
+          "odiyx",
+          "stand",
+          "volatile",
+          "market",
+          "diversify",
+          "portfolio",
+          ",",
+          "low",
+          "cost",
+          "strong",
+          "multi-year",
+          "returns",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4151b12eb50a71b3",
+      "title": "RSPT Not My Preferred Tech ETF",
+      "body": "The Invesco SP 500 Equal Weight Technology ETF RSPT has underperformed market cap weighted tech ETFs due to lack of mega cap exposure.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:31.052693",
+      "url": "https://finnhub.io/api/news?id=88ab7a7b0e81d35d37cff72b548021ca0c1d65f9456e253324d8c81b956bbc58",
+      "raw_text": "RSPT Not My Preferred Tech ETF. The Invesco SP 500 Equal Weight Technology ETF RSPT has underperformed market cap weighted tech ETFs due to lack of mega cap exposure.",
+      "tickers_mentioned": "TECH,IVZ",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "IVZ": [
+          "RSPT: Not My Preferred Tech ETF. The **Invesco** S&P 500 Equal Weight Technology ETF (RSPT) has underperformed market"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Weight Technology ETF"
+          ],
+          "ORGANIZATION": [
+            "Invesco",
+            "RSPT",
+            "ETFs"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "underperform"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "etf",
+            3
+          ],
+          [
+            "rspt",
+            2
+          ],
+          [
+            "tech",
+            2
+          ],
+          [
+            "weight",
+            2
+          ],
+          [
+            "cap",
+            2
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "prefer",
+            1
+          ],
+          [
+            "invesco",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "equal",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "rspt",
+          "not",
+          "my",
+          "preferred",
+          "tech",
+          "etf",
+          ".",
+          "the",
+          "invesco",
+          "sp",
+          "500",
+          "equal",
+          "weight",
+          "technology",
+          "etf",
+          "rspt",
+          "has",
+          "underperformed",
+          "market",
+          "cap",
+          "weighted",
+          "tech",
+          "etfs",
+          "due",
+          "to",
+          "lack",
+          "of",
+          "mega",
+          "cap",
+          "exposure",
+          "."
+        ],
+        "filtered": [
+          "rspt",
+          "not",
+          "preferred",
+          "tech",
+          "etf",
+          ".",
+          "invesco",
+          "sp",
+          "500",
+          "equal",
+          "weight",
+          "technology",
+          "etf",
+          "rspt",
+          "underperformed",
+          "market",
+          "cap",
+          "weighted",
+          "tech",
+          "etfs",
+          "due",
+          "lack",
+          "mega",
+          "cap",
+          "exposure",
+          "."
+        ],
+        "lemmatized": [
+          "rspt",
+          "not",
+          "prefer",
+          "tech",
+          "etf",
+          ".",
+          "invesco",
+          "sp",
+          "500",
+          "equal",
+          "weight",
+          "technology",
+          "etf",
+          "rspt",
+          "underperformed",
+          "market",
+          "cap",
+          "weight",
+          "tech",
+          "etf",
+          "due",
+          "lack",
+          "mega",
+          "cap",
+          "exposure",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "faef7ed93d4643b8",
+      "title": "Nvidia Earnings Send Stocks Higher",
+      "body": "Exchange traded funds tracking the tech sector and the SP 500 and select tech stocks were rising in after-hours trading after Nvidias earnings. The Invesco QQQ fund was up 1 percent, while the SPDR SP 500 ETF was up 0.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:33.410927",
+      "url": "https://finnhub.io/api/news?id=ffec26528dd7e4655a7a633e8cb57706a38eb5dfbe15c09aec4b53d385eabeda",
+      "raw_text": "Nvidia Earnings Send Stocks Higher. Exchange traded funds tracking the tech sector and the SP 500 and select tech stocks were rising in after-hours trading after Nvidias earnings. The Invesco QQQ fund was up 1 percent, while the SPDR SP 500 ETF was up 0.",
+      "tickers_mentioned": "TECH,IVZ,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TECH": [],
+        "IVZ": [
+          "stocks were rising in after-hours trading after Nvidia's earnings. The **Invesco** QQQ fund was up 1%, while the SPDR S&P 500"
+        ],
+        "NVDA": [
+          "**Nvidia** Earnings Send Stocks Higher. Exchange traded funds tracking the tech",
+          "and select tech stocks were rising in after-hours trading after **Nvidia's** earnings. The Invesco QQQ fund was up 1%, while the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Earnings Send Stocks Higher",
+            "Exchange"
+          ],
+          "ORGANIZATION": [
+            "Invesco",
+            "SPDR",
+            "ETF"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "500",
+          "1",
+          "500",
+          "0"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "fund",
+            2
+          ],
+          [
+            "tech",
+            2
+          ],
+          [
+            "500",
+            2
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "send",
+            1
+          ],
+          [
+            "higher",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "trade",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidia",
+          "earnings",
+          "send",
+          "stocks",
+          "higher",
+          ".",
+          "exchange",
+          "traded",
+          "funds",
+          "tracking",
+          "the",
+          "tech",
+          "sector",
+          "and",
+          "the",
+          "sp",
+          "500",
+          "and",
+          "select",
+          "tech",
+          "stocks",
+          "were",
+          "rising",
+          "in",
+          "after-hours",
+          "trading",
+          "after",
+          "nvidias",
+          "earnings",
+          ".",
+          "the",
+          "invesco",
+          "qqq",
+          "fund",
+          "was",
+          "up",
+          "1",
+          "percent",
+          ",",
+          "while",
+          "the",
+          "spdr",
+          "sp",
+          "500",
+          "etf",
+          "was",
+          "up",
+          "0",
+          "."
+        ],
+        "filtered": [
+          "nvidia",
+          "earnings",
+          "send",
+          "stocks",
+          "higher",
+          ".",
+          "exchange",
+          "traded",
+          "funds",
+          "tracking",
+          "tech",
+          "sector",
+          "sp",
+          "500",
+          "select",
+          "tech",
+          "stocks",
+          "rising",
+          "after-hours",
+          "trading",
+          "nvidias",
+          "earnings",
+          ".",
+          "invesco",
+          "qqq",
+          "fund",
+          "up",
+          "1",
+          "percent",
+          ",",
+          "spdr",
+          "sp",
+          "500",
+          "etf",
+          "up",
+          "0",
+          "."
+        ],
+        "lemmatized": [
+          "nvidia",
+          "earnings",
+          "send",
+          "stock",
+          "higher",
+          ".",
+          "exchange",
+          "trade",
+          "fund",
+          "track",
+          "tech",
+          "sector",
+          "sp",
+          "500",
+          "select",
+          "tech",
+          "stock",
+          "rise",
+          "after-hours",
+          "trading",
+          "nvidias",
+          "earnings",
+          ".",
+          "invesco",
+          "qqq",
+          "fund",
+          "up",
+          "1",
+          "percent",
+          ",",
+          "spdr",
+          "sp",
+          "500",
+          "etf",
+          "up",
+          "0",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "faef7ed93d4643b8",
+      "title": "Nvidia Earnings Send Stocks Higher",
+      "body": "Exchange traded funds tracking the tech sector and the SP 500 and select tech stocks were rising in after-hours trading after Nvidias earnings. The Invesco QQQ fund was up 1 percent, while the SPDR SP 500 ETF was up 0.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:37.617733",
+      "url": "https://finnhub.io/api/news?id=ffec26528dd7e4655a7a633e8cb57706a38eb5dfbe15c09aec4b53d385eabeda",
+      "raw_text": "Nvidia Earnings Send Stocks Higher. Exchange traded funds tracking the tech sector and the SP 500 and select tech stocks were rising in after-hours trading after Nvidias earnings. The Invesco QQQ fund was up 1 percent, while the SPDR SP 500 ETF was up 0.",
+      "tickers_mentioned": "TECH,IVZ,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TECH": [],
+        "IVZ": [
+          "stocks were rising in after-hours trading after Nvidia's earnings. The **Invesco** QQQ fund was up 1%, while the SPDR S&P 500"
+        ],
+        "NVDA": [
+          "**Nvidia** Earnings Send Stocks Higher. Exchange traded funds tracking the tech",
+          "and select tech stocks were rising in after-hours trading after **Nvidia's** earnings. The Invesco QQQ fund was up 1%, while the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Earnings Send Stocks Higher",
+            "Exchange"
+          ],
+          "ORGANIZATION": [
+            "Invesco",
+            "SPDR",
+            "ETF"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "500",
+          "1",
+          "500",
+          "0"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "fund",
+            2
+          ],
+          [
+            "tech",
+            2
+          ],
+          [
+            "500",
+            2
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "send",
+            1
+          ],
+          [
+            "higher",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "trade",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidia",
+          "earnings",
+          "send",
+          "stocks",
+          "higher",
+          ".",
+          "exchange",
+          "traded",
+          "funds",
+          "tracking",
+          "the",
+          "tech",
+          "sector",
+          "and",
+          "the",
+          "sp",
+          "500",
+          "and",
+          "select",
+          "tech",
+          "stocks",
+          "were",
+          "rising",
+          "in",
+          "after-hours",
+          "trading",
+          "after",
+          "nvidias",
+          "earnings",
+          ".",
+          "the",
+          "invesco",
+          "qqq",
+          "fund",
+          "was",
+          "up",
+          "1",
+          "percent",
+          ",",
+          "while",
+          "the",
+          "spdr",
+          "sp",
+          "500",
+          "etf",
+          "was",
+          "up",
+          "0",
+          "."
+        ],
+        "filtered": [
+          "nvidia",
+          "earnings",
+          "send",
+          "stocks",
+          "higher",
+          ".",
+          "exchange",
+          "traded",
+          "funds",
+          "tracking",
+          "tech",
+          "sector",
+          "sp",
+          "500",
+          "select",
+          "tech",
+          "stocks",
+          "rising",
+          "after-hours",
+          "trading",
+          "nvidias",
+          "earnings",
+          ".",
+          "invesco",
+          "qqq",
+          "fund",
+          "up",
+          "1",
+          "percent",
+          ",",
+          "spdr",
+          "sp",
+          "500",
+          "etf",
+          "up",
+          "0",
+          "."
+        ],
+        "lemmatized": [
+          "nvidia",
+          "earnings",
+          "send",
+          "stock",
+          "higher",
+          ".",
+          "exchange",
+          "trade",
+          "fund",
+          "track",
+          "tech",
+          "sector",
+          "sp",
+          "500",
+          "select",
+          "tech",
+          "stock",
+          "rise",
+          "after-hours",
+          "trading",
+          "nvidias",
+          "earnings",
+          ".",
+          "invesco",
+          "qqq",
+          "fund",
+          "up",
+          "1",
+          "percent",
+          ",",
+          "spdr",
+          "sp",
+          "500",
+          "etf",
+          "up",
+          "0",
+          "."
+        ]
+      }
+    }
+  ]
+}

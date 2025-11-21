@@ -1,0 +1,231 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "e1d29a0e017735af",
+      "title": "Intuit Earnings Are Imminent These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "body": "Intuit Inc. NASDAQINTU will release earnings results for its first quarter, after the closing bell on Thursday.Analysts expect the Mountain View, California-based company to report quarterly earni 143 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:20.121332",
+      "url": "https://biztoc.com/x/e342e08ad517f052",
+      "raw_text": "Intuit Earnings Are Imminent These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call. Intuit Inc. NASDAQINTU will release earnings results for its first quarter, after the closing bell on Thursday.Analysts expect the Mountain View, California-based company to report quarterly earni 143 chars",
+      "tickers_mentioned": "INTU,FSLR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "INTU": [
+          "**Intuit** Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead",
+          "These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call. **Intuit** Inc. (NASDAQ:INTU) will release earnings results for its first quarter,"
+        ],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Are Imminent"
+          ],
+          "ORGANIZATION": [
+            "Earnings Call",
+            "Intuit Inc.",
+            "NASDAQ",
+            "Mountain View"
+          ],
+          "GPE": [
+            "Intuit"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "release",
+            "expect",
+            "forecast",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "143"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            3
+          ],
+          [
+            "intuit",
+            2
+          ],
+          [
+            "imminent",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "accurate",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "revise",
+            1
+          ],
+          [
+            "forecast",
+            1
+          ],
+          [
+            "ahead",
+            1
+          ],
+          [
+            "call",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 6,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "intuit",
+          "earnings",
+          "are",
+          "imminent",
+          "these",
+          "most",
+          "accurate",
+          "analysts",
+          "revise",
+          "forecasts",
+          "ahead",
+          "of",
+          "earnings",
+          "call",
+          ".",
+          "intuit",
+          "inc.",
+          "nasdaqintu",
+          "will",
+          "release",
+          "earnings",
+          "results",
+          "for",
+          "its",
+          "first",
+          "quarter",
+          ",",
+          "after",
+          "the",
+          "closing",
+          "bell",
+          "on",
+          "thursday.analysts",
+          "expect",
+          "the",
+          "mountain",
+          "view",
+          ",",
+          "california-based",
+          "company",
+          "to",
+          "report",
+          "quarterly",
+          "earni",
+          "143",
+          "chars"
+        ],
+        "filtered": [
+          "intuit",
+          "earnings",
+          "imminent",
+          "most",
+          "accurate",
+          "analysts",
+          "revise",
+          "forecasts",
+          "ahead",
+          "earnings",
+          "call",
+          ".",
+          "intuit",
+          "inc.",
+          "nasdaqintu",
+          "release",
+          "earnings",
+          "results",
+          "first",
+          "quarter",
+          ",",
+          "closing",
+          "bell",
+          "thursday.analysts",
+          "expect",
+          "mountain",
+          "view",
+          ",",
+          "california-based",
+          "company",
+          "report",
+          "quarterly",
+          "earni",
+          "143",
+          "chars"
+        ],
+        "lemmatized": [
+          "intuit",
+          "earnings",
+          "imminent",
+          "most",
+          "accurate",
+          "analyst",
+          "revise",
+          "forecast",
+          "ahead",
+          "earnings",
+          "call",
+          ".",
+          "intuit",
+          "inc.",
+          "nasdaqintu",
+          "release",
+          "earnings",
+          "result",
+          "first",
+          "quarter",
+          ",",
+          "close",
+          "bell",
+          "thursday.analysts",
+          "expect",
+          "mountain",
+          "view",
+          ",",
+          "california-based",
+          "company",
+          "report",
+          "quarterly",
+          "earni",
+          "143",
+          "char"
+        ]
+      }
+    }
+  ]
+}

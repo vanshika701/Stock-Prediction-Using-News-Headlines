@@ -1,0 +1,552 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "eda14b5643dcb3b2",
+      "title": "Amazon Is Sending Automatic Refunds To Millions After Record $2.5 Billion FTC Settlement here is What You Must Do To Claim Yours - Amazon.com NASDAQAMZN",
+      "body": "On Wednesday, Amazon.com, Inc. NASDAQAMZN began issuing automatic refunds to millions of customers as part of a sweeping $2.5 billion settlement with federal regulators. The company was accused of misleading users into paid Prime memberships and making cancellations unnecessarily difficult.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:25:55.117734",
+      "url": "https://www.benzinga.com/markets/tech/25/11/48968129/amazon-is-sending-automatic-refunds-to-millions-after-record-2-5-billion-ftc-settlement-heres-what-y",
+      "raw_text": "Amazon Is Sending Automatic Refunds To Millions After Record $2.5 Billion FTC Settlement here is What You Must Do To Claim Yours - Amazon.com NASDAQAMZN. On Wednesday, Amazon.com, Inc. NASDAQAMZN began issuing automatic refunds to millions of customers as part of a sweeping $2.5 billion settlement with federal regulators. The company was accused of misleading users into paid Prime memberships and making cancellations unnecessarily difficult.",
+      "tickers_mentioned": "ADP,AMZN,FRT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADP": [],
+        "AMZN": [
+          "**Amazon** Is Sending Automatic Refunds To Millions After Record $2.5 Billion",
+          "Settlement: Here's What You Must Do To Claim Yours - **Amazon.com** ( NASDAQ:AMZN ) . On Wednesday, Amazon.com, Inc. ( NASDAQ:AMZN",
+          "Claim Yours - Amazon.com ( NASDAQ:AMZN ) . On Wednesday, **Amazon.com,** Inc. ( NASDAQ:AMZN ) began issuing automatic refunds to millions"
+        ],
+        "FRT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion FTC"
+          ],
+          "ORGANIZATION": [
+            "Automatic Refunds To Millions After Record",
+            "NASDAQ",
+            "Amazon.com"
+          ],
+          "GPE": [
+            "Amazon",
+            "Yours",
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2.5",
+          "2.5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "automatic",
+            2
+          ],
+          [
+            "refund",
+            2
+          ],
+          [
+            "million",
+            2
+          ],
+          [
+            "2.5",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "settlement",
+            2
+          ],
+          [
+            "amazon.com",
+            2
+          ],
+          [
+            "nasdaqamzn",
+            2
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "send",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazon",
+          "is",
+          "sending",
+          "automatic",
+          "refunds",
+          "to",
+          "millions",
+          "after",
+          "record",
+          "$",
+          "2.5",
+          "billion",
+          "ftc",
+          "settlement",
+          "here",
+          "is",
+          "what",
+          "you",
+          "must",
+          "do",
+          "to",
+          "claim",
+          "yours",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ".",
+          "on",
+          "wednesday",
+          ",",
+          "amazon.com",
+          ",",
+          "inc.",
+          "nasdaqamzn",
+          "began",
+          "issuing",
+          "automatic",
+          "refunds",
+          "to",
+          "millions",
+          "of",
+          "customers",
+          "as",
+          "part",
+          "of",
+          "a",
+          "sweeping",
+          "$",
+          "2.5",
+          "billion",
+          "settlement",
+          "with",
+          "federal",
+          "regulators",
+          ".",
+          "the",
+          "company",
+          "was",
+          "accused",
+          "of",
+          "misleading",
+          "users",
+          "into",
+          "paid",
+          "prime",
+          "memberships",
+          "and",
+          "making",
+          "cancellations",
+          "unnecessarily",
+          "difficult",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          "sending",
+          "automatic",
+          "refunds",
+          "millions",
+          "record",
+          "$",
+          "2.5",
+          "billion",
+          "ftc",
+          "settlement",
+          "must",
+          "claim",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ".",
+          "wednesday",
+          ",",
+          "amazon.com",
+          ",",
+          "inc.",
+          "nasdaqamzn",
+          "began",
+          "issuing",
+          "automatic",
+          "refunds",
+          "millions",
+          "customers",
+          "part",
+          "sweeping",
+          "$",
+          "2.5",
+          "billion",
+          "settlement",
+          "federal",
+          "regulators",
+          ".",
+          "company",
+          "accused",
+          "misleading",
+          "users",
+          "paid",
+          "prime",
+          "memberships",
+          "making",
+          "cancellations",
+          "unnecessarily",
+          "difficult",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          "send",
+          "automatic",
+          "refund",
+          "million",
+          "record",
+          "$",
+          "2.5",
+          "billion",
+          "ftc",
+          "settlement",
+          "must",
+          "claim",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ".",
+          "wednesday",
+          ",",
+          "amazon.com",
+          ",",
+          "inc.",
+          "nasdaqamzn",
+          "begin",
+          "issue",
+          "automatic",
+          "refund",
+          "million",
+          "customer",
+          "part",
+          "sweep",
+          "$",
+          "2.5",
+          "billion",
+          "settlement",
+          "federal",
+          "regulator",
+          ".",
+          "company",
+          "accuse",
+          "mislead",
+          "user",
+          "pay",
+          "prime",
+          "membership",
+          "make",
+          "cancellation",
+          "unnecessarily",
+          "difficult",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "fe7629f4ac307cec",
+      "title": "Amazon Is Sending Automatic Refunds To Millions After Record $2.5 Billion FTC Settlement here is What You Must Do To Claim Yours",
+      "body": "On Wednesday, Amazon.com, Inc. NASDAQAMZN began issuing automatic refunds to millions of customers as part of a sweeping $2.5 billion settlement with federal regulators. FTC Says Amazon Used Misleading Sign-Up Flows The company was accused of ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:55.330783",
+      "url": "https://finnhub.io/api/news?id=28289a9f72bfd68ff4a980f10b22631329171828b168c58af854c7c30b2a7bc6",
+      "raw_text": "Amazon Is Sending Automatic Refunds To Millions After Record $2.5 Billion FTC Settlement here is What You Must Do To Claim Yours. On Wednesday, Amazon.com, Inc. NASDAQAMZN began issuing automatic refunds to millions of customers as part of a sweeping $2.5 billion settlement with federal regulators. FTC Says Amazon Used Misleading Sign-Up Flows The company was accused of ...",
+      "tickers_mentioned": "ADP,AMZN,FRT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADP": [],
+        "AMZN": [
+          "**Amazon** Is Sending Automatic Refunds To Millions After Record $2.5 Billion",
+          "Here's What You Must Do To Claim Yours. On Wednesday, **Amazon.com,** Inc. (NASDAQ:AMZN) began issuing automatic refunds to millions of customers",
+          "a sweeping $2.5 billion settlement with federal regulators. FTC Says **Amazon** Used Misleading Sign-Up Flows The company was accused of ..."
+        ],
+        "FRT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion FTC",
+            "Yours"
+          ],
+          "ORGANIZATION": [
+            "Automatic Refunds To Millions After Record",
+            "Amazon.com",
+            "NASDAQ",
+            "FTC Says Amazon",
+            "Misleading"
+          ],
+          "GPE": [
+            "Amazon",
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2.5",
+          "2.5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            2
+          ],
+          [
+            "automatic",
+            2
+          ],
+          [
+            "refund",
+            2
+          ],
+          [
+            "million",
+            2
+          ],
+          [
+            "2.5",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "ftc",
+            2
+          ],
+          [
+            "settlement",
+            2
+          ],
+          [
+            "send",
+            1
+          ],
+          [
+            "record",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazon",
+          "is",
+          "sending",
+          "automatic",
+          "refunds",
+          "to",
+          "millions",
+          "after",
+          "record",
+          "$",
+          "2.5",
+          "billion",
+          "ftc",
+          "settlement",
+          "here",
+          "is",
+          "what",
+          "you",
+          "must",
+          "do",
+          "to",
+          "claim",
+          "yours",
+          ".",
+          "on",
+          "wednesday",
+          ",",
+          "amazon.com",
+          ",",
+          "inc.",
+          "nasdaqamzn",
+          "began",
+          "issuing",
+          "automatic",
+          "refunds",
+          "to",
+          "millions",
+          "of",
+          "customers",
+          "as",
+          "part",
+          "of",
+          "a",
+          "sweeping",
+          "$",
+          "2.5",
+          "billion",
+          "settlement",
+          "with",
+          "federal",
+          "regulators",
+          ".",
+          "ftc",
+          "says",
+          "amazon",
+          "used",
+          "misleading",
+          "sign-up",
+          "flows",
+          "the",
+          "company",
+          "was",
+          "accused",
+          "of",
+          "..."
+        ],
+        "filtered": [
+          "amazon",
+          "sending",
+          "automatic",
+          "refunds",
+          "millions",
+          "record",
+          "$",
+          "2.5",
+          "billion",
+          "ftc",
+          "settlement",
+          "must",
+          "claim",
+          ".",
+          "wednesday",
+          ",",
+          "amazon.com",
+          ",",
+          "inc.",
+          "nasdaqamzn",
+          "began",
+          "issuing",
+          "automatic",
+          "refunds",
+          "millions",
+          "customers",
+          "part",
+          "sweeping",
+          "$",
+          "2.5",
+          "billion",
+          "settlement",
+          "federal",
+          "regulators",
+          ".",
+          "ftc",
+          "says",
+          "amazon",
+          "used",
+          "misleading",
+          "sign-up",
+          "flows",
+          "company",
+          "accused",
+          "..."
+        ],
+        "lemmatized": [
+          "amazon",
+          "send",
+          "automatic",
+          "refund",
+          "million",
+          "record",
+          "$",
+          "2.5",
+          "billion",
+          "ftc",
+          "settlement",
+          "must",
+          "claim",
+          ".",
+          "wednesday",
+          ",",
+          "amazon.com",
+          ",",
+          "inc.",
+          "nasdaqamzn",
+          "begin",
+          "issue",
+          "automatic",
+          "refund",
+          "million",
+          "customer",
+          "part",
+          "sweep",
+          "$",
+          "2.5",
+          "billion",
+          "settlement",
+          "federal",
+          "regulator",
+          ".",
+          "ftc",
+          "say",
+          "amazon",
+          "use",
+          "mislead",
+          "sign-up",
+          "flow",
+          "company",
+          "accuse",
+          "..."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "6f3411c42b0e7759",
+      "title": "BMO Launches New CDRs With Exposure to U.S. Stocks Including Apple, Intel, Mastercard, Pfizer and Visa",
+      "body": "Bank of Montreal BMO announced five new Canadian depositary receipts CDRs will begin trading on the Cboe Canada exchange today. The initial offering of these new CDRs has closed.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:43.805065",
+      "url": "https://finnhub.io/api/news?id=370e9ac04a9bf8c0c55a31d86511bf7ab9a1b9daf1fd434e8954389e06d27208",
+      "raw_text": "BMO Launches New CDRs With Exposure to U.S. Stocks Including Apple, Intel, Mastercard, Pfizer and Visa. Bank of Montreal BMO announced five new Canadian depositary receipts CDRs will begin trading on the Cboe Canada exchange today. The initial offering of these new CDRs has closed.",
+      "tickers_mentioned": "PFE,BAC,CBOE,MA,V,AAPL,INTC",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "PFE": [
+          "CDRs With Exposure to U.S. Stocks Including Apple, Intel, Mastercard, **Pfizer** and Visa. Bank of Montreal (BMO) announced five new Canadian"
+        ],
+        "BAC": [],
+        "CBOE": [],
+        "MA": [
+          "New CDRs With Exposure to U.S. Stocks Including Apple, Intel, **Mastercard,** Pfizer and Visa. Bank of Montreal (BMO) announced five new"
+        ],
+        "V": [],
+        "AAPL": [],
+        "INTC": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Launches New",
+            "Exposure",
+            "Mastercard",
+            "Pfizer",
+            "Visa"
+          ],
+          "ORGANIZATION": [
+            "BMO",
+            "Intel",
+            "Bank",
+            "CDRs",
+            "Cboe Canada"
+          ],
+          "GPE": [
+            "U.S.",
+            "Montreal",
+            "Canadian"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "new",
+            3
+          ],
+          [
+            "cdrs",
+            3
+          ],
+          [
+            "bmo",
+            2
+          ],
+          [
+            "launch",
+            1
+          ],
+          [
+            "exposure",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "include",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "intel",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bmo",
+          "launches",
+          "new",
+          "cdrs",
+          "with",
+          "exposure",
+          "to",
+          "u.s.",
+          "stocks",
+          "including",
+          "apple",
+          ",",
+          "intel",
+          ",",
+          "mastercard",
+          ",",
+          "pfizer",
+          "and",
+          "visa",
+          ".",
+          "bank",
+          "of",
+          "montreal",
+          "bmo",
+          "announced",
+          "five",
+          "new",
+          "canadian",
+          "depositary",
+          "receipts",
+          "cdrs",
+          "will",
+          "begin",
+          "trading",
+          "on",
+          "the",
+          "cboe",
+          "canada",
+          "exchange",
+          "today",
+          ".",
+          "the",
+          "initial",
+          "offering",
+          "of",
+          "these",
+          "new",
+          "cdrs",
+          "has",
+          "closed",
+          "."
+        ],
+        "filtered": [
+          "bmo",
+          "launches",
+          "new",
+          "cdrs",
+          "exposure",
+          "u.s.",
+          "stocks",
+          "including",
+          "apple",
+          ",",
+          "intel",
+          ",",
+          "mastercard",
+          ",",
+          "pfizer",
+          "visa",
+          ".",
+          "bank",
+          "montreal",
+          "bmo",
+          "announced",
+          "five",
+          "new",
+          "canadian",
+          "depositary",
+          "receipts",
+          "cdrs",
+          "begin",
+          "trading",
+          "cboe",
+          "canada",
+          "exchange",
+          "today",
+          ".",
+          "initial",
+          "offering",
+          "new",
+          "cdrs",
+          "closed",
+          "."
+        ],
+        "lemmatized": [
+          "bmo",
+          "launch",
+          "new",
+          "cdrs",
+          "exposure",
+          "u.s.",
+          "stock",
+          "include",
+          "apple",
+          ",",
+          "intel",
+          ",",
+          "mastercard",
+          ",",
+          "pfizer",
+          "visa",
+          ".",
+          "bank",
+          "montreal",
+          "bmo",
+          "announce",
+          "five",
+          "new",
+          "canadian",
+          "depositary",
+          "receipt",
+          "cdrs",
+          "begin",
+          "trade",
+          "cboe",
+          "canada",
+          "exchange",
+          "today",
+          ".",
+          "initial",
+          "offer",
+          "new",
+          "cdrs",
+          "close",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1d9cac77a04da1cc",
+      "title": "The VIX Cboes fear gauge turned dramatically higher amid stock reversal",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 699 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.744270",
+      "url": "https://biztoc.com/x/f98afd0d1a9a61ac",
+      "raw_text": "The VIX Cboes fear gauge turned dramatically higher amid stock reversal. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 699 chars",
+      "tickers_mentioned": "VZ,CBOE,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "VZ": [
+          "stock reversal. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "CBOE": [],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+699 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "VIX",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "699"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "vix",
+            1
+          ],
+          [
+            "cboes",
+            1
+          ],
+          [
+            "fear",
+            1
+          ],
+          [
+            "gauge",
+            1
+          ],
+          [
+            "turn",
+            1
+          ],
+          [
+            "dramatically",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "vix",
+          "cboes",
+          "fear",
+          "gauge",
+          "turned",
+          "dramatically",
+          "higher",
+          "amid",
+          "stock",
+          "reversal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "chars"
+        ],
+        "filtered": [
+          "vix",
+          "cboes",
+          "fear",
+          "gauge",
+          "turned",
+          "dramatically",
+          "higher",
+          "amid",
+          "stock",
+          "reversal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "chars"
+        ],
+        "lemmatized": [
+          "vix",
+          "cboes",
+          "fear",
+          "gauge",
+          "turn",
+          "dramatically",
+          "high",
+          "amid",
+          "stock",
+          "reversal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "char"
+        ]
+      }
+    }
+  ]
+}

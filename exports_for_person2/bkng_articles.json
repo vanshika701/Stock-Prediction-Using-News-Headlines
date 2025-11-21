@@ -1,0 +1,641 @@
+{
+  "count": 3,
+  "articles": [
+    {
+      "article_id": "1098aa4e1485f109",
+      "title": "Ads for Booking.com and three hotel chains banned over misleading prices",
+      "body": "The ASA ruled that Booking.com, Accor, Travelodge and Hilton all misled consumers over the number of rooms available at the cheapest prices.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.484391",
+      "url": "https://finnhub.io/api/news?id=1628f7602016f8cea735be51b25bec0997c450704d235144b1f597c1af002284",
+      "raw_text": "Ads for Booking.com and three hotel chains banned over misleading prices. The ASA ruled that Booking.com, Accor, Travelodge and Hilton all misled consumers over the number of rooms available at the cheapest prices.",
+      "tickers_mentioned": "BKNG,HLT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BKNG": [],
+        "HLT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Accor",
+            "Hilton"
+          ],
+          "ORGANIZATION": [
+            "ASA",
+            "Travelodge"
+          ],
+          "GPE": [
+            "Ads"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "booking.com",
+            2
+          ],
+          [
+            "over",
+            2
+          ],
+          [
+            "price",
+            2
+          ],
+          [
+            "three",
+            1
+          ],
+          [
+            "hotel",
+            1
+          ],
+          [
+            "chain",
+            1
+          ],
+          [
+            "ban",
+            1
+          ],
+          [
+            "misleading",
+            1
+          ],
+          [
+            "asa",
+            1
+          ],
+          [
+            "rule",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ads",
+          "for",
+          "booking.com",
+          "and",
+          "three",
+          "hotel",
+          "chains",
+          "banned",
+          "over",
+          "misleading",
+          "prices",
+          ".",
+          "the",
+          "asa",
+          "ruled",
+          "that",
+          "booking.com",
+          ",",
+          "accor",
+          ",",
+          "travelodge",
+          "and",
+          "hilton",
+          "all",
+          "misled",
+          "consumers",
+          "over",
+          "the",
+          "number",
+          "of",
+          "rooms",
+          "available",
+          "at",
+          "the",
+          "cheapest",
+          "prices",
+          "."
+        ],
+        "filtered": [
+          "ads",
+          "booking.com",
+          "three",
+          "hotel",
+          "chains",
+          "banned",
+          "over",
+          "misleading",
+          "prices",
+          ".",
+          "asa",
+          "ruled",
+          "booking.com",
+          ",",
+          "accor",
+          ",",
+          "travelodge",
+          "hilton",
+          "misled",
+          "consumers",
+          "over",
+          "number",
+          "rooms",
+          "available",
+          "cheapest",
+          "prices",
+          "."
+        ],
+        "lemmatized": [
+          "ad",
+          "booking.com",
+          "three",
+          "hotel",
+          "chain",
+          "ban",
+          "over",
+          "misleading",
+          "price",
+          ".",
+          "asa",
+          "rule",
+          "booking.com",
+          ",",
+          "accor",
+          ",",
+          "travelodge",
+          "hilton",
+          "mislead",
+          "consumer",
+          "over",
+          "number",
+          "room",
+          "available",
+          "cheap",
+          "price",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5f477d14c2de9a46",
+      "title": "Googles Latest AI Push Hits Travel Stocks. Why They Can Rebound.",
+      "body": "Shares of Booking and Expedia were both down by percentages in the mid-single digits on Monday afternoon.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.067906",
+      "url": "https://finnhub.io/api/news?id=83381007dd7c0fcf56058e6b79b124e1a960634b14c8aff0026b204d256eafa7",
+      "raw_text": "Googles Latest AI Push Hits Travel Stocks. Why They Can Rebound.. Shares of Booking and Expedia were both down by percentages in the mid-single digits on Monday afternoon.",
+      "tickers_mentioned": "BKNG,EXPE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BKNG": [],
+        "EXPE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google",
+            "Latest AI Push Hits Travel Stocks",
+            "Expedia"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Booking"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "google",
+            1
+          ],
+          [
+            "late",
+            1
+          ],
+          [
+            "push",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "travel",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "rebound",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "book",
+            1
+          ],
+          [
+            "expedia",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "googles",
+          "latest",
+          "ai",
+          "push",
+          "hits",
+          "travel",
+          "stocks",
+          ".",
+          "why",
+          "they",
+          "can",
+          "rebound",
+          "..",
+          "shares",
+          "of",
+          "booking",
+          "and",
+          "expedia",
+          "were",
+          "both",
+          "down",
+          "by",
+          "percentages",
+          "in",
+          "the",
+          "mid-single",
+          "digits",
+          "on",
+          "monday",
+          "afternoon",
+          "."
+        ],
+        "filtered": [
+          "googles",
+          "latest",
+          "ai",
+          "push",
+          "hits",
+          "travel",
+          "stocks",
+          ".",
+          "rebound",
+          "..",
+          "shares",
+          "booking",
+          "expedia",
+          "down",
+          "percentages",
+          "mid-single",
+          "digits",
+          "monday",
+          "afternoon",
+          "."
+        ],
+        "lemmatized": [
+          "google",
+          "late",
+          "ai",
+          "push",
+          "hit",
+          "travel",
+          "stock",
+          ".",
+          "rebound",
+          "..",
+          "shares",
+          "book",
+          "expedia",
+          "down",
+          "percentage",
+          "mid-single",
+          "digit",
+          "monday",
+          "afternoon",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "fb09159e07c2a6b0",
+      "title": "Expedia And Booking Stocks Slide As Google Expand AI Travel Planning Tools",
+      "body": "Google will soon bring hotel, flight and other type of reservations bookings into its AI-powered search offering. The news sent shares of Expedia Group and Booking Holdings falling Monday. The online search giant said in a blog post Monday that its AI Mode tab has new features to help build custom travel plans.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.079859",
+      "url": "https://finnhub.io/api/news?id=c478dbd318f6482e5e8bacbe19ffe1f1527e50924b6e6c992da951a1e4f097b4",
+      "raw_text": "Expedia And Booking Stocks Slide As Google Expand AI Travel Planning Tools. Google will soon bring hotel, flight and other type of reservations bookings into its AI-powered search offering. The news sent shares of Expedia Group and Booking Holdings falling Monday. The online search giant said in a blog post Monday that its AI Mode tab has new features to help build custom travel plans.",
+      "tickers_mentioned": "EXE,BKNG,EXPE,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "EXE": [],
+        "BKNG": [
+          "search offering. The news sent shares of Expedia Group and **Booking** Holdings falling Monday. The online search giant said in a"
+        ],
+        "EXPE": [
+          "into its AI-powered search offering. The news sent shares of **Expedia** Group and Booking Holdings falling Monday. The online search giant"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Travel Planning Tools",
+            "Google"
+          ],
+          "ORGANIZATION": [
+            "And Booking Stocks Slide As Google Expand",
+            "Expedia Group",
+            "Booking Holdings"
+          ],
+          "GPE": [
+            "Expedia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "fall"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "expedia",
+            2
+          ],
+          [
+            "book",
+            2
+          ],
+          [
+            "google",
+            2
+          ],
+          [
+            "travel",
+            2
+          ],
+          [
+            "search",
+            2
+          ],
+          [
+            "monday",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "slide",
+            1
+          ],
+          [
+            "expand",
+            1
+          ],
+          [
+            "planning",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "expedia",
+          "and",
+          "booking",
+          "stocks",
+          "slide",
+          "as",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tools",
+          ".",
+          "google",
+          "will",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "and",
+          "other",
+          "type",
+          "of",
+          "reservations",
+          "bookings",
+          "into",
+          "its",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "the",
+          "news",
+          "sent",
+          "shares",
+          "of",
+          "expedia",
+          "group",
+          "and",
+          "booking",
+          "holdings",
+          "falling",
+          "monday",
+          ".",
+          "the",
+          "online",
+          "search",
+          "giant",
+          "said",
+          "in",
+          "a",
+          "blog",
+          "post",
+          "monday",
+          "that",
+          "its",
+          "ai",
+          "mode",
+          "tab",
+          "has",
+          "new",
+          "features",
+          "to",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plans",
+          "."
+        ],
+        "filtered": [
+          "expedia",
+          "booking",
+          "stocks",
+          "slide",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tools",
+          ".",
+          "google",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "type",
+          "reservations",
+          "bookings",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "news",
+          "sent",
+          "shares",
+          "expedia",
+          "group",
+          "booking",
+          "holdings",
+          "falling",
+          "monday",
+          ".",
+          "online",
+          "search",
+          "giant",
+          "said",
+          "blog",
+          "post",
+          "monday",
+          "ai",
+          "mode",
+          "tab",
+          "new",
+          "features",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plans",
+          "."
+        ],
+        "lemmatized": [
+          "expedia",
+          "book",
+          "stock",
+          "slide",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tool",
+          ".",
+          "google",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "type",
+          "reservation",
+          "booking",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "news",
+          "send",
+          "shares",
+          "expedia",
+          "group",
+          "book",
+          "holdings",
+          "fall",
+          "monday",
+          ".",
+          "online",
+          "search",
+          "giant",
+          "say",
+          "blog",
+          "post",
+          "monday",
+          "ai",
+          "mode",
+          "tab",
+          "new",
+          "feature",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plan",
+          "."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "25a7db0765e1686a",
+      "title": "Jacobs Appoints Global Technology Leader Diane Bryant to Board of Directors",
+      "body": "Jacobs NYSE J today announced the appointment of Diane Bryant to its Board of Directors, effective immediately. Bryant is a distinguished technology executive with more than three decades of leadership experience spanning the global semiconductor industry, cloud computing services, artificial intelligence applications and technology-based healthcare solutions.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:34.421767",
+      "url": "https://finnhub.io/api/news?id=86e3305b8dc1e3f1978f401ebfb3dc391b5471161908b611f2eb63208553deec",
+      "raw_text": "Jacobs Appoints Global Technology Leader Diane Bryant to Board of Directors. Jacobs NYSE J today announced the appointment of Diane Bryant to its Board of Directors, effective immediately. Bryant is a distinguished technology executive with more than three decades of leadership experience spanning the global semiconductor industry, cloud computing services, artificial intelligence applications and technology-based healthcare solutions.",
+      "tickers_mentioned": "GPN,J",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "GPN": [],
+        "J": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jacobs",
+            "Diane Bryant",
+            "Bryant"
+          ],
+          "ORGANIZATION": [
+            "Appoints Global Technology",
+            "Board",
+            "NYSE"
+          ],
+          "GPE": [
+            "Directors"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bryant",
+            3
+          ],
+          [
+            "jacob",
+            2
+          ],
+          [
+            "global",
+            2
+          ],
+          [
+            "technology",
+            2
+          ],
+          [
+            "diane",
+            2
+          ],
+          [
+            "board",
+            2
+          ],
+          [
+            "director",
+            2
+          ],
+          [
+            "appoints",
+            1
+          ],
+          [
+            "leader",
+            1
+          ],
+          [
+            "nyse",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "jacobs",
+          "appoints",
+          "global",
+          "technology",
+          "leader",
+          "diane",
+          "bryant",
+          "to",
+          "board",
+          "of",
+          "directors",
+          ".",
+          "jacobs",
+          "nyse",
+          "j",
+          "today",
+          "announced",
+          "the",
+          "appointment",
+          "of",
+          "diane",
+          "bryant",
+          "to",
+          "its",
+          "board",
+          "of",
+          "directors",
+          ",",
+          "effective",
+          "immediately",
+          ".",
+          "bryant",
+          "is",
+          "a",
+          "distinguished",
+          "technology",
+          "executive",
+          "with",
+          "more",
+          "than",
+          "three",
+          "decades",
+          "of",
+          "leadership",
+          "experience",
+          "spanning",
+          "the",
+          "global",
+          "semiconductor",
+          "industry",
+          ",",
+          "cloud",
+          "computing",
+          "services",
+          ",",
+          "artificial",
+          "intelligence",
+          "applications",
+          "and",
+          "technology-based",
+          "healthcare",
+          "solutions",
+          "."
+        ],
+        "filtered": [
+          "jacobs",
+          "appoints",
+          "global",
+          "technology",
+          "leader",
+          "diane",
+          "bryant",
+          "board",
+          "directors",
+          ".",
+          "jacobs",
+          "nyse",
+          "j",
+          "today",
+          "announced",
+          "appointment",
+          "diane",
+          "bryant",
+          "board",
+          "directors",
+          ",",
+          "effective",
+          "immediately",
+          ".",
+          "bryant",
+          "distinguished",
+          "technology",
+          "executive",
+          "more",
+          "three",
+          "decades",
+          "leadership",
+          "experience",
+          "spanning",
+          "global",
+          "semiconductor",
+          "industry",
+          ",",
+          "cloud",
+          "computing",
+          "services",
+          ",",
+          "artificial",
+          "intelligence",
+          "applications",
+          "technology-based",
+          "healthcare",
+          "solutions",
+          "."
+        ],
+        "lemmatized": [
+          "jacob",
+          "appoints",
+          "global",
+          "technology",
+          "leader",
+          "diane",
+          "bryant",
+          "board",
+          "director",
+          ".",
+          "jacob",
+          "nyse",
+          "j",
+          "today",
+          "announce",
+          "appointment",
+          "diane",
+          "bryant",
+          "board",
+          "director",
+          ",",
+          "effective",
+          "immediately",
+          ".",
+          "bryant",
+          "distinguished",
+          "technology",
+          "executive",
+          "more",
+          "three",
+          "decade",
+          "leadership",
+          "experience",
+          "span",
+          "global",
+          "semiconductor",
+          "industry",
+          ",",
+          "cloud",
+          "compute",
+          "service",
+          ",",
+          "artificial",
+          "intelligence",
+          "application",
+          "technology-based",
+          "healthcare",
+          "solution",
+          "."
+        ]
+      }
+    }
+  ]
+}

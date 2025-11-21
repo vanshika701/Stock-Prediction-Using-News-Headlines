@@ -1,0 +1,238 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "77bc6b62ae59cb5e",
+      "title": "Exclusive Former BlackRock employees raise $4.6 million for HelloTrade, a blockchain-powered trading platform",
+      "body": "Kevin Tang and Wyatt Raich used to work in digital assets at BlackRock, where they helped the company pivot from its loud skepticism of crypto to being one of Wall Streets major players in the sector 2976 chars",
+      "source": "Fortune",
+      "timestamp": "2025-11-22T00:25:45.646941",
+      "url": "https://fortune.com/2025/11/20/former-blackrock-employees-raise-4-6-million/",
+      "raw_text": "Exclusive Former BlackRock employees raise $4.6 million for HelloTrade, a blockchain-powered trading platform. Kevin Tang and Wyatt Raich used to work in digital assets at BlackRock, where they helped the company pivot from its loud skepticism of crypto to being one of Wall Streets major players in the sector 2976 chars",
+      "tickers_mentioned": "DLR,BLK",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DLR": [],
+        "BLK": [
+          "Exclusive: Former **BlackRock** employees raise $4.6 million for HelloTrade, a blockchain-powered trading platform.",
+          "and Wyatt Raich used to work in digital assets at **BlackRock,** where they helped the company pivot from its loud skepticism"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Kevin Tang",
+            "Wyatt Raich"
+          ],
+          "ORGANIZATION": [
+            "BlackRock",
+            "HelloTrade",
+            "Wall Streets"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4.6",
+          "2976"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "blackrock",
+            2
+          ],
+          [
+            "exclusive",
+            1
+          ],
+          [
+            "former",
+            1
+          ],
+          [
+            "employee",
+            1
+          ],
+          [
+            "raise",
+            1
+          ],
+          [
+            "4.6",
+            1
+          ],
+          [
+            "million",
+            1
+          ],
+          [
+            "hellotrade",
+            1
+          ],
+          [
+            "blockchain-powered",
+            1
+          ],
+          [
+            "trading",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "exclusive",
+          "former",
+          "blackrock",
+          "employees",
+          "raise",
+          "$",
+          "4.6",
+          "million",
+          "for",
+          "hellotrade",
+          ",",
+          "a",
+          "blockchain-powered",
+          "trading",
+          "platform",
+          ".",
+          "kevin",
+          "tang",
+          "and",
+          "wyatt",
+          "raich",
+          "used",
+          "to",
+          "work",
+          "in",
+          "digital",
+          "assets",
+          "at",
+          "blackrock",
+          ",",
+          "where",
+          "they",
+          "helped",
+          "the",
+          "company",
+          "pivot",
+          "from",
+          "its",
+          "loud",
+          "skepticism",
+          "of",
+          "crypto",
+          "to",
+          "being",
+          "one",
+          "of",
+          "wall",
+          "streets",
+          "major",
+          "players",
+          "in",
+          "the",
+          "sector",
+          "2976",
+          "chars"
+        ],
+        "filtered": [
+          "exclusive",
+          "former",
+          "blackrock",
+          "employees",
+          "raise",
+          "$",
+          "4.6",
+          "million",
+          "hellotrade",
+          ",",
+          "blockchain-powered",
+          "trading",
+          "platform",
+          ".",
+          "kevin",
+          "tang",
+          "wyatt",
+          "raich",
+          "used",
+          "work",
+          "digital",
+          "assets",
+          "blackrock",
+          ",",
+          "helped",
+          "company",
+          "pivot",
+          "loud",
+          "skepticism",
+          "crypto",
+          "one",
+          "wall",
+          "streets",
+          "major",
+          "players",
+          "sector",
+          "2976",
+          "chars"
+        ],
+        "lemmatized": [
+          "exclusive",
+          "former",
+          "blackrock",
+          "employee",
+          "raise",
+          "$",
+          "4.6",
+          "million",
+          "hellotrade",
+          ",",
+          "blockchain-powered",
+          "trading",
+          "platform",
+          ".",
+          "kevin",
+          "tang",
+          "wyatt",
+          "raich",
+          "use",
+          "work",
+          "digital",
+          "asset",
+          "blackrock",
+          ",",
+          "help",
+          "company",
+          "pivot",
+          "loud",
+          "skepticism",
+          "crypto",
+          "one",
+          "wall",
+          "streets",
+          "major",
+          "player",
+          "sector",
+          "2976",
+          "char"
+        ]
+      }
+    }
+  ]
+}

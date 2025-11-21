@@ -1,0 +1,588 @@
+{
+  "count": 3,
+  "articles": [
+    {
+      "article_id": "63e2c5d1a0a65556",
+      "title": "Tesla Wins Arizona Approval For Paid Robotaxi Rides",
+      "body": "New permit lets Tesla run an Uber-like service with safety drivers",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.501088",
+      "url": "https://finnhub.io/api/news?id=f8523fab8078449cd5fec03c72d74b45ccd13b671c941ab164bd242f779520ec",
+      "raw_text": "Tesla Wins Arizona Approval For Paid Robotaxi Rides. New permit lets Tesla run an Uber-like service with safety drivers",
+      "tickers_mentioned": "UBER",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "UBER": [
+          "For Paid Robotaxi Rides. New permit lets Tesla run an **Uber-like** service with safety drivers"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "Wins Arizona Approval For Paid Robotaxi Rides"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            2
+          ],
+          [
+            "win",
+            1
+          ],
+          [
+            "arizona",
+            1
+          ],
+          [
+            "approval",
+            1
+          ],
+          [
+            "pay",
+            1
+          ],
+          [
+            "robotaxi",
+            1
+          ],
+          [
+            "ride",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "permit",
+            1
+          ],
+          [
+            "let",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tesla",
+          "wins",
+          "arizona",
+          "approval",
+          "for",
+          "paid",
+          "robotaxi",
+          "rides",
+          ".",
+          "new",
+          "permit",
+          "lets",
+          "tesla",
+          "run",
+          "an",
+          "uber-like",
+          "service",
+          "with",
+          "safety",
+          "drivers"
+        ],
+        "filtered": [
+          "tesla",
+          "wins",
+          "arizona",
+          "approval",
+          "paid",
+          "robotaxi",
+          "rides",
+          ".",
+          "new",
+          "permit",
+          "lets",
+          "tesla",
+          "run",
+          "uber-like",
+          "service",
+          "safety",
+          "drivers"
+        ],
+        "lemmatized": [
+          "tesla",
+          "win",
+          "arizona",
+          "approval",
+          "pay",
+          "robotaxi",
+          "ride",
+          ".",
+          "new",
+          "permit",
+          "let",
+          "tesla",
+          "run",
+          "uber-like",
+          "service",
+          "safety",
+          "driver"
+        ]
+      }
+    },
+    {
+      "article_id": "c5f98463c481e66c",
+      "title": "Zacks Investment Ideas feature highlights Alphabet, Tesla, Uber, Lyft and Avis",
+      "body": "Alphabet gains fresh momentum as Waymo rolls out fully driverless freeway rides across major U.S. cities, widening its robotaxi lead on rivals.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.420110",
+      "url": "https://finnhub.io/api/news?id=6e769aafeb86dd442f9389f88fff23a0244e6d1d2273b27ce23b37d0c138f75b",
+      "raw_text": "Zacks Investment Ideas feature highlights Alphabet, Tesla, Uber, Lyft and Avis. Alphabet gains fresh momentum as Waymo rolls out fully driverless freeway rides across major U.S. cities, widening its robotaxi lead on rivals.",
+      "tickers_mentioned": "GOOG,UBER",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "GOOG": [],
+        "UBER": [
+          "Zacks Investment Ideas feature highlights: Alphabet, Tesla, **Uber,** Lyft and Avis. Alphabet gains fresh momentum as Waymo rolls"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Zacks",
+            "Tesla",
+            "Lyft",
+            "Avis",
+            "Waymo"
+          ],
+          "ORGANIZATION": [
+            "Investment Ideas"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "high"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "zacks",
+            1
+          ],
+          [
+            "investment",
+            1
+          ],
+          [
+            "idea",
+            1
+          ],
+          [
+            "feature",
+            1
+          ],
+          [
+            "highlight",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "uber",
+            1
+          ],
+          [
+            "lyft",
+            1
+          ],
+          [
+            "avis",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "zacks",
+          "investment",
+          "ideas",
+          "feature",
+          "highlights",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "uber",
+          ",",
+          "lyft",
+          "and",
+          "avis",
+          ".",
+          "alphabet",
+          "gains",
+          "fresh",
+          "momentum",
+          "as",
+          "waymo",
+          "rolls",
+          "out",
+          "fully",
+          "driverless",
+          "freeway",
+          "rides",
+          "across",
+          "major",
+          "u.s.",
+          "cities",
+          ",",
+          "widening",
+          "its",
+          "robotaxi",
+          "lead",
+          "on",
+          "rivals",
+          "."
+        ],
+        "filtered": [
+          "zacks",
+          "investment",
+          "ideas",
+          "feature",
+          "highlights",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "uber",
+          ",",
+          "lyft",
+          "avis",
+          ".",
+          "alphabet",
+          "gains",
+          "fresh",
+          "momentum",
+          "waymo",
+          "rolls",
+          "fully",
+          "driverless",
+          "freeway",
+          "rides",
+          "across",
+          "major",
+          "u.s.",
+          "cities",
+          ",",
+          "widening",
+          "robotaxi",
+          "lead",
+          "rivals",
+          "."
+        ],
+        "lemmatized": [
+          "zacks",
+          "investment",
+          "idea",
+          "feature",
+          "highlight",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "uber",
+          ",",
+          "lyft",
+          "avis",
+          ".",
+          "alphabet",
+          "gain",
+          "fresh",
+          "momentum",
+          "waymo",
+          "roll",
+          "fully",
+          "driverless",
+          "freeway",
+          "ride",
+          "across",
+          "major",
+          "u.s.",
+          "city",
+          ",",
+          "widen",
+          "robotaxi",
+          "lead",
+          "rival",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "9436825cc48dcd74",
+      "title": "Americas labor market is cooling, and workers are quietly turning to Uber and DoorDash to fill the income gap",
+      "body": "The gig economy is quietly propping up a cooling labor market as more Americans turn to Uber, DoorDash, and Instacart to replace shrinking wages and lost hours.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.034480",
+      "url": "https://finnhub.io/api/news?id=f23f715333f76ba5a75610d751737b3d86e15c71646333ddf0515223be948a97",
+      "raw_text": "Americas labor market is cooling, and workers are quietly turning to Uber and DoorDash to fill the income gap. The gig economy is quietly propping up a cooling labor market as more Americans turn to Uber, DoorDash, and Instacart to replace shrinking wages and lost hours.",
+      "tickers_mentioned": "DASH,UBER",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DASH": [
+          "is cooling, and workers are quietly turning to Uber and **DoorDash** to fill the income gap. The gig economy is quietly",
+          "a cooling labor market as more Americans turn to Uber, **DoorDash,** and Instacart to replace shrinking wages and lost hours."
+        ],
+        "UBER": [
+          "labor market is cooling, and workers are quietly turning to **Uber** and DoorDash to fill the income gap. The gig economy",
+          "up a cooling labor market as more Americans turn to **Uber,** DoorDash, and Instacart to replace shrinking wages and lost hours."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Instacart"
+          ],
+          "ORGANIZATION": [
+            "DoorDash"
+          ],
+          "GPE": [
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "labor",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "quietly",
+            2
+          ],
+          [
+            "turn",
+            2
+          ],
+          [
+            "uber",
+            2
+          ],
+          [
+            "doordash",
+            2
+          ],
+          [
+            "americas",
+            1
+          ],
+          [
+            "cooling",
+            1
+          ],
+          [
+            "worker",
+            1
+          ],
+          [
+            "fill",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "americas",
+          "labor",
+          "market",
+          "is",
+          "cooling",
+          ",",
+          "and",
+          "workers",
+          "are",
+          "quietly",
+          "turning",
+          "to",
+          "uber",
+          "and",
+          "doordash",
+          "to",
+          "fill",
+          "the",
+          "income",
+          "gap",
+          ".",
+          "the",
+          "gig",
+          "economy",
+          "is",
+          "quietly",
+          "propping",
+          "up",
+          "a",
+          "cooling",
+          "labor",
+          "market",
+          "as",
+          "more",
+          "americans",
+          "turn",
+          "to",
+          "uber",
+          ",",
+          "doordash",
+          ",",
+          "and",
+          "instacart",
+          "to",
+          "replace",
+          "shrinking",
+          "wages",
+          "and",
+          "lost",
+          "hours",
+          "."
+        ],
+        "filtered": [
+          "americas",
+          "labor",
+          "market",
+          "cooling",
+          ",",
+          "workers",
+          "quietly",
+          "turning",
+          "uber",
+          "doordash",
+          "fill",
+          "income",
+          "gap",
+          ".",
+          "gig",
+          "economy",
+          "quietly",
+          "propping",
+          "up",
+          "cooling",
+          "labor",
+          "market",
+          "more",
+          "americans",
+          "turn",
+          "uber",
+          ",",
+          "doordash",
+          ",",
+          "instacart",
+          "replace",
+          "shrinking",
+          "wages",
+          "lost",
+          "hours",
+          "."
+        ],
+        "lemmatized": [
+          "americas",
+          "labor",
+          "market",
+          "cooling",
+          ",",
+          "worker",
+          "quietly",
+          "turn",
+          "uber",
+          "doordash",
+          "fill",
+          "income",
+          "gap",
+          ".",
+          "gig",
+          "economy",
+          "quietly",
+          "prop",
+          "up",
+          "cool",
+          "labor",
+          "market",
+          "more",
+          "american",
+          "turn",
+          "uber",
+          ",",
+          "doordash",
+          ",",
+          "instacart",
+          "replace",
+          "shrink",
+          "wage",
+          "lose",
+          "hour",
+          "."
+        ]
+      }
+    }
+  ]
+}

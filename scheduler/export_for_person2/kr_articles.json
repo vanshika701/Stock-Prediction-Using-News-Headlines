@@ -1,0 +1,266 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "a55841119c7151a6",
+      "title": "Kroger, Target, Walgreens support new retail theft, shoplifting rules",
+      "body": "In many cases, the retail shopping experience has become unpleasant. When you walk into a Target or a Walgreens and find the items you need in a locked cabinet that requires waiting for an employee to get what you need, it is easier to just jump onto your phone and order the item from Amazon. ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:36.871752",
+      "url": "https://finnhub.io/api/news?id=92eefbe80b96d17ea817059c14f4760715515aa7bca87be47e5e33185b7a0cf2",
+      "raw_text": "Kroger, Target, Walgreens support new retail theft, shoplifting rules. In many cases, the retail shopping experience has become unpleasant. When you walk into a Target or a Walgreens and find the items you need in a locked cabinet that requires waiting for an employee to get what you need, it is easier to just jump onto your phone and order the item from Amazon. ...",
+      "tickers_mentioned": "KR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "KR": [
+          "**Kroger,** Target, Walgreens support new retail theft, shoplifting rules. In many"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Target"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Kroger",
+            "Walgreens",
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "target",
+            2
+          ],
+          [
+            "walgreens",
+            2
+          ],
+          [
+            "retail",
+            2
+          ],
+          [
+            "item",
+            2
+          ],
+          [
+            "need",
+            2
+          ],
+          [
+            "kroger",
+            1
+          ],
+          [
+            "support",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "theft",
+            1
+          ],
+          [
+            "shoplift",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "kroger",
+          ",",
+          "target",
+          ",",
+          "walgreens",
+          "support",
+          "new",
+          "retail",
+          "theft",
+          ",",
+          "shoplifting",
+          "rules",
+          ".",
+          "in",
+          "many",
+          "cases",
+          ",",
+          "the",
+          "retail",
+          "shopping",
+          "experience",
+          "has",
+          "become",
+          "unpleasant",
+          ".",
+          "when",
+          "you",
+          "walk",
+          "into",
+          "a",
+          "target",
+          "or",
+          "a",
+          "walgreens",
+          "and",
+          "find",
+          "the",
+          "items",
+          "you",
+          "need",
+          "in",
+          "a",
+          "locked",
+          "cabinet",
+          "that",
+          "requires",
+          "waiting",
+          "for",
+          "an",
+          "employee",
+          "to",
+          "get",
+          "what",
+          "you",
+          "need",
+          ",",
+          "it",
+          "is",
+          "easier",
+          "to",
+          "just",
+          "jump",
+          "onto",
+          "your",
+          "phone",
+          "and",
+          "order",
+          "the",
+          "item",
+          "from",
+          "amazon",
+          ".",
+          "..."
+        ],
+        "filtered": [
+          "kroger",
+          ",",
+          "target",
+          ",",
+          "walgreens",
+          "support",
+          "new",
+          "retail",
+          "theft",
+          ",",
+          "shoplifting",
+          "rules",
+          ".",
+          "many",
+          "cases",
+          ",",
+          "retail",
+          "shopping",
+          "experience",
+          "become",
+          "unpleasant",
+          ".",
+          "walk",
+          "target",
+          "walgreens",
+          "find",
+          "items",
+          "need",
+          "locked",
+          "cabinet",
+          "requires",
+          "waiting",
+          "employee",
+          "get",
+          "need",
+          ",",
+          "easier",
+          "jump",
+          "onto",
+          "phone",
+          "order",
+          "item",
+          "amazon",
+          ".",
+          "..."
+        ],
+        "lemmatized": [
+          "kroger",
+          ",",
+          "target",
+          ",",
+          "walgreens",
+          "support",
+          "new",
+          "retail",
+          "theft",
+          ",",
+          "shoplift",
+          "rule",
+          ".",
+          "many",
+          "case",
+          ",",
+          "retail",
+          "shopping",
+          "experience",
+          "become",
+          "unpleasant",
+          ".",
+          "walk",
+          "target",
+          "walgreens",
+          "find",
+          "item",
+          "need",
+          "lock",
+          "cabinet",
+          "require",
+          "wait",
+          "employee",
+          "get",
+          "need",
+          ",",
+          "easy",
+          "jump",
+          "onto",
+          "phone",
+          "order",
+          "item",
+          "amazon",
+          ".",
+          "..."
+        ]
+      }
+    }
+  ]
+}

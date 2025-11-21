@@ -1,0 +1,517 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "5ca48e7256d1ddf0",
+      "title": "These Stocks g the Most Today Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More",
+      "body": "Nvidia and Microsoft unveil a massive AI partnership with Anthropic, Home Depot reduces its full-year sales outlook, and Cloudflare reports widespread outages.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:50.775606",
+      "url": "https://finnhub.io/api/news?id=1fabd692d8cf92820c4f47deed1f18ab624452eda7e9fba3f8dd011009432a44",
+      "raw_text": "These Stocks g the Most Today Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. Nvidia and Microsoft unveil a massive AI partnership with Anthropic, Home Depot reduces its full-year sales outlook, and Cloudflare reports widespread outages.",
+      "tickers_mentioned": "HD,NVDA,MSFT,HON,MDT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "HD": [],
+        "NVDA": [
+          "These Stocks g the Most Today: **Nvidia,** Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More.",
+          "Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. **Nvidia** and Microsoft unveil a massive AI partnership with Anthropic, Home"
+        ],
+        "MSFT": [
+          "These Stocks g the Most Today: Nvidia, **Microsoft,** Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. Nvidia",
+          "Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. Nvidia and **Microsoft** unveil a massive AI partnership with Anthropic, Home Depot reduces"
+        ],
+        "HON": [
+          "g the Most Today: Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, **Honeywell,** Medtronic, Klarna, and More. Nvidia and Microsoft unveil a massive"
+        ],
+        "MDT": [
+          "the Most Today: Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, **Medtronic,** Klarna, and More. Nvidia and Microsoft unveil a massive AI"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stocks",
+            "Microsoft",
+            "Home Depot",
+            "Energizer",
+            "Honeywell",
+            "Medtronic",
+            "Nvidia",
+            "Anthropic"
+          ],
+          "ORGANIZATION": [
+            "Cloudflare"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Cloudflare",
+            "Klarna"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "home",
+            2
+          ],
+          [
+            "depot",
+            2
+          ],
+          [
+            "cloudflare",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "energizer",
+            1
+          ],
+          [
+            "honeywell",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "g",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "cloudflare",
+          ",",
+          "energizer",
+          ",",
+          "honeywell",
+          ",",
+          "medtronic",
+          ",",
+          "klarna",
+          ",",
+          "and",
+          "more",
+          ".",
+          "nvidia",
+          "and",
+          "microsoft",
+          "unveil",
+          "a",
+          "massive",
+          "ai",
+          "partnership",
+          "with",
+          "anthropic",
+          ",",
+          "home",
+          "depot",
+          "reduces",
+          "its",
+          "full-year",
+          "sales",
+          "outlook",
+          ",",
+          "and",
+          "cloudflare",
+          "reports",
+          "widespread",
+          "outages",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "g",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "cloudflare",
+          ",",
+          "energizer",
+          ",",
+          "honeywell",
+          ",",
+          "medtronic",
+          ",",
+          "klarna",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "microsoft",
+          "unveil",
+          "massive",
+          "ai",
+          "partnership",
+          "anthropic",
+          ",",
+          "home",
+          "depot",
+          "reduces",
+          "full-year",
+          "sales",
+          "outlook",
+          ",",
+          "cloudflare",
+          "reports",
+          "widespread",
+          "outages",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "g",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "cloudflare",
+          ",",
+          "energizer",
+          ",",
+          "honeywell",
+          ",",
+          "medtronic",
+          ",",
+          "klarna",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "microsoft",
+          "unveil",
+          "massive",
+          "ai",
+          "partnership",
+          "anthropic",
+          ",",
+          "home",
+          "depot",
+          "reduce",
+          "full-year",
+          "sales",
+          "outlook",
+          ",",
+          "cloudflare",
+          "report",
+          "widespread",
+          "outage",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5ca48e7256d1ddf0",
+      "title": "These Stocks g the Most Today Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More",
+      "body": "Nvidia and Microsoft unveil a massive AI partnership with Anthropic, Home Depot reduces its full-year sales outlook, and Cloudflare reports widespread outages.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.505648",
+      "url": "https://finnhub.io/api/news?id=1fabd692d8cf92820c4f47deed1f18ab624452eda7e9fba3f8dd011009432a44",
+      "raw_text": "These Stocks g the Most Today Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. Nvidia and Microsoft unveil a massive AI partnership with Anthropic, Home Depot reduces its full-year sales outlook, and Cloudflare reports widespread outages.",
+      "tickers_mentioned": "HD,NVDA,MSFT,HON,MDT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "HD": [],
+        "NVDA": [
+          "These Stocks g the Most Today: **Nvidia,** Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More.",
+          "Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. **Nvidia** and Microsoft unveil a massive AI partnership with Anthropic, Home"
+        ],
+        "MSFT": [
+          "These Stocks g the Most Today: Nvidia, **Microsoft,** Home Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. Nvidia",
+          "Depot, Cloudflare, Energizer, Honeywell, Medtronic, Klarna, and More. Nvidia and **Microsoft** unveil a massive AI partnership with Anthropic, Home Depot reduces"
+        ],
+        "HON": [
+          "g the Most Today: Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, **Honeywell,** Medtronic, Klarna, and More. Nvidia and Microsoft unveil a massive"
+        ],
+        "MDT": [
+          "the Most Today: Nvidia, Microsoft, Home Depot, Cloudflare, Energizer, Honeywell, **Medtronic,** Klarna, and More. Nvidia and Microsoft unveil a massive AI"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stocks",
+            "Microsoft",
+            "Home Depot",
+            "Energizer",
+            "Honeywell",
+            "Medtronic",
+            "Nvidia",
+            "Anthropic"
+          ],
+          "ORGANIZATION": [
+            "Cloudflare"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Cloudflare",
+            "Klarna"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "home",
+            2
+          ],
+          [
+            "depot",
+            2
+          ],
+          [
+            "cloudflare",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "energizer",
+            1
+          ],
+          [
+            "honeywell",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "g",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "cloudflare",
+          ",",
+          "energizer",
+          ",",
+          "honeywell",
+          ",",
+          "medtronic",
+          ",",
+          "klarna",
+          ",",
+          "and",
+          "more",
+          ".",
+          "nvidia",
+          "and",
+          "microsoft",
+          "unveil",
+          "a",
+          "massive",
+          "ai",
+          "partnership",
+          "with",
+          "anthropic",
+          ",",
+          "home",
+          "depot",
+          "reduces",
+          "its",
+          "full-year",
+          "sales",
+          "outlook",
+          ",",
+          "and",
+          "cloudflare",
+          "reports",
+          "widespread",
+          "outages",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "g",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "cloudflare",
+          ",",
+          "energizer",
+          ",",
+          "honeywell",
+          ",",
+          "medtronic",
+          ",",
+          "klarna",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "microsoft",
+          "unveil",
+          "massive",
+          "ai",
+          "partnership",
+          "anthropic",
+          ",",
+          "home",
+          "depot",
+          "reduces",
+          "full-year",
+          "sales",
+          "outlook",
+          ",",
+          "cloudflare",
+          "reports",
+          "widespread",
+          "outages",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "g",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "microsoft",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "cloudflare",
+          ",",
+          "energizer",
+          ",",
+          "honeywell",
+          ",",
+          "medtronic",
+          ",",
+          "klarna",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "microsoft",
+          "unveil",
+          "massive",
+          "ai",
+          "partnership",
+          "anthropic",
+          ",",
+          "home",
+          "depot",
+          "reduce",
+          "full-year",
+          "sales",
+          "outlook",
+          ",",
+          "cloudflare",
+          "report",
+          "widespread",
+          "outage",
+          "."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "6b185339e783e089",
+      "title": "FCX INVESTOR ALERT Bronstein, Gewirtz Grossman LLC Announces that Freeport-McMoRan Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "body": "NEW YORK, Nov. 20, 2025 GLOBE NEWSWIRE -- Attorney Advertising -- Bronstein, Gewirtz Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been f 2606 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:25:42.773376",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192223/9788/en/FCX-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-Freeport-McMoRan-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html",
+      "raw_text": "FCX INVESTOR ALERT Bronstein, Gewirtz Grossman LLC Announces that Freeport-McMoRan Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit. NEW YORK, Nov. 20, 2025 GLOBE NEWSWIRE -- Attorney Advertising -- Bronstein, Gewirtz Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been f 2606 chars",
+      "tickers_mentioned": "GL,FCX",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "GL": [],
+        "FCX": [
+          "FCX INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that **Freeport-McMoRan** Inc. Investors with Substantial Losses Have Opportunity to Lead Class"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bronstein",
+            "Gewirtz",
+            "Grossman LLC Announces",
+            "Class Action Lawsuit"
+          ],
+          "ORGANIZATION": [
+            "FCX",
+            "Substantial Losses Have Opportunity",
+            "NEW",
+            "GLOBE",
+            "LLC"
+          ],
+          "GPE": [
+            "YORK",
+            "Grossman"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "20",
+          "2025",
+          "2606"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "investor",
+            3
+          ],
+          [
+            "bronstein",
+            2
+          ],
+          [
+            "gewirtz",
+            2
+          ],
+          [
+            "grossman",
+            2
+          ],
+          [
+            "llc",
+            2
+          ],
+          [
+            "class",
+            2
+          ],
+          [
+            "action",
+            2
+          ],
+          [
+            "lawsuit",
+            2
+          ],
+          [
+            "fcx",
+            1
+          ],
+          [
+            "alert",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "fcx",
+          "investor",
+          "alert",
+          "bronstein",
+          ",",
+          "gewirtz",
+          "grossman",
+          "llc",
+          "announces",
+          "that",
+          "freeport-mcmoran",
+          "inc.",
+          "investors",
+          "with",
+          "substantial",
+          "losses",
+          "have",
+          "opportunity",
+          "to",
+          "lead",
+          "class",
+          "action",
+          "lawsuit",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "attorney",
+          "advertising",
+          "--",
+          "bronstein",
+          ",",
+          "gewirtz",
+          "grossman",
+          ",",
+          "llc",
+          ",",
+          "a",
+          "nationally",
+          "recognized",
+          "law",
+          "firm",
+          ",",
+          "notifies",
+          "investors",
+          "that",
+          "a",
+          "class",
+          "action",
+          "lawsuit",
+          "has",
+          "been",
+          "f",
+          "2606",
+          "chars"
+        ],
+        "filtered": [
+          "fcx",
+          "investor",
+          "alert",
+          "bronstein",
+          ",",
+          "gewirtz",
+          "grossman",
+          "llc",
+          "announces",
+          "freeport-mcmoran",
+          "inc.",
+          "investors",
+          "substantial",
+          "losses",
+          "opportunity",
+          "lead",
+          "class",
+          "action",
+          "lawsuit",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "attorney",
+          "advertising",
+          "--",
+          "bronstein",
+          ",",
+          "gewirtz",
+          "grossman",
+          ",",
+          "llc",
+          ",",
+          "nationally",
+          "recognized",
+          "law",
+          "firm",
+          ",",
+          "notifies",
+          "investors",
+          "class",
+          "action",
+          "lawsuit",
+          "f",
+          "2606",
+          "chars"
+        ],
+        "lemmatized": [
+          "fcx",
+          "investor",
+          "alert",
+          "bronstein",
+          ",",
+          "gewirtz",
+          "grossman",
+          "llc",
+          "announce",
+          "freeport-mcmoran",
+          "inc.",
+          "investor",
+          "substantial",
+          "loss",
+          "opportunity",
+          "lead",
+          "class",
+          "action",
+          "lawsuit",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "attorney",
+          "advertising",
+          "--",
+          "bronstein",
+          ",",
+          "gewirtz",
+          "grossman",
+          ",",
+          "llc",
+          ",",
+          "nationally",
+          "recognize",
+          "law",
+          "firm",
+          ",",
+          "notifies",
+          "investor",
+          "class",
+          "action",
+          "lawsuit",
+          "f",
+          "2606",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "711f1fa4c1376ec4",
+      "title": "FCX SHAREHOLDERS A Securities Class Action against Freeport-McMoRan Inc. has been Filed on behalf of Investors -- Contact BFA Law by January 12 if You Suffered Losses - Freeport-McMoRan NYSEFCX",
+      "body": "NEW YORK, Nov. 21, 2025 GLOBE NEWSWIRE -- Leading securities law firm Bleichmar Fonti Auld LLP announces that a class action lawsuit has been filed against Freeport-McMoRan Inc. NYSEFCX and certain of the Companys senior executives for securities fraud after significant stock drops ...",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:25:46.379009",
+      "url": "https://www.benzinga.com/pressreleases/25/11/g48998178/fcx-shareholders-a-securities-class-action-against-freeport-mcmoran-inc-has-been-filed-on-behalf-o",
+      "raw_text": "FCX SHAREHOLDERS A Securities Class Action against Freeport-McMoRan Inc. has been Filed on behalf of Investors -- Contact BFA Law by January 12 if You Suffered Losses - Freeport-McMoRan NYSEFCX. NEW YORK, Nov. 21, 2025 GLOBE NEWSWIRE -- Leading securities law firm Bleichmar Fonti Auld LLP announces that a class action lawsuit has been filed against Freeport-McMoRan Inc. NYSEFCX and certain of the Companys senior executives for securities fraud after significant stock drops ...",
+      "tickers_mentioned": "GL,FCX",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "GL": [],
+        "FCX": [
+          "FCX SHAREHOLDERS: A Securities Class Action against **Freeport-McMoRan** Inc. has been Filed on behalf of Investors -- Contact",
+          "BFA Law by January 12 if You Suffered Losses - **Freeport-McMoRan** ( NYSE:FCX ) . NEW YORK, Nov. 21, 2025 (",
+          "announces that a class action lawsuit has been filed against **Freeport-McMoRan** Inc. ( NYSE:FCX ) and certain of the Company's senior"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Contact BFA Law",
+            "Bleichmar Fonti",
+            "Auld LLP"
+          ],
+          "ORGANIZATION": [
+            "NYSE",
+            "NEW",
+            "GLOBE",
+            "Company"
+          ],
+          "GPE": [
+            "Losses",
+            "Freeport-McMoRan",
+            "YORK"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [
+            "drop",
+            "loss",
+            "cut"
+          ],
+          "neutral": [
+            "announce",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "12",
+          "21",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "securities",
+            3
+          ],
+          [
+            "freeport-mcmoran",
+            3
+          ],
+          [
+            "class",
+            2
+          ],
+          [
+            "action",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "file",
+            2
+          ],
+          [
+            "law",
+            2
+          ],
+          [
+            "nysefcx",
+            2
+          ],
+          [
+            "fcx",
+            1
+          ],
+          [
+            "shareholder",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 3,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "fcx",
+          "shareholders",
+          "a",
+          "securities",
+          "class",
+          "action",
+          "against",
+          "freeport-mcmoran",
+          "inc.",
+          "has",
+          "been",
+          "filed",
+          "on",
+          "behalf",
+          "of",
+          "investors",
+          "--",
+          "contact",
+          "bfa",
+          "law",
+          "by",
+          "january",
+          "12",
+          "if",
+          "you",
+          "suffered",
+          "losses",
+          "-",
+          "freeport-mcmoran",
+          "nysefcx",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "21",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "leading",
+          "securities",
+          "law",
+          "firm",
+          "bleichmar",
+          "fonti",
+          "auld",
+          "llp",
+          "announces",
+          "that",
+          "a",
+          "class",
+          "action",
+          "lawsuit",
+          "has",
+          "been",
+          "filed",
+          "against",
+          "freeport-mcmoran",
+          "inc.",
+          "nysefcx",
+          "and",
+          "certain",
+          "of",
+          "the",
+          "companys",
+          "senior",
+          "executives",
+          "for",
+          "securities",
+          "fraud",
+          "after",
+          "significant",
+          "stock",
+          "drops",
+          "..."
+        ],
+        "filtered": [
+          "fcx",
+          "shareholders",
+          "securities",
+          "class",
+          "action",
+          "freeport-mcmoran",
+          "inc.",
+          "filed",
+          "behalf",
+          "investors",
+          "--",
+          "contact",
+          "bfa",
+          "law",
+          "january",
+          "12",
+          "suffered",
+          "losses",
+          "-",
+          "freeport-mcmoran",
+          "nysefcx",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "21",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "leading",
+          "securities",
+          "law",
+          "firm",
+          "bleichmar",
+          "fonti",
+          "auld",
+          "llp",
+          "announces",
+          "class",
+          "action",
+          "lawsuit",
+          "filed",
+          "freeport-mcmoran",
+          "inc.",
+          "nysefcx",
+          "certain",
+          "companys",
+          "senior",
+          "executives",
+          "securities",
+          "fraud",
+          "significant",
+          "stock",
+          "drops",
+          "..."
+        ],
+        "lemmatized": [
+          "fcx",
+          "shareholder",
+          "securities",
+          "class",
+          "action",
+          "freeport-mcmoran",
+          "inc.",
+          "file",
+          "behalf",
+          "investor",
+          "--",
+          "contact",
+          "bfa",
+          "law",
+          "january",
+          "12",
+          "suffer",
+          "loss",
+          "-",
+          "freeport-mcmoran",
+          "nysefcx",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "21",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "lead",
+          "securities",
+          "law",
+          "firm",
+          "bleichmar",
+          "fonti",
+          "auld",
+          "llp",
+          "announces",
+          "class",
+          "action",
+          "lawsuit",
+          "file",
+          "freeport-mcmoran",
+          "inc.",
+          "nysefcx",
+          "certain",
+          "company",
+          "senior",
+          "executive",
+          "securities",
+          "fraud",
+          "significant",
+          "stock",
+          "drop",
+          "..."
+        ]
+      }
+    }
+  ]
+}

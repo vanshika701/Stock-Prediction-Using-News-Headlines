@@ -1,0 +1,255 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "c7d1ee3a8dc7797b",
+      "title": "EV Sales Are Slowing. Why This Lithium Producers Stock Is on Fire.",
+      "body": "Electric-vehicle sales are slowing in the U.S. as the Trump administration cuts support for the transportation technology fueled by lithium-ion batteries. Albemarle stock is rising anyway. Albemarle stock was up 8.2 percent in midday trading on Monday, while the was up 0.1 percent and the was flat.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.181354",
+      "url": "https://finnhub.io/api/news?id=6de2ea3cab15710376284039b54a5828992304f72e5729118d03f5f7d344488d",
+      "raw_text": "EV Sales Are Slowing. Why This Lithium Producers Stock Is on Fire.. Electric-vehicle sales are slowing in the U.S. as the Trump administration cuts support for the transportation technology fueled by lithium-ion batteries. Albemarle stock is rising anyway. Albemarle stock was up 8.2 percent in midday trading on Monday, while the was up 0.1 percent and the was flat.",
+      "tickers_mentioned": "ALB",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "ALB": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock",
+            "Albemarle"
+          ],
+          "ORGANIZATION": [
+            "Fire",
+            "Trump"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "8.2",
+          "0.1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            3
+          ],
+          [
+            "sales",
+            2
+          ],
+          [
+            "slow",
+            2
+          ],
+          [
+            "albemarle",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "lithium",
+            1
+          ],
+          [
+            "producer",
+            1
+          ],
+          [
+            "fire",
+            1
+          ],
+          [
+            "electric-vehicle",
+            1
+          ],
+          [
+            "u.s.",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ev",
+          "sales",
+          "are",
+          "slowing",
+          ".",
+          "why",
+          "this",
+          "lithium",
+          "producers",
+          "stock",
+          "is",
+          "on",
+          "fire",
+          "..",
+          "electric-vehicle",
+          "sales",
+          "are",
+          "slowing",
+          "in",
+          "the",
+          "u.s.",
+          "as",
+          "the",
+          "trump",
+          "administration",
+          "cuts",
+          "support",
+          "for",
+          "the",
+          "transportation",
+          "technology",
+          "fueled",
+          "by",
+          "lithium-ion",
+          "batteries",
+          ".",
+          "albemarle",
+          "stock",
+          "is",
+          "rising",
+          "anyway",
+          ".",
+          "albemarle",
+          "stock",
+          "was",
+          "up",
+          "8.2",
+          "percent",
+          "in",
+          "midday",
+          "trading",
+          "on",
+          "monday",
+          ",",
+          "while",
+          "the",
+          "was",
+          "up",
+          "0.1",
+          "percent",
+          "and",
+          "the",
+          "was",
+          "flat",
+          "."
+        ],
+        "filtered": [
+          "ev",
+          "sales",
+          "slowing",
+          ".",
+          "lithium",
+          "producers",
+          "stock",
+          "fire",
+          "..",
+          "electric-vehicle",
+          "sales",
+          "slowing",
+          "u.s.",
+          "trump",
+          "administration",
+          "cuts",
+          "support",
+          "transportation",
+          "technology",
+          "fueled",
+          "lithium-ion",
+          "batteries",
+          ".",
+          "albemarle",
+          "stock",
+          "rising",
+          "anyway",
+          ".",
+          "albemarle",
+          "stock",
+          "up",
+          "8.2",
+          "percent",
+          "midday",
+          "trading",
+          "monday",
+          ",",
+          "up",
+          "0.1",
+          "percent",
+          "flat",
+          "."
+        ],
+        "lemmatized": [
+          "ev",
+          "sales",
+          "slow",
+          ".",
+          "lithium",
+          "producer",
+          "stock",
+          "fire",
+          "..",
+          "electric-vehicle",
+          "sales",
+          "slow",
+          "u.s.",
+          "trump",
+          "administration",
+          "cut",
+          "support",
+          "transportation",
+          "technology",
+          "fuel",
+          "lithium-ion",
+          "battery",
+          ".",
+          "albemarle",
+          "stock",
+          "rise",
+          "anyway",
+          ".",
+          "albemarle",
+          "stock",
+          "up",
+          "8.2",
+          "percent",
+          "midday",
+          "trading",
+          "monday",
+          ",",
+          "up",
+          "0.1",
+          "percent",
+          "flat",
+          "."
+        ]
+      }
+    }
+  ]
+}

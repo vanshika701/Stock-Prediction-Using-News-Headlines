@@ -1,0 +1,4431 @@
+{
+  "count": 17,
+  "articles": [
+    {
+      "article_id": "ecf7348fbcc26f14",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:21.020352",
+      "url": "https://www.benzinga.com/pressreleases/25/11/g48967527/bitget-shatters-new-milestone-with-5b-in-stock-futures-cumulative-trading-volume",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "tickers_mentioned": "FAST,UHS,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "UHS": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Seychelles",
+            "Universal Exchange"
+          ],
+          "ORGANIZATION": [
+            "Shatters New",
+            "VICTORIA",
+            "GLOBE",
+            "UEX"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5B",
+          "19",
+          "2025",
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "milestone",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "cumulative",
+            2
+          ],
+          [
+            "trading",
+            2
+          ],
+          [
+            "volume",
+            2
+          ],
+          [
+            "shatters",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "the",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "a",
+          "new",
+          "milestone",
+          "for",
+          "its",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "in",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "world",
+          "large",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announce",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "618da8b9ba5eac6d",
+      "title": "Alibaba Launches Free Qwen AI Assistant, Aiming To Be The Everything App For Work And Life - Alibaba Gr Hldgs NYSEBABA",
+      "body": "Alibaba Group Holding Limited NYSEBABA is making a stronger push into consumer artificial intelligence by launching a significant upgrade to its chatbot, aiming to catch up with rivals after falling behind in the fast-growing market.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:21.367363",
+      "url": "https://www.benzinga.com/markets/tech/25/11/48928596/alibaba-launches-free-qwen-ai-assistant-aiming-to-be-the-everything-app-for-work-and-life",
+      "raw_text": "Alibaba Launches Free Qwen AI Assistant, Aiming To Be The Everything App For Work And Life - Alibaba Gr Hldgs NYSEBABA. Alibaba Group Holding Limited NYSEBABA is making a stronger push into consumer artificial intelligence by launching a significant upgrade to its chatbot, aiming to catch up with rivals after falling behind in the fast-growing market.",
+      "tickers_mentioned": "FAST",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Alibaba",
+            "App",
+            "Alibaba Gr Hldgs",
+            "Alibaba Group Holding Limited"
+          ],
+          "ORGANIZATION": [
+            "Launches Free",
+            "Work And Life",
+            "NYSE"
+          ],
+          "GPE": [
+            "Aiming"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "upgrade"
+          ],
+          "negative": [
+            "fall"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "alibaba",
+            3
+          ],
+          [
+            "launch",
+            2
+          ],
+          [
+            "aim",
+            2
+          ],
+          [
+            "nysebaba",
+            2
+          ],
+          [
+            "free",
+            1
+          ],
+          [
+            "qwen",
+            1
+          ],
+          [
+            "assistant",
+            1
+          ],
+          [
+            "everything",
+            1
+          ],
+          [
+            "app",
+            1
+          ],
+          [
+            "work",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "alibaba",
+          "launches",
+          "free",
+          "qwen",
+          "ai",
+          "assistant",
+          ",",
+          "aiming",
+          "to",
+          "be",
+          "the",
+          "everything",
+          "app",
+          "for",
+          "work",
+          "and",
+          "life",
+          "-",
+          "alibaba",
+          "gr",
+          "hldgs",
+          "nysebaba",
+          ".",
+          "alibaba",
+          "group",
+          "holding",
+          "limited",
+          "nysebaba",
+          "is",
+          "making",
+          "a",
+          "stronger",
+          "push",
+          "into",
+          "consumer",
+          "artificial",
+          "intelligence",
+          "by",
+          "launching",
+          "a",
+          "significant",
+          "upgrade",
+          "to",
+          "its",
+          "chatbot",
+          ",",
+          "aiming",
+          "to",
+          "catch",
+          "up",
+          "with",
+          "rivals",
+          "after",
+          "falling",
+          "behind",
+          "in",
+          "the",
+          "fast-growing",
+          "market",
+          "."
+        ],
+        "filtered": [
+          "alibaba",
+          "launches",
+          "free",
+          "qwen",
+          "ai",
+          "assistant",
+          ",",
+          "aiming",
+          "everything",
+          "app",
+          "work",
+          "life",
+          "-",
+          "alibaba",
+          "gr",
+          "hldgs",
+          "nysebaba",
+          ".",
+          "alibaba",
+          "group",
+          "holding",
+          "limited",
+          "nysebaba",
+          "making",
+          "stronger",
+          "push",
+          "consumer",
+          "artificial",
+          "intelligence",
+          "launching",
+          "significant",
+          "upgrade",
+          "chatbot",
+          ",",
+          "aiming",
+          "catch",
+          "up",
+          "rivals",
+          "falling",
+          "behind",
+          "fast-growing",
+          "market",
+          "."
+        ],
+        "lemmatized": [
+          "alibaba",
+          "launch",
+          "free",
+          "qwen",
+          "ai",
+          "assistant",
+          ",",
+          "aim",
+          "everything",
+          "app",
+          "work",
+          "life",
+          "-",
+          "alibaba",
+          "gr",
+          "hldgs",
+          "nysebaba",
+          ".",
+          "alibaba",
+          "group",
+          "hold",
+          "limited",
+          "nysebaba",
+          "making",
+          "strong",
+          "push",
+          "consumer",
+          "artificial",
+          "intelligence",
+          "launch",
+          "significant",
+          "upgrade",
+          "chatbot",
+          ",",
+          "aim",
+          "catch",
+          "up",
+          "rival",
+          "fall",
+          "behind",
+          "fast-growing",
+          "market",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5c83b42229042160",
+      "title": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apples AirDrop",
+      "body": "AirDrop, which has been around for over a decade, is built into Apples software platforms, allowing for fast, wireless file transfers between iPhones, iPads and Macs. Google has a similar feature for Android called Quick Share. When it comes to sharing moments between family and friends, what device you have shouldnt matter sharing should just work, Google said in a surprise announcement on Thursday.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:21.658845",
+      "url": "https://finnhub.io/api/news?id=0c4495aa60572fb5d8da85311ac22100162728447d6350fc23ae6adbb3396109",
+      "raw_text": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apples AirDrop. AirDrop, which has been around for over a decade, is built into Apples software platforms, allowing for fast, wireless file transfers between iPhones, iPads and Macs. Google has a similar feature for Android called Quick Share. When it comes to sharing moments between family and friends, what device you have shouldnt matter sharing should just work, Google said in a surprise announcement on Thursday.",
+      "tickers_mentioned": "FAST",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google",
+            "Launches Unauthorized",
+            "Apple",
+            "Android",
+            "Quick Share"
+          ],
+          "ORGANIZATION": [
+            "AirDrop",
+            "iPhones",
+            "iPads"
+          ],
+          "GPE": [
+            "Macs"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "share",
+            4
+          ],
+          [
+            "google",
+            3
+          ],
+          [
+            "file",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "airdrop",
+            2
+          ],
+          [
+            "launch",
+            1
+          ],
+          [
+            "unauthorized",
+            1
+          ],
+          [
+            "pixel-to-iphone",
+            1
+          ],
+          [
+            "around",
+            1
+          ],
+          [
+            "over",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "google",
+          "launches",
+          "unauthorized",
+          "pixel-to-iphone",
+          "file",
+          "sharing",
+          "with",
+          "apples",
+          "airdrop",
+          ".",
+          "airdrop",
+          ",",
+          "which",
+          "has",
+          "been",
+          "around",
+          "for",
+          "over",
+          "a",
+          "decade",
+          ",",
+          "is",
+          "built",
+          "into",
+          "apples",
+          "software",
+          "platforms",
+          ",",
+          "allowing",
+          "for",
+          "fast",
+          ",",
+          "wireless",
+          "file",
+          "transfers",
+          "between",
+          "iphones",
+          ",",
+          "ipads",
+          "and",
+          "macs",
+          ".",
+          "google",
+          "has",
+          "a",
+          "similar",
+          "feature",
+          "for",
+          "android",
+          "called",
+          "quick",
+          "share",
+          ".",
+          "when",
+          "it",
+          "comes",
+          "to",
+          "sharing",
+          "moments",
+          "between",
+          "family",
+          "and",
+          "friends",
+          ",",
+          "what",
+          "device",
+          "you",
+          "have",
+          "shouldnt",
+          "matter",
+          "sharing",
+          "should",
+          "just",
+          "work",
+          ",",
+          "google",
+          "said",
+          "in",
+          "a",
+          "surprise",
+          "announcement",
+          "on",
+          "thursday",
+          "."
+        ],
+        "filtered": [
+          "google",
+          "launches",
+          "unauthorized",
+          "pixel-to-iphone",
+          "file",
+          "sharing",
+          "apples",
+          "airdrop",
+          ".",
+          "airdrop",
+          ",",
+          "around",
+          "over",
+          "decade",
+          ",",
+          "built",
+          "apples",
+          "software",
+          "platforms",
+          ",",
+          "allowing",
+          "fast",
+          ",",
+          "wireless",
+          "file",
+          "transfers",
+          "iphones",
+          ",",
+          "ipads",
+          "macs",
+          ".",
+          "google",
+          "similar",
+          "feature",
+          "android",
+          "called",
+          "quick",
+          "share",
+          ".",
+          "comes",
+          "sharing",
+          "moments",
+          "family",
+          "friends",
+          ",",
+          "device",
+          "shouldnt",
+          "matter",
+          "sharing",
+          "work",
+          ",",
+          "google",
+          "said",
+          "surprise",
+          "announcement",
+          "thursday",
+          "."
+        ],
+        "lemmatized": [
+          "google",
+          "launch",
+          "unauthorized",
+          "pixel-to-iphone",
+          "file",
+          "share",
+          "apple",
+          "airdrop",
+          ".",
+          "airdrop",
+          ",",
+          "around",
+          "over",
+          "decade",
+          ",",
+          "build",
+          "apple",
+          "software",
+          "platform",
+          ",",
+          "allow",
+          "fast",
+          ",",
+          "wireless",
+          "file",
+          "transfer",
+          "iphones",
+          ",",
+          "ipads",
+          "macs",
+          ".",
+          "google",
+          "similar",
+          "feature",
+          "android",
+          "call",
+          "quick",
+          "share",
+          ".",
+          "come",
+          "share",
+          "moment",
+          "family",
+          "friend",
+          ",",
+          "device",
+          "shouldnt",
+          "matter",
+          "share",
+          "work",
+          ",",
+          "google",
+          "say",
+          "surprise",
+          "announcement",
+          "thursday",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4354a0bb80a892aa",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget , the worlds largest Universal Exchange UEX, today announced a new milestone for its fast-growing stock futures product line, surpass 4604 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:48:24.642466",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3191562/0/en/Bitget-Shatters-New-Milestone-with-5B-in-Stock-Futures-Cumulative-Trading-Volume.html",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget , the worlds largest Universal Exchange UEX, today announced a new milestone for its fast-growing stock futures product line, surpass 4604 chars",
+      "tickers_mentioned": "FAST,UHS,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "UHS": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Seychelles",
+            "Universal Exchange"
+          ],
+          "ORGANIZATION": [
+            "Shatters New",
+            "VICTORIA",
+            "GLOBE",
+            "UEX"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5B",
+          "19",
+          "2025",
+          "4604"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "milestone",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "shatters",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "cumulative",
+            1
+          ],
+          [
+            "trading",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "the",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "a",
+          "new",
+          "milestone",
+          "for",
+          "its",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "4604",
+          "chars"
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "4604",
+          "chars"
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "world",
+          "large",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announce",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "4604",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "71ab7e3b2c3685dd",
+      "title": "what is Going On With Polar Power Stock Friday? - Polar Power NASDAQPOLA",
+      "body": "Polar Power, Inc. NASDAQPOLA announced on Friday that the company has received an initial order for 50 of its next-generation EVMC30K mobile chargers. These chargers are designed to provide emergency fast-charging for electric vehicles that run out of battery before reaching a stationary ...",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:25.114368",
+      "url": "https://www.benzinga.com/markets/small-cap/25/11/48999929/polar-power-wins-50-unit-ev-charger-deal-to-aid-stranded-drivers",
+      "raw_text": "what is Going On With Polar Power Stock Friday? - Polar Power NASDAQPOLA. Polar Power, Inc. NASDAQPOLA announced on Friday that the company has received an initial order for 50 of its next-generation EVMC30K mobile chargers. These chargers are designed to provide emergency fast-charging for electric vehicles that run out of battery before reaching a stationary ...",
+      "tickers_mentioned": "FAST",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Polar Power Stock",
+            "Polar Power"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ",
+            "EVMC30K"
+          ],
+          "GPE": [
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "50"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "polar",
+            3
+          ],
+          [
+            "power",
+            3
+          ],
+          [
+            "friday",
+            2
+          ],
+          [
+            "nasdaqpola",
+            2
+          ],
+          [
+            "charger",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "announce",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "receive",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "what",
+          "is",
+          "going",
+          "on",
+          "with",
+          "polar",
+          "power",
+          "stock",
+          "friday",
+          "?",
+          "-",
+          "polar",
+          "power",
+          "nasdaqpola",
+          ".",
+          "polar",
+          "power",
+          ",",
+          "inc.",
+          "nasdaqpola",
+          "announced",
+          "on",
+          "friday",
+          "that",
+          "the",
+          "company",
+          "has",
+          "received",
+          "an",
+          "initial",
+          "order",
+          "for",
+          "50",
+          "of",
+          "its",
+          "next-generation",
+          "evmc30k",
+          "mobile",
+          "chargers",
+          ".",
+          "these",
+          "chargers",
+          "are",
+          "designed",
+          "to",
+          "provide",
+          "emergency",
+          "fast-charging",
+          "for",
+          "electric",
+          "vehicles",
+          "that",
+          "run",
+          "out",
+          "of",
+          "battery",
+          "before",
+          "reaching",
+          "a",
+          "stationary",
+          "..."
+        ],
+        "filtered": [
+          "going",
+          "polar",
+          "power",
+          "stock",
+          "friday",
+          "?",
+          "-",
+          "polar",
+          "power",
+          "nasdaqpola",
+          ".",
+          "polar",
+          "power",
+          ",",
+          "inc.",
+          "nasdaqpola",
+          "announced",
+          "friday",
+          "company",
+          "received",
+          "initial",
+          "order",
+          "50",
+          "next-generation",
+          "evmc30k",
+          "mobile",
+          "chargers",
+          ".",
+          "chargers",
+          "designed",
+          "provide",
+          "emergency",
+          "fast-charging",
+          "electric",
+          "vehicles",
+          "run",
+          "battery",
+          "reaching",
+          "stationary",
+          "..."
+        ],
+        "lemmatized": [
+          "go",
+          "polar",
+          "power",
+          "stock",
+          "friday",
+          "?",
+          "-",
+          "polar",
+          "power",
+          "nasdaqpola",
+          ".",
+          "polar",
+          "power",
+          ",",
+          "inc.",
+          "nasdaqpola",
+          "announce",
+          "friday",
+          "company",
+          "receive",
+          "initial",
+          "order",
+          "50",
+          "next-generation",
+          "evmc30k",
+          "mobile",
+          "charger",
+          ".",
+          "charger",
+          "design",
+          "provide",
+          "emergency",
+          "fast-charging",
+          "electric",
+          "vehicle",
+          "run",
+          "battery",
+          "reach",
+          "stationary",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "ecf7348fbcc26f14",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:25.639820",
+      "url": "https://www.benzinga.com/pressreleases/25/11/g48967527/bitget-shatters-new-milestone-with-5b-in-stock-futures-cumulative-trading-volume",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "tickers_mentioned": "FAST,UHS,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "UHS": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Seychelles",
+            "Universal Exchange"
+          ],
+          "ORGANIZATION": [
+            "Shatters New",
+            "VICTORIA",
+            "GLOBE",
+            "UEX"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5B",
+          "19",
+          "2025",
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "milestone",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "cumulative",
+            2
+          ],
+          [
+            "trading",
+            2
+          ],
+          [
+            "volume",
+            2
+          ],
+          [
+            "shatters",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "the",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "a",
+          "new",
+          "milestone",
+          "for",
+          "its",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "in",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "world",
+          "large",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announce",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c1bf65dac99e9514",
+      "title": "C O R R E C T I O N -- Stellantis",
+      "body": "Stellantis announces the adoption of the North American Charging System NACS for select Stellantis battery-electric vehicles BEVs in North America, Japan and South Korea, giving future access to more than 28,000 Tesla Superchargers across all five countries. Starting in early 2026 in North America and in 2027 in Japan and South Korea, Stellantis customers will be able to charge compatible BEVs at thousands of Tesla Supercharger locations, significantly enhancing fast-charging convenience and",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:26.877207",
+      "url": "https://finnhub.io/api/news?id=d329df7ec9344753c7de771a5692fef85a18d6a673c6a3c8c74052f82403fcce",
+      "raw_text": "C O R R E C T I O N -- Stellantis. Stellantis announces the adoption of the North American Charging System NACS for select Stellantis battery-electric vehicles BEVs in North America, Japan and South Korea, giving future access to more than 28,000 Tesla Superchargers across all five countries. Starting in early 2026 in North America and in 2027 in Japan and South Korea, Stellantis customers will be able to charge compatible BEVs at thousands of Tesla Supercharger locations, significantly enhancing fast-charging convenience and",
+      "tickers_mentioned": "FAST,AWK",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "AWK": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stellantis",
+            "Tesla Supercharger"
+          ],
+          "ORGANIZATION": [
+            "American",
+            "NACS",
+            "BEVs"
+          ],
+          "GPE": [
+            "North America",
+            "Japan",
+            "South Korea"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "28",
+          "000",
+          "2026",
+          "2027"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stellantis",
+            4
+          ],
+          [
+            "north",
+            3
+          ],
+          [
+            "bevs",
+            2
+          ],
+          [
+            "america",
+            2
+          ],
+          [
+            "japan",
+            2
+          ],
+          [
+            "south",
+            2
+          ],
+          [
+            "korea",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "supercharger",
+            2
+          ],
+          [
+            "announces",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "c",
+          "o",
+          "r",
+          "r",
+          "e",
+          "c",
+          "t",
+          "i",
+          "o",
+          "n",
+          "--",
+          "stellantis",
+          ".",
+          "stellantis",
+          "announces",
+          "the",
+          "adoption",
+          "of",
+          "the",
+          "north",
+          "american",
+          "charging",
+          "system",
+          "nacs",
+          "for",
+          "select",
+          "stellantis",
+          "battery-electric",
+          "vehicles",
+          "bevs",
+          "in",
+          "north",
+          "america",
+          ",",
+          "japan",
+          "and",
+          "south",
+          "korea",
+          ",",
+          "giving",
+          "future",
+          "access",
+          "to",
+          "more",
+          "than",
+          "28,000",
+          "tesla",
+          "superchargers",
+          "across",
+          "all",
+          "five",
+          "countries",
+          ".",
+          "starting",
+          "in",
+          "early",
+          "2026",
+          "in",
+          "north",
+          "america",
+          "and",
+          "in",
+          "2027",
+          "in",
+          "japan",
+          "and",
+          "south",
+          "korea",
+          ",",
+          "stellantis",
+          "customers",
+          "will",
+          "be",
+          "able",
+          "to",
+          "charge",
+          "compatible",
+          "bevs",
+          "at",
+          "thousands",
+          "of",
+          "tesla",
+          "supercharger",
+          "locations",
+          ",",
+          "significantly",
+          "enhancing",
+          "fast-charging",
+          "convenience",
+          "and"
+        ],
+        "filtered": [
+          "c",
+          "r",
+          "r",
+          "e",
+          "c",
+          "n",
+          "--",
+          "stellantis",
+          ".",
+          "stellantis",
+          "announces",
+          "adoption",
+          "north",
+          "american",
+          "charging",
+          "system",
+          "nacs",
+          "select",
+          "stellantis",
+          "battery-electric",
+          "vehicles",
+          "bevs",
+          "north",
+          "america",
+          ",",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "giving",
+          "future",
+          "access",
+          "more",
+          "28,000",
+          "tesla",
+          "superchargers",
+          "across",
+          "five",
+          "countries",
+          ".",
+          "starting",
+          "early",
+          "2026",
+          "north",
+          "america",
+          "2027",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "stellantis",
+          "customers",
+          "able",
+          "charge",
+          "compatible",
+          "bevs",
+          "thousands",
+          "tesla",
+          "supercharger",
+          "locations",
+          ",",
+          "significantly",
+          "enhancing",
+          "fast-charging",
+          "convenience"
+        ],
+        "lemmatized": [
+          "c",
+          "r",
+          "r",
+          "e",
+          "c",
+          "n",
+          "--",
+          "stellantis",
+          ".",
+          "stellantis",
+          "announces",
+          "adoption",
+          "north",
+          "american",
+          "charging",
+          "system",
+          "nacs",
+          "select",
+          "stellantis",
+          "battery-electric",
+          "vehicle",
+          "bevs",
+          "north",
+          "america",
+          ",",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "give",
+          "future",
+          "access",
+          "more",
+          "28,000",
+          "tesla",
+          "supercharger",
+          "across",
+          "five",
+          "country",
+          ".",
+          "start",
+          "early",
+          "2026",
+          "north",
+          "america",
+          "2027",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "stellantis",
+          "customer",
+          "able",
+          "charge",
+          "compatible",
+          "bevs",
+          "thousand",
+          "tesla",
+          "supercharger",
+          "location",
+          ",",
+          "significantly",
+          "enhance",
+          "fast-charging",
+          "convenience"
+        ]
+      }
+    },
+    {
+      "article_id": "6d9defe9749ea1e9",
+      "title": "Stellantis Expands EV Charging Access with Tesla Supercharger Network Integration",
+      "body": "Stellantis announces the adoption of the North American Charging System NACS for select Stellantis battery-electric vehicles BEVs in North America, Japan and South Korea, giving future access to more than 28,000 Tesla Superchargers across all five countries. Starting in early 2026 in North America and in 2027 in Japan and South Korea, Stellantis customers will be able to charge compatible BEVs at thousands of Tesla Supercharger locations, significantly enhancing fast-charging convenience and",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:26.894682",
+      "url": "https://finnhub.io/api/news?id=58f547e80758be88f09510059c2f336b7dd2bc5f7f5dfa2652829a15e731e599",
+      "raw_text": "Stellantis Expands EV Charging Access with Tesla Supercharger Network Integration. Stellantis announces the adoption of the North American Charging System NACS for select Stellantis battery-electric vehicles BEVs in North America, Japan and South Korea, giving future access to more than 28,000 Tesla Superchargers across all five countries. Starting in early 2026 in North America and in 2027 in Japan and South Korea, Stellantis customers will be able to charge compatible BEVs at thousands of Tesla Supercharger locations, significantly enhancing fast-charging convenience and",
+      "tickers_mentioned": "FAST,AWK",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "AWK": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stellantis",
+            "Expands EV",
+            "Tesla Supercharger Network",
+            "Tesla Supercharger"
+          ],
+          "ORGANIZATION": [
+            "American",
+            "NACS",
+            "BEVs"
+          ],
+          "GPE": [
+            "North America",
+            "Japan",
+            "South Korea"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "28",
+          "000",
+          "2026",
+          "2027"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stellantis",
+            4
+          ],
+          [
+            "tesla",
+            3
+          ],
+          [
+            "supercharger",
+            3
+          ],
+          [
+            "north",
+            3
+          ],
+          [
+            "charge",
+            2
+          ],
+          [
+            "access",
+            2
+          ],
+          [
+            "bevs",
+            2
+          ],
+          [
+            "america",
+            2
+          ],
+          [
+            "japan",
+            2
+          ],
+          [
+            "south",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stellantis",
+          "expands",
+          "ev",
+          "charging",
+          "access",
+          "with",
+          "tesla",
+          "supercharger",
+          "network",
+          "integration",
+          ".",
+          "stellantis",
+          "announces",
+          "the",
+          "adoption",
+          "of",
+          "the",
+          "north",
+          "american",
+          "charging",
+          "system",
+          "nacs",
+          "for",
+          "select",
+          "stellantis",
+          "battery-electric",
+          "vehicles",
+          "bevs",
+          "in",
+          "north",
+          "america",
+          ",",
+          "japan",
+          "and",
+          "south",
+          "korea",
+          ",",
+          "giving",
+          "future",
+          "access",
+          "to",
+          "more",
+          "than",
+          "28,000",
+          "tesla",
+          "superchargers",
+          "across",
+          "all",
+          "five",
+          "countries",
+          ".",
+          "starting",
+          "in",
+          "early",
+          "2026",
+          "in",
+          "north",
+          "america",
+          "and",
+          "in",
+          "2027",
+          "in",
+          "japan",
+          "and",
+          "south",
+          "korea",
+          ",",
+          "stellantis",
+          "customers",
+          "will",
+          "be",
+          "able",
+          "to",
+          "charge",
+          "compatible",
+          "bevs",
+          "at",
+          "thousands",
+          "of",
+          "tesla",
+          "supercharger",
+          "locations",
+          ",",
+          "significantly",
+          "enhancing",
+          "fast-charging",
+          "convenience",
+          "and"
+        ],
+        "filtered": [
+          "stellantis",
+          "expands",
+          "ev",
+          "charging",
+          "access",
+          "tesla",
+          "supercharger",
+          "network",
+          "integration",
+          ".",
+          "stellantis",
+          "announces",
+          "adoption",
+          "north",
+          "american",
+          "charging",
+          "system",
+          "nacs",
+          "select",
+          "stellantis",
+          "battery-electric",
+          "vehicles",
+          "bevs",
+          "north",
+          "america",
+          ",",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "giving",
+          "future",
+          "access",
+          "more",
+          "28,000",
+          "tesla",
+          "superchargers",
+          "across",
+          "five",
+          "countries",
+          ".",
+          "starting",
+          "early",
+          "2026",
+          "north",
+          "america",
+          "2027",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "stellantis",
+          "customers",
+          "able",
+          "charge",
+          "compatible",
+          "bevs",
+          "thousands",
+          "tesla",
+          "supercharger",
+          "locations",
+          ",",
+          "significantly",
+          "enhancing",
+          "fast-charging",
+          "convenience"
+        ],
+        "lemmatized": [
+          "stellantis",
+          "expand",
+          "ev",
+          "charge",
+          "access",
+          "tesla",
+          "supercharger",
+          "network",
+          "integration",
+          ".",
+          "stellantis",
+          "announces",
+          "adoption",
+          "north",
+          "american",
+          "charging",
+          "system",
+          "nacs",
+          "select",
+          "stellantis",
+          "battery-electric",
+          "vehicle",
+          "bevs",
+          "north",
+          "america",
+          ",",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "give",
+          "future",
+          "access",
+          "more",
+          "28,000",
+          "tesla",
+          "supercharger",
+          "across",
+          "five",
+          "country",
+          ".",
+          "start",
+          "early",
+          "2026",
+          "north",
+          "america",
+          "2027",
+          "japan",
+          "south",
+          "korea",
+          ",",
+          "stellantis",
+          "customer",
+          "able",
+          "charge",
+          "compatible",
+          "bevs",
+          "thousand",
+          "tesla",
+          "supercharger",
+          "location",
+          ",",
+          "significantly",
+          "enhance",
+          "fast-charging",
+          "convenience"
+        ]
+      }
+    },
+    {
+      "article_id": "07142c9f3aa61895",
+      "title": "Elon Musk Said He Works Every Waking Hour. If You Work 100 Hours A Week While Others Work 50, You will Get Twice As Much Done",
+      "body": "Tesla NASDAQTSLA CEO Elon Musk has always been known for his extreme work ethic. Over the years, hes repeatedly said that long hours and intense dedication are central to his success. His approach is simple The more time you put in, the more you get out. Working Nonstop, Sleeping On The Floor You need to work super hard, Musk told graduates during a 2014 commencement speech at the University of Southern Californias Marshall School of Business. Do not Miss Fast Company Calls It a Groundb",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.123655",
+      "url": "https://finnhub.io/api/news?id=75ea73148cd185937ca8a320a6869f76cdb557a5421d1eca200c00585f889490",
+      "raw_text": "Elon Musk Said He Works Every Waking Hour. If You Work 100 Hours A Week While Others Work 50, You will Get Twice As Much Done. Tesla NASDAQTSLA CEO Elon Musk has always been known for his extreme work ethic. Over the years, hes repeatedly said that long hours and intense dedication are central to his success. His approach is simple The more time you put in, the more you get out. Working Nonstop, Sleeping On The Floor You need to work super hard, Musk told graduates during a 2014 commencement speech at the University of Southern Californias Marshall School of Business. Do not Miss Fast Company Calls It a Groundb",
+      "tickers_mentioned": "FAST,TSLA,SO",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "FAST": [],
+        "TSLA": [],
+        "SO": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Elon",
+            "Musk",
+            "Much Done",
+            "Nonstop",
+            "Marshall School",
+            "Fast Company"
+          ],
+          "ORGANIZATION": [
+            "Others",
+            "NASDAQ",
+            "CEO Elon Musk",
+            "Floor",
+            "University",
+            "Business"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "miss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "100",
+          "50",
+          "2014"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "work",
+            6
+          ],
+          [
+            "musk",
+            3
+          ],
+          [
+            "hour",
+            3
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "get",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "every",
+            1
+          ],
+          [
+            "wake",
+            1
+          ],
+          [
+            "100",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "elon",
+          "musk",
+          "said",
+          "he",
+          "works",
+          "every",
+          "waking",
+          "hour",
+          ".",
+          "if",
+          "you",
+          "work",
+          "100",
+          "hours",
+          "a",
+          "week",
+          "while",
+          "others",
+          "work",
+          "50",
+          ",",
+          "you",
+          "will",
+          "get",
+          "twice",
+          "as",
+          "much",
+          "done",
+          ".",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "has",
+          "always",
+          "been",
+          "known",
+          "for",
+          "his",
+          "extreme",
+          "work",
+          "ethic",
+          ".",
+          "over",
+          "the",
+          "years",
+          ",",
+          "hes",
+          "repeatedly",
+          "said",
+          "that",
+          "long",
+          "hours",
+          "and",
+          "intense",
+          "dedication",
+          "are",
+          "central",
+          "to",
+          "his",
+          "success",
+          ".",
+          "his",
+          "approach",
+          "is",
+          "simple",
+          "the",
+          "more",
+          "time",
+          "you",
+          "put",
+          "in",
+          ",",
+          "the",
+          "more",
+          "you",
+          "get",
+          "out",
+          ".",
+          "working",
+          "nonstop",
+          ",",
+          "sleeping",
+          "on",
+          "the",
+          "floor",
+          "you",
+          "need",
+          "to",
+          "work",
+          "super",
+          "hard",
+          ",",
+          "musk",
+          "told",
+          "graduates",
+          "during",
+          "a",
+          "2014",
+          "commencement",
+          "speech",
+          "at",
+          "the",
+          "university",
+          "of",
+          "southern",
+          "californias",
+          "marshall",
+          "school",
+          "of",
+          "business",
+          ".",
+          "do",
+          "not",
+          "miss",
+          "fast",
+          "company",
+          "calls",
+          "it",
+          "a",
+          "groundb"
+        ],
+        "filtered": [
+          "elon",
+          "musk",
+          "said",
+          "works",
+          "every",
+          "waking",
+          "hour",
+          ".",
+          "work",
+          "100",
+          "hours",
+          "week",
+          "others",
+          "work",
+          "50",
+          ",",
+          "get",
+          "twice",
+          "much",
+          "done",
+          ".",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "always",
+          "known",
+          "extreme",
+          "work",
+          "ethic",
+          ".",
+          "over",
+          "years",
+          ",",
+          "hes",
+          "repeatedly",
+          "said",
+          "long",
+          "hours",
+          "intense",
+          "dedication",
+          "central",
+          "success",
+          ".",
+          "approach",
+          "simple",
+          "more",
+          "time",
+          "put",
+          ",",
+          "more",
+          "get",
+          ".",
+          "working",
+          "nonstop",
+          ",",
+          "sleeping",
+          "floor",
+          "need",
+          "work",
+          "super",
+          "hard",
+          ",",
+          "musk",
+          "told",
+          "graduates",
+          "2014",
+          "commencement",
+          "speech",
+          "university",
+          "southern",
+          "californias",
+          "marshall",
+          "school",
+          "business",
+          ".",
+          "not",
+          "miss",
+          "fast",
+          "company",
+          "calls",
+          "groundb"
+        ],
+        "lemmatized": [
+          "elon",
+          "musk",
+          "say",
+          "work",
+          "every",
+          "wake",
+          "hour",
+          ".",
+          "work",
+          "100",
+          "hour",
+          "week",
+          "others",
+          "work",
+          "50",
+          ",",
+          "get",
+          "twice",
+          "much",
+          "do",
+          ".",
+          "tesla",
+          "nasdaqtsla",
+          "ceo",
+          "elon",
+          "musk",
+          "always",
+          "know",
+          "extreme",
+          "work",
+          "ethic",
+          ".",
+          "over",
+          "year",
+          ",",
+          "he",
+          "repeatedly",
+          "say",
+          "long",
+          "hour",
+          "intense",
+          "dedication",
+          "central",
+          "success",
+          ".",
+          "approach",
+          "simple",
+          "more",
+          "time",
+          "put",
+          ",",
+          "more",
+          "get",
+          ".",
+          "work",
+          "nonstop",
+          ",",
+          "sleep",
+          "floor",
+          "need",
+          "work",
+          "super",
+          "hard",
+          ",",
+          "musk",
+          "tell",
+          "graduate",
+          "2014",
+          "commencement",
+          "speech",
+          "university",
+          "southern",
+          "california",
+          "marshall",
+          "school",
+          "business",
+          ".",
+          "not",
+          "miss",
+          "fast",
+          "company",
+          "call",
+          "groundb"
+        ]
+      }
+    },
+    {
+      "article_id": "39c895c42184dabf",
+      "title": "Stifels Stephen Gengaro shares his bull case for Tesla",
+      "body": "Stephen Gengaro, Stifel, joins Fast Money to talk his bullish take on Tesla.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:27.285810",
+      "url": "https://finnhub.io/api/news?id=f36a0eac65fa94e81a3d686ac64c4ff5bc7bc32ba8da90125f753ce3fba51e3f",
+      "raw_text": "Stifels Stephen Gengaro shares his bull case for Tesla. Stephen Gengaro, Stifel, joins Fast Money to talk his bullish take on Tesla.",
+      "tickers_mentioned": "FAST",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stephen Gengaro",
+            "Tesla",
+            "Money"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Stifel",
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "bullish"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stephen",
+            2
+          ],
+          [
+            "gengaro",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "stifels",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "bull",
+            1
+          ],
+          [
+            "case",
+            1
+          ],
+          [
+            "stifel",
+            1
+          ],
+          [
+            "join",
+            1
+          ],
+          [
+            "fast",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stifels",
+          "stephen",
+          "gengaro",
+          "shares",
+          "his",
+          "bull",
+          "case",
+          "for",
+          "tesla",
+          ".",
+          "stephen",
+          "gengaro",
+          ",",
+          "stifel",
+          ",",
+          "joins",
+          "fast",
+          "money",
+          "to",
+          "talk",
+          "his",
+          "bullish",
+          "take",
+          "on",
+          "tesla",
+          "."
+        ],
+        "filtered": [
+          "stifels",
+          "stephen",
+          "gengaro",
+          "shares",
+          "bull",
+          "case",
+          "tesla",
+          ".",
+          "stephen",
+          "gengaro",
+          ",",
+          "stifel",
+          ",",
+          "joins",
+          "fast",
+          "money",
+          "talk",
+          "bullish",
+          "take",
+          "tesla",
+          "."
+        ],
+        "lemmatized": [
+          "stifels",
+          "stephen",
+          "gengaro",
+          "shares",
+          "bull",
+          "case",
+          "tesla",
+          ".",
+          "stephen",
+          "gengaro",
+          ",",
+          "stifel",
+          ",",
+          "join",
+          "fast",
+          "money",
+          "talk",
+          "bullish",
+          "take",
+          "tesla",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "f5666adfb72e7c46",
+      "title": "WEX Unlocks Access to 20,000 Tesla Superchargers Across Europe",
+      "body": "LONDON, November 17, 2025--WEX adds 20,000 Tesla Superchargers to its EV Driver by WEX app, giving fleets seamless, fast, affordable charging across 1,500 European locations",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.480130",
+      "url": "https://finnhub.io/api/news?id=3dd81881a7296dfcecc86e9117848b55e8b68856f8e064f257b5b7c95f3e3792",
+      "raw_text": "WEX Unlocks Access to 20,000 Tesla Superchargers Across Europe. LONDON, November 17, 2025--WEX adds 20,000 Tesla Superchargers to its EV Driver by WEX app, giving fleets seamless, fast, affordable charging across 1,500 European locations",
+      "tickers_mentioned": "FAST",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Unlocks Access"
+          ],
+          "ORGANIZATION": [
+            "Tesla Superchargers Across Europe",
+            "LONDON",
+            "WEX",
+            "Tesla Superchargers"
+          ],
+          "GPE": [
+            "European"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "20",
+          "000",
+          "17",
+          "2025",
+          "20",
+          "000",
+          "1",
+          "500"
+        ],
+        "percentages": [],
+        "dates": [
+          "November 17, 2025"
+        ],
+        "top_words": [
+          [
+            "wex",
+            3
+          ],
+          [
+            "20,000",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "supercharger",
+            2
+          ],
+          [
+            "across",
+            2
+          ],
+          [
+            "unlocks",
+            1
+          ],
+          [
+            "access",
+            1
+          ],
+          [
+            "europe",
+            1
+          ],
+          [
+            "london",
+            1
+          ],
+          [
+            "november",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 8,
+          "num_percentages": 0,
+          "num_dates": 1
+        }
+      },
+      "tokens": {
+        "original": [
+          "wex",
+          "unlocks",
+          "access",
+          "to",
+          "20,000",
+          "tesla",
+          "superchargers",
+          "across",
+          "europe",
+          ".",
+          "london",
+          ",",
+          "november",
+          "17",
+          ",",
+          "2025",
+          "--",
+          "wex",
+          "adds",
+          "20,000",
+          "tesla",
+          "superchargers",
+          "to",
+          "its",
+          "ev",
+          "driver",
+          "by",
+          "wex",
+          "app",
+          ",",
+          "giving",
+          "fleets",
+          "seamless",
+          ",",
+          "fast",
+          ",",
+          "affordable",
+          "charging",
+          "across",
+          "1,500",
+          "european",
+          "locations"
+        ],
+        "filtered": [
+          "wex",
+          "unlocks",
+          "access",
+          "20,000",
+          "tesla",
+          "superchargers",
+          "across",
+          "europe",
+          ".",
+          "london",
+          ",",
+          "november",
+          "17",
+          ",",
+          "2025",
+          "--",
+          "wex",
+          "adds",
+          "20,000",
+          "tesla",
+          "superchargers",
+          "ev",
+          "driver",
+          "wex",
+          "app",
+          ",",
+          "giving",
+          "fleets",
+          "seamless",
+          ",",
+          "fast",
+          ",",
+          "affordable",
+          "charging",
+          "across",
+          "1,500",
+          "european",
+          "locations"
+        ],
+        "lemmatized": [
+          "wex",
+          "unlocks",
+          "access",
+          "20,000",
+          "tesla",
+          "supercharger",
+          "across",
+          "europe",
+          ".",
+          "london",
+          ",",
+          "november",
+          "17",
+          ",",
+          "2025",
+          "--",
+          "wex",
+          "add",
+          "20,000",
+          "tesla",
+          "supercharger",
+          "ev",
+          "driver",
+          "wex",
+          "app",
+          ",",
+          "give",
+          "fleet",
+          "seamless",
+          ",",
+          "fast",
+          ",",
+          "affordable",
+          "charge",
+          "across",
+          "1,500",
+          "european",
+          "location"
+        ]
+      }
+    },
+    {
+      "article_id": "0f2f3f734a6a2958",
+      "title": "The Stock Markets Nvidia Bump Is Fading Fast",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 746 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:28.349158",
+      "url": "https://biztoc.com/x/b274f469b1ea5a49",
+      "raw_text": "The Stock Markets Nvidia Bump Is Fading Fast. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 746 chars",
+      "tickers_mentioned": "FAST,NVDA,VZ",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "FAST": [],
+        "NVDA": [
+          "The Stock Market’s **Nvidia** Bump Is Fading Fast. { window.open(this.href, '_blank'); }, 200); return",
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+746 chars]"
+        ],
+        "VZ": [
+          "Fading Fast. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market",
+            "Nvidia Bump",
+            "Fast",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "746"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "bump",
+            1
+          ],
+          [
+            "fade",
+            1
+          ],
+          [
+            "fast",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "stock",
+          "markets",
+          "nvidia",
+          "bump",
+          "is",
+          "fading",
+          "fast",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "chars"
+        ],
+        "filtered": [
+          "stock",
+          "markets",
+          "nvidia",
+          "bump",
+          "fading",
+          "fast",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "chars"
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "nvidia",
+          "bump",
+          "fade",
+          "fast",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "bfdf175ab9e6d938",
+      "title": "Comparing Microsoft With Industry Competitors In Software Industry - Microsoft NASDAQMSFT",
+      "body": "In todays fast-paced and competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies before making investment decisions.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:28.466522",
+      "url": "https://www.benzinga.com/insights/news/25/11/49003134/comparing-microsoft-with-industry-competitors-in-software-industry",
+      "raw_text": "Comparing Microsoft With Industry Competitors In Software Industry - Microsoft NASDAQMSFT. In todays fast-paced and competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies before making investment decisions.",
+      "tickers_mentioned": "FAST,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "MSFT": [
+          "Comparing **Microsoft** With Industry Competitors In Software Industry - Microsoft ( NASDAQ:MSFT",
+          "Comparing Microsoft With Industry Competitors In Software Industry - **Microsoft** ( NASDAQ:MSFT ) . In today's fast-paced and competitive business"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Microsoft"
+          ],
+          "ORGANIZATION": [
+            "Industry Competitors",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Software Industry",
+            "Microsoft"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "industry",
+            3
+          ],
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "compare",
+            1
+          ],
+          [
+            "competitor",
+            1
+          ],
+          [
+            "software",
+            1
+          ],
+          [
+            "nasdaqmsft",
+            1
+          ],
+          [
+            "todays",
+            1
+          ],
+          [
+            "fast-paced",
+            1
+          ],
+          [
+            "competitive",
+            1
+          ],
+          [
+            "business",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "comparing",
+          "microsoft",
+          "with",
+          "industry",
+          "competitors",
+          "in",
+          "software",
+          "industry",
+          "-",
+          "microsoft",
+          "nasdaqmsft",
+          ".",
+          "in",
+          "todays",
+          "fast-paced",
+          "and",
+          "competitive",
+          "business",
+          "landscape",
+          ",",
+          "it",
+          "is",
+          "essential",
+          "for",
+          "investors",
+          "and",
+          "industry",
+          "enthusiasts",
+          "to",
+          "thoroughly",
+          "analyze",
+          "companies",
+          "before",
+          "making",
+          "investment",
+          "decisions",
+          "."
+        ],
+        "filtered": [
+          "comparing",
+          "microsoft",
+          "industry",
+          "competitors",
+          "software",
+          "industry",
+          "-",
+          "microsoft",
+          "nasdaqmsft",
+          ".",
+          "todays",
+          "fast-paced",
+          "competitive",
+          "business",
+          "landscape",
+          ",",
+          "essential",
+          "investors",
+          "industry",
+          "enthusiasts",
+          "thoroughly",
+          "analyze",
+          "companies",
+          "making",
+          "investment",
+          "decisions",
+          "."
+        ],
+        "lemmatized": [
+          "compare",
+          "microsoft",
+          "industry",
+          "competitor",
+          "software",
+          "industry",
+          "-",
+          "microsoft",
+          "nasdaqmsft",
+          ".",
+          "todays",
+          "fast-paced",
+          "competitive",
+          "business",
+          "landscape",
+          ",",
+          "essential",
+          "investor",
+          "industry",
+          "enthusiasts",
+          "thoroughly",
+          "analyze",
+          "company",
+          "make",
+          "investment",
+          "decision",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5c83b42229042160",
+      "title": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apples AirDrop",
+      "body": "AirDrop, which has been around for over a decade, is built into Apples software platforms, allowing for fast, wireless file transfers between iPhones, iPads and Macs. Google has a similar feature for Android called Quick Share. When it comes to sharing moments between family and friends, what device you have shouldnt matter sharing should just work, Google said in a surprise announcement on Thursday.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:32.636000",
+      "url": "https://finnhub.io/api/news?id=0c4495aa60572fb5d8da85311ac22100162728447d6350fc23ae6adbb3396109",
+      "raw_text": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apples AirDrop. AirDrop, which has been around for over a decade, is built into Apples software platforms, allowing for fast, wireless file transfers between iPhones, iPads and Macs. Google has a similar feature for Android called Quick Share. When it comes to sharing moments between family and friends, what device you have shouldnt matter sharing should just work, Google said in a surprise announcement on Thursday.",
+      "tickers_mentioned": "FAST",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google",
+            "Launches Unauthorized",
+            "Apple",
+            "Android",
+            "Quick Share"
+          ],
+          "ORGANIZATION": [
+            "AirDrop",
+            "iPhones",
+            "iPads"
+          ],
+          "GPE": [
+            "Macs"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "share",
+            4
+          ],
+          [
+            "google",
+            3
+          ],
+          [
+            "file",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "airdrop",
+            2
+          ],
+          [
+            "launch",
+            1
+          ],
+          [
+            "unauthorized",
+            1
+          ],
+          [
+            "pixel-to-iphone",
+            1
+          ],
+          [
+            "around",
+            1
+          ],
+          [
+            "over",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "google",
+          "launches",
+          "unauthorized",
+          "pixel-to-iphone",
+          "file",
+          "sharing",
+          "with",
+          "apples",
+          "airdrop",
+          ".",
+          "airdrop",
+          ",",
+          "which",
+          "has",
+          "been",
+          "around",
+          "for",
+          "over",
+          "a",
+          "decade",
+          ",",
+          "is",
+          "built",
+          "into",
+          "apples",
+          "software",
+          "platforms",
+          ",",
+          "allowing",
+          "for",
+          "fast",
+          ",",
+          "wireless",
+          "file",
+          "transfers",
+          "between",
+          "iphones",
+          ",",
+          "ipads",
+          "and",
+          "macs",
+          ".",
+          "google",
+          "has",
+          "a",
+          "similar",
+          "feature",
+          "for",
+          "android",
+          "called",
+          "quick",
+          "share",
+          ".",
+          "when",
+          "it",
+          "comes",
+          "to",
+          "sharing",
+          "moments",
+          "between",
+          "family",
+          "and",
+          "friends",
+          ",",
+          "what",
+          "device",
+          "you",
+          "have",
+          "shouldnt",
+          "matter",
+          "sharing",
+          "should",
+          "just",
+          "work",
+          ",",
+          "google",
+          "said",
+          "in",
+          "a",
+          "surprise",
+          "announcement",
+          "on",
+          "thursday",
+          "."
+        ],
+        "filtered": [
+          "google",
+          "launches",
+          "unauthorized",
+          "pixel-to-iphone",
+          "file",
+          "sharing",
+          "apples",
+          "airdrop",
+          ".",
+          "airdrop",
+          ",",
+          "around",
+          "over",
+          "decade",
+          ",",
+          "built",
+          "apples",
+          "software",
+          "platforms",
+          ",",
+          "allowing",
+          "fast",
+          ",",
+          "wireless",
+          "file",
+          "transfers",
+          "iphones",
+          ",",
+          "ipads",
+          "macs",
+          ".",
+          "google",
+          "similar",
+          "feature",
+          "android",
+          "called",
+          "quick",
+          "share",
+          ".",
+          "comes",
+          "sharing",
+          "moments",
+          "family",
+          "friends",
+          ",",
+          "device",
+          "shouldnt",
+          "matter",
+          "sharing",
+          "work",
+          ",",
+          "google",
+          "said",
+          "surprise",
+          "announcement",
+          "thursday",
+          "."
+        ],
+        "lemmatized": [
+          "google",
+          "launch",
+          "unauthorized",
+          "pixel-to-iphone",
+          "file",
+          "share",
+          "apple",
+          "airdrop",
+          ".",
+          "airdrop",
+          ",",
+          "around",
+          "over",
+          "decade",
+          ",",
+          "build",
+          "apple",
+          "software",
+          "platform",
+          ",",
+          "allow",
+          "fast",
+          ",",
+          "wireless",
+          "file",
+          "transfer",
+          "iphones",
+          ",",
+          "ipads",
+          "macs",
+          ".",
+          "google",
+          "similar",
+          "feature",
+          "android",
+          "call",
+          "quick",
+          "share",
+          ".",
+          "come",
+          "share",
+          "moment",
+          "family",
+          "friend",
+          ",",
+          "device",
+          "shouldnt",
+          "matter",
+          "share",
+          "work",
+          ",",
+          "google",
+          "say",
+          "surprise",
+          "announcement",
+          "thursday",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "507a3898c41738a5",
+      "title": "CData Software Celebrates Fourth Consecutive Inclusion in Deloittes 2025 Technology Fast 500",
+      "body": "CData Software today announced it ranked on the Deloitte Technology Fast 500, a ranking of the 500 fastest-growing technology, media, telecommunications, life sciences, fintech, and energy tech companies in North America, now in its 31st year.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:33.925276",
+      "url": "https://finnhub.io/api/news?id=05637fae76c6f61339fbdf31832b84c85c19f7027e66f6adc23ac97f7083174d",
+      "raw_text": "CData Software Celebrates Fourth Consecutive Inclusion in Deloittes 2025 Technology Fast 500. CData Software today announced it ranked on the Deloitte Technology Fast 500, a ranking of the 500 fastest-growing technology, media, telecommunications, life sciences, fintech, and energy tech companies in North America, now in its 31st year.",
+      "tickers_mentioned": "TECH,FAST",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "CData Software Celebrates Fourth",
+            "CData Software",
+            "Deloitte Technology"
+          ],
+          "GPE": [
+            "Deloitte",
+            "North America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "500",
+          "500",
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "technology",
+            3
+          ],
+          [
+            "cdata",
+            2
+          ],
+          [
+            "software",
+            2
+          ],
+          [
+            "fast",
+            2
+          ],
+          [
+            "500",
+            2
+          ],
+          [
+            "celebrate",
+            1
+          ],
+          [
+            "fourth",
+            1
+          ],
+          [
+            "consecutive",
+            1
+          ],
+          [
+            "inclusion",
+            1
+          ],
+          [
+            "deloittes",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cdata",
+          "software",
+          "celebrates",
+          "fourth",
+          "consecutive",
+          "inclusion",
+          "in",
+          "deloittes",
+          "2025",
+          "technology",
+          "fast",
+          "500.",
+          "cdata",
+          "software",
+          "today",
+          "announced",
+          "it",
+          "ranked",
+          "on",
+          "the",
+          "deloitte",
+          "technology",
+          "fast",
+          "500",
+          ",",
+          "a",
+          "ranking",
+          "of",
+          "the",
+          "500",
+          "fastest-growing",
+          "technology",
+          ",",
+          "media",
+          ",",
+          "telecommunications",
+          ",",
+          "life",
+          "sciences",
+          ",",
+          "fintech",
+          ",",
+          "and",
+          "energy",
+          "tech",
+          "companies",
+          "in",
+          "north",
+          "america",
+          ",",
+          "now",
+          "in",
+          "its",
+          "31st",
+          "year",
+          "."
+        ],
+        "filtered": [
+          "cdata",
+          "software",
+          "celebrates",
+          "fourth",
+          "consecutive",
+          "inclusion",
+          "deloittes",
+          "2025",
+          "technology",
+          "fast",
+          "500.",
+          "cdata",
+          "software",
+          "today",
+          "announced",
+          "ranked",
+          "deloitte",
+          "technology",
+          "fast",
+          "500",
+          ",",
+          "ranking",
+          "500",
+          "fastest-growing",
+          "technology",
+          ",",
+          "media",
+          ",",
+          "telecommunications",
+          ",",
+          "life",
+          "sciences",
+          ",",
+          "fintech",
+          ",",
+          "energy",
+          "tech",
+          "companies",
+          "north",
+          "america",
+          ",",
+          "31st",
+          "year",
+          "."
+        ],
+        "lemmatized": [
+          "cdata",
+          "software",
+          "celebrate",
+          "fourth",
+          "consecutive",
+          "inclusion",
+          "deloittes",
+          "2025",
+          "technology",
+          "fast",
+          "500.",
+          "cdata",
+          "software",
+          "today",
+          "announce",
+          "ranked",
+          "deloitte",
+          "technology",
+          "fast",
+          "500",
+          ",",
+          "rank",
+          "500",
+          "fastest-growing",
+          "technology",
+          ",",
+          "medium",
+          ",",
+          "telecommunication",
+          ",",
+          "life",
+          "science",
+          ",",
+          "fintech",
+          ",",
+          "energy",
+          "tech",
+          "company",
+          "north",
+          "america",
+          ",",
+          "31st",
+          "year",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "f8d407212a826c6e",
+      "title": "MongoDB Surges 59 percent in Three Months Is the Stock Still Worth Buying?",
+      "body": "Atlas growth, rising AI workloads and a fast-expanding customer base power MDBs sharp three-month surge.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:36.587610",
+      "url": "https://www.zacks.com/stock/news/2793121/mongodb-surges-59-in-three-months-is-the-stock-still-worth-buying",
+      "raw_text": "MongoDB Surges 59 percent in Three Months Is the Stock Still Worth Buying?. Atlas growth, rising AI workloads and a fast-expanding customer base power MDBs sharp three-month surge.",
+      "tickers_mentioned": "FAST",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "FAST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Worth Buying",
+            "Atlas"
+          ],
+          "ORGANIZATION": [
+            "MongoDB",
+            "MDB"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "59"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "surge",
+            2
+          ],
+          [
+            "mongodb",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "three",
+            1
+          ],
+          [
+            "month",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "still",
+            1
+          ],
+          [
+            "worth",
+            1
+          ],
+          [
+            "buying",
+            1
+          ],
+          [
+            "atlas",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "mongodb",
+          "surges",
+          "59",
+          "percent",
+          "in",
+          "three",
+          "months",
+          "is",
+          "the",
+          "stock",
+          "still",
+          "worth",
+          "buying",
+          "?",
+          ".",
+          "atlas",
+          "growth",
+          ",",
+          "rising",
+          "ai",
+          "workloads",
+          "and",
+          "a",
+          "fast-expanding",
+          "customer",
+          "base",
+          "power",
+          "mdbs",
+          "sharp",
+          "three-month",
+          "surge",
+          "."
+        ],
+        "filtered": [
+          "mongodb",
+          "surges",
+          "59",
+          "percent",
+          "three",
+          "months",
+          "stock",
+          "still",
+          "worth",
+          "buying",
+          "?",
+          ".",
+          "atlas",
+          "growth",
+          ",",
+          "rising",
+          "ai",
+          "workloads",
+          "fast-expanding",
+          "customer",
+          "base",
+          "power",
+          "mdbs",
+          "sharp",
+          "three-month",
+          "surge",
+          "."
+        ],
+        "lemmatized": [
+          "mongodb",
+          "surge",
+          "59",
+          "percent",
+          "three",
+          "month",
+          "stock",
+          "still",
+          "worth",
+          "buying",
+          "?",
+          ".",
+          "atlas",
+          "growth",
+          ",",
+          "rise",
+          "ai",
+          "workload",
+          "fast-expanding",
+          "customer",
+          "base",
+          "power",
+          "mdbs",
+          "sharp",
+          "three-month",
+          "surge",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c70383bf0caa9e89",
+      "title": "Essential food, drug industry brand files Chapter 11 bankruptcy",
+      "body": "Since the 1980s, people have debated the environmental impact of packaging. Much of that debate focused on fast-food chains using styrofoam, but in recent years, the discussion has also involved Amazon and its propensity to use larger boxes than needed for the items it ships. Most companies that ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:36.915754",
+      "url": "https://finnhub.io/api/news?id=6bf0e28c06e1211c1ede29eca0960d7b95bdd2f1d56f871bdddd195ca2623b9b",
+      "raw_text": "Essential food, drug industry brand files Chapter 11 bankruptcy. Since the 1980s, people have debated the environmental impact of packaging. Much of that debate focused on fast-food chains using styrofoam, but in recent years, the discussion has also involved Amazon and its propensity to use larger boxes than needed for the items it ships. Most companies that ...",
+      "tickers_mentioned": "FAST,PKG",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "PKG": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Essential"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "11"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "debate",
+            2
+          ],
+          [
+            "use",
+            2
+          ],
+          [
+            "essential",
+            1
+          ],
+          [
+            "food",
+            1
+          ],
+          [
+            "drug",
+            1
+          ],
+          [
+            "industry",
+            1
+          ],
+          [
+            "brand",
+            1
+          ],
+          [
+            "file",
+            1
+          ],
+          [
+            "chapter",
+            1
+          ],
+          [
+            "bankruptcy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "essential",
+          "food",
+          ",",
+          "drug",
+          "industry",
+          "brand",
+          "files",
+          "chapter",
+          "11",
+          "bankruptcy",
+          ".",
+          "since",
+          "the",
+          "1980s",
+          ",",
+          "people",
+          "have",
+          "debated",
+          "the",
+          "environmental",
+          "impact",
+          "of",
+          "packaging",
+          ".",
+          "much",
+          "of",
+          "that",
+          "debate",
+          "focused",
+          "on",
+          "fast-food",
+          "chains",
+          "using",
+          "styrofoam",
+          ",",
+          "but",
+          "in",
+          "recent",
+          "years",
+          ",",
+          "the",
+          "discussion",
+          "has",
+          "also",
+          "involved",
+          "amazon",
+          "and",
+          "its",
+          "propensity",
+          "to",
+          "use",
+          "larger",
+          "boxes",
+          "than",
+          "needed",
+          "for",
+          "the",
+          "items",
+          "it",
+          "ships",
+          ".",
+          "most",
+          "companies",
+          "that",
+          "..."
+        ],
+        "filtered": [
+          "essential",
+          "food",
+          ",",
+          "drug",
+          "industry",
+          "brand",
+          "files",
+          "chapter",
+          "11",
+          "bankruptcy",
+          ".",
+          "since",
+          "1980s",
+          ",",
+          "people",
+          "debated",
+          "environmental",
+          "impact",
+          "packaging",
+          ".",
+          "much",
+          "debate",
+          "focused",
+          "fast-food",
+          "chains",
+          "using",
+          "styrofoam",
+          ",",
+          "recent",
+          "years",
+          ",",
+          "discussion",
+          "also",
+          "involved",
+          "amazon",
+          "propensity",
+          "use",
+          "larger",
+          "boxes",
+          "needed",
+          "items",
+          "ships",
+          ".",
+          "most",
+          "companies",
+          "..."
+        ],
+        "lemmatized": [
+          "essential",
+          "food",
+          ",",
+          "drug",
+          "industry",
+          "brand",
+          "file",
+          "chapter",
+          "11",
+          "bankruptcy",
+          ".",
+          "since",
+          "1980s",
+          ",",
+          "people",
+          "debate",
+          "environmental",
+          "impact",
+          "packaging",
+          ".",
+          "much",
+          "debate",
+          "focus",
+          "fast-food",
+          "chain",
+          "use",
+          "styrofoam",
+          ",",
+          "recent",
+          "year",
+          ",",
+          "discussion",
+          "also",
+          "involve",
+          "amazon",
+          "propensity",
+          "use",
+          "large",
+          "box",
+          "need",
+          "item",
+          "ship",
+          ".",
+          "most",
+          "company",
+          "..."
+        ]
+      }
+    }
+  ]
+}

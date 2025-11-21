@@ -1,0 +1,269 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "7d1e69ca8234a82c",
+      "title": "As AI leader Nvidia posts record results, Warren Buffetts made a surprise bet on Google",
+      "body": "Fortune Live Media, CC BY-NC-ND The worlds most valuable publicly listed company, US microchip maker Nvidia, has reported record $US57 billion $A88 billion revenue in the third quarter of 2025, b 5962 chars",
+      "source": "The Conversation Africa",
+      "timestamp": "2025-11-22T00:25:45.916492",
+      "url": "https://theconversation.com/as-ai-leader-nvidia-posts-record-results-warren-buffetts-made-a-surprise-bet-on-google-270140",
+      "raw_text": "As AI leader Nvidia posts record results, Warren Buffetts made a surprise bet on Google. Fortune Live Media, CC BY-NC-ND The worlds most valuable publicly listed company, US microchip maker Nvidia, has reported record $US57 billion $A88 billion revenue in the third quarter of 2025, b 5962 chars",
+      "tickers_mentioned": "LYV,MCHP,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "MCHP": [],
+        "NVDA": [
+          "As AI leader **Nvidia** posts record results, Warren Buffett’s made a surprise bet on",
+          "The world’s most valuable publicly listed company, US microchip maker **Nvidia,** has reported record $US57 billion ($A88 billion) revenue in the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nvidia",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "AI",
+            "CC"
+          ],
+          "GPE": [
+            "Google",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "5962"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "record",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "leader",
+            1
+          ],
+          [
+            "post",
+            1
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffetts",
+            1
+          ],
+          [
+            "make",
+            1
+          ],
+          [
+            "surprise",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "as",
+          "ai",
+          "leader",
+          "nvidia",
+          "posts",
+          "record",
+          "results",
+          ",",
+          "warren",
+          "buffetts",
+          "made",
+          "a",
+          "surprise",
+          "bet",
+          "on",
+          "google",
+          ".",
+          "fortune",
+          "live",
+          "media",
+          ",",
+          "cc",
+          "by-nc-nd",
+          "the",
+          "worlds",
+          "most",
+          "valuable",
+          "publicly",
+          "listed",
+          "company",
+          ",",
+          "us",
+          "microchip",
+          "maker",
+          "nvidia",
+          ",",
+          "has",
+          "reported",
+          "record",
+          "$",
+          "us57",
+          "billion",
+          "$",
+          "a88",
+          "billion",
+          "revenue",
+          "in",
+          "the",
+          "third",
+          "quarter",
+          "of",
+          "2025",
+          ",",
+          "b",
+          "5962",
+          "chars"
+        ],
+        "filtered": [
+          "ai",
+          "leader",
+          "nvidia",
+          "posts",
+          "record",
+          "results",
+          ",",
+          "warren",
+          "buffetts",
+          "made",
+          "surprise",
+          "bet",
+          "google",
+          ".",
+          "fortune",
+          "live",
+          "media",
+          ",",
+          "cc",
+          "by-nc-nd",
+          "worlds",
+          "most",
+          "valuable",
+          "publicly",
+          "listed",
+          "company",
+          ",",
+          "us",
+          "microchip",
+          "maker",
+          "nvidia",
+          ",",
+          "reported",
+          "record",
+          "$",
+          "us57",
+          "billion",
+          "$",
+          "a88",
+          "billion",
+          "revenue",
+          "third",
+          "quarter",
+          "2025",
+          ",",
+          "b",
+          "5962",
+          "chars"
+        ],
+        "lemmatized": [
+          "ai",
+          "leader",
+          "nvidia",
+          "post",
+          "record",
+          "result",
+          ",",
+          "warren",
+          "buffetts",
+          "make",
+          "surprise",
+          "bet",
+          "google",
+          ".",
+          "fortune",
+          "live",
+          "medium",
+          ",",
+          "cc",
+          "by-nc-nd",
+          "world",
+          "most",
+          "valuable",
+          "publicly",
+          "list",
+          "company",
+          ",",
+          "u",
+          "microchip",
+          "maker",
+          "nvidia",
+          ",",
+          "report",
+          "record",
+          "$",
+          "us57",
+          "billion",
+          "$",
+          "a88",
+          "billion",
+          "revenue",
+          "third",
+          "quarter",
+          "2025",
+          ",",
+          "b",
+          "5962",
+          "char"
+        ]
+      }
+    }
+  ]
+}

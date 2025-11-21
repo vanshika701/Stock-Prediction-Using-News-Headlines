@@ -1,0 +1,187 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "f73ffd95ca6f72c7",
+      "title": "NetApp Gearing Up to Report second quarter Earnings here is What to Expect",
+      "body": "NTAP heads into second-quarter earnings with steady guidance as momentum builds across its all-flash, cloud and AI portfolios.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:49.017847",
+      "url": "https://www.zacks.com/stock/news/2794287/netapp-gearing-up-to-report-q2-earnings-heres-what-to-expect",
+      "raw_text": "NetApp Gearing Up to Report second quarter Earnings here is What to Expect. NTAP heads into second-quarter earnings with steady guidance as momentum builds across its all-flash, cloud and AI portfolios.",
+      "tickers_mentioned": "NTAP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NTAP": [
+          "**NetApp** Gearing Up to Report Q2 Earnings: Here's What to Expect."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "NetApp",
+            "Report Q2",
+            "NTAP",
+            "AI"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "expect",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            2
+          ],
+          [
+            "netapp",
+            1
+          ],
+          [
+            "gear",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "second",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "expect",
+            1
+          ],
+          [
+            "ntap",
+            1
+          ],
+          [
+            "head",
+            1
+          ],
+          [
+            "second-quarter",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 4,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netapp",
+          "gearing",
+          "up",
+          "to",
+          "report",
+          "second",
+          "quarter",
+          "earnings",
+          "here",
+          "is",
+          "what",
+          "to",
+          "expect",
+          ".",
+          "ntap",
+          "heads",
+          "into",
+          "second-quarter",
+          "earnings",
+          "with",
+          "steady",
+          "guidance",
+          "as",
+          "momentum",
+          "builds",
+          "across",
+          "its",
+          "all-flash",
+          ",",
+          "cloud",
+          "and",
+          "ai",
+          "portfolios",
+          "."
+        ],
+        "filtered": [
+          "netapp",
+          "gearing",
+          "up",
+          "report",
+          "second",
+          "quarter",
+          "earnings",
+          "expect",
+          ".",
+          "ntap",
+          "heads",
+          "second-quarter",
+          "earnings",
+          "steady",
+          "guidance",
+          "momentum",
+          "builds",
+          "across",
+          "all-flash",
+          ",",
+          "cloud",
+          "ai",
+          "portfolios",
+          "."
+        ],
+        "lemmatized": [
+          "netapp",
+          "gear",
+          "up",
+          "report",
+          "second",
+          "quarter",
+          "earnings",
+          "expect",
+          ".",
+          "ntap",
+          "head",
+          "second-quarter",
+          "earnings",
+          "steady",
+          "guidance",
+          "momentum",
+          "build",
+          "across",
+          "all-flash",
+          ",",
+          "cloud",
+          "ai",
+          "portfolio",
+          "."
+        ]
+      }
+    }
+  ]
+}

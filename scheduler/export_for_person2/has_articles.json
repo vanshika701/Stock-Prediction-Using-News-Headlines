@@ -1,0 +1,195 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "67e2ad88f4eeb3a6",
+      "title": "Profit Margins Point to Winners. 30 Stocks to Play Now.",
+      "body": "Toy maker Hasbro and other consumer stocks have lofty gross profit margins. So, unsurprisingly, do many big tech firms.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:38.817482",
+      "url": "https://finnhub.io/api/news?id=333558eb0f33dc45e6cae0ae996bd2baf709906eec3d821c5dedb8a116a01f8c",
+      "raw_text": "Profit Margins Point to Winners. 30 Stocks to Play Now.. Toy maker Hasbro and other consumer stocks have lofty gross profit margins. So, unsurprisingly, do many big tech firms.",
+      "tickers_mentioned": "TECH,HAS",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TECH": [],
+        "HAS": [
+          "Point to Winners. 30 Stocks to Play Now.. Toy maker **Hasbro** and other consumer stocks have lofty gross profit margins. So,"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Margins",
+            "Hasbro"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Profit",
+            "Winners"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "profit"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "30"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "profit",
+            2
+          ],
+          [
+            "margin",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "point",
+            1
+          ],
+          [
+            "winner",
+            1
+          ],
+          [
+            "play",
+            1
+          ],
+          [
+            "toy",
+            1
+          ],
+          [
+            "maker",
+            1
+          ],
+          [
+            "hasbro",
+            1
+          ],
+          [
+            "consumer",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "profit",
+          "margins",
+          "point",
+          "to",
+          "winners",
+          ".",
+          "30",
+          "stocks",
+          "to",
+          "play",
+          "now",
+          "..",
+          "toy",
+          "maker",
+          "hasbro",
+          "and",
+          "other",
+          "consumer",
+          "stocks",
+          "have",
+          "lofty",
+          "gross",
+          "profit",
+          "margins",
+          ".",
+          "so",
+          ",",
+          "unsurprisingly",
+          ",",
+          "do",
+          "many",
+          "big",
+          "tech",
+          "firms",
+          "."
+        ],
+        "filtered": [
+          "profit",
+          "margins",
+          "point",
+          "winners",
+          ".",
+          "30",
+          "stocks",
+          "play",
+          "..",
+          "toy",
+          "maker",
+          "hasbro",
+          "consumer",
+          "stocks",
+          "lofty",
+          "gross",
+          "profit",
+          "margins",
+          ".",
+          ",",
+          "unsurprisingly",
+          ",",
+          "many",
+          "big",
+          "tech",
+          "firms",
+          "."
+        ],
+        "lemmatized": [
+          "profit",
+          "margin",
+          "point",
+          "winner",
+          ".",
+          "30",
+          "stock",
+          "play",
+          "..",
+          "toy",
+          "maker",
+          "hasbro",
+          "consumer",
+          "stock",
+          "lofty",
+          "gross",
+          "profit",
+          "margin",
+          ".",
+          ",",
+          "unsurprisingly",
+          ",",
+          "many",
+          "big",
+          "tech",
+          "firm",
+          "."
+        ]
+      }
+    }
+  ]
+}

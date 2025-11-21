@@ -1,0 +1,251 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "440ad002c65c0c37",
+      "title": "A Look Into Zoetis Incs Price Over Earnings",
+      "body": "In the current market session, Zoetis Inc. NYSEZTS price is at $117.53, after a 0.38 percent spike. However, over the past month, the stock fell by 20.42 percent, and in the past year, by 34.17 percent. Shareholders m 144 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:20.052241",
+      "url": "https://biztoc.com/x/1bc489c0f3566a11",
+      "raw_text": "A Look Into Zoetis Incs Price Over Earnings. In the current market session, Zoetis Inc. NYSEZTS price is at $117.53, after a 0.38 percent spike. However, over the past month, the stock fell by 20.42 percent, and in the past year, by 34.17 percent. Shareholders m 144 chars",
+      "tickers_mentioned": "ZTS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "ZTS": [
+          "Zoetis Inc's Price Over Earnings. In the current market session, **Zoetis** Inc. (NYSE:ZTS) price is at $117.53, after a 0.38% spike."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Zoetis Inc."
+          ],
+          "ORGANIZATION": [
+            "Into Zoetis Inc",
+            "NYSE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "117.53",
+          "0.38",
+          "20.42",
+          "34.17",
+          "144"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "percent",
+            3
+          ],
+          [
+            "zoetis",
+            2
+          ],
+          [
+            "price",
+            2
+          ],
+          [
+            "over",
+            2
+          ],
+          [
+            "past",
+            2
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "incs",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "current",
+            1
+          ],
+          [
+            "market",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "a",
+          "look",
+          "into",
+          "zoetis",
+          "incs",
+          "price",
+          "over",
+          "earnings",
+          ".",
+          "in",
+          "the",
+          "current",
+          "market",
+          "session",
+          ",",
+          "zoetis",
+          "inc.",
+          "nysezts",
+          "price",
+          "is",
+          "at",
+          "$",
+          "117.53",
+          ",",
+          "after",
+          "a",
+          "0.38",
+          "percent",
+          "spike",
+          ".",
+          "however",
+          ",",
+          "over",
+          "the",
+          "past",
+          "month",
+          ",",
+          "the",
+          "stock",
+          "fell",
+          "by",
+          "20.42",
+          "percent",
+          ",",
+          "and",
+          "in",
+          "the",
+          "past",
+          "year",
+          ",",
+          "by",
+          "34.17",
+          "percent",
+          ".",
+          "shareholders",
+          "m",
+          "144",
+          "chars"
+        ],
+        "filtered": [
+          "look",
+          "zoetis",
+          "incs",
+          "price",
+          "over",
+          "earnings",
+          ".",
+          "current",
+          "market",
+          "session",
+          ",",
+          "zoetis",
+          "inc.",
+          "nysezts",
+          "price",
+          "$",
+          "117.53",
+          ",",
+          "0.38",
+          "percent",
+          "spike",
+          ".",
+          "however",
+          ",",
+          "over",
+          "past",
+          "month",
+          ",",
+          "stock",
+          "fell",
+          "20.42",
+          "percent",
+          ",",
+          "past",
+          "year",
+          ",",
+          "34.17",
+          "percent",
+          ".",
+          "shareholders",
+          "144",
+          "chars"
+        ],
+        "lemmatized": [
+          "look",
+          "zoetis",
+          "incs",
+          "price",
+          "over",
+          "earnings",
+          ".",
+          "current",
+          "market",
+          "session",
+          ",",
+          "zoetis",
+          "inc.",
+          "nysezts",
+          "price",
+          "$",
+          "117.53",
+          ",",
+          "0.38",
+          "percent",
+          "spike",
+          ".",
+          "however",
+          ",",
+          "over",
+          "past",
+          "month",
+          ",",
+          "stock",
+          "fell",
+          "20.42",
+          "percent",
+          ",",
+          "past",
+          "year",
+          ",",
+          "34.17",
+          "percent",
+          ".",
+          "shareholder",
+          "144",
+          "char"
+        ]
+      }
+    }
+  ]
+}

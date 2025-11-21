@@ -1,0 +1,235 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "310d0d8652f26cbc",
+      "title": "MOH INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Molina Healthcare",
+      "body": "Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Molina To Contact Him Directly To Discuss Their Options If you purchased or acq 5321 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:48:19.538707",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192318/683/en/MOH-INVESTOR-NOTICE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Molina-Healthcare.html",
+      "raw_text": "MOH INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Molina Healthcare. Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Molina To Contact Him Directly To Discuss Their Options If you purchased or acq 5321 chars",
+      "tickers_mentioned": "MOH",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "MOH": [
+          "& Faruqi, LLP Investigates Claims on Behalf of Investors of **Molina** Healthcare. Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh)"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Faruqi",
+            "Wilson Encourages"
+          ],
+          "ORGANIZATION": [
+            "MOH",
+            "LLP",
+            "LLP Securities Litigation Partner James",
+            "Josh",
+            "Contact Him"
+          ],
+          "GPE": [
+            "Faruqi",
+            "Molina",
+            "Losses"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "5321"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "faruqi",
+            4
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "llp",
+            2
+          ],
+          [
+            "molina",
+            2
+          ],
+          [
+            "moh",
+            1
+          ],
+          [
+            "notice",
+            1
+          ],
+          [
+            "investigates",
+            1
+          ],
+          [
+            "claim",
+            1
+          ],
+          [
+            "behalf",
+            1
+          ],
+          [
+            "healthcare",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "moh",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "on",
+          "behalf",
+          "of",
+          "investors",
+          "of",
+          "molina",
+          "healthcare",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "who",
+          "suffered",
+          "losses",
+          "in",
+          "molina",
+          "to",
+          "contact",
+          "him",
+          "directly",
+          "to",
+          "discuss",
+          "their",
+          "options",
+          "if",
+          "you",
+          "purchased",
+          "or",
+          "acq",
+          "5321",
+          "chars"
+        ],
+        "filtered": [
+          "moh",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "behalf",
+          "investors",
+          "molina",
+          "healthcare",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "suffered",
+          "losses",
+          "molina",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchased",
+          "acq",
+          "5321",
+          "chars"
+        ],
+        "lemmatized": [
+          "moh",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claim",
+          "behalf",
+          "investor",
+          "molina",
+          "healthcare",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investor",
+          "suffer",
+          "loss",
+          "molina",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchase",
+          "acq",
+          "5321",
+          "char"
+        ]
+      }
+    }
+  ]
+}

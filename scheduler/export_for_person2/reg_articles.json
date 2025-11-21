@@ -1,0 +1,238 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "ab1438019211baee",
+      "title": "How Regency Centers, Independent Bank, And Peoples Bancorp Can Put Cash In Your Pocket",
+      "body": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Regency Centers, Independent Bank, and Peoples Bancorp have rewarded shareholders for years and recently announced dividend ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:26.828856",
+      "url": "https://finnhub.io/api/news?id=fbe9c0ad41575e1947df7306f7d4bd3316f3151e86fa813daf58afa6ab08cd85",
+      "raw_text": "How Regency Centers, Independent Bank, And Peoples Bancorp Can Put Cash In Your Pocket. Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Regency Centers, Independent Bank, and Peoples Bancorp have rewarded shareholders for years and recently announced dividend ...",
+      "tickers_mentioned": "REG,BAC",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "REG": [
+          "How **Regency** Centers, Independent Bank, And Peoples Bancorp Can Put Cash In",
+          "dividends and consistently hiking them remain appealing to income-focused investors. **Regency** Centers, Independent Bank, and Peoples Bancorp have rewarded shareholders for"
+        ],
+        "BAC": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Peoples Bancorp Can Put Cash",
+            "Peoples Bancorp"
+          ],
+          "ORGANIZATION": [
+            "Regency Centers",
+            "Independent Bank"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "regency",
+            2
+          ],
+          [
+            "center",
+            2
+          ],
+          [
+            "independent",
+            2
+          ],
+          [
+            "bank",
+            2
+          ],
+          [
+            "people",
+            2
+          ],
+          [
+            "bancorp",
+            2
+          ],
+          [
+            "dividend",
+            2
+          ],
+          [
+            "put",
+            1
+          ],
+          [
+            "cash",
+            1
+          ],
+          [
+            "pocket",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "how",
+          "regency",
+          "centers",
+          ",",
+          "independent",
+          "bank",
+          ",",
+          "and",
+          "peoples",
+          "bancorp",
+          "can",
+          "put",
+          "cash",
+          "in",
+          "your",
+          "pocket",
+          ".",
+          "companies",
+          "with",
+          "a",
+          "long",
+          "history",
+          "of",
+          "paying",
+          "dividends",
+          "and",
+          "consistently",
+          "hiking",
+          "them",
+          "remain",
+          "appealing",
+          "to",
+          "income-focused",
+          "investors",
+          ".",
+          "regency",
+          "centers",
+          ",",
+          "independent",
+          "bank",
+          ",",
+          "and",
+          "peoples",
+          "bancorp",
+          "have",
+          "rewarded",
+          "shareholders",
+          "for",
+          "years",
+          "and",
+          "recently",
+          "announced",
+          "dividend",
+          "..."
+        ],
+        "filtered": [
+          "regency",
+          "centers",
+          ",",
+          "independent",
+          "bank",
+          ",",
+          "peoples",
+          "bancorp",
+          "put",
+          "cash",
+          "pocket",
+          ".",
+          "companies",
+          "long",
+          "history",
+          "paying",
+          "dividends",
+          "consistently",
+          "hiking",
+          "remain",
+          "appealing",
+          "income-focused",
+          "investors",
+          ".",
+          "regency",
+          "centers",
+          ",",
+          "independent",
+          "bank",
+          ",",
+          "peoples",
+          "bancorp",
+          "rewarded",
+          "shareholders",
+          "years",
+          "recently",
+          "announced",
+          "dividend",
+          "..."
+        ],
+        "lemmatized": [
+          "regency",
+          "center",
+          ",",
+          "independent",
+          "bank",
+          ",",
+          "people",
+          "bancorp",
+          "put",
+          "cash",
+          "pocket",
+          ".",
+          "company",
+          "long",
+          "history",
+          "pay",
+          "dividend",
+          "consistently",
+          "hike",
+          "remain",
+          "appeal",
+          "income-focused",
+          "investor",
+          ".",
+          "regency",
+          "center",
+          ",",
+          "independent",
+          "bank",
+          ",",
+          "people",
+          "bancorp",
+          "reward",
+          "shareholder",
+          "year",
+          "recently",
+          "announce",
+          "dividend",
+          "..."
+        ]
+      }
+    }
+  ]
+}

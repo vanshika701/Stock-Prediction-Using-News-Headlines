@@ -1,0 +1,3181 @@
+{
+  "count": 13,
+  "articles": [
+    {
+      "article_id": "98ab2e13473482d8",
+      "title": "1 Cash-Producing Stock to Keep an Eye On and 2 We Find Risky",
+      "body": "A company that generates cash isnt automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:45.000584",
+      "url": "https://finnhub.io/api/news?id=d8023734780983df1be6f6aa6d29711aeb2a1649e3cbf8f7e468aafce5128d93",
+      "raw_text": "1 Cash-Producing Stock to Keep an Eye On and 2 We Find Risky. A company that generates cash isnt automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+      "tickers_mentioned": "EXE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EXE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Find Risky"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cash",
+            2
+          ],
+          [
+            "cash-producing",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "keep",
+            1
+          ],
+          [
+            "eye",
+            1
+          ],
+          [
+            "find",
+            1
+          ],
+          [
+            "risky",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "generate",
+            1
+          ],
+          [
+            "isnt",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "1",
+          "cash-producing",
+          "stock",
+          "to",
+          "keep",
+          "an",
+          "eye",
+          "on",
+          "and",
+          "2",
+          "we",
+          "find",
+          "risky",
+          ".",
+          "a",
+          "company",
+          "that",
+          "generates",
+          "cash",
+          "isnt",
+          "automatically",
+          "a",
+          "winner",
+          ".",
+          "some",
+          "businesses",
+          "stockpile",
+          "cash",
+          "but",
+          "fail",
+          "to",
+          "reinvest",
+          "wisely",
+          ",",
+          "limiting",
+          "their",
+          "ability",
+          "to",
+          "expand",
+          "."
+        ],
+        "filtered": [
+          "1",
+          "cash-producing",
+          "stock",
+          "keep",
+          "eye",
+          "2",
+          "find",
+          "risky",
+          ".",
+          "company",
+          "generates",
+          "cash",
+          "isnt",
+          "automatically",
+          "winner",
+          ".",
+          "businesses",
+          "stockpile",
+          "cash",
+          "fail",
+          "reinvest",
+          "wisely",
+          ",",
+          "limiting",
+          "ability",
+          "expand",
+          "."
+        ],
+        "lemmatized": [
+          "1",
+          "cash-producing",
+          "stock",
+          "keep",
+          "eye",
+          "2",
+          "find",
+          "risky",
+          ".",
+          "company",
+          "generate",
+          "cash",
+          "isnt",
+          "automatically",
+          "winner",
+          ".",
+          "business",
+          "stockpile",
+          "cash",
+          "fail",
+          "reinvest",
+          "wisely",
+          ",",
+          "limit",
+          "ability",
+          "expand",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "9285ca924dcd5881",
+      "title": "Tesla To Expand Rental Program Across Multiple US Cities With Unlimited Miles, Free Supercharging From $60Day - Tesla NASDAQTSLA",
+      "body": "Tesla Inc. NASDAQTSLA is reportedly expanding its rental program across various cities. In a post on the social media platform X on Thursday, influencer Sawyer Merritt shared that the automaker was expanding its rental program across multiple cities in the U.S., citing a series of job ...",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:25:46.434195",
+      "url": "https://www.benzinga.com/markets/tech/25/11/48996588/tesla-to-expand-rental-program-across-multiple-us-cities-with-unlimited-miles-free-supercharging-fro",
+      "raw_text": "Tesla To Expand Rental Program Across Multiple US Cities With Unlimited Miles, Free Supercharging From $60Day - Tesla NASDAQTSLA. Tesla Inc. NASDAQTSLA is reportedly expanding its rental program across various cities. In a post on the social media platform X on Thursday, influencer Sawyer Merritt shared that the automaker was expanding its rental program across multiple cities in the U.S., citing a series of job ...",
+      "tickers_mentioned": "EXE,TSLA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EXE": [],
+        "TSLA": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla Inc.",
+            "Sawyer Merritt"
+          ],
+          "ORGANIZATION": [
+            "To Expand Rental Program Across Multiple",
+            "US Cities With Unlimited Miles",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Tesla",
+            "Free",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "60"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            3
+          ],
+          [
+            "expand",
+            3
+          ],
+          [
+            "rental",
+            3
+          ],
+          [
+            "program",
+            3
+          ],
+          [
+            "across",
+            3
+          ],
+          [
+            "city",
+            3
+          ],
+          [
+            "multiple",
+            2
+          ],
+          [
+            "nasdaqtsla",
+            2
+          ],
+          [
+            "unlimited",
+            1
+          ],
+          [
+            "mile",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tesla",
+          "to",
+          "expand",
+          "rental",
+          "program",
+          "across",
+          "multiple",
+          "us",
+          "cities",
+          "with",
+          "unlimited",
+          "miles",
+          ",",
+          "free",
+          "supercharging",
+          "from",
+          "$",
+          "60day",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "is",
+          "reportedly",
+          "expanding",
+          "its",
+          "rental",
+          "program",
+          "across",
+          "various",
+          "cities",
+          ".",
+          "in",
+          "a",
+          "post",
+          "on",
+          "the",
+          "social",
+          "media",
+          "platform",
+          "x",
+          "on",
+          "thursday",
+          ",",
+          "influencer",
+          "sawyer",
+          "merritt",
+          "shared",
+          "that",
+          "the",
+          "automaker",
+          "was",
+          "expanding",
+          "its",
+          "rental",
+          "program",
+          "across",
+          "multiple",
+          "cities",
+          "in",
+          "the",
+          "u.s.",
+          ",",
+          "citing",
+          "a",
+          "series",
+          "of",
+          "job",
+          "..."
+        ],
+        "filtered": [
+          "tesla",
+          "expand",
+          "rental",
+          "program",
+          "across",
+          "multiple",
+          "us",
+          "cities",
+          "unlimited",
+          "miles",
+          ",",
+          "free",
+          "supercharging",
+          "$",
+          "60day",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "reportedly",
+          "expanding",
+          "rental",
+          "program",
+          "across",
+          "various",
+          "cities",
+          ".",
+          "post",
+          "social",
+          "media",
+          "platform",
+          "x",
+          "thursday",
+          ",",
+          "influencer",
+          "sawyer",
+          "merritt",
+          "shared",
+          "automaker",
+          "expanding",
+          "rental",
+          "program",
+          "across",
+          "multiple",
+          "cities",
+          "u.s.",
+          ",",
+          "citing",
+          "series",
+          "job",
+          "..."
+        ],
+        "lemmatized": [
+          "tesla",
+          "expand",
+          "rental",
+          "program",
+          "across",
+          "multiple",
+          "u",
+          "city",
+          "unlimited",
+          "mile",
+          ",",
+          "free",
+          "supercharge",
+          "$",
+          "60day",
+          "-",
+          "tesla",
+          "nasdaqtsla",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "reportedly",
+          "expand",
+          "rental",
+          "program",
+          "across",
+          "various",
+          "city",
+          ".",
+          "post",
+          "social",
+          "medium",
+          "platform",
+          "x",
+          "thursday",
+          ",",
+          "influencer",
+          "sawyer",
+          "merritt",
+          "share",
+          "automaker",
+          "expand",
+          "rental",
+          "program",
+          "across",
+          "multiple",
+          "city",
+          "u.s.",
+          ",",
+          "cite",
+          "series",
+          "job",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "c2fc4e850e568974",
+      "title": "Tesla Secures Permit to Operate Ride-Hailing Service in Arizona",
+      "body": "The authorization advances Teslas effort to expand its robotaxi and autonomous driving operations across major U.S. cities.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.558609",
+      "url": "https://finnhub.io/api/news?id=d2aab3a6397d18cb5d56d020c85149a201c3b5c0b7bf337cc89453711133a2d6",
+      "raw_text": "Tesla Secures Permit to Operate Ride-Hailing Service in Arizona. The authorization advances Teslas effort to expand its robotaxi and autonomous driving operations across major U.S. cities.",
+      "tickers_mentioned": "EXE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EXE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla",
+            "Secures Permit"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Arizona",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            1
+          ],
+          [
+            "secures",
+            1
+          ],
+          [
+            "permit",
+            1
+          ],
+          [
+            "operate",
+            1
+          ],
+          [
+            "ride-hailing",
+            1
+          ],
+          [
+            "service",
+            1
+          ],
+          [
+            "arizona",
+            1
+          ],
+          [
+            "authorization",
+            1
+          ],
+          [
+            "advance",
+            1
+          ],
+          [
+            "teslas",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tesla",
+          "secures",
+          "permit",
+          "to",
+          "operate",
+          "ride-hailing",
+          "service",
+          "in",
+          "arizona",
+          ".",
+          "the",
+          "authorization",
+          "advances",
+          "teslas",
+          "effort",
+          "to",
+          "expand",
+          "its",
+          "robotaxi",
+          "and",
+          "autonomous",
+          "driving",
+          "operations",
+          "across",
+          "major",
+          "u.s.",
+          "cities",
+          "."
+        ],
+        "filtered": [
+          "tesla",
+          "secures",
+          "permit",
+          "operate",
+          "ride-hailing",
+          "service",
+          "arizona",
+          ".",
+          "authorization",
+          "advances",
+          "teslas",
+          "effort",
+          "expand",
+          "robotaxi",
+          "autonomous",
+          "driving",
+          "operations",
+          "across",
+          "major",
+          "u.s.",
+          "cities",
+          "."
+        ],
+        "lemmatized": [
+          "tesla",
+          "secures",
+          "permit",
+          "operate",
+          "ride-hailing",
+          "service",
+          "arizona",
+          ".",
+          "authorization",
+          "advance",
+          "teslas",
+          "effort",
+          "expand",
+          "robotaxi",
+          "autonomous",
+          "drive",
+          "operation",
+          "across",
+          "major",
+          "u.s.",
+          "city",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a7c6a0e9d58e49bd",
+      "title": "AI boom will continue despite bubble fears Arm CMO",
+      "body": "Arm ARM Holdings, the semiconductor design company that lists Microsoft MSFT, Nvidia NVDA, Meta META and Apple AAPL among its many partners, expects surging revenue driven by AI - even as fears of a bubble keep growing. Chief Marketing Officer Ami Badani spoke with Ramzan Karmali about the firms strategy to expand across data centers and mobile devices, while continuing to push for more energy-efficient chips. For more live coverage of the markets, watch the full episode of Market Sunrise and visit Yahoo Finance.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.942919",
+      "url": "https://finnhub.io/api/news?id=2bd6a360e3afabb579ba90b45e53f4b8d17ff17358587ef7f77ef9d1ac85bbd1",
+      "raw_text": "AI boom will continue despite bubble fears Arm CMO. Arm ARM Holdings, the semiconductor design company that lists Microsoft MSFT, Nvidia NVDA, Meta META and Apple AAPL among its many partners, expects surging revenue driven by AI - even as fears of a bubble keep growing. Chief Marketing Officer Ami Badani spoke with Ramzan Karmali about the firms strategy to expand across data centers and mobile devices, while continuing to push for more energy-efficient chips. For more live coverage of the markets, watch the full episode of Market Sunrise and visit Yahoo Finance.",
+      "tickers_mentioned": "EXE,LYV,NVDA,META,MSFT,AAPL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EXE": [],
+        "LYV": [],
+        "NVDA": [
+          "(ARM) Holdings, the semiconductor design company that lists Microsoft (MSFT), **Nvidia** (NVDA), Meta (META) and Apple (AAPL) among its many partners,"
+        ],
+        "META": [],
+        "MSFT": [
+          "CMO. Arm (ARM) Holdings, the semiconductor design company that lists **Microsoft** (MSFT), Nvidia (NVDA), Meta (META) and Apple (AAPL) among its"
+        ],
+        "AAPL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Arm CMO",
+            "Officer Ami Badani",
+            "Ramzan Karmali",
+            "Market Sunrise",
+            "Yahoo Finance"
+          ],
+          "ORGANIZATION": [
+            "ARM",
+            "Holdings",
+            "MSFT",
+            "NVDA",
+            "META",
+            "AAPL",
+            "AI"
+          ],
+          "GPE": [
+            "Microsoft",
+            "Nvidia",
+            "Meta",
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect",
+            "revenue",
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "arm",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "continue",
+            2
+          ],
+          [
+            "bubble",
+            2
+          ],
+          [
+            "fear",
+            2
+          ],
+          [
+            "meta",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "boom",
+            1
+          ],
+          [
+            "despite",
+            1
+          ],
+          [
+            "cmo",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 16,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ai",
+          "boom",
+          "will",
+          "continue",
+          "despite",
+          "bubble",
+          "fears",
+          "arm",
+          "cmo",
+          ".",
+          "arm",
+          "arm",
+          "holdings",
+          ",",
+          "the",
+          "semiconductor",
+          "design",
+          "company",
+          "that",
+          "lists",
+          "microsoft",
+          "msft",
+          ",",
+          "nvidia",
+          "nvda",
+          ",",
+          "meta",
+          "meta",
+          "and",
+          "apple",
+          "aapl",
+          "among",
+          "its",
+          "many",
+          "partners",
+          ",",
+          "expects",
+          "surging",
+          "revenue",
+          "driven",
+          "by",
+          "ai",
+          "-",
+          "even",
+          "as",
+          "fears",
+          "of",
+          "a",
+          "bubble",
+          "keep",
+          "growing",
+          ".",
+          "chief",
+          "marketing",
+          "officer",
+          "ami",
+          "badani",
+          "spoke",
+          "with",
+          "ramzan",
+          "karmali",
+          "about",
+          "the",
+          "firms",
+          "strategy",
+          "to",
+          "expand",
+          "across",
+          "data",
+          "centers",
+          "and",
+          "mobile",
+          "devices",
+          ",",
+          "while",
+          "continuing",
+          "to",
+          "push",
+          "for",
+          "more",
+          "energy-efficient",
+          "chips",
+          ".",
+          "for",
+          "more",
+          "live",
+          "coverage",
+          "of",
+          "the",
+          "markets",
+          ",",
+          "watch",
+          "the",
+          "full",
+          "episode",
+          "of",
+          "market",
+          "sunrise",
+          "and",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ],
+        "filtered": [
+          "ai",
+          "boom",
+          "continue",
+          "despite",
+          "bubble",
+          "fears",
+          "arm",
+          "cmo",
+          ".",
+          "arm",
+          "arm",
+          "holdings",
+          ",",
+          "semiconductor",
+          "design",
+          "company",
+          "lists",
+          "microsoft",
+          "msft",
+          ",",
+          "nvidia",
+          "nvda",
+          ",",
+          "meta",
+          "meta",
+          "apple",
+          "aapl",
+          "among",
+          "many",
+          "partners",
+          ",",
+          "expects",
+          "surging",
+          "revenue",
+          "driven",
+          "ai",
+          "-",
+          "even",
+          "fears",
+          "bubble",
+          "keep",
+          "growing",
+          ".",
+          "chief",
+          "marketing",
+          "officer",
+          "ami",
+          "badani",
+          "spoke",
+          "ramzan",
+          "karmali",
+          "firms",
+          "strategy",
+          "expand",
+          "across",
+          "data",
+          "centers",
+          "mobile",
+          "devices",
+          ",",
+          "continuing",
+          "push",
+          "more",
+          "energy-efficient",
+          "chips",
+          ".",
+          "more",
+          "live",
+          "coverage",
+          "markets",
+          ",",
+          "watch",
+          "full",
+          "episode",
+          "market",
+          "sunrise",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ],
+        "lemmatized": [
+          "ai",
+          "boom",
+          "continue",
+          "despite",
+          "bubble",
+          "fear",
+          "arm",
+          "cmo",
+          ".",
+          "arm",
+          "arm",
+          "holdings",
+          ",",
+          "semiconductor",
+          "design",
+          "company",
+          "list",
+          "microsoft",
+          "msft",
+          ",",
+          "nvidia",
+          "nvda",
+          ",",
+          "meta",
+          "meta",
+          "apple",
+          "aapl",
+          "among",
+          "many",
+          "partner",
+          ",",
+          "expect",
+          "surge",
+          "revenue",
+          "driven",
+          "ai",
+          "-",
+          "even",
+          "fear",
+          "bubble",
+          "keep",
+          "growing",
+          ".",
+          "chief",
+          "market",
+          "officer",
+          "ami",
+          "badani",
+          "speak",
+          "ramzan",
+          "karmali",
+          "firm",
+          "strategy",
+          "expand",
+          "across",
+          "data",
+          "center",
+          "mobile",
+          "device",
+          ",",
+          "continue",
+          "push",
+          "more",
+          "energy-efficient",
+          "chip",
+          ".",
+          "more",
+          "live",
+          "coverage",
+          "market",
+          ",",
+          "watch",
+          "full",
+          "episode",
+          "market",
+          "sunrise",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "6f2c3c5a0d5dd95d",
+      "title": "Can Nebius Overcome Its Capacity Bottleneck to Drive Higher Revenues?",
+      "body": "NBIS races to expand capacity as surging AI demand sells out every build, driving huge CapEx plans and reshaping revenue targets.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:49.404497",
+      "url": "https://www.zacks.com/stock/news/2793467/can-nebius-overcome-its-capacity-bottleneck-to-drive-higher-revenues",
+      "raw_text": "Can Nebius Overcome Its Capacity Bottleneck to Drive Higher Revenues?. NBIS races to expand capacity as surging AI demand sells out every build, driving huge CapEx plans and reshaping revenue targets.",
+      "tickers_mentioned": "EXE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EXE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nebius Overcome",
+            "Revenues"
+          ],
+          "ORGANIZATION": [
+            "NBIS"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "capacity",
+            2
+          ],
+          [
+            "drive",
+            2
+          ],
+          [
+            "revenue",
+            2
+          ],
+          [
+            "nebius",
+            1
+          ],
+          [
+            "overcome",
+            1
+          ],
+          [
+            "bottleneck",
+            1
+          ],
+          [
+            "high",
+            1
+          ],
+          [
+            "nbis",
+            1
+          ],
+          [
+            "race",
+            1
+          ],
+          [
+            "expand",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "can",
+          "nebius",
+          "overcome",
+          "its",
+          "capacity",
+          "bottleneck",
+          "to",
+          "drive",
+          "higher",
+          "revenues",
+          "?",
+          ".",
+          "nbis",
+          "races",
+          "to",
+          "expand",
+          "capacity",
+          "as",
+          "surging",
+          "ai",
+          "demand",
+          "sells",
+          "out",
+          "every",
+          "build",
+          ",",
+          "driving",
+          "huge",
+          "capex",
+          "plans",
+          "and",
+          "reshaping",
+          "revenue",
+          "targets",
+          "."
+        ],
+        "filtered": [
+          "nebius",
+          "overcome",
+          "capacity",
+          "bottleneck",
+          "drive",
+          "higher",
+          "revenues",
+          "?",
+          ".",
+          "nbis",
+          "races",
+          "expand",
+          "capacity",
+          "surging",
+          "ai",
+          "demand",
+          "sells",
+          "every",
+          "build",
+          ",",
+          "driving",
+          "huge",
+          "capex",
+          "plans",
+          "reshaping",
+          "revenue",
+          "targets",
+          "."
+        ],
+        "lemmatized": [
+          "nebius",
+          "overcome",
+          "capacity",
+          "bottleneck",
+          "drive",
+          "high",
+          "revenue",
+          "?",
+          ".",
+          "nbis",
+          "race",
+          "expand",
+          "capacity",
+          "surge",
+          "ai",
+          "demand",
+          "sell",
+          "every",
+          "build",
+          ",",
+          "drive",
+          "huge",
+          "capex",
+          "plan",
+          "reshape",
+          "revenue",
+          "target",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "49b73c425e082e81",
+      "title": "Can Nebius Overcome Its Capacity Bottleneck to Drive Higher Revenues?",
+      "body": "NBIS races to expand capacity as surging AI demand sells out every build, driving huge CapEx plans and reshaping revenue targets.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:49.794198",
+      "url": "https://finnhub.io/api/news?id=a134a83ddb63c7accb311872dd26e5967662ab830ee61fd09ef7897a9eb79e0a",
+      "raw_text": "Can Nebius Overcome Its Capacity Bottleneck to Drive Higher Revenues?. NBIS races to expand capacity as surging AI demand sells out every build, driving huge CapEx plans and reshaping revenue targets.",
+      "tickers_mentioned": "EXE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EXE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nebius Overcome",
+            "Revenues"
+          ],
+          "ORGANIZATION": [
+            "NBIS"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "capacity",
+            2
+          ],
+          [
+            "drive",
+            2
+          ],
+          [
+            "revenue",
+            2
+          ],
+          [
+            "nebius",
+            1
+          ],
+          [
+            "overcome",
+            1
+          ],
+          [
+            "bottleneck",
+            1
+          ],
+          [
+            "high",
+            1
+          ],
+          [
+            "nbis",
+            1
+          ],
+          [
+            "race",
+            1
+          ],
+          [
+            "expand",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "can",
+          "nebius",
+          "overcome",
+          "its",
+          "capacity",
+          "bottleneck",
+          "to",
+          "drive",
+          "higher",
+          "revenues",
+          "?",
+          ".",
+          "nbis",
+          "races",
+          "to",
+          "expand",
+          "capacity",
+          "as",
+          "surging",
+          "ai",
+          "demand",
+          "sells",
+          "out",
+          "every",
+          "build",
+          ",",
+          "driving",
+          "huge",
+          "capex",
+          "plans",
+          "and",
+          "reshaping",
+          "revenue",
+          "targets",
+          "."
+        ],
+        "filtered": [
+          "nebius",
+          "overcome",
+          "capacity",
+          "bottleneck",
+          "drive",
+          "higher",
+          "revenues",
+          "?",
+          ".",
+          "nbis",
+          "races",
+          "expand",
+          "capacity",
+          "surging",
+          "ai",
+          "demand",
+          "sells",
+          "every",
+          "build",
+          ",",
+          "driving",
+          "huge",
+          "capex",
+          "plans",
+          "reshaping",
+          "revenue",
+          "targets",
+          "."
+        ],
+        "lemmatized": [
+          "nebius",
+          "overcome",
+          "capacity",
+          "bottleneck",
+          "drive",
+          "high",
+          "revenue",
+          "?",
+          ".",
+          "nbis",
+          "race",
+          "expand",
+          "capacity",
+          "surge",
+          "ai",
+          "demand",
+          "sell",
+          "every",
+          "build",
+          ",",
+          "drive",
+          "huge",
+          "capex",
+          "plan",
+          "reshape",
+          "revenue",
+          "target",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "9de86952d9c5a808",
+      "title": "Salesforce A Justified Sell-Off And An Opportunity For The Patient",
+      "body": "Salesforce, Inc. is rated a Buy due to its positioning in the sector and ability to expand GAAP profitability. Learn more about CRM stock here.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:50.893980",
+      "url": "https://finnhub.io/api/news?id=2384b72b726cfd6727078dd3eb23490d4133f4133a4901c643a5df1e71de2361",
+      "raw_text": "Salesforce A Justified Sell-Off And An Opportunity For The Patient. Salesforce, Inc. is rated a Buy due to its positioning in the sector and ability to expand GAAP profitability. Learn more about CRM stock here.",
+      "tickers_mentioned": "EXE,CRM",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EXE": [],
+        "CRM": [
+          "**Salesforce:** A Justified Sell-Off And An Opportunity For The Patient. Salesforce,",
+          "Salesforce: A Justified Sell-Off And An Opportunity For The Patient. **Salesforce,** Inc. is rated a Buy due to its positioning in"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Salesforce"
+          ],
+          "ORGANIZATION": [
+            "Justified",
+            "Patient",
+            "GAAP",
+            "CRM"
+          ],
+          "GPE": [
+            "Salesforce"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "profit",
+            "buy"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "salesforce",
+            2
+          ],
+          [
+            "justify",
+            1
+          ],
+          [
+            "sell-off",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "patient",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "rat",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "due",
+            1
+          ],
+          [
+            "positioning",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "salesforce",
+          "a",
+          "justified",
+          "sell-off",
+          "and",
+          "an",
+          "opportunity",
+          "for",
+          "the",
+          "patient",
+          ".",
+          "salesforce",
+          ",",
+          "inc.",
+          "is",
+          "rated",
+          "a",
+          "buy",
+          "due",
+          "to",
+          "its",
+          "positioning",
+          "in",
+          "the",
+          "sector",
+          "and",
+          "ability",
+          "to",
+          "expand",
+          "gaap",
+          "profitability",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "crm",
+          "stock",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "salesforce",
+          "justified",
+          "sell-off",
+          "opportunity",
+          "patient",
+          ".",
+          "salesforce",
+          ",",
+          "inc.",
+          "rated",
+          "buy",
+          "due",
+          "positioning",
+          "sector",
+          "ability",
+          "expand",
+          "gaap",
+          "profitability",
+          ".",
+          "learn",
+          "more",
+          "crm",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "salesforce",
+          "justify",
+          "sell-off",
+          "opportunity",
+          "patient",
+          ".",
+          "salesforce",
+          ",",
+          "inc.",
+          "rat",
+          "buy",
+          "due",
+          "positioning",
+          "sector",
+          "ability",
+          "expand",
+          "gaap",
+          "profitability",
+          ".",
+          "learn",
+          "more",
+          "crm",
+          "stock",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a7c6a0e9d58e49bd",
+      "title": "AI boom will continue despite bubble fears Arm CMO",
+      "body": "Arm ARM Holdings, the semiconductor design company that lists Microsoft MSFT, Nvidia NVDA, Meta META and Apple AAPL among its many partners, expects surging revenue driven by AI - even as fears of a bubble keep growing. Chief Marketing Officer Ami Badani spoke with Ramzan Karmali about the firms strategy to expand across data centers and mobile devices, while continuing to push for more energy-efficient chips. For more live coverage of the markets, watch the full episode of Market Sunrise and visit Yahoo Finance.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:50.978844",
+      "url": "https://finnhub.io/api/news?id=2bd6a360e3afabb579ba90b45e53f4b8d17ff17358587ef7f77ef9d1ac85bbd1",
+      "raw_text": "AI boom will continue despite bubble fears Arm CMO. Arm ARM Holdings, the semiconductor design company that lists Microsoft MSFT, Nvidia NVDA, Meta META and Apple AAPL among its many partners, expects surging revenue driven by AI - even as fears of a bubble keep growing. Chief Marketing Officer Ami Badani spoke with Ramzan Karmali about the firms strategy to expand across data centers and mobile devices, while continuing to push for more energy-efficient chips. For more live coverage of the markets, watch the full episode of Market Sunrise and visit Yahoo Finance.",
+      "tickers_mentioned": "EXE,LYV,NVDA,META,MSFT,AAPL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EXE": [],
+        "LYV": [],
+        "NVDA": [
+          "(ARM) Holdings, the semiconductor design company that lists Microsoft (MSFT), **Nvidia** (NVDA), Meta (META) and Apple (AAPL) among its many partners,"
+        ],
+        "META": [],
+        "MSFT": [
+          "CMO. Arm (ARM) Holdings, the semiconductor design company that lists **Microsoft** (MSFT), Nvidia (NVDA), Meta (META) and Apple (AAPL) among its"
+        ],
+        "AAPL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Arm CMO",
+            "Officer Ami Badani",
+            "Ramzan Karmali",
+            "Market Sunrise",
+            "Yahoo Finance"
+          ],
+          "ORGANIZATION": [
+            "ARM",
+            "Holdings",
+            "MSFT",
+            "NVDA",
+            "META",
+            "AAPL",
+            "AI"
+          ],
+          "GPE": [
+            "Microsoft",
+            "Nvidia",
+            "Meta",
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect",
+            "revenue",
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "arm",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "continue",
+            2
+          ],
+          [
+            "bubble",
+            2
+          ],
+          [
+            "fear",
+            2
+          ],
+          [
+            "meta",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "boom",
+            1
+          ],
+          [
+            "despite",
+            1
+          ],
+          [
+            "cmo",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 16,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ai",
+          "boom",
+          "will",
+          "continue",
+          "despite",
+          "bubble",
+          "fears",
+          "arm",
+          "cmo",
+          ".",
+          "arm",
+          "arm",
+          "holdings",
+          ",",
+          "the",
+          "semiconductor",
+          "design",
+          "company",
+          "that",
+          "lists",
+          "microsoft",
+          "msft",
+          ",",
+          "nvidia",
+          "nvda",
+          ",",
+          "meta",
+          "meta",
+          "and",
+          "apple",
+          "aapl",
+          "among",
+          "its",
+          "many",
+          "partners",
+          ",",
+          "expects",
+          "surging",
+          "revenue",
+          "driven",
+          "by",
+          "ai",
+          "-",
+          "even",
+          "as",
+          "fears",
+          "of",
+          "a",
+          "bubble",
+          "keep",
+          "growing",
+          ".",
+          "chief",
+          "marketing",
+          "officer",
+          "ami",
+          "badani",
+          "spoke",
+          "with",
+          "ramzan",
+          "karmali",
+          "about",
+          "the",
+          "firms",
+          "strategy",
+          "to",
+          "expand",
+          "across",
+          "data",
+          "centers",
+          "and",
+          "mobile",
+          "devices",
+          ",",
+          "while",
+          "continuing",
+          "to",
+          "push",
+          "for",
+          "more",
+          "energy-efficient",
+          "chips",
+          ".",
+          "for",
+          "more",
+          "live",
+          "coverage",
+          "of",
+          "the",
+          "markets",
+          ",",
+          "watch",
+          "the",
+          "full",
+          "episode",
+          "of",
+          "market",
+          "sunrise",
+          "and",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ],
+        "filtered": [
+          "ai",
+          "boom",
+          "continue",
+          "despite",
+          "bubble",
+          "fears",
+          "arm",
+          "cmo",
+          ".",
+          "arm",
+          "arm",
+          "holdings",
+          ",",
+          "semiconductor",
+          "design",
+          "company",
+          "lists",
+          "microsoft",
+          "msft",
+          ",",
+          "nvidia",
+          "nvda",
+          ",",
+          "meta",
+          "meta",
+          "apple",
+          "aapl",
+          "among",
+          "many",
+          "partners",
+          ",",
+          "expects",
+          "surging",
+          "revenue",
+          "driven",
+          "ai",
+          "-",
+          "even",
+          "fears",
+          "bubble",
+          "keep",
+          "growing",
+          ".",
+          "chief",
+          "marketing",
+          "officer",
+          "ami",
+          "badani",
+          "spoke",
+          "ramzan",
+          "karmali",
+          "firms",
+          "strategy",
+          "expand",
+          "across",
+          "data",
+          "centers",
+          "mobile",
+          "devices",
+          ",",
+          "continuing",
+          "push",
+          "more",
+          "energy-efficient",
+          "chips",
+          ".",
+          "more",
+          "live",
+          "coverage",
+          "markets",
+          ",",
+          "watch",
+          "full",
+          "episode",
+          "market",
+          "sunrise",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ],
+        "lemmatized": [
+          "ai",
+          "boom",
+          "continue",
+          "despite",
+          "bubble",
+          "fear",
+          "arm",
+          "cmo",
+          ".",
+          "arm",
+          "arm",
+          "holdings",
+          ",",
+          "semiconductor",
+          "design",
+          "company",
+          "list",
+          "microsoft",
+          "msft",
+          ",",
+          "nvidia",
+          "nvda",
+          ",",
+          "meta",
+          "meta",
+          "apple",
+          "aapl",
+          "among",
+          "many",
+          "partner",
+          ",",
+          "expect",
+          "surge",
+          "revenue",
+          "driven",
+          "ai",
+          "-",
+          "even",
+          "fear",
+          "bubble",
+          "keep",
+          "growing",
+          ".",
+          "chief",
+          "market",
+          "officer",
+          "ami",
+          "badani",
+          "speak",
+          "ramzan",
+          "karmali",
+          "firm",
+          "strategy",
+          "expand",
+          "across",
+          "data",
+          "center",
+          "mobile",
+          "device",
+          ",",
+          "continue",
+          "push",
+          "more",
+          "energy-efficient",
+          "chip",
+          ".",
+          "more",
+          "live",
+          "coverage",
+          "market",
+          ",",
+          "watch",
+          "full",
+          "episode",
+          "market",
+          "sunrise",
+          "visit",
+          "yahoo",
+          "finance",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "06daf56ed6dcfd04",
+      "title": "Microsofts Xbox Partners with ESW to Expand Design Lab into 27 Countries",
+      "body": "NEW YORK, November 17, 2025--Microsofts Xbox Design Lab has relaunched and expanded distribution into 27 countries through its new partnership with ESW.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:51.459373",
+      "url": "https://finnhub.io/api/news?id=4e61c4f4d66defc12dae026dda8899dea148728accf045e81c09b224b77e1fcb",
+      "raw_text": "Microsofts Xbox Partners with ESW to Expand Design Lab into 27 Countries. NEW YORK, November 17, 2025--Microsofts Xbox Design Lab has relaunched and expanded distribution into 27 countries through its new partnership with ESW.",
+      "tickers_mentioned": "EXE,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EXE": [],
+        "MSFT": [
+          "**Microsoft’s** Xbox Partners with ESW to Expand Design Lab into 27",
+          "Expand Design Lab into 27 Countries. NEW YORK, November 17, **2025--Microsoft’s** Xbox Design Lab has relaunched and expanded distribution into 27"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Microsoft",
+            "Xbox Design Lab"
+          ],
+          "ORGANIZATION": [
+            "Xbox Partners",
+            "ESW",
+            "NEW"
+          ],
+          "GPE": [
+            "Expand",
+            "YORK"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "27",
+          "17",
+          "2025",
+          "27"
+        ],
+        "percentages": [],
+        "dates": [
+          "November 17, 2025"
+        ],
+        "top_words": [
+          [
+            "microsofts",
+            2
+          ],
+          [
+            "xbox",
+            2
+          ],
+          [
+            "esw",
+            2
+          ],
+          [
+            "expand",
+            2
+          ],
+          [
+            "design",
+            2
+          ],
+          [
+            "lab",
+            2
+          ],
+          [
+            "country",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "partner",
+            1
+          ],
+          [
+            "york",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 1
+        }
+      },
+      "tokens": {
+        "original": [
+          "microsofts",
+          "xbox",
+          "partners",
+          "with",
+          "esw",
+          "to",
+          "expand",
+          "design",
+          "lab",
+          "into",
+          "27",
+          "countries",
+          ".",
+          "new",
+          "york",
+          ",",
+          "november",
+          "17",
+          ",",
+          "2025",
+          "--",
+          "microsofts",
+          "xbox",
+          "design",
+          "lab",
+          "has",
+          "relaunched",
+          "and",
+          "expanded",
+          "distribution",
+          "into",
+          "27",
+          "countries",
+          "through",
+          "its",
+          "new",
+          "partnership",
+          "with",
+          "esw",
+          "."
+        ],
+        "filtered": [
+          "microsofts",
+          "xbox",
+          "partners",
+          "esw",
+          "expand",
+          "design",
+          "lab",
+          "27",
+          "countries",
+          ".",
+          "new",
+          "york",
+          ",",
+          "november",
+          "17",
+          ",",
+          "2025",
+          "--",
+          "microsofts",
+          "xbox",
+          "design",
+          "lab",
+          "relaunched",
+          "expanded",
+          "distribution",
+          "27",
+          "countries",
+          "new",
+          "partnership",
+          "esw",
+          "."
+        ],
+        "lemmatized": [
+          "microsofts",
+          "xbox",
+          "partner",
+          "esw",
+          "expand",
+          "design",
+          "lab",
+          "27",
+          "country",
+          ".",
+          "new",
+          "york",
+          ",",
+          "november",
+          "17",
+          ",",
+          "2025",
+          "--",
+          "microsofts",
+          "xbox",
+          "design",
+          "lab",
+          "relaunched",
+          "expand",
+          "distribution",
+          "27",
+          "country",
+          "new",
+          "partnership",
+          "esw",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "b7e7f9578e5ac003",
+      "title": "Metaplanet eyes 135 million dollars raise via new Class B shares to fuel more Bitcoin buys",
+      "body": "Metaplanet is preparing another major capital raise through the issuance of its new Class B perpetual preferred shares to expand its Bitcoin-focused treasury strategy. According to filings submitte 2394 chars",
+      "source": "Cointelegraph",
+      "timestamp": "2025-11-22T00:25:52.033973",
+      "url": "https://cointelegraph.com/news/metaplanet-class-b-raise-bitcoin-treasury-mercury-program",
+      "raw_text": "Metaplanet eyes 135 million dollars raise via new Class B shares to fuel more Bitcoin buys. Metaplanet is preparing another major capital raise through the issuance of its new Class B perpetual preferred shares to expand its Bitcoin-focused treasury strategy. According to filings submitte 2394 chars",
+      "tickers_mentioned": "EXE,COF",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EXE": [],
+        "COF": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Metaplanet"
+          ],
+          "ORGANIZATION": [
+            "Metaplanet"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "135M",
+          "2394"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "metaplanet",
+            2
+          ],
+          [
+            "raise",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "class",
+            2
+          ],
+          [
+            "shares",
+            2
+          ],
+          [
+            "eye",
+            1
+          ],
+          [
+            "135",
+            1
+          ],
+          [
+            "million",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "via",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "metaplanet",
+          "eyes",
+          "135",
+          "million",
+          "dollars",
+          "raise",
+          "via",
+          "new",
+          "class",
+          "b",
+          "shares",
+          "to",
+          "fuel",
+          "more",
+          "bitcoin",
+          "buys",
+          ".",
+          "metaplanet",
+          "is",
+          "preparing",
+          "another",
+          "major",
+          "capital",
+          "raise",
+          "through",
+          "the",
+          "issuance",
+          "of",
+          "its",
+          "new",
+          "class",
+          "b",
+          "perpetual",
+          "preferred",
+          "shares",
+          "to",
+          "expand",
+          "its",
+          "bitcoin-focused",
+          "treasury",
+          "strategy",
+          ".",
+          "according",
+          "to",
+          "filings",
+          "submitte",
+          "2394",
+          "chars"
+        ],
+        "filtered": [
+          "metaplanet",
+          "eyes",
+          "135",
+          "million",
+          "dollars",
+          "raise",
+          "via",
+          "new",
+          "class",
+          "b",
+          "shares",
+          "fuel",
+          "more",
+          "bitcoin",
+          "buys",
+          ".",
+          "metaplanet",
+          "preparing",
+          "another",
+          "major",
+          "capital",
+          "raise",
+          "issuance",
+          "new",
+          "class",
+          "b",
+          "perpetual",
+          "preferred",
+          "shares",
+          "expand",
+          "bitcoin-focused",
+          "treasury",
+          "strategy",
+          ".",
+          "according",
+          "filings",
+          "submitte",
+          "2394",
+          "chars"
+        ],
+        "lemmatized": [
+          "metaplanet",
+          "eye",
+          "135",
+          "million",
+          "dollar",
+          "raise",
+          "via",
+          "new",
+          "class",
+          "b",
+          "shares",
+          "fuel",
+          "more",
+          "bitcoin",
+          "buy",
+          ".",
+          "metaplanet",
+          "prepare",
+          "another",
+          "major",
+          "capital",
+          "raise",
+          "issuance",
+          "new",
+          "class",
+          "b",
+          "perpetual",
+          "preferred",
+          "shares",
+          "expand",
+          "bitcoin-focused",
+          "treasury",
+          "strategy",
+          ".",
+          "accord",
+          "filing",
+          "submitte",
+          "2394",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "fb09159e07c2a6b0",
+      "title": "Expedia And Booking Stocks Slide As Google Expand AI Travel Planning Tools",
+      "body": "Google will soon bring hotel, flight and other type of reservations bookings into its AI-powered search offering. The news sent shares of Expedia Group and Booking Holdings falling Monday. The online search giant said in a blog post Monday that its AI Mode tab has new features to help build custom travel plans.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.079859",
+      "url": "https://finnhub.io/api/news?id=c478dbd318f6482e5e8bacbe19ffe1f1527e50924b6e6c992da951a1e4f097b4",
+      "raw_text": "Expedia And Booking Stocks Slide As Google Expand AI Travel Planning Tools. Google will soon bring hotel, flight and other type of reservations bookings into its AI-powered search offering. The news sent shares of Expedia Group and Booking Holdings falling Monday. The online search giant said in a blog post Monday that its AI Mode tab has new features to help build custom travel plans.",
+      "tickers_mentioned": "EXE,BKNG,EXPE,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "EXE": [],
+        "BKNG": [
+          "search offering. The news sent shares of Expedia Group and **Booking** Holdings falling Monday. The online search giant said in a"
+        ],
+        "EXPE": [
+          "into its AI-powered search offering. The news sent shares of **Expedia** Group and Booking Holdings falling Monday. The online search giant"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Travel Planning Tools",
+            "Google"
+          ],
+          "ORGANIZATION": [
+            "And Booking Stocks Slide As Google Expand",
+            "Expedia Group",
+            "Booking Holdings"
+          ],
+          "GPE": [
+            "Expedia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "fall"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "expedia",
+            2
+          ],
+          [
+            "book",
+            2
+          ],
+          [
+            "google",
+            2
+          ],
+          [
+            "travel",
+            2
+          ],
+          [
+            "search",
+            2
+          ],
+          [
+            "monday",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "slide",
+            1
+          ],
+          [
+            "expand",
+            1
+          ],
+          [
+            "planning",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "expedia",
+          "and",
+          "booking",
+          "stocks",
+          "slide",
+          "as",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tools",
+          ".",
+          "google",
+          "will",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "and",
+          "other",
+          "type",
+          "of",
+          "reservations",
+          "bookings",
+          "into",
+          "its",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "the",
+          "news",
+          "sent",
+          "shares",
+          "of",
+          "expedia",
+          "group",
+          "and",
+          "booking",
+          "holdings",
+          "falling",
+          "monday",
+          ".",
+          "the",
+          "online",
+          "search",
+          "giant",
+          "said",
+          "in",
+          "a",
+          "blog",
+          "post",
+          "monday",
+          "that",
+          "its",
+          "ai",
+          "mode",
+          "tab",
+          "has",
+          "new",
+          "features",
+          "to",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plans",
+          "."
+        ],
+        "filtered": [
+          "expedia",
+          "booking",
+          "stocks",
+          "slide",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tools",
+          ".",
+          "google",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "type",
+          "reservations",
+          "bookings",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "news",
+          "sent",
+          "shares",
+          "expedia",
+          "group",
+          "booking",
+          "holdings",
+          "falling",
+          "monday",
+          ".",
+          "online",
+          "search",
+          "giant",
+          "said",
+          "blog",
+          "post",
+          "monday",
+          "ai",
+          "mode",
+          "tab",
+          "new",
+          "features",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plans",
+          "."
+        ],
+        "lemmatized": [
+          "expedia",
+          "book",
+          "stock",
+          "slide",
+          "google",
+          "expand",
+          "ai",
+          "travel",
+          "planning",
+          "tool",
+          ".",
+          "google",
+          "soon",
+          "bring",
+          "hotel",
+          ",",
+          "flight",
+          "type",
+          "reservation",
+          "booking",
+          "ai-powered",
+          "search",
+          "offering",
+          ".",
+          "news",
+          "send",
+          "shares",
+          "expedia",
+          "group",
+          "book",
+          "holdings",
+          "fall",
+          "monday",
+          ".",
+          "online",
+          "search",
+          "giant",
+          "say",
+          "blog",
+          "post",
+          "monday",
+          "ai",
+          "mode",
+          "tab",
+          "new",
+          "feature",
+          "help",
+          "build",
+          "custom",
+          "travel",
+          "plan",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "adf46499a4590348",
+      "title": "Investment Booms In Eurasia After Abraham Accords Expand",
+      "body": "The expansion of the Abraham Accords to include Kazakhstan during the C51 Summit on November 6th sets the stage for stronger ties between the U.S. and Central Asia. The White House When Kazakhstan 10483 chars",
+      "source": "Forbes",
+      "timestamp": "2025-11-22T00:25:54.816612",
+      "url": "https://www.forbes.com/sites/arielcohen/2025/11/20/investment-booms-in-eurasia-after-abraham-accords-expand/",
+      "raw_text": "Investment Booms In Eurasia After Abraham Accords Expand. The expansion of the Abraham Accords to include Kazakhstan during the C51 Summit on November 6th sets the stage for stronger ties between the U.S. and Central Asia. The White House When Kazakhstan 10483 chars",
+      "tickers_mentioned": "EXE",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EXE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Abraham Accords Expand"
+          ],
+          "ORGANIZATION": [
+            "Abraham Accords",
+            "Central Asia"
+          ],
+          "GPE": [
+            "Eurasia",
+            "Kazakhstan",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "10483"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "abraham",
+            2
+          ],
+          [
+            "accord",
+            2
+          ],
+          [
+            "kazakhstan",
+            2
+          ],
+          [
+            "investment",
+            1
+          ],
+          [
+            "boom",
+            1
+          ],
+          [
+            "eurasia",
+            1
+          ],
+          [
+            "expand",
+            1
+          ],
+          [
+            "expansion",
+            1
+          ],
+          [
+            "include",
+            1
+          ],
+          [
+            "c51",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "investment",
+          "booms",
+          "in",
+          "eurasia",
+          "after",
+          "abraham",
+          "accords",
+          "expand",
+          ".",
+          "the",
+          "expansion",
+          "of",
+          "the",
+          "abraham",
+          "accords",
+          "to",
+          "include",
+          "kazakhstan",
+          "during",
+          "the",
+          "c51",
+          "summit",
+          "on",
+          "november",
+          "6th",
+          "sets",
+          "the",
+          "stage",
+          "for",
+          "stronger",
+          "ties",
+          "between",
+          "the",
+          "u.s.",
+          "and",
+          "central",
+          "asia",
+          ".",
+          "the",
+          "white",
+          "house",
+          "when",
+          "kazakhstan",
+          "10483",
+          "chars"
+        ],
+        "filtered": [
+          "investment",
+          "booms",
+          "eurasia",
+          "abraham",
+          "accords",
+          "expand",
+          ".",
+          "expansion",
+          "abraham",
+          "accords",
+          "include",
+          "kazakhstan",
+          "c51",
+          "summit",
+          "november",
+          "6th",
+          "sets",
+          "stage",
+          "stronger",
+          "ties",
+          "u.s.",
+          "central",
+          "asia",
+          ".",
+          "white",
+          "house",
+          "kazakhstan",
+          "10483",
+          "chars"
+        ],
+        "lemmatized": [
+          "investment",
+          "boom",
+          "eurasia",
+          "abraham",
+          "accord",
+          "expand",
+          ".",
+          "expansion",
+          "abraham",
+          "accord",
+          "include",
+          "kazakhstan",
+          "c51",
+          "summit",
+          "november",
+          "6th",
+          "set",
+          "stage",
+          "strong",
+          "tie",
+          "u.s.",
+          "central",
+          "asia",
+          ".",
+          "white",
+          "house",
+          "kazakhstan",
+          "10483",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "47d7d383f742b5b6",
+      "title": "United Kingdom Embedded Finance Business Report 2025-2030 Competitive Intensity Is Rising as Incumbents, Fintechs, and Platforms Expand Embedded Offerings",
+      "body": "Dublin, Nov. 20, 2025 GLOBE NEWSWIRE -- The United Kingdom Embedded Finance Market Size Forecast by Value and Volume Across 100 KPIs by Business Models, Distribution Models, End-Use Sectors 12235 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:25:54.864948",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192006/28124/en/United-Kingdom-Embedded-Finance-Business-Report-2025-2030-Competitive-Intensity-Is-Rising-as-Incumbents-Fintechs-and-Platforms-Expand-Embedded-Offerings.html",
+      "raw_text": "United Kingdom Embedded Finance Business Report 2025-2030 Competitive Intensity Is Rising as Incumbents, Fintechs, and Platforms Expand Embedded Offerings. Dublin, Nov. 20, 2025 GLOBE NEWSWIRE -- The United Kingdom Embedded Finance Market Size Forecast by Value and Volume Across 100 KPIs by Business Models, Distribution Models, End-Use Sectors 12235 chars",
+      "tickers_mentioned": "URI,GL,EXE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "URI": [],
+        "GL": [],
+        "EXE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Kingdom Embedded Finance Business Report",
+            "Platforms Expand Embedded Offerings",
+            "Dublin",
+            "Kingdom",
+            "Finance Market Size",
+            "Value",
+            "Volume Across",
+            "Distribution Models"
+          ],
+          "ORGANIZATION": [
+            "Intensity",
+            "Incumbents",
+            "GLOBE",
+            "Business Models"
+          ],
+          "GPE": [
+            "United",
+            "Fintechs"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "forecast"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "2030",
+          "20",
+          "2025",
+          "100",
+          "12235"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "embed",
+            3
+          ],
+          [
+            "united",
+            2
+          ],
+          [
+            "kingdom",
+            2
+          ],
+          [
+            "finance",
+            2
+          ],
+          [
+            "business",
+            2
+          ],
+          [
+            "model",
+            2
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "2025-2030",
+            1
+          ],
+          [
+            "competitive",
+            1
+          ],
+          [
+            "intensity",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 14,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "united",
+          "kingdom",
+          "embedded",
+          "finance",
+          "business",
+          "report",
+          "2025-2030",
+          "competitive",
+          "intensity",
+          "is",
+          "rising",
+          "as",
+          "incumbents",
+          ",",
+          "fintechs",
+          ",",
+          "and",
+          "platforms",
+          "expand",
+          "embedded",
+          "offerings",
+          ".",
+          "dublin",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "the",
+          "united",
+          "kingdom",
+          "embedded",
+          "finance",
+          "market",
+          "size",
+          "forecast",
+          "by",
+          "value",
+          "and",
+          "volume",
+          "across",
+          "100",
+          "kpis",
+          "by",
+          "business",
+          "models",
+          ",",
+          "distribution",
+          "models",
+          ",",
+          "end-use",
+          "sectors",
+          "12235",
+          "chars"
+        ],
+        "filtered": [
+          "united",
+          "kingdom",
+          "embedded",
+          "finance",
+          "business",
+          "report",
+          "2025-2030",
+          "competitive",
+          "intensity",
+          "rising",
+          "incumbents",
+          ",",
+          "fintechs",
+          ",",
+          "platforms",
+          "expand",
+          "embedded",
+          "offerings",
+          ".",
+          "dublin",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "united",
+          "kingdom",
+          "embedded",
+          "finance",
+          "market",
+          "size",
+          "forecast",
+          "value",
+          "volume",
+          "across",
+          "100",
+          "kpis",
+          "business",
+          "models",
+          ",",
+          "distribution",
+          "models",
+          ",",
+          "end-use",
+          "sectors",
+          "12235",
+          "chars"
+        ],
+        "lemmatized": [
+          "united",
+          "kingdom",
+          "embed",
+          "finance",
+          "business",
+          "report",
+          "2025-2030",
+          "competitive",
+          "intensity",
+          "rise",
+          "incumbent",
+          ",",
+          "fintechs",
+          ",",
+          "platform",
+          "expand",
+          "embed",
+          "offering",
+          ".",
+          "dublin",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "united",
+          "kingdom",
+          "embed",
+          "finance",
+          "market",
+          "size",
+          "forecast",
+          "value",
+          "volume",
+          "across",
+          "100",
+          "kpis",
+          "business",
+          "model",
+          ",",
+          "distribution",
+          "model",
+          ",",
+          "end-use",
+          "sector",
+          "12235",
+          "char"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2538 @@
+{
+  "count": 10,
+  "articles": [
+    {
+      "article_id": "3383053550f38cab",
+      "title": "GM CEO Barra, Fords Bill Ford at White House dinner for Saudi prince",
+      "body": "The day after the dinner, the U.S. and Saudi Arabia inked an agreement that ensures the kingdom recognizes American auto safety standards.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:46.833738",
+      "url": "https://finnhub.io/api/news?id=82b30047108394ae43f630dc3996cb3c5f62c57a5cad7bc4c0570fa8a4d252a4",
+      "raw_text": "GM CEO Barra, Fords Bill Ford at White House dinner for Saudi prince. The day after the dinner, the U.S. and Saudi Arabia inked an agreement that ensures the kingdom recognizes American auto safety standards.",
+      "tickers_mentioned": "AWK,F",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AWK": [],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Barra",
+            "Bill Ford",
+            "Arabia"
+          ],
+          "ORGANIZATION": [
+            "Ford"
+          ],
+          "GPE": [
+            "Saudi",
+            "U.S.",
+            "American"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ford",
+            2
+          ],
+          [
+            "dinner",
+            2
+          ],
+          [
+            "saudi",
+            2
+          ],
+          [
+            "ceo",
+            1
+          ],
+          [
+            "barra",
+            1
+          ],
+          [
+            "bill",
+            1
+          ],
+          [
+            "white",
+            1
+          ],
+          [
+            "house",
+            1
+          ],
+          [
+            "prince",
+            1
+          ],
+          [
+            "day",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "gm",
+          "ceo",
+          "barra",
+          ",",
+          "fords",
+          "bill",
+          "ford",
+          "at",
+          "white",
+          "house",
+          "dinner",
+          "for",
+          "saudi",
+          "prince",
+          ".",
+          "the",
+          "day",
+          "after",
+          "the",
+          "dinner",
+          ",",
+          "the",
+          "u.s.",
+          "and",
+          "saudi",
+          "arabia",
+          "inked",
+          "an",
+          "agreement",
+          "that",
+          "ensures",
+          "the",
+          "kingdom",
+          "recognizes",
+          "american",
+          "auto",
+          "safety",
+          "standards",
+          "."
+        ],
+        "filtered": [
+          "gm",
+          "ceo",
+          "barra",
+          ",",
+          "fords",
+          "bill",
+          "ford",
+          "white",
+          "house",
+          "dinner",
+          "saudi",
+          "prince",
+          ".",
+          "day",
+          "dinner",
+          ",",
+          "u.s.",
+          "saudi",
+          "arabia",
+          "inked",
+          "agreement",
+          "ensures",
+          "kingdom",
+          "recognizes",
+          "american",
+          "auto",
+          "safety",
+          "standards",
+          "."
+        ],
+        "lemmatized": [
+          "gm",
+          "ceo",
+          "barra",
+          ",",
+          "ford",
+          "bill",
+          "ford",
+          "white",
+          "house",
+          "dinner",
+          "saudi",
+          "prince",
+          ".",
+          "day",
+          "dinner",
+          ",",
+          "u.s.",
+          "saudi",
+          "arabia",
+          "ink",
+          "agreement",
+          "ensures",
+          "kingdom",
+          "recognizes",
+          "american",
+          "auto",
+          "safety",
+          "standard",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "49a1a14fcdb2ed49",
+      "title": "Peter Thiels hedge fund sells Nvidia stake, Ford-Amazon partnership",
+      "body": "Yahoo Finances John Hyland tracks todays top moving stocks and biggest market stories in this Market Minute, including Stifel analysts boosting their price target on Tesla TSLA stock, Peter Thiels hedge fund Thiel Macro fund sold off the entirety of its Nvidia NVDA stake, and Amazon AMZN partnering with Ford F to sell pre-owned cars online. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.169848",
+      "url": "https://finnhub.io/api/news?id=5f2004d20fccc28d1b305e3f2b2bb3a18939439e6a8ea5decef1ffef04a75e39",
+      "raw_text": "Peter Thiels hedge fund sells Nvidia stake, Ford-Amazon partnership. Yahoo Finances John Hyland tracks todays top moving stocks and biggest market stories in this Market Minute, including Stifel analysts boosting their price target on Tesla TSLA stock, Peter Thiels hedge fund Thiel Macro fund sold off the entirety of its Nvidia NVDA stake, and Amazon AMZN partnering with Ford F to sell pre-owned cars online. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "tickers_mentioned": "TGT,TSLA,NVDA,AMZN,F",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TGT": [],
+        "TSLA": [],
+        "NVDA": [
+          "Peter Thiel's hedge fund sells **Nvidia** stake, Ford-Amazon partnership. Yahoo Finance's John Hyland tracks today's top",
+          "fund Thiel Macro fund sold off the entirety of its **Nvidia** (NVDA) stake, and Amazon (AMZN) partnering with Ford (F) to"
+        ],
+        "AMZN": [
+          "Peter Thiel's hedge fund sells Nvidia stake, **Ford-Amazon** partnership. Yahoo Finance's John Hyland tracks today's top moving stocks",
+          "sold off the entirety of its Nvidia (NVDA) stake, and **Amazon** (AMZN) partnering with Ford (F) to sell pre-owned cars online."
+        ],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Peter",
+            "Thiel",
+            "Yahoo Finance",
+            "John Hyland",
+            "Market Minute",
+            "Peter Thiel",
+            "Thiel Macro"
+          ],
+          "ORGANIZATION": [
+            "TSLA",
+            "NVDA",
+            "AMZN",
+            "Ford"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Stifel",
+            "Tesla",
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "boost"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "market",
+            4
+          ],
+          [
+            "fund",
+            3
+          ],
+          [
+            "sell",
+            3
+          ],
+          [
+            "peter",
+            2
+          ],
+          [
+            "thiels",
+            2
+          ],
+          [
+            "hedge",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stake",
+            2
+          ],
+          [
+            "yahoo",
+            2
+          ],
+          [
+            "finance",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 15,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "sells",
+          "nvidia",
+          "stake",
+          ",",
+          "ford-amazon",
+          "partnership",
+          ".",
+          "yahoo",
+          "finances",
+          "john",
+          "hyland",
+          "tracks",
+          "todays",
+          "top",
+          "moving",
+          "stocks",
+          "and",
+          "biggest",
+          "market",
+          "stories",
+          "in",
+          "this",
+          "market",
+          "minute",
+          ",",
+          "including",
+          "stifel",
+          "analysts",
+          "boosting",
+          "their",
+          "price",
+          "target",
+          "on",
+          "tesla",
+          "tsla",
+          "stock",
+          ",",
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "thiel",
+          "macro",
+          "fund",
+          "sold",
+          "off",
+          "the",
+          "entirety",
+          "of",
+          "its",
+          "nvidia",
+          "nvda",
+          "stake",
+          ",",
+          "and",
+          "amazon",
+          "amzn",
+          "partnering",
+          "with",
+          "ford",
+          "f",
+          "to",
+          "sell",
+          "pre-owned",
+          "cars",
+          "online",
+          ".",
+          "stay",
+          "up",
+          "to",
+          "date",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "with",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "filtered": [
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "sells",
+          "nvidia",
+          "stake",
+          ",",
+          "ford-amazon",
+          "partnership",
+          ".",
+          "yahoo",
+          "finances",
+          "john",
+          "hyland",
+          "tracks",
+          "todays",
+          "top",
+          "moving",
+          "stocks",
+          "biggest",
+          "market",
+          "stories",
+          "market",
+          "minute",
+          ",",
+          "including",
+          "stifel",
+          "analysts",
+          "boosting",
+          "price",
+          "target",
+          "tesla",
+          "tsla",
+          "stock",
+          ",",
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "thiel",
+          "macro",
+          "fund",
+          "sold",
+          "entirety",
+          "nvidia",
+          "nvda",
+          "stake",
+          ",",
+          "amazon",
+          "amzn",
+          "partnering",
+          "ford",
+          "f",
+          "sell",
+          "pre-owned",
+          "cars",
+          "online",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "lemmatized": [
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "sell",
+          "nvidia",
+          "stake",
+          ",",
+          "ford-amazon",
+          "partnership",
+          ".",
+          "yahoo",
+          "finance",
+          "john",
+          "hyland",
+          "track",
+          "todays",
+          "top",
+          "move",
+          "stock",
+          "big",
+          "market",
+          "story",
+          "market",
+          "minute",
+          ",",
+          "include",
+          "stifel",
+          "analyst",
+          "boost",
+          "price",
+          "target",
+          "tesla",
+          "tsla",
+          "stock",
+          ",",
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "thiel",
+          "macro",
+          "fund",
+          "sell",
+          "entirety",
+          "nvidia",
+          "nvda",
+          "stake",
+          ",",
+          "amazon",
+          "amzn",
+          "partner",
+          "ford",
+          "f",
+          "sell",
+          "pre-owned",
+          "car",
+          "online",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "late",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finance",
+          "market",
+          "minute",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "6e80615e998d7118",
+      "title": "Better Electric Vehicle EV Stock Ford vs. Tesla",
+      "body": "Both companies managements understand that EVs are the future of the auto industry, but the investment proposition at these two companies differs significantly.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.446300",
+      "url": "https://finnhub.io/api/news?id=70838eea986742a4c0d7264c7f8f89538f09525dde3cde206e580eaf4dbd49c5",
+      "raw_text": "Better Electric Vehicle EV Stock Ford vs. Tesla. Both companies managements understand that EVs are the future of the auto industry, but the investment proposition at these two companies differs significantly.",
+      "tickers_mentioned": "F",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Better"
+          ],
+          "ORGANIZATION": [
+            "Electric Vehicle",
+            "EVs"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "company",
+            2
+          ],
+          [
+            "well",
+            1
+          ],
+          [
+            "electric",
+            1
+          ],
+          [
+            "vehicle",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "ford",
+            1
+          ],
+          [
+            "vs.",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "management",
+            1
+          ],
+          [
+            "understand",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "better",
+          "electric",
+          "vehicle",
+          "ev",
+          "stock",
+          "ford",
+          "vs.",
+          "tesla",
+          ".",
+          "both",
+          "companies",
+          "managements",
+          "understand",
+          "that",
+          "evs",
+          "are",
+          "the",
+          "future",
+          "of",
+          "the",
+          "auto",
+          "industry",
+          ",",
+          "but",
+          "the",
+          "investment",
+          "proposition",
+          "at",
+          "these",
+          "two",
+          "companies",
+          "differs",
+          "significantly",
+          "."
+        ],
+        "filtered": [
+          "better",
+          "electric",
+          "vehicle",
+          "ev",
+          "stock",
+          "ford",
+          "vs.",
+          "tesla",
+          ".",
+          "companies",
+          "managements",
+          "understand",
+          "evs",
+          "future",
+          "auto",
+          "industry",
+          ",",
+          "investment",
+          "proposition",
+          "two",
+          "companies",
+          "differs",
+          "significantly",
+          "."
+        ],
+        "lemmatized": [
+          "well",
+          "electric",
+          "vehicle",
+          "ev",
+          "stock",
+          "ford",
+          "vs.",
+          "tesla",
+          ".",
+          "company",
+          "management",
+          "understand",
+          "evs",
+          "future",
+          "auto",
+          "industry",
+          ",",
+          "investment",
+          "proposition",
+          "two",
+          "company",
+          "differs",
+          "significantly",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "726e6db497a21109",
+      "title": "Ford CEO warns America is in trouble. Car giant has 5,000 mechanic jobs paying $120Kyear unfilled. Why its a problem",
+      "body": "There is another side of the labor market that rarely makes the front page.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.290060",
+      "url": "https://finnhub.io/api/news?id=04855cf11d4e104ef3b102d466637773536dfd5f2b6b695a82f291d143b89129",
+      "raw_text": "Ford CEO warns America is in trouble. Car giant has 5,000 mechanic jobs paying $120Kyear unfilled. Why its a problem. There is another side of the labor market that rarely makes the front page.",
+      "tickers_mentioned": "F",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Car"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "5",
+          "000",
+          "120K"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ford",
+            1
+          ],
+          [
+            "ceo",
+            1
+          ],
+          [
+            "warn",
+            1
+          ],
+          [
+            "america",
+            1
+          ],
+          [
+            "trouble",
+            1
+          ],
+          [
+            "car",
+            1
+          ],
+          [
+            "giant",
+            1
+          ],
+          [
+            "5,000",
+            1
+          ],
+          [
+            "mechanic",
+            1
+          ],
+          [
+            "job",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ford",
+          "ceo",
+          "warns",
+          "america",
+          "is",
+          "in",
+          "trouble",
+          ".",
+          "car",
+          "giant",
+          "has",
+          "5,000",
+          "mechanic",
+          "jobs",
+          "paying",
+          "$",
+          "120kyear",
+          "unfilled",
+          ".",
+          "why",
+          "its",
+          "a",
+          "problem",
+          ".",
+          "there",
+          "is",
+          "another",
+          "side",
+          "of",
+          "the",
+          "labor",
+          "market",
+          "that",
+          "rarely",
+          "makes",
+          "the",
+          "front",
+          "page",
+          "."
+        ],
+        "filtered": [
+          "ford",
+          "ceo",
+          "warns",
+          "america",
+          "trouble",
+          ".",
+          "car",
+          "giant",
+          "5,000",
+          "mechanic",
+          "jobs",
+          "paying",
+          "$",
+          "120kyear",
+          "unfilled",
+          ".",
+          "problem",
+          ".",
+          "another",
+          "side",
+          "labor",
+          "market",
+          "rarely",
+          "makes",
+          "front",
+          "page",
+          "."
+        ],
+        "lemmatized": [
+          "ford",
+          "ceo",
+          "warn",
+          "america",
+          "trouble",
+          ".",
+          "car",
+          "giant",
+          "5,000",
+          "mechanic",
+          "job",
+          "pay",
+          "$",
+          "120kyear",
+          "unfilled",
+          ".",
+          "problem",
+          ".",
+          "another",
+          "side",
+          "labor",
+          "market",
+          "rarely",
+          "make",
+          "front",
+          "page",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c8755972a35f4879",
+      "title": "Top Midday Stories Amazon to Sell Used Ford Vehicles on Website Novo Nordisk Cuts Wegovy, Ozempic Prices",
+      "body": "The Dow Jones Industrial Average was down, the Nasdaq Composite was higher, and the SP 500 was roug",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.246111",
+      "url": "https://finnhub.io/api/news?id=5e701494e516467f1d7df91746887b41c573c66665b7b214556cb37a997d0f16",
+      "raw_text": "Top Midday Stories Amazon to Sell Used Ford Vehicles on Website Novo Nordisk Cuts Wegovy, Ozempic Prices. The Dow Jones Industrial Average was down, the Nasdaq Composite was higher, and the SP 500 was roug",
+      "tickers_mentioned": "AMZN,F",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AMZN": [
+          "Top Midday Stories: **Amazon** to Sell Used Ford Vehicles on Website; Novo Nordisk Cuts"
+        ],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon",
+            "Novo Nordisk Cuts Wegovy"
+          ],
+          "ORGANIZATION": [
+            "Sell",
+            "Ford Vehicles",
+            "Ozempic Prices",
+            "Dow Jones Industrial Average",
+            "Nasdaq Composite"
+          ],
+          "GPE": [
+            "Website"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "cut",
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "top",
+            1
+          ],
+          [
+            "midday",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "use",
+            1
+          ],
+          [
+            "ford",
+            1
+          ],
+          [
+            "vehicle",
+            1
+          ],
+          [
+            "website",
+            1
+          ],
+          [
+            "novo",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "top",
+          "midday",
+          "stories",
+          "amazon",
+          "to",
+          "sell",
+          "used",
+          "ford",
+          "vehicles",
+          "on",
+          "website",
+          "novo",
+          "nordisk",
+          "cuts",
+          "wegovy",
+          ",",
+          "ozempic",
+          "prices",
+          ".",
+          "the",
+          "dow",
+          "jones",
+          "industrial",
+          "average",
+          "was",
+          "down",
+          ",",
+          "the",
+          "nasdaq",
+          "composite",
+          "was",
+          "higher",
+          ",",
+          "and",
+          "the",
+          "sp",
+          "500",
+          "was",
+          "roug"
+        ],
+        "filtered": [
+          "top",
+          "midday",
+          "stories",
+          "amazon",
+          "sell",
+          "used",
+          "ford",
+          "vehicles",
+          "website",
+          "novo",
+          "nordisk",
+          "cuts",
+          "wegovy",
+          ",",
+          "ozempic",
+          "prices",
+          ".",
+          "dow",
+          "jones",
+          "industrial",
+          "average",
+          "down",
+          ",",
+          "nasdaq",
+          "composite",
+          "higher",
+          ",",
+          "sp",
+          "500",
+          "roug"
+        ],
+        "lemmatized": [
+          "top",
+          "midday",
+          "story",
+          "amazon",
+          "sell",
+          "use",
+          "ford",
+          "vehicle",
+          "website",
+          "novo",
+          "nordisk",
+          "cut",
+          "wegovy",
+          ",",
+          "ozempic",
+          "price",
+          ".",
+          "dow",
+          "jones",
+          "industrial",
+          "average",
+          "down",
+          ",",
+          "nasdaq",
+          "composite",
+          "higher",
+          ",",
+          "sp",
+          "500",
+          "roug"
+        ]
+      }
+    },
+    {
+      "article_id": "a6178389c82c0f3f",
+      "title": "Amazon, Ford Partner on Used Cars. 4 Stocks That Could Be Impacted.",
+      "body": "Amazon com, with its penchant for disrupting retail industries, is going after the used car business with the help of Ford Motor That could be bad news for CarGurus Cars.com CarMax and Carvana though they werent really acting like it, for the most part. Monday, Ford Motor and Amazon announced that car buyers can shop for certified preowned Ford vehicles on Amazon Autos. Amazon launched its car buying platform in late 2024, partnering with Hyundai Motor Hertz was Amazon Autos first fleet customer.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.157743",
+      "url": "https://finnhub.io/api/news?id=631aff413c80a8814551bc1579fc726ed618524ce2b4537ef441a7036b51b528",
+      "raw_text": "Amazon, Ford Partner on Used Cars. 4 Stocks That Could Be Impacted.. Amazon com, with its penchant for disrupting retail industries, is going after the used car business with the help of Ford Motor That could be bad news for CarGurus Cars.com CarMax and Carvana though they werent really acting like it, for the most part. Monday, Ford Motor and Amazon announced that car buyers can shop for certified preowned Ford vehicles on Amazon Autos. Amazon launched its car buying platform in late 2024, partnering with Hyundai Motor Hertz was Amazon Autos first fleet customer.",
+      "tickers_mentioned": "NWS,AMZN,F,FSLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NWS": [],
+        "AMZN": [
+          "**Amazon,** Ford Partner on Used Cars. 4 Stocks That Could Be",
+          "Partner on Used Cars. 4 Stocks That Could Be Impacted.. **Amazon** com, with its penchant for disrupting retail industries, is going",
+          "like it, for the most part. Monday, Ford Motor and **Amazon** announced that car buyers can shop for certified preowned Ford",
+          "car buyers can shop for certified preowned Ford vehicles on **Amazon** Autos. Amazon launched its car buying platform in late 2024,",
+          "can shop for certified preowned Ford vehicles on Amazon Autos. **Amazon** launched its car buying platform in late 2024, partnering with",
+          "platform in late 2024, partnering with Hyundai Motor Hertz was **Amazon** Autos’ first fleet customer."
+        ],
+        "F": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cars",
+            "Carvana",
+            "Amazon",
+            "Amazon Autos",
+            "Hyundai Motor Hertz"
+          ],
+          "ORGANIZATION": [
+            "Ford Partner",
+            "Ford",
+            "CarGurus",
+            "Ford Motor"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "4",
+          "2024"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            6
+          ],
+          [
+            "ford",
+            4
+          ],
+          [
+            "car",
+            4
+          ],
+          [
+            "motor",
+            3
+          ],
+          [
+            "partner",
+            2
+          ],
+          [
+            "could",
+            2
+          ],
+          [
+            "auto",
+            2
+          ],
+          [
+            "used",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "impact",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazon",
+          ",",
+          "ford",
+          "partner",
+          "on",
+          "used",
+          "cars",
+          ".",
+          "4",
+          "stocks",
+          "that",
+          "could",
+          "be",
+          "impacted",
+          "..",
+          "amazon",
+          "com",
+          ",",
+          "with",
+          "its",
+          "penchant",
+          "for",
+          "disrupting",
+          "retail",
+          "industries",
+          ",",
+          "is",
+          "going",
+          "after",
+          "the",
+          "used",
+          "car",
+          "business",
+          "with",
+          "the",
+          "help",
+          "of",
+          "ford",
+          "motor",
+          "that",
+          "could",
+          "be",
+          "bad",
+          "news",
+          "for",
+          "cargurus",
+          "cars.com",
+          "carmax",
+          "and",
+          "carvana",
+          "though",
+          "they",
+          "werent",
+          "really",
+          "acting",
+          "like",
+          "it",
+          ",",
+          "for",
+          "the",
+          "most",
+          "part",
+          ".",
+          "monday",
+          ",",
+          "ford",
+          "motor",
+          "and",
+          "amazon",
+          "announced",
+          "that",
+          "car",
+          "buyers",
+          "can",
+          "shop",
+          "for",
+          "certified",
+          "preowned",
+          "ford",
+          "vehicles",
+          "on",
+          "amazon",
+          "autos",
+          ".",
+          "amazon",
+          "launched",
+          "its",
+          "car",
+          "buying",
+          "platform",
+          "in",
+          "late",
+          "2024",
+          ",",
+          "partnering",
+          "with",
+          "hyundai",
+          "motor",
+          "hertz",
+          "was",
+          "amazon",
+          "autos",
+          "first",
+          "fleet",
+          "customer",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          ",",
+          "ford",
+          "partner",
+          "used",
+          "cars",
+          ".",
+          "4",
+          "stocks",
+          "could",
+          "impacted",
+          "..",
+          "amazon",
+          "com",
+          ",",
+          "penchant",
+          "disrupting",
+          "retail",
+          "industries",
+          ",",
+          "going",
+          "used",
+          "car",
+          "business",
+          "help",
+          "ford",
+          "motor",
+          "could",
+          "bad",
+          "news",
+          "cargurus",
+          "cars.com",
+          "carmax",
+          "carvana",
+          "though",
+          "werent",
+          "really",
+          "acting",
+          "like",
+          ",",
+          "most",
+          "part",
+          ".",
+          "monday",
+          ",",
+          "ford",
+          "motor",
+          "amazon",
+          "announced",
+          "car",
+          "buyers",
+          "shop",
+          "certified",
+          "preowned",
+          "ford",
+          "vehicles",
+          "amazon",
+          "autos",
+          ".",
+          "amazon",
+          "launched",
+          "car",
+          "buying",
+          "platform",
+          "late",
+          "2024",
+          ",",
+          "partnering",
+          "hyundai",
+          "motor",
+          "hertz",
+          "amazon",
+          "autos",
+          "first",
+          "fleet",
+          "customer",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          ",",
+          "ford",
+          "partner",
+          "used",
+          "car",
+          ".",
+          "4",
+          "stock",
+          "could",
+          "impact",
+          "..",
+          "amazon",
+          "com",
+          ",",
+          "penchant",
+          "disrupt",
+          "retail",
+          "industry",
+          ",",
+          "go",
+          "use",
+          "car",
+          "business",
+          "help",
+          "ford",
+          "motor",
+          "could",
+          "bad",
+          "news",
+          "cargurus",
+          "cars.com",
+          "carmax",
+          "carvana",
+          "though",
+          "werent",
+          "really",
+          "act",
+          "like",
+          ",",
+          "most",
+          "part",
+          ".",
+          "monday",
+          ",",
+          "ford",
+          "motor",
+          "amazon",
+          "announce",
+          "car",
+          "buyer",
+          "shop",
+          "certify",
+          "preowned",
+          "ford",
+          "vehicle",
+          "amazon",
+          "auto",
+          ".",
+          "amazon",
+          "launched",
+          "car",
+          "buying",
+          "platform",
+          "late",
+          "2024",
+          ",",
+          "partner",
+          "hyundai",
+          "motor",
+          "hertz",
+          "amazon",
+          "auto",
+          "first",
+          "fleet",
+          "customer",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "40a8419283f623fd",
+      "title": "Skip the dealership and buy a used Ford on Amazon What to know",
+      "body": "Amazon AMZN and Ford F are teaming up to offer certified used vehicles from dealerships through the e-commerce giants new Amazon Autos site. Yahoo Finance Senior Autos Reporter Pras Subramanian outlines the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.176450",
+      "url": "https://finnhub.io/api/news?id=3c4ed988542e110bae4cf9580f1ac27d437f7929a90d0d7fc1f22083d48a2928",
+      "raw_text": "Skip the dealership and buy a used Ford on Amazon What to know. Amazon AMZN and Ford F are teaming up to offer certified used vehicles from dealerships through the e-commerce giants new Amazon Autos site. Yahoo Finance Senior Autos Reporter Pras Subramanian outlines the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "tickers_mentioned": "AMZN,F",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AMZN": [
+          "Skip the dealership and buy a used Ford on **Amazon:** What to know. Amazon (AMZN) and Ford (F) are teaming",
+          "and buy a used Ford on Amazon: What to know. **Amazon** (AMZN) and Ford (F) are teaming up to offer certified",
+          "certified used vehicles from dealerships through the e-commerce giant's new **Amazon** Autos site. Yahoo Finance Senior Autos Reporter Pras Subramanian outlines"
+        ],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon Autos",
+            "Finance Senior Autos Reporter Pras Subramanian",
+            "Market Domination Overtime"
+          ],
+          "ORGANIZATION": [
+            "AMZN"
+          ],
+          "GPE": [
+            "Amazon",
+            "Ford"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amazon",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "dealership",
+            2
+          ],
+          [
+            "use",
+            2
+          ],
+          [
+            "ford",
+            2
+          ],
+          [
+            "auto",
+            2
+          ],
+          [
+            "domination",
+            2
+          ],
+          [
+            "overtime",
+            2
+          ],
+          [
+            "more",
+            2
+          ],
+          [
+            "skip",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "skip",
+          "the",
+          "dealership",
+          "and",
+          "buy",
+          "a",
+          "used",
+          "ford",
+          "on",
+          "amazon",
+          "what",
+          "to",
+          "know",
+          ".",
+          "amazon",
+          "amzn",
+          "and",
+          "ford",
+          "f",
+          "are",
+          "teaming",
+          "up",
+          "to",
+          "offer",
+          "certified",
+          "used",
+          "vehicles",
+          "from",
+          "dealerships",
+          "through",
+          "the",
+          "e-commerce",
+          "giants",
+          "new",
+          "amazon",
+          "autos",
+          "site",
+          ".",
+          "yahoo",
+          "finance",
+          "senior",
+          "autos",
+          "reporter",
+          "pras",
+          "subramanian",
+          "outlines",
+          "the",
+          "details",
+          "on",
+          "market",
+          "domination",
+          "overtime",
+          ".",
+          "to",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "and",
+          "analysis",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "out",
+          "more",
+          "market",
+          "domination",
+          "overtime",
+          "."
+        ],
+        "filtered": [
+          "skip",
+          "dealership",
+          "buy",
+          "used",
+          "ford",
+          "amazon",
+          "know",
+          ".",
+          "amazon",
+          "amzn",
+          "ford",
+          "f",
+          "teaming",
+          "up",
+          "offer",
+          "certified",
+          "used",
+          "vehicles",
+          "dealerships",
+          "e-commerce",
+          "giants",
+          "new",
+          "amazon",
+          "autos",
+          "site",
+          ".",
+          "yahoo",
+          "finance",
+          "senior",
+          "autos",
+          "reporter",
+          "pras",
+          "subramanian",
+          "outlines",
+          "details",
+          "market",
+          "domination",
+          "overtime",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "analysis",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "domination",
+          "overtime",
+          "."
+        ],
+        "lemmatized": [
+          "skip",
+          "dealership",
+          "buy",
+          "use",
+          "ford",
+          "amazon",
+          "know",
+          ".",
+          "amazon",
+          "amzn",
+          "ford",
+          "f",
+          "team",
+          "up",
+          "offer",
+          "certified",
+          "use",
+          "vehicle",
+          "dealership",
+          "e-commerce",
+          "giant",
+          "new",
+          "amazon",
+          "auto",
+          "site",
+          ".",
+          "yahoo",
+          "finance",
+          "senior",
+          "auto",
+          "reporter",
+          "pras",
+          "subramanian",
+          "outline",
+          "detail",
+          "market",
+          "domination",
+          "overtime",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insight",
+          "analysis",
+          "late",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "domination",
+          "overtime",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "49a1a14fcdb2ed49",
+      "title": "Peter Thiels hedge fund sells Nvidia stake, Ford-Amazon partnership",
+      "body": "Yahoo Finances John Hyland tracks todays top moving stocks and biggest market stories in this Market Minute, including Stifel analysts boosting their price target on Tesla TSLA stock, Peter Thiels hedge fund Thiel Macro fund sold off the entirety of its Nvidia NVDA stake, and Amazon AMZN partnering with Ford F to sell pre-owned cars online. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.354422",
+      "url": "https://finnhub.io/api/news?id=5f2004d20fccc28d1b305e3f2b2bb3a18939439e6a8ea5decef1ffef04a75e39",
+      "raw_text": "Peter Thiels hedge fund sells Nvidia stake, Ford-Amazon partnership. Yahoo Finances John Hyland tracks todays top moving stocks and biggest market stories in this Market Minute, including Stifel analysts boosting their price target on Tesla TSLA stock, Peter Thiels hedge fund Thiel Macro fund sold off the entirety of its Nvidia NVDA stake, and Amazon AMZN partnering with Ford F to sell pre-owned cars online. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "tickers_mentioned": "TGT,TSLA,NVDA,AMZN,F",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TGT": [],
+        "TSLA": [],
+        "NVDA": [
+          "Peter Thiel's hedge fund sells **Nvidia** stake, Ford-Amazon partnership. Yahoo Finance's John Hyland tracks today's top",
+          "fund Thiel Macro fund sold off the entirety of its **Nvidia** (NVDA) stake, and Amazon (AMZN) partnering with Ford (F) to"
+        ],
+        "AMZN": [
+          "Peter Thiel's hedge fund sells Nvidia stake, **Ford-Amazon** partnership. Yahoo Finance's John Hyland tracks today's top moving stocks",
+          "sold off the entirety of its Nvidia (NVDA) stake, and **Amazon** (AMZN) partnering with Ford (F) to sell pre-owned cars online."
+        ],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Peter",
+            "Thiel",
+            "Yahoo Finance",
+            "John Hyland",
+            "Market Minute",
+            "Peter Thiel",
+            "Thiel Macro"
+          ],
+          "ORGANIZATION": [
+            "TSLA",
+            "NVDA",
+            "AMZN",
+            "Ford"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Stifel",
+            "Tesla",
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "boost"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "market",
+            4
+          ],
+          [
+            "fund",
+            3
+          ],
+          [
+            "sell",
+            3
+          ],
+          [
+            "peter",
+            2
+          ],
+          [
+            "thiels",
+            2
+          ],
+          [
+            "hedge",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stake",
+            2
+          ],
+          [
+            "yahoo",
+            2
+          ],
+          [
+            "finance",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 15,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "sells",
+          "nvidia",
+          "stake",
+          ",",
+          "ford-amazon",
+          "partnership",
+          ".",
+          "yahoo",
+          "finances",
+          "john",
+          "hyland",
+          "tracks",
+          "todays",
+          "top",
+          "moving",
+          "stocks",
+          "and",
+          "biggest",
+          "market",
+          "stories",
+          "in",
+          "this",
+          "market",
+          "minute",
+          ",",
+          "including",
+          "stifel",
+          "analysts",
+          "boosting",
+          "their",
+          "price",
+          "target",
+          "on",
+          "tesla",
+          "tsla",
+          "stock",
+          ",",
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "thiel",
+          "macro",
+          "fund",
+          "sold",
+          "off",
+          "the",
+          "entirety",
+          "of",
+          "its",
+          "nvidia",
+          "nvda",
+          "stake",
+          ",",
+          "and",
+          "amazon",
+          "amzn",
+          "partnering",
+          "with",
+          "ford",
+          "f",
+          "to",
+          "sell",
+          "pre-owned",
+          "cars",
+          "online",
+          ".",
+          "stay",
+          "up",
+          "to",
+          "date",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "with",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "filtered": [
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "sells",
+          "nvidia",
+          "stake",
+          ",",
+          "ford-amazon",
+          "partnership",
+          ".",
+          "yahoo",
+          "finances",
+          "john",
+          "hyland",
+          "tracks",
+          "todays",
+          "top",
+          "moving",
+          "stocks",
+          "biggest",
+          "market",
+          "stories",
+          "market",
+          "minute",
+          ",",
+          "including",
+          "stifel",
+          "analysts",
+          "boosting",
+          "price",
+          "target",
+          "tesla",
+          "tsla",
+          "stock",
+          ",",
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "thiel",
+          "macro",
+          "fund",
+          "sold",
+          "entirety",
+          "nvidia",
+          "nvda",
+          "stake",
+          ",",
+          "amazon",
+          "amzn",
+          "partnering",
+          "ford",
+          "f",
+          "sell",
+          "pre-owned",
+          "cars",
+          "online",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "lemmatized": [
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "sell",
+          "nvidia",
+          "stake",
+          ",",
+          "ford-amazon",
+          "partnership",
+          ".",
+          "yahoo",
+          "finance",
+          "john",
+          "hyland",
+          "track",
+          "todays",
+          "top",
+          "move",
+          "stock",
+          "big",
+          "market",
+          "story",
+          "market",
+          "minute",
+          ",",
+          "include",
+          "stifel",
+          "analyst",
+          "boost",
+          "price",
+          "target",
+          "tesla",
+          "tsla",
+          "stock",
+          ",",
+          "peter",
+          "thiels",
+          "hedge",
+          "fund",
+          "thiel",
+          "macro",
+          "fund",
+          "sell",
+          "entirety",
+          "nvidia",
+          "nvda",
+          "stake",
+          ",",
+          "amazon",
+          "amzn",
+          "partner",
+          "ford",
+          "f",
+          "sell",
+          "pre-owned",
+          "car",
+          "online",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "late",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finance",
+          "market",
+          "minute",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c8755972a35f4879",
+      "title": "Top Midday Stories Amazon to Sell Used Ford Vehicles on Website Novo Nordisk Cuts Wegovy, Ozempic Prices",
+      "body": "The Dow Jones Industrial Average was down, the Nasdaq Composite was higher, and the SP 500 was roug",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.442117",
+      "url": "https://finnhub.io/api/news?id=5e701494e516467f1d7df91746887b41c573c66665b7b214556cb37a997d0f16",
+      "raw_text": "Top Midday Stories Amazon to Sell Used Ford Vehicles on Website Novo Nordisk Cuts Wegovy, Ozempic Prices. The Dow Jones Industrial Average was down, the Nasdaq Composite was higher, and the SP 500 was roug",
+      "tickers_mentioned": "AMZN,F",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AMZN": [
+          "Top Midday Stories: **Amazon** to Sell Used Ford Vehicles on Website; Novo Nordisk Cuts"
+        ],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon",
+            "Novo Nordisk Cuts Wegovy"
+          ],
+          "ORGANIZATION": [
+            "Sell",
+            "Ford Vehicles",
+            "Ozempic Prices",
+            "Dow Jones Industrial Average",
+            "Nasdaq Composite"
+          ],
+          "GPE": [
+            "Website"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "cut",
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "top",
+            1
+          ],
+          [
+            "midday",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "use",
+            1
+          ],
+          [
+            "ford",
+            1
+          ],
+          [
+            "vehicle",
+            1
+          ],
+          [
+            "website",
+            1
+          ],
+          [
+            "novo",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "top",
+          "midday",
+          "stories",
+          "amazon",
+          "to",
+          "sell",
+          "used",
+          "ford",
+          "vehicles",
+          "on",
+          "website",
+          "novo",
+          "nordisk",
+          "cuts",
+          "wegovy",
+          ",",
+          "ozempic",
+          "prices",
+          ".",
+          "the",
+          "dow",
+          "jones",
+          "industrial",
+          "average",
+          "was",
+          "down",
+          ",",
+          "the",
+          "nasdaq",
+          "composite",
+          "was",
+          "higher",
+          ",",
+          "and",
+          "the",
+          "sp",
+          "500",
+          "was",
+          "roug"
+        ],
+        "filtered": [
+          "top",
+          "midday",
+          "stories",
+          "amazon",
+          "sell",
+          "used",
+          "ford",
+          "vehicles",
+          "website",
+          "novo",
+          "nordisk",
+          "cuts",
+          "wegovy",
+          ",",
+          "ozempic",
+          "prices",
+          ".",
+          "dow",
+          "jones",
+          "industrial",
+          "average",
+          "down",
+          ",",
+          "nasdaq",
+          "composite",
+          "higher",
+          ",",
+          "sp",
+          "500",
+          "roug"
+        ],
+        "lemmatized": [
+          "top",
+          "midday",
+          "story",
+          "amazon",
+          "sell",
+          "use",
+          "ford",
+          "vehicle",
+          "website",
+          "novo",
+          "nordisk",
+          "cut",
+          "wegovy",
+          ",",
+          "ozempic",
+          "price",
+          ".",
+          "dow",
+          "jones",
+          "industrial",
+          "average",
+          "down",
+          ",",
+          "nasdaq",
+          "composite",
+          "higher",
+          ",",
+          "sp",
+          "500",
+          "roug"
+        ]
+      }
+    },
+    {
+      "article_id": "1636a66379f5c0eb",
+      "title": "Ford partners with Amazon for dealers to sell used vehicles online",
+      "body": "Ford is partnering with Amazon for the automakers franchised dealers to be able to sell certified pre-owned vehicles through the online retail giant.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:57.732620",
+      "url": "https://finnhub.io/api/news?id=4b8b7dc285e2c20c30f84a1ef8a8dbde420685845581b83b4bd74f04aff90c0b",
+      "raw_text": "Ford partners with Amazon for dealers to sell used vehicles online. Ford is partnering with Amazon for the automakers franchised dealers to be able to sell certified pre-owned vehicles through the online retail giant.",
+      "tickers_mentioned": "AMZN,F",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AMZN": [
+          "Ford partners with **Amazon** for dealers to sell used vehicles online. Ford is partnering",
+          "dealers to sell used vehicles online. Ford is partnering with **Amazon** for the automaker's franchised dealers to be able to sell"
+        ],
+        "F": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ford",
+            2
+          ],
+          [
+            "partner",
+            2
+          ],
+          [
+            "amazon",
+            2
+          ],
+          [
+            "dealer",
+            2
+          ],
+          [
+            "sell",
+            2
+          ],
+          [
+            "vehicle",
+            2
+          ],
+          [
+            "online",
+            2
+          ],
+          [
+            "used",
+            1
+          ],
+          [
+            "automaker",
+            1
+          ],
+          [
+            "franchise",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ford",
+          "partners",
+          "with",
+          "amazon",
+          "for",
+          "dealers",
+          "to",
+          "sell",
+          "used",
+          "vehicles",
+          "online",
+          ".",
+          "ford",
+          "is",
+          "partnering",
+          "with",
+          "amazon",
+          "for",
+          "the",
+          "automakers",
+          "franchised",
+          "dealers",
+          "to",
+          "be",
+          "able",
+          "to",
+          "sell",
+          "certified",
+          "pre-owned",
+          "vehicles",
+          "through",
+          "the",
+          "online",
+          "retail",
+          "giant",
+          "."
+        ],
+        "filtered": [
+          "ford",
+          "partners",
+          "amazon",
+          "dealers",
+          "sell",
+          "used",
+          "vehicles",
+          "online",
+          ".",
+          "ford",
+          "partnering",
+          "amazon",
+          "automakers",
+          "franchised",
+          "dealers",
+          "able",
+          "sell",
+          "certified",
+          "pre-owned",
+          "vehicles",
+          "online",
+          "retail",
+          "giant",
+          "."
+        ],
+        "lemmatized": [
+          "ford",
+          "partner",
+          "amazon",
+          "dealer",
+          "sell",
+          "used",
+          "vehicle",
+          "online",
+          ".",
+          "ford",
+          "partner",
+          "amazon",
+          "automaker",
+          "franchise",
+          "dealer",
+          "able",
+          "sell",
+          "certify",
+          "pre-owned",
+          "vehicle",
+          "online",
+          "retail",
+          "giant",
+          "."
+        ]
+      }
+    }
+  ]
+}

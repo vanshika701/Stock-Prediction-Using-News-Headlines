@@ -1,0 +1,187 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "6d6de3de228bba0f",
+      "title": "Air cargo impact from post-crash MD-11 grounding seen as aminimal, analysts say",
+      "body": "Air cargo could be impacted by the UPS and FedEx fleet groundings ahead of the busy holiday season.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:55.259916",
+      "url": "https://finnhub.io/api/news?id=83d33698ef55089df8f45da412573219e4761cb7a9edc6df76866328b7f3049f",
+      "raw_text": "Air cargo impact from post-crash MD-11 grounding seen as aminimal, analysts say. Air cargo could be impacted by the UPS and FedEx fleet groundings ahead of the busy holiday season.",
+      "tickers_mentioned": "FDX",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "FDX": [
+          "say. Air cargo could be impacted by the UPS and **FedEx** fleet groundings ahead of the busy holiday season."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Air"
+          ],
+          "ORGANIZATION": [
+            "UPS",
+            "FedEx"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "crash"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "11"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "air",
+            2
+          ],
+          [
+            "cargo",
+            2
+          ],
+          [
+            "impact",
+            2
+          ],
+          [
+            "post-crash",
+            1
+          ],
+          [
+            "md-11",
+            1
+          ],
+          [
+            "ground",
+            1
+          ],
+          [
+            "see",
+            1
+          ],
+          [
+            "aminimal",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "say",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "air",
+          "cargo",
+          "impact",
+          "from",
+          "post-crash",
+          "md-11",
+          "grounding",
+          "seen",
+          "as",
+          "aminimal",
+          ",",
+          "analysts",
+          "say",
+          ".",
+          "air",
+          "cargo",
+          "could",
+          "be",
+          "impacted",
+          "by",
+          "the",
+          "ups",
+          "and",
+          "fedex",
+          "fleet",
+          "groundings",
+          "ahead",
+          "of",
+          "the",
+          "busy",
+          "holiday",
+          "season",
+          "."
+        ],
+        "filtered": [
+          "air",
+          "cargo",
+          "impact",
+          "post-crash",
+          "md-11",
+          "grounding",
+          "seen",
+          "aminimal",
+          ",",
+          "analysts",
+          "say",
+          ".",
+          "air",
+          "cargo",
+          "could",
+          "impacted",
+          "ups",
+          "fedex",
+          "fleet",
+          "groundings",
+          "ahead",
+          "busy",
+          "holiday",
+          "season",
+          "."
+        ],
+        "lemmatized": [
+          "air",
+          "cargo",
+          "impact",
+          "post-crash",
+          "md-11",
+          "ground",
+          "see",
+          "aminimal",
+          ",",
+          "analyst",
+          "say",
+          ".",
+          "air",
+          "cargo",
+          "could",
+          "impact",
+          "ups",
+          "fedex",
+          "fleet",
+          "grounding",
+          "ahead",
+          "busy",
+          "holiday",
+          "season",
+          "."
+        ]
+      }
+    }
+  ]
+}

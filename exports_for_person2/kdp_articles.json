@@ -1,0 +1,250 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "f17ad89c02987389",
+      "title": "The best Black Friday coffee maker and espresso machine deals include up to 40 percent off Nespresso, Keurig, and Breville",
+      "body": "there is no better time than Black Friday to stock up on valuable kitchen equipment, whether you are giving these items as gifts or keeping them for yourself. Black Friday sales provide the biggest dis 6843 chars",
+      "source": "Business Insider",
+      "timestamp": "2025-11-22T00:25:54.533494",
+      "url": "https://www.businessinsider.com/guides/coffee-maker-espresso-machine-black-friday-deals-2025-11",
+      "raw_text": "The best Black Friday coffee maker and espresso machine deals include up to 40 percent off Nespresso, Keurig, and Breville. there is no better time than Black Friday to stock up on valuable kitchen equipment, whether you are giving these items as gifts or keeping them for yourself. Black Friday sales provide the biggest dis 6843 chars",
+      "tickers_mentioned": "KDP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "KDP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Black",
+            "Nespresso"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Keurig",
+            "Breville"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "40",
+          "6843"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "best",
+            1
+          ],
+          [
+            "coffee",
+            1
+          ],
+          [
+            "maker",
+            1
+          ],
+          [
+            "espresso",
+            1
+          ],
+          [
+            "machine",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "include",
+            1
+          ],
+          [
+            "percent",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "black",
+          "friday",
+          "coffee",
+          "maker",
+          "and",
+          "espresso",
+          "machine",
+          "deals",
+          "include",
+          "up",
+          "to",
+          "40",
+          "percent",
+          "off",
+          "nespresso",
+          ",",
+          "keurig",
+          ",",
+          "and",
+          "breville",
+          ".",
+          "there",
+          "is",
+          "no",
+          "better",
+          "time",
+          "than",
+          "black",
+          "friday",
+          "to",
+          "stock",
+          "up",
+          "on",
+          "valuable",
+          "kitchen",
+          "equipment",
+          ",",
+          "whether",
+          "you",
+          "are",
+          "giving",
+          "these",
+          "items",
+          "as",
+          "gifts",
+          "or",
+          "keeping",
+          "them",
+          "for",
+          "yourself",
+          ".",
+          "black",
+          "friday",
+          "sales",
+          "provide",
+          "the",
+          "biggest",
+          "dis",
+          "6843",
+          "chars"
+        ],
+        "filtered": [
+          "best",
+          "black",
+          "friday",
+          "coffee",
+          "maker",
+          "espresso",
+          "machine",
+          "deals",
+          "include",
+          "up",
+          "40",
+          "percent",
+          "nespresso",
+          ",",
+          "keurig",
+          ",",
+          "breville",
+          ".",
+          "no",
+          "better",
+          "time",
+          "black",
+          "friday",
+          "stock",
+          "up",
+          "valuable",
+          "kitchen",
+          "equipment",
+          ",",
+          "whether",
+          "giving",
+          "items",
+          "gifts",
+          "keeping",
+          ".",
+          "black",
+          "friday",
+          "sales",
+          "provide",
+          "biggest",
+          "dis",
+          "6843",
+          "chars"
+        ],
+        "lemmatized": [
+          "best",
+          "black",
+          "friday",
+          "coffee",
+          "maker",
+          "espresso",
+          "machine",
+          "deal",
+          "include",
+          "up",
+          "40",
+          "percent",
+          "nespresso",
+          ",",
+          "keurig",
+          ",",
+          "breville",
+          ".",
+          "no",
+          "good",
+          "time",
+          "black",
+          "friday",
+          "stock",
+          "up",
+          "valuable",
+          "kitchen",
+          "equipment",
+          ",",
+          "whether",
+          "give",
+          "item",
+          "gift",
+          "keep",
+          ".",
+          "black",
+          "friday",
+          "sales",
+          "provide",
+          "big",
+          "dis",
+          "6843",
+          "char"
+        ]
+      }
+    }
+  ]
+}

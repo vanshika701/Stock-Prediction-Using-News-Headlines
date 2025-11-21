@@ -1,0 +1,275 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "0704a980d165827c",
+      "title": "463 million dollars Vanished? Bitcoin ETF Down Bad As Investors Are Fleeing to the Safety of Digitaps $TAP 2 million dollars Presale",
+      "body": "A record-breaking $463 million outflow from BlackRocks Bitcoin ETF has shaken the crypto market. This has led to price drops in major cryptos like BTC and ETH. Yet, in the middle of this downturn, D 4807 chars",
+      "source": "Ambcrypto.com",
+      "timestamp": "2025-11-22T00:48:32.084007",
+      "url": "https://ambcrypto.com/463m-vanished-bitcoin-etf-down-bad-as-investors-are-fleeing-to-the-safety-of-digitaps-tap-2m-presale/",
+      "raw_text": "463 million dollars Vanished? Bitcoin ETF Down Bad As Investors Are Fleeing to the Safety of Digitaps $TAP 2 million dollars Presale. A record-breaking $463 million outflow from BlackRocks Bitcoin ETF has shaken the crypto market. This has led to price drops in major cryptos like BTC and ETH. Yet, in the middle of this downturn, D 4807 chars",
+      "tickers_mentioned": "TAP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TAP": [
+          "Bad As Investors Are Fleeing to the Safety of Digitap’s **($TAP)** $2M Presale. A record-breaking $463 million outflow from BlackRocks Bitcoin"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitcoin ETF Down Bad"
+          ],
+          "ORGANIZATION": [
+            "Safety",
+            "Digitap",
+            "BlackRocks Bitcoin",
+            "BTC",
+            "ETH"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "463M",
+          "2M",
+          "463",
+          "4807"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "million",
+            3
+          ],
+          [
+            "463",
+            2
+          ],
+          [
+            "dollar",
+            2
+          ],
+          [
+            "bitcoin",
+            2
+          ],
+          [
+            "etf",
+            2
+          ],
+          [
+            "vanish",
+            1
+          ],
+          [
+            "down",
+            1
+          ],
+          [
+            "bad",
+            1
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "flee",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "463",
+          "million",
+          "dollars",
+          "vanished",
+          "?",
+          "bitcoin",
+          "etf",
+          "down",
+          "bad",
+          "as",
+          "investors",
+          "are",
+          "fleeing",
+          "to",
+          "the",
+          "safety",
+          "of",
+          "digitaps",
+          "$",
+          "tap",
+          "2",
+          "million",
+          "dollars",
+          "presale",
+          ".",
+          "a",
+          "record-breaking",
+          "$",
+          "463",
+          "million",
+          "outflow",
+          "from",
+          "blackrocks",
+          "bitcoin",
+          "etf",
+          "has",
+          "shaken",
+          "the",
+          "crypto",
+          "market",
+          ".",
+          "this",
+          "has",
+          "led",
+          "to",
+          "price",
+          "drops",
+          "in",
+          "major",
+          "cryptos",
+          "like",
+          "btc",
+          "and",
+          "eth",
+          ".",
+          "yet",
+          ",",
+          "in",
+          "the",
+          "middle",
+          "of",
+          "this",
+          "downturn",
+          ",",
+          "d",
+          "4807",
+          "chars"
+        ],
+        "filtered": [
+          "463",
+          "million",
+          "dollars",
+          "vanished",
+          "?",
+          "bitcoin",
+          "etf",
+          "down",
+          "bad",
+          "investors",
+          "fleeing",
+          "safety",
+          "digitaps",
+          "$",
+          "tap",
+          "2",
+          "million",
+          "dollars",
+          "presale",
+          ".",
+          "record-breaking",
+          "$",
+          "463",
+          "million",
+          "outflow",
+          "blackrocks",
+          "bitcoin",
+          "etf",
+          "shaken",
+          "crypto",
+          "market",
+          ".",
+          "led",
+          "price",
+          "drops",
+          "major",
+          "cryptos",
+          "like",
+          "btc",
+          "eth",
+          ".",
+          "yet",
+          ",",
+          "middle",
+          "downturn",
+          ",",
+          "4807",
+          "chars"
+        ],
+        "lemmatized": [
+          "463",
+          "million",
+          "dollar",
+          "vanish",
+          "?",
+          "bitcoin",
+          "etf",
+          "down",
+          "bad",
+          "investor",
+          "flee",
+          "safety",
+          "digitaps",
+          "$",
+          "tap",
+          "2",
+          "million",
+          "dollar",
+          "presale",
+          ".",
+          "record-breaking",
+          "$",
+          "463",
+          "million",
+          "outflow",
+          "blackrocks",
+          "bitcoin",
+          "etf",
+          "shake",
+          "crypto",
+          "market",
+          ".",
+          "lead",
+          "price",
+          "drop",
+          "major",
+          "cryptos",
+          "like",
+          "btc",
+          "eth",
+          ".",
+          "yet",
+          ",",
+          "middle",
+          "downturn",
+          ",",
+          "4807",
+          "char"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "40b0713c283a89fe",
+      "title": "China Secretly Funnels Over $200 Billion Into Nearly 2,500 US Projects Despite Trump, Biden Crackdown - Amazon.com NASDAQAMZN , Boeing NYSEBA",
+      "body": "Chinese financial institutions have discreetly funneled over $200 billion into a multitude of projects in nearly every U.S. state over the last 25 years, a report by Virginia-based research lab AidData showed on Tuesday.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:25:55.238044",
+      "url": "https://www.benzinga.com/news/politics/25/11/48943744/china-secretly-funnels-over-200-billion-into-nearly-2500-us-projects-despite-trump-biden-crackdown",
+      "raw_text": "China Secretly Funnels Over $200 Billion Into Nearly 2,500 US Projects Despite Trump, Biden Crackdown - Amazon.com NASDAQAMZN , Boeing NYSEBA. Chinese financial institutions have discreetly funneled over $200 billion into a multitude of projects in nearly every U.S. state over the last 25 years, a report by Virginia-based research lab AidData showed on Tuesday.",
+      "tickers_mentioned": "BA,AMZN,STT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BA": [
+          "Despite Trump, Biden Crackdown - Amazon.com ( NASDAQ:AMZN ) , **Boeing** ( NYSE:BA ) . Chinese financial institutions have discreetly funneled"
+        ],
+        "AMZN": [
+          "Into Nearly 2,500 US Projects Despite Trump, Biden Crackdown - **Amazon.com** ( NASDAQ:AMZN ) , Boeing ( NYSE:BA ) . Chinese"
+        ],
+        "STT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion Into",
+            "Biden Crackdown"
+          ],
+          "ORGANIZATION": [
+            "US Projects Despite Trump",
+            "NASDAQ",
+            "NYSE",
+            "AidData"
+          ],
+          "GPE": [
+            "China",
+            "Boeing",
+            "Chinese",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "state",
+            "project"
+          ]
+        },
+        "numbers": [
+          "200",
+          "2",
+          "500",
+          "200",
+          "25"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "over",
+            3
+          ],
+          [
+            "funnel",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "nearly",
+            2
+          ],
+          [
+            "project",
+            2
+          ],
+          [
+            "china",
+            1
+          ],
+          [
+            "secretly",
+            1
+          ],
+          [
+            "2,500",
+            1
+          ],
+          [
+            "despite",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "china",
+          "secretly",
+          "funnels",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "into",
+          "nearly",
+          "2,500",
+          "us",
+          "projects",
+          "despite",
+          "trump",
+          ",",
+          "biden",
+          "crackdown",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ",",
+          "boeing",
+          "nyseba",
+          ".",
+          "chinese",
+          "financial",
+          "institutions",
+          "have",
+          "discreetly",
+          "funneled",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "into",
+          "a",
+          "multitude",
+          "of",
+          "projects",
+          "in",
+          "nearly",
+          "every",
+          "u.s.",
+          "state",
+          "over",
+          "the",
+          "last",
+          "25",
+          "years",
+          ",",
+          "a",
+          "report",
+          "by",
+          "virginia-based",
+          "research",
+          "lab",
+          "aiddata",
+          "showed",
+          "on",
+          "tuesday",
+          "."
+        ],
+        "filtered": [
+          "china",
+          "secretly",
+          "funnels",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "nearly",
+          "2,500",
+          "us",
+          "projects",
+          "despite",
+          "trump",
+          ",",
+          "biden",
+          "crackdown",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ",",
+          "boeing",
+          "nyseba",
+          ".",
+          "chinese",
+          "financial",
+          "institutions",
+          "discreetly",
+          "funneled",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "multitude",
+          "projects",
+          "nearly",
+          "every",
+          "u.s.",
+          "state",
+          "over",
+          "last",
+          "25",
+          "years",
+          ",",
+          "report",
+          "virginia-based",
+          "research",
+          "lab",
+          "aiddata",
+          "showed",
+          "tuesday",
+          "."
+        ],
+        "lemmatized": [
+          "china",
+          "secretly",
+          "funnel",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "nearly",
+          "2,500",
+          "u",
+          "project",
+          "despite",
+          "trump",
+          ",",
+          "biden",
+          "crackdown",
+          "-",
+          "amazon.com",
+          "nasdaqamzn",
+          ",",
+          "boeing",
+          "nyseba",
+          ".",
+          "chinese",
+          "financial",
+          "institution",
+          "discreetly",
+          "funnel",
+          "over",
+          "$",
+          "200",
+          "billion",
+          "multitude",
+          "project",
+          "nearly",
+          "every",
+          "u.s.",
+          "state",
+          "over",
+          "last",
+          "25",
+          "year",
+          ",",
+          "report",
+          "virginia-based",
+          "research",
+          "lab",
+          "aiddata",
+          "show",
+          "tuesday",
+          "."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "count": 3,
+  "articles": [
+    {
+      "article_id": "51ca6193f1d67bfb",
+      "title": "These Analysts Revise Their Forecasts On Lowes Following third quarter Earnings",
+      "body": "Lowes Companies, Inc. NYSELOW posted upbeat earnings for the third quarter, but fell slightly short on sales.The company reported third-quarter adjusted earnings per share of $3.06 5.9 percent year ove 142 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:20.110757",
+      "url": "https://biztoc.com/x/de6265392be96a1d",
+      "raw_text": "These Analysts Revise Their Forecasts On Lowes Following third quarter Earnings. Lowes Companies, Inc. NYSELOW posted upbeat earnings for the third quarter, but fell slightly short on sales.The company reported third-quarter adjusted earnings per share of $3.06 5.9 percent year ove 142 chars",
+      "tickers_mentioned": "LOW",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LOW": [
+          "These Analysts Revise Their Forecasts On **Lowe's** Following Q3 Earnings. Lowes Companies, Inc. (NYSE:LOW) posted upbeat earnings"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lowe",
+            "Lowes"
+          ],
+          "ORGANIZATION": [
+            "NYSE"
+          ],
+          "GPE": [
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "beat"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "forecast",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "3.06",
+          "5.9",
+          "142"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            3
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "company",
+            2
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "revise",
+            1
+          ],
+          [
+            "forecast",
+            1
+          ],
+          [
+            "low",
+            1
+          ],
+          [
+            "follow",
+            1
+          ],
+          [
+            "lowes",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 4,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "analysts",
+          "revise",
+          "their",
+          "forecasts",
+          "on",
+          "lowes",
+          "following",
+          "third",
+          "quarter",
+          "earnings",
+          ".",
+          "lowes",
+          "companies",
+          ",",
+          "inc.",
+          "nyselow",
+          "posted",
+          "upbeat",
+          "earnings",
+          "for",
+          "the",
+          "third",
+          "quarter",
+          ",",
+          "but",
+          "fell",
+          "slightly",
+          "short",
+          "on",
+          "sales.the",
+          "company",
+          "reported",
+          "third-quarter",
+          "adjusted",
+          "earnings",
+          "per",
+          "share",
+          "of",
+          "$",
+          "3.06",
+          "5.9",
+          "percent",
+          "year",
+          "ove",
+          "142",
+          "chars"
+        ],
+        "filtered": [
+          "analysts",
+          "revise",
+          "forecasts",
+          "lowes",
+          "following",
+          "third",
+          "quarter",
+          "earnings",
+          ".",
+          "lowes",
+          "companies",
+          ",",
+          "inc.",
+          "nyselow",
+          "posted",
+          "upbeat",
+          "earnings",
+          "third",
+          "quarter",
+          ",",
+          "fell",
+          "slightly",
+          "short",
+          "sales.the",
+          "company",
+          "reported",
+          "third-quarter",
+          "adjusted",
+          "earnings",
+          "per",
+          "share",
+          "$",
+          "3.06",
+          "5.9",
+          "percent",
+          "year",
+          "ove",
+          "142",
+          "chars"
+        ],
+        "lemmatized": [
+          "analyst",
+          "revise",
+          "forecast",
+          "low",
+          "follow",
+          "third",
+          "quarter",
+          "earnings",
+          ".",
+          "lowes",
+          "company",
+          ",",
+          "inc.",
+          "nyselow",
+          "post",
+          "upbeat",
+          "earnings",
+          "third",
+          "quarter",
+          ",",
+          "fell",
+          "slightly",
+          "short",
+          "sales.the",
+          "company",
+          "report",
+          "third-quarter",
+          "adjusted",
+          "earnings",
+          "per",
+          "share",
+          "$",
+          "3.06",
+          "5.9",
+          "percent",
+          "year",
+          "ove",
+          "142",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "0dff2813d986996d",
+      "title": "Stocks making the biggest moves midday Alphabet, Nvidia, Lowes, La-Z-Boy, MP Materials more",
+      "body": "These are the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:34.184179",
+      "url": "https://finnhub.io/api/news?id=670ccfb28acc8c2f8bbe58b166775b6949459201203c31cd7d8f19f5953e0da2",
+      "raw_text": "Stocks making the biggest moves midday Alphabet, Nvidia, Lowes, La-Z-Boy, MP Materials more. These are the stocks posting the largest moves midday.",
+      "tickers_mentioned": "LOW,GOOG,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LOW": [
+          "Stocks making the biggest moves midday: Alphabet, Nvidia, **Lowe's,** La-Z-Boy, MP Materials & more. These are the stocks posting"
+        ],
+        "GOOG": [],
+        "NVDA": [
+          "Stocks making the biggest moves midday: Alphabet, **Nvidia,** Lowe's, La-Z-Boy, MP Materials & more. These are the stocks"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lowe"
+          ],
+          "ORGANIZATION": [
+            "MP Materials"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "midday",
+            2
+          ],
+          [
+            "make",
+            1
+          ],
+          [
+            "big",
+            1
+          ],
+          [
+            "alphabet",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "lowes",
+            1
+          ],
+          [
+            "la-z-boy",
+            1
+          ],
+          [
+            "material",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "making",
+          "the",
+          "biggest",
+          "moves",
+          "midday",
+          "alphabet",
+          ",",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "la-z-boy",
+          ",",
+          "mp",
+          "materials",
+          "more",
+          ".",
+          "these",
+          "are",
+          "the",
+          "stocks",
+          "posting",
+          "the",
+          "largest",
+          "moves",
+          "midday",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "making",
+          "biggest",
+          "moves",
+          "midday",
+          "alphabet",
+          ",",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "la-z-boy",
+          ",",
+          "mp",
+          "materials",
+          "more",
+          ".",
+          "stocks",
+          "posting",
+          "largest",
+          "moves",
+          "midday",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "make",
+          "big",
+          "move",
+          "midday",
+          "alphabet",
+          ",",
+          "nvidia",
+          ",",
+          "lowes",
+          ",",
+          "la-z-boy",
+          ",",
+          "mp",
+          "material",
+          "more",
+          ".",
+          "stock",
+          "post",
+          "large",
+          "move",
+          "midday",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "74769b5011e5e9d2",
+      "title": "Trick week for stocks",
+      "body": "Stocks face potentially a volatile week. Not just from the earnings that are due from the likes of Nvidia, Walmart, Home Depot, Lowes and Target. there is also a bit of unease settling over markets coming from crypto land, where prices for bitcoin, ethereum and other crypto currencies have slumped ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:39.597553",
+      "url": "https://finnhub.io/api/news?id=977f6d8a3a843c8a4d926df2b7cbef6d3fd3919c05a434027f6dae890a684373",
+      "raw_text": "Trick week for stocks. Stocks face potentially a volatile week. Not just from the earnings that are due from the likes of Nvidia, Walmart, Home Depot, Lowes and Target. there is also a bit of unease settling over markets coming from crypto land, where prices for bitcoin, ethereum and other crypto currencies have slumped ...",
+      "tickers_mentioned": "HD,NVDA,TGT,WMT,LOW",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "HD": [],
+        "NVDA": [
+          "from the earnings that are due from the likes of **Nvidia,** Walmart, Home Depot, Lowe's and Target. There's also a bit"
+        ],
+        "TGT": [],
+        "WMT": [
+          "the earnings that are due from the likes of Nvidia, **Walmart,** Home Depot, Lowe's and Target. There's also a bit of"
+        ],
+        "LOW": [
+          "are due from the likes of Nvidia, Walmart, Home Depot, **Lowe's** and Target. There's also a bit of unease settling over"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Home Depot",
+            "Lowe"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Trick",
+            "Nvidia",
+            "Target"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "slump"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "week",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "crypto",
+            2
+          ],
+          [
+            "trick",
+            1
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "potentially",
+            1
+          ],
+          [
+            "volatile",
+            1
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "due",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "trick",
+          "week",
+          "for",
+          "stocks",
+          ".",
+          "stocks",
+          "face",
+          "potentially",
+          "a",
+          "volatile",
+          "week",
+          ".",
+          "not",
+          "just",
+          "from",
+          "the",
+          "earnings",
+          "that",
+          "are",
+          "due",
+          "from",
+          "the",
+          "likes",
+          "of",
+          "nvidia",
+          ",",
+          "walmart",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "lowes",
+          "and",
+          "target",
+          ".",
+          "there",
+          "is",
+          "also",
+          "a",
+          "bit",
+          "of",
+          "unease",
+          "settling",
+          "over",
+          "markets",
+          "coming",
+          "from",
+          "crypto",
+          "land",
+          ",",
+          "where",
+          "prices",
+          "for",
+          "bitcoin",
+          ",",
+          "ethereum",
+          "and",
+          "other",
+          "crypto",
+          "currencies",
+          "have",
+          "slumped",
+          "..."
+        ],
+        "filtered": [
+          "trick",
+          "week",
+          "stocks",
+          ".",
+          "stocks",
+          "face",
+          "potentially",
+          "volatile",
+          "week",
+          ".",
+          "not",
+          "earnings",
+          "due",
+          "likes",
+          "nvidia",
+          ",",
+          "walmart",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "lowes",
+          "target",
+          ".",
+          "also",
+          "bit",
+          "unease",
+          "settling",
+          "over",
+          "markets",
+          "coming",
+          "crypto",
+          "land",
+          ",",
+          "prices",
+          "bitcoin",
+          ",",
+          "ethereum",
+          "crypto",
+          "currencies",
+          "slumped",
+          "..."
+        ],
+        "lemmatized": [
+          "trick",
+          "week",
+          "stock",
+          ".",
+          "stock",
+          "face",
+          "potentially",
+          "volatile",
+          "week",
+          ".",
+          "not",
+          "earnings",
+          "due",
+          "like",
+          "nvidia",
+          ",",
+          "walmart",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "lowes",
+          "target",
+          ".",
+          "also",
+          "bit",
+          "unease",
+          "settling",
+          "over",
+          "market",
+          "come",
+          "crypto",
+          "land",
+          ",",
+          "price",
+          "bitcoin",
+          ",",
+          "ethereum",
+          "crypto",
+          "currency",
+          "slump",
+          "..."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "0a9cbb5c1c4148ab",
+      "title": "YouTube TV drops more good news to subscribers after Disney deal",
+      "body": "Googles YouTube and The Walt Disney Company confirmed on Nov. 14 they had reached an agreement to restore Disney-owned networks on YouTube TV, after two weeks of blackout. The dispute left millions of subscribers without access to popular Disney channels, including ABC, ESPN, The Disney Channel, ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:33.444804",
+      "url": "https://finnhub.io/api/news?id=0ec678eb447fedd0df24415cfe57bab67d57dac3664c3d4889e6007daaa4a116",
+      "raw_text": "YouTube TV drops more good news to subscribers after Disney deal. Googles YouTube and The Walt Disney Company confirmed on Nov. 14 they had reached an agreement to restore Disney-owned networks on YouTube TV, after two weeks of blackout. The dispute left millions of subscribers without access to popular Disney channels, including ABC, ESPN, The Disney Channel, ...",
+      "tickers_mentioned": "DIS,NWS",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "DIS": [
+          "good news to subscribers after Disney deal. Google’s YouTube and **The** Walt Disney Company confirmed on Nov. 14 they had reached"
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google"
+          ],
+          "ORGANIZATION": [
+            "Disney",
+            "YouTube",
+            "Walt Disney Company",
+            "ABC",
+            "ESPN",
+            "Disney Channel"
+          ],
+          "GPE": [
+            "YouTube"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "14"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "disney",
+            4
+          ],
+          [
+            "youtube",
+            3
+          ],
+          [
+            "subscriber",
+            2
+          ],
+          [
+            "channel",
+            2
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "good",
+            1
+          ],
+          [
+            "news",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "google",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "youtube",
+          "tv",
+          "drops",
+          "more",
+          "good",
+          "news",
+          "to",
+          "subscribers",
+          "after",
+          "disney",
+          "deal",
+          ".",
+          "googles",
+          "youtube",
+          "and",
+          "the",
+          "walt",
+          "disney",
+          "company",
+          "confirmed",
+          "on",
+          "nov.",
+          "14",
+          "they",
+          "had",
+          "reached",
+          "an",
+          "agreement",
+          "to",
+          "restore",
+          "disney-owned",
+          "networks",
+          "on",
+          "youtube",
+          "tv",
+          ",",
+          "after",
+          "two",
+          "weeks",
+          "of",
+          "blackout",
+          ".",
+          "the",
+          "dispute",
+          "left",
+          "millions",
+          "of",
+          "subscribers",
+          "without",
+          "access",
+          "to",
+          "popular",
+          "disney",
+          "channels",
+          ",",
+          "including",
+          "abc",
+          ",",
+          "espn",
+          ",",
+          "the",
+          "disney",
+          "channel",
+          ",",
+          "..."
+        ],
+        "filtered": [
+          "youtube",
+          "tv",
+          "drops",
+          "more",
+          "good",
+          "news",
+          "subscribers",
+          "disney",
+          "deal",
+          ".",
+          "googles",
+          "youtube",
+          "walt",
+          "disney",
+          "company",
+          "confirmed",
+          "nov.",
+          "14",
+          "reached",
+          "agreement",
+          "restore",
+          "disney-owned",
+          "networks",
+          "youtube",
+          "tv",
+          ",",
+          "two",
+          "weeks",
+          "blackout",
+          ".",
+          "dispute",
+          "left",
+          "millions",
+          "subscribers",
+          "without",
+          "access",
+          "popular",
+          "disney",
+          "channels",
+          ",",
+          "including",
+          "abc",
+          ",",
+          "espn",
+          ",",
+          "disney",
+          "channel",
+          ",",
+          "..."
+        ],
+        "lemmatized": [
+          "youtube",
+          "tv",
+          "drop",
+          "more",
+          "good",
+          "news",
+          "subscriber",
+          "disney",
+          "deal",
+          ".",
+          "google",
+          "youtube",
+          "walt",
+          "disney",
+          "company",
+          "confirm",
+          "nov.",
+          "14",
+          "reach",
+          "agreement",
+          "restore",
+          "disney-owned",
+          "network",
+          "youtube",
+          "tv",
+          ",",
+          "two",
+          "week",
+          "blackout",
+          ".",
+          "dispute",
+          "leave",
+          "million",
+          "subscriber",
+          "without",
+          "access",
+          "popular",
+          "disney",
+          "channel",
+          ",",
+          "include",
+          "abc",
+          ",",
+          "espn",
+          ",",
+          "disney",
+          "channel",
+          ",",
+          "..."
+        ]
+      }
+    }
+  ]
+}

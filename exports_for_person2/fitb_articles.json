@@ -1,0 +1,235 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "3f766f8858785d4d",
+      "title": "Baron Fifth Avenue Growth Fund third quarter 2025 Performance Update",
+      "body": "Baron Fifth Avenue Growth Fund gained 5.7 percent during the third quarter, lagging the 10.5 percent gain for the Russell 1000 Growth Index and the 8.1 percent gain for the SP 500 Index.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-21T23:53:35.060267",
+      "url": "https://finnhub.io/api/news?id=9ea02890fed1eeb92c95958c4620c23be9fd4f04fa92a4d3ca08c91b48d16baf",
+      "raw_text": "Baron Fifth Avenue Growth Fund third quarter 2025 Performance Update. Baron Fifth Avenue Growth Fund gained 5.7 percent during the third quarter, lagging the 10.5 percent gain for the Russell 1000 Growth Index and the 8.1 percent gain for the SP 500 Index.",
+      "tickers_mentioned": "FITB",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "FITB": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Baron",
+            "Fifth Avenue Growth Fund Q3",
+            "Baron Fifth Avenue Growth Fund"
+          ],
+          "ORGANIZATION": [
+            "Russell"
+          ],
+          "GPE": [
+            "Index"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "growth"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "5.7",
+          "10.5",
+          "1000",
+          "8.1",
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "growth",
+            3
+          ],
+          [
+            "gain",
+            3
+          ],
+          [
+            "percent",
+            3
+          ],
+          [
+            "baron",
+            2
+          ],
+          [
+            "fifth",
+            2
+          ],
+          [
+            "avenue",
+            2
+          ],
+          [
+            "fund",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "index",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "baron",
+          "fifth",
+          "avenue",
+          "growth",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "performance",
+          "update",
+          ".",
+          "baron",
+          "fifth",
+          "avenue",
+          "growth",
+          "fund",
+          "gained",
+          "5.7",
+          "percent",
+          "during",
+          "the",
+          "third",
+          "quarter",
+          ",",
+          "lagging",
+          "the",
+          "10.5",
+          "percent",
+          "gain",
+          "for",
+          "the",
+          "russell",
+          "1000",
+          "growth",
+          "index",
+          "and",
+          "the",
+          "8.1",
+          "percent",
+          "gain",
+          "for",
+          "the",
+          "sp",
+          "500",
+          "index",
+          "."
+        ],
+        "filtered": [
+          "baron",
+          "fifth",
+          "avenue",
+          "growth",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "performance",
+          "update",
+          ".",
+          "baron",
+          "fifth",
+          "avenue",
+          "growth",
+          "fund",
+          "gained",
+          "5.7",
+          "percent",
+          "third",
+          "quarter",
+          ",",
+          "lagging",
+          "10.5",
+          "percent",
+          "gain",
+          "russell",
+          "1000",
+          "growth",
+          "index",
+          "8.1",
+          "percent",
+          "gain",
+          "sp",
+          "500",
+          "index",
+          "."
+        ],
+        "lemmatized": [
+          "baron",
+          "fifth",
+          "avenue",
+          "growth",
+          "fund",
+          "third",
+          "quarter",
+          "2025",
+          "performance",
+          "update",
+          ".",
+          "baron",
+          "fifth",
+          "avenue",
+          "growth",
+          "fund",
+          "gain",
+          "5.7",
+          "percent",
+          "third",
+          "quarter",
+          ",",
+          "lag",
+          "10.5",
+          "percent",
+          "gain",
+          "russell",
+          "1000",
+          "growth",
+          "index",
+          "8.1",
+          "percent",
+          "gain",
+          "sp",
+          "500",
+          "index",
+          "."
+        ]
+      }
+    }
+  ]
+}

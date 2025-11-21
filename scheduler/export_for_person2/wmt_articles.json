@@ -1,0 +1,6667 @@
+{
+  "count": 28,
+  "articles": [
+    {
+      "article_id": "b6b0b62844b26c20",
+      "title": "Walmart third quarter FY26 Earnings Call Transcript",
+      "body": "Walmart Inc NYSEWMT reported third-quarter financial results before the market open on Thursday. The transcript from the earnings call has been provided below.WMT is surging to new heights today. 143 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:19.872559",
+      "url": "https://biztoc.com/x/6556a985a1eeae2c",
+      "raw_text": "Walmart third quarter FY26 Earnings Call Transcript. Walmart Inc NYSEWMT reported third-quarter financial results before the market open on Thursday. The transcript from the earnings call has been provided below.WMT is surging to new heights today. 143 chars",
+      "tickers_mentioned": "WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "WMT": [
+          "**Walmart** Q3 FY26 Earnings Call Transcript. Walmart Inc (NYSE:WMT) reported third-quarter",
+          "Walmart Q3 FY26 Earnings Call Transcript. **Walmart** Inc (NYSE:WMT) reported third-quarter financial results before the market open"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart Q3",
+            "Walmart Inc"
+          ],
+          "ORGANIZATION": [
+            "NYSE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "143"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "call",
+            2
+          ],
+          [
+            "transcript",
+            2
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "fy26",
+            1
+          ],
+          [
+            "inc",
+            1
+          ],
+          [
+            "nysewmt",
+            1
+          ],
+          [
+            "report",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "third",
+          "quarter",
+          "fy26",
+          "earnings",
+          "call",
+          "transcript",
+          ".",
+          "walmart",
+          "inc",
+          "nysewmt",
+          "reported",
+          "third-quarter",
+          "financial",
+          "results",
+          "before",
+          "the",
+          "market",
+          "open",
+          "on",
+          "thursday",
+          ".",
+          "the",
+          "transcript",
+          "from",
+          "the",
+          "earnings",
+          "call",
+          "has",
+          "been",
+          "provided",
+          "below.wmt",
+          "is",
+          "surging",
+          "to",
+          "new",
+          "heights",
+          "today",
+          ".",
+          "143",
+          "chars"
+        ],
+        "filtered": [
+          "walmart",
+          "third",
+          "quarter",
+          "fy26",
+          "earnings",
+          "call",
+          "transcript",
+          ".",
+          "walmart",
+          "inc",
+          "nysewmt",
+          "reported",
+          "third-quarter",
+          "financial",
+          "results",
+          "market",
+          "open",
+          "thursday",
+          ".",
+          "transcript",
+          "earnings",
+          "call",
+          "provided",
+          "below.wmt",
+          "surging",
+          "new",
+          "heights",
+          "today",
+          ".",
+          "143",
+          "chars"
+        ],
+        "lemmatized": [
+          "walmart",
+          "third",
+          "quarter",
+          "fy26",
+          "earnings",
+          "call",
+          "transcript",
+          ".",
+          "walmart",
+          "inc",
+          "nysewmt",
+          "report",
+          "third-quarter",
+          "financial",
+          "result",
+          "market",
+          "open",
+          "thursday",
+          ".",
+          "transcript",
+          "earnings",
+          "call",
+          "provide",
+          "below.wmt",
+          "surge",
+          "new",
+          "height",
+          "today",
+          ".",
+          "143",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "1e8d80054487dcdb",
+      "title": "Walmart jumps to Nasdaq in biggest exchange transfer on record",
+      "body": "Walmart Inc., the worlds biggest retailer, said it will move its stock listing to the Nasdaq, marking the largest defection in the New York Stock Exchanges history. THIS CONTENT IS RESERVED FOR SUBS 4129 chars",
+      "source": "Financial Post",
+      "timestamp": "2025-11-22T00:48:20.184751",
+      "url": "https://financialpost.com/news/retail-marketing/walmart-jumps-to-nasdaq",
+      "raw_text": "Walmart jumps to Nasdaq in biggest exchange transfer on record. Walmart Inc., the worlds biggest retailer, said it will move its stock listing to the Nasdaq, marking the largest defection in the New York Stock Exchanges history. THIS CONTENT IS RESERVED FOR SUBS 4129 chars",
+      "tickers_mentioned": "WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WMT": [
+          "**Walmart** jumps to Nasdaq in biggest exchange transfer on record. Walmart",
+          "Walmart jumps to Nasdaq in biggest exchange transfer on record. **Walmart** Inc., the worlds biggest retailer, said it will move its"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart Inc."
+          ],
+          "ORGANIZATION": [
+            "Nasdaq"
+          ],
+          "GPE": [
+            "Walmart",
+            "Nasdaq",
+            "New York"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4129"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "nasdaq",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "exchange",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "jump",
+            1
+          ],
+          [
+            "transfer",
+            1
+          ],
+          [
+            "record",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "world",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "jumps",
+          "to",
+          "nasdaq",
+          "in",
+          "biggest",
+          "exchange",
+          "transfer",
+          "on",
+          "record",
+          ".",
+          "walmart",
+          "inc.",
+          ",",
+          "the",
+          "worlds",
+          "biggest",
+          "retailer",
+          ",",
+          "said",
+          "it",
+          "will",
+          "move",
+          "its",
+          "stock",
+          "listing",
+          "to",
+          "the",
+          "nasdaq",
+          ",",
+          "marking",
+          "the",
+          "largest",
+          "defection",
+          "in",
+          "the",
+          "new",
+          "york",
+          "stock",
+          "exchanges",
+          "history",
+          ".",
+          "this",
+          "content",
+          "is",
+          "reserved",
+          "for",
+          "subs",
+          "4129",
+          "chars"
+        ],
+        "filtered": [
+          "walmart",
+          "jumps",
+          "nasdaq",
+          "biggest",
+          "exchange",
+          "transfer",
+          "record",
+          ".",
+          "walmart",
+          "inc.",
+          ",",
+          "worlds",
+          "biggest",
+          "retailer",
+          ",",
+          "said",
+          "move",
+          "stock",
+          "listing",
+          "nasdaq",
+          ",",
+          "marking",
+          "largest",
+          "defection",
+          "new",
+          "york",
+          "stock",
+          "exchanges",
+          "history",
+          ".",
+          "content",
+          "reserved",
+          "subs",
+          "4129",
+          "chars"
+        ],
+        "lemmatized": [
+          "walmart",
+          "jump",
+          "nasdaq",
+          "big",
+          "exchange",
+          "transfer",
+          "record",
+          ".",
+          "walmart",
+          "inc.",
+          ",",
+          "world",
+          "big",
+          "retailer",
+          ",",
+          "say",
+          "move",
+          "stock",
+          "listing",
+          "nasdaq",
+          ",",
+          "mark",
+          "large",
+          "defection",
+          "new",
+          "york",
+          "stock",
+          "exchange",
+          "history",
+          ".",
+          "content",
+          "reserve",
+          "subs",
+          "4129",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "067eff2719b1305a",
+      "title": "Nutex Health Posts Strong third quarter Results, Joins PACS Group, Walmart, Cerence And Other Big Stocks Moving Higher On Thursday",
+      "body": "U.S. stocks were higher, with the Dow Jones gaining more than 250 points on Thursday.Shares of Nutex Health Inc NASDAQNUTX rose sharply during Thursdays session after the company reported better- 142 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:20.300992",
+      "url": "https://biztoc.com/x/5bb5feb330104c1a",
+      "raw_text": "Nutex Health Posts Strong third quarter Results, Joins PACS Group, Walmart, Cerence And Other Big Stocks Moving Higher On Thursday. U.S. stocks were higher, with the Dow Jones gaining more than 250 points on Thursday.Shares of Nutex Health Inc NASDAQNUTX rose sharply during Thursdays session after the company reported better- 142 chars",
+      "tickers_mentioned": "WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WMT": [
+          "Nutex Health Posts Strong Q3 Results, Joins PACS Group, **Walmart,** Cerence And Other Big Stocks Moving Higher On Thursday. U.S."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Nutex",
+            "Health Posts Strong Q3 Results",
+            "Joins",
+            "Walmart",
+            "Nutex Health Inc"
+          ],
+          "ORGANIZATION": [
+            "PACS Group",
+            "Dow Jones",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Cerence",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "250",
+          "142"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nutex",
+            2
+          ],
+          [
+            "health",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "post",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "join",
+            1
+          ],
+          [
+            "pacs",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nutex",
+          "health",
+          "posts",
+          "strong",
+          "third",
+          "quarter",
+          "results",
+          ",",
+          "joins",
+          "pacs",
+          "group",
+          ",",
+          "walmart",
+          ",",
+          "cerence",
+          "and",
+          "other",
+          "big",
+          "stocks",
+          "moving",
+          "higher",
+          "on",
+          "thursday",
+          ".",
+          "u.s.",
+          "stocks",
+          "were",
+          "higher",
+          ",",
+          "with",
+          "the",
+          "dow",
+          "jones",
+          "gaining",
+          "more",
+          "than",
+          "250",
+          "points",
+          "on",
+          "thursday.shares",
+          "of",
+          "nutex",
+          "health",
+          "inc",
+          "nasdaqnutx",
+          "rose",
+          "sharply",
+          "during",
+          "thursdays",
+          "session",
+          "after",
+          "the",
+          "company",
+          "reported",
+          "better-",
+          "142",
+          "chars"
+        ],
+        "filtered": [
+          "nutex",
+          "health",
+          "posts",
+          "strong",
+          "third",
+          "quarter",
+          "results",
+          ",",
+          "joins",
+          "pacs",
+          "group",
+          ",",
+          "walmart",
+          ",",
+          "cerence",
+          "big",
+          "stocks",
+          "moving",
+          "higher",
+          "thursday",
+          ".",
+          "u.s.",
+          "stocks",
+          "higher",
+          ",",
+          "dow",
+          "jones",
+          "gaining",
+          "more",
+          "250",
+          "points",
+          "thursday.shares",
+          "nutex",
+          "health",
+          "inc",
+          "nasdaqnutx",
+          "rose",
+          "sharply",
+          "thursdays",
+          "session",
+          "company",
+          "reported",
+          "better-",
+          "142",
+          "chars"
+        ],
+        "lemmatized": [
+          "nutex",
+          "health",
+          "post",
+          "strong",
+          "third",
+          "quarter",
+          "result",
+          ",",
+          "join",
+          "pacs",
+          "group",
+          ",",
+          "walmart",
+          ",",
+          "cerence",
+          "big",
+          "stock",
+          "move",
+          "high",
+          "thursday",
+          ".",
+          "u.s.",
+          "stock",
+          "higher",
+          ",",
+          "dow",
+          "jones",
+          "gain",
+          "more",
+          "250",
+          "point",
+          "thursday.shares",
+          "nutex",
+          "health",
+          "inc",
+          "nasdaqnutx",
+          "rise",
+          "sharply",
+          "thursdays",
+          "session",
+          "company",
+          "report",
+          "better-",
+          "142",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "2b8afe12625e9c8b",
+      "title": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk",
+      "body": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:22.308521",
+      "url": "https://finnhub.io/api/news?id=f20d52f362a48238c759e963e90e8598efc6449396a71c37de911e50e7dd5c5d",
+      "raw_text": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk. Here are five key things investors need to know to start the trading day.",
+      "tickers_mentioned": "NVDA,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "**Nvidia's** earnings blowout, Walmart's outlook, Fed minutes and more in Morning"
+        ],
+        "WMT": [
+          "Nvidia's earnings blowout, **Walmart's** outlook, Fed minutes and more in Morning Squawk. Here are"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "Fed"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidias",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "blowout",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "feed",
+            1
+          ],
+          [
+            "minute",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "morning",
+            1
+          ],
+          [
+            "squawk",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "and",
+          "more",
+          "in",
+          "morning",
+          "squawk",
+          ".",
+          "here",
+          "are",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "to",
+          "know",
+          "to",
+          "start",
+          "the",
+          "trading",
+          "day",
+          "."
+        ],
+        "filtered": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "know",
+          "start",
+          "trading",
+          "day",
+          "."
+        ],
+        "lemmatized": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "feed",
+          "minute",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "thing",
+          "investor",
+          "need",
+          "know",
+          "start",
+          "trade",
+          "day",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a4231c03ca044ac5",
+      "title": "Walmart bumps up outlook ahead of holidays, plans listing switch to Nasdaq",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 704 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:27.954037",
+      "url": "https://biztoc.com/x/6cafe87387c9dedb",
+      "raw_text": "Walmart bumps up outlook ahead of holidays, plans listing switch to Nasdaq. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 704 chars",
+      "tickers_mentioned": "NVDA,VZ,WMT",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+704 chars]"
+        ],
+        "VZ": [
+          "to Nasdaq. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "WMT": [
+          "**Walmart** bumps up outlook ahead of holidays, plans listing switch to"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Walmart",
+            "Nasdaq",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "704"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "walmart",
+            1
+          ],
+          [
+            "bump",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "ahead",
+            1
+          ],
+          [
+            "holiday",
+            1
+          ],
+          [
+            "plan",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "bumps",
+          "up",
+          "outlook",
+          "ahead",
+          "of",
+          "holidays",
+          ",",
+          "plans",
+          "listing",
+          "switch",
+          "to",
+          "nasdaq",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "704",
+          "chars"
+        ],
+        "filtered": [
+          "walmart",
+          "bumps",
+          "up",
+          "outlook",
+          "ahead",
+          "holidays",
+          ",",
+          "plans",
+          "listing",
+          "switch",
+          "nasdaq",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "704",
+          "chars"
+        ],
+        "lemmatized": [
+          "walmart",
+          "bump",
+          "up",
+          "outlook",
+          "ahead",
+          "holiday",
+          ",",
+          "plan",
+          "listing",
+          "switch",
+          "nasdaq",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "704",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "a553056e8fd1c62c",
+      "title": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron",
+      "body": "Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:29.249264",
+      "url": "https://finnhub.io/api/news?id=2952b41960798b4ec3377c7e89a13a3a3e807e801fdbef5f5a90e096172d3d14",
+      "raw_text": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron. Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "tickers_mentioned": "REGN,NVDA,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "REGN": [],
+        "NVDA": [
+          "Stocks to Watch Thursday: Walmart, **Nvidia,** Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S. retailer",
+          "quarterly results and raised its outlook. Shares climbed 6%. ↗️ **Nvidia** (NVDA): The chip maker reported record sales and issued strong"
+        ],
+        "WMT": [
+          "Stocks to Watch Thursday: **Walmart,** Nvidia, Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S.",
+          "Stocks to Watch Thursday: Walmart, Nvidia, Exact Sciences, Regeneron. ↗️ **Walmart** (WMT): The biggest U.S. retailer and private-sector employer posted solid"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Regeneron",
+            "Shares"
+          ],
+          "ORGANIZATION": [
+            "Exact Sciences",
+            "WMT",
+            "NVDA"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Walmart",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "exact",
+            1
+          ],
+          [
+            "science",
+            1
+          ],
+          [
+            "regeneron",
+            1
+          ],
+          [
+            "wmt",
+            1
+          ],
+          [
+            "big",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "the",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "and",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "and",
+          "raised",
+          "its",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "the",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "and",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "about",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "raised",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "science",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "big",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "post",
+          "solid",
+          "quarterly",
+          "result",
+          "raise",
+          "outlook",
+          ".",
+          "shares",
+          "climb",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "report",
+          "record",
+          "sales",
+          "issue",
+          "strong",
+          "guidance",
+          ",",
+          "help",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "2b8afe12625e9c8b",
+      "title": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk",
+      "body": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:29.498536",
+      "url": "https://finnhub.io/api/news?id=f20d52f362a48238c759e963e90e8598efc6449396a71c37de911e50e7dd5c5d",
+      "raw_text": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk. Here are five key things investors need to know to start the trading day.",
+      "tickers_mentioned": "NVDA,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "**Nvidia's** earnings blowout, Walmart's outlook, Fed minutes and more in Morning"
+        ],
+        "WMT": [
+          "Nvidia's earnings blowout, **Walmart's** outlook, Fed minutes and more in Morning Squawk. Here are"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "Fed"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidias",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "blowout",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "feed",
+            1
+          ],
+          [
+            "minute",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "morning",
+            1
+          ],
+          [
+            "squawk",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "and",
+          "more",
+          "in",
+          "morning",
+          "squawk",
+          ".",
+          "here",
+          "are",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "to",
+          "know",
+          "to",
+          "start",
+          "the",
+          "trading",
+          "day",
+          "."
+        ],
+        "filtered": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "know",
+          "start",
+          "trading",
+          "day",
+          "."
+        ],
+        "lemmatized": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "feed",
+          "minute",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "thing",
+          "investor",
+          "need",
+          "know",
+          "start",
+          "trade",
+          "day",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "ce4e9b3c566f23ab",
+      "title": "Heard on the Street Friday Recap Walmart Succession",
+      "body": "Walmarts Chief Executive Doug McMillon will step down after more than a decade in the role. John Furner, CEO of Walmart U.S. since 2019, will succeed him. The 51-year-old Furner began his Walmart career as an hourly associate in 1993.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:31.670655",
+      "url": "https://finnhub.io/api/news?id=7cb8770fd8674c96a24d5e142cb4765954b8f4397c78e19a22dd231fab109861",
+      "raw_text": "Heard on the Street Friday Recap Walmart Succession. Walmarts Chief Executive Doug McMillon will step down after more than a decade in the role. John Furner, CEO of Walmart U.S. since 2019, will succeed him. The 51-year-old Furner began his Walmart career as an hourly associate in 1993.",
+      "tickers_mentioned": "WMT",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "WMT": [
+          "Heard on the Street Friday Recap: **Walmart** Succession. Walmart's Chief Executive Doug McMillon will step down after",
+          "Heard on the Street Friday Recap: Walmart Succession. **Walmart's** Chief Executive Doug McMillon will step down after more than",
+          "than a decade in the role. John Furner, CEO of **Walmart** U.S. since 2019, will succeed him. The 51-year-old Furner began",
+          "since 2019, will succeed him. The 51-year-old Furner began his **Walmart** career as an hourly associate in 1993."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Heard",
+            "Walmart Succession",
+            "Walmart",
+            "Doug McMillon",
+            "John Furner",
+            "Walmart U.S.",
+            "Furner"
+          ],
+          "ORGANIZATION": [
+            "Street",
+            "CEO"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2019",
+          "51",
+          "1993"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            3
+          ],
+          [
+            "furner",
+            2
+          ],
+          [
+            "heard",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "friday",
+            1
+          ],
+          [
+            "recap",
+            1
+          ],
+          [
+            "succession",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "chief",
+            1
+          ],
+          [
+            "executive",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "heard",
+          "on",
+          "the",
+          "street",
+          "friday",
+          "recap",
+          "walmart",
+          "succession",
+          ".",
+          "walmarts",
+          "chief",
+          "executive",
+          "doug",
+          "mcmillon",
+          "will",
+          "step",
+          "down",
+          "after",
+          "more",
+          "than",
+          "a",
+          "decade",
+          "in",
+          "the",
+          "role",
+          ".",
+          "john",
+          "furner",
+          ",",
+          "ceo",
+          "of",
+          "walmart",
+          "u.s.",
+          "since",
+          "2019",
+          ",",
+          "will",
+          "succeed",
+          "him",
+          ".",
+          "the",
+          "51-year-old",
+          "furner",
+          "began",
+          "his",
+          "walmart",
+          "career",
+          "as",
+          "an",
+          "hourly",
+          "associate",
+          "in",
+          "1993",
+          "."
+        ],
+        "filtered": [
+          "heard",
+          "street",
+          "friday",
+          "recap",
+          "walmart",
+          "succession",
+          ".",
+          "walmarts",
+          "chief",
+          "executive",
+          "doug",
+          "mcmillon",
+          "step",
+          "down",
+          "more",
+          "decade",
+          "role",
+          ".",
+          "john",
+          "furner",
+          ",",
+          "ceo",
+          "walmart",
+          "u.s.",
+          "since",
+          "2019",
+          ",",
+          "succeed",
+          ".",
+          "51-year-old",
+          "furner",
+          "began",
+          "walmart",
+          "career",
+          "hourly",
+          "associate",
+          "1993",
+          "."
+        ],
+        "lemmatized": [
+          "heard",
+          "street",
+          "friday",
+          "recap",
+          "walmart",
+          "succession",
+          ".",
+          "walmarts",
+          "chief",
+          "executive",
+          "doug",
+          "mcmillon",
+          "step",
+          "down",
+          "more",
+          "decade",
+          "role",
+          ".",
+          "john",
+          "furner",
+          ",",
+          "ceo",
+          "walmart",
+          "u.s.",
+          "since",
+          "2019",
+          ",",
+          "succeed",
+          ".",
+          "51-year-old",
+          "furner",
+          "begin",
+          "walmart",
+          "career",
+          "hourly",
+          "associate",
+          "1993",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "58cadd4e9d38936f",
+      "title": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk",
+      "body": "Jensen Huang, chief executive officer of Nvidia Corp., during the US-Saudi Investment Forum at the Kennedy Center in Washington, DC, US, on Wednesday, Nov. 19, 2025. This is CNBCs Morning Squawk ne 5383 chars",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:32.351141",
+      "url": "https://www.cnbc.com/2025/11/20/5-things-to-know-before-the-stock-market-opens.html",
+      "raw_text": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk. Jensen Huang, chief executive officer of Nvidia Corp., during the US-Saudi Investment Forum at the Kennedy Center in Washington, DC, US, on Wednesday, Nov. 19, 2025. This is CNBCs Morning Squawk ne 5383 chars",
+      "tickers_mentioned": "NVDA,WMT",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "NVDA": [
+          "**Nvidia's** earnings blowout, Walmart's outlook, Fed minutes and more in Morning",
+          "more in Morning Squawk. Jensen Huang, chief executive officer of **Nvidia** Corp., during the US-Saudi Investment Forum at the Kennedy Center"
+        ],
+        "WMT": [
+          "Nvidia's earnings blowout, **Walmart's** outlook, Fed minutes and more in Morning Squawk. Jensen Huang,"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Jensen Huang"
+          ],
+          "ORGANIZATION": [
+            "Fed",
+            "Nvidia Corp.",
+            "DC",
+            "CNBC"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Washington"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "19",
+          "2025",
+          "5383"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "morning",
+            2
+          ],
+          [
+            "squawk",
+            2
+          ],
+          [
+            "nvidias",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "blowout",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "feed",
+            1
+          ],
+          [
+            "minute",
+            1
+          ],
+          [
+            "more",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "and",
+          "more",
+          "in",
+          "morning",
+          "squawk",
+          ".",
+          "jensen",
+          "huang",
+          ",",
+          "chief",
+          "executive",
+          "officer",
+          "of",
+          "nvidia",
+          "corp.",
+          ",",
+          "during",
+          "the",
+          "us-saudi",
+          "investment",
+          "forum",
+          "at",
+          "the",
+          "kennedy",
+          "center",
+          "in",
+          "washington",
+          ",",
+          "dc",
+          ",",
+          "us",
+          ",",
+          "on",
+          "wednesday",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025.",
+          "this",
+          "is",
+          "cnbcs",
+          "morning",
+          "squawk",
+          "ne",
+          "5383",
+          "chars"
+        ],
+        "filtered": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "jensen",
+          "huang",
+          ",",
+          "chief",
+          "executive",
+          "officer",
+          "nvidia",
+          "corp.",
+          ",",
+          "us-saudi",
+          "investment",
+          "forum",
+          "kennedy",
+          "center",
+          "washington",
+          ",",
+          "dc",
+          ",",
+          "us",
+          ",",
+          "wednesday",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025.",
+          "cnbcs",
+          "morning",
+          "squawk",
+          "ne",
+          "5383",
+          "chars"
+        ],
+        "lemmatized": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "feed",
+          "minute",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "jensen",
+          "huang",
+          ",",
+          "chief",
+          "executive",
+          "officer",
+          "nvidia",
+          "corp.",
+          ",",
+          "us-saudi",
+          "investment",
+          "forum",
+          "kennedy",
+          "center",
+          "washington",
+          ",",
+          "dc",
+          ",",
+          "u",
+          ",",
+          "wednesday",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025.",
+          "cnbcs",
+          "morning",
+          "squawk",
+          "ne",
+          "5383",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "eeedf3ec42d04a60",
+      "title": "Earnings live Walmart raises outlook again, Nvidia stock jumps after blockbuster report",
+      "body": "With the greater part of third quarter earnings results in the rearview mirror, investors are looking closely at marquee reports from Nvidia NVDA and Walmart WMT this week. So far, the third quarter earnin 13121 chars",
+      "source": "Yahoo Entertainment",
+      "timestamp": "2025-11-22T00:48:32.419692",
+      "url": "https://finance.yahoo.com/news/live/earnings-live-walmart-raises-outlook-again-nvidia-stock-jumps-after-blockbuster-report-130706461.html",
+      "raw_text": "Earnings live Walmart raises outlook again, Nvidia stock jumps after blockbuster report. With the greater part of third quarter earnings results in the rearview mirror, investors are looking closely at marquee reports from Nvidia NVDA and Walmart WMT this week. So far, the third quarter earnin 13121 chars",
+      "tickers_mentioned": "LYV,NVDA,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "NVDA": [
+          "Earnings live: Walmart raises outlook again, **Nvidia** stock jumps after blockbuster report. With the greater part of",
+          "rearview mirror, investors are looking closely at marquee reports from **Nvidia** (NVDA) and Walmart (WMT) this week. So far, the Q3"
+        ],
+        "WMT": [
+          "Earnings live: **Walmart** raises outlook again, Nvidia stock jumps after blockbuster report. With",
+          "are looking closely at marquee reports from Nvidia (NVDA) and **Walmart** (WMT) this week. So far, the Q3 earnin… [+13121 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "NVDA",
+            "WMT"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Walmart"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "gain"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "13121"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "earnings",
+            2
+          ],
+          [
+            "walmart",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "live",
+            1
+          ],
+          [
+            "raise",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "stock",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "earnings",
+          "live",
+          "walmart",
+          "raises",
+          "outlook",
+          "again",
+          ",",
+          "nvidia",
+          "stock",
+          "jumps",
+          "after",
+          "blockbuster",
+          "report",
+          ".",
+          "with",
+          "the",
+          "greater",
+          "part",
+          "of",
+          "third",
+          "quarter",
+          "earnings",
+          "results",
+          "in",
+          "the",
+          "rearview",
+          "mirror",
+          ",",
+          "investors",
+          "are",
+          "looking",
+          "closely",
+          "at",
+          "marquee",
+          "reports",
+          "from",
+          "nvidia",
+          "nvda",
+          "and",
+          "walmart",
+          "wmt",
+          "this",
+          "week",
+          ".",
+          "so",
+          "far",
+          ",",
+          "the",
+          "third",
+          "quarter",
+          "earnin",
+          "13121",
+          "chars"
+        ],
+        "filtered": [
+          "earnings",
+          "live",
+          "walmart",
+          "raises",
+          "outlook",
+          ",",
+          "nvidia",
+          "stock",
+          "jumps",
+          "blockbuster",
+          "report",
+          ".",
+          "greater",
+          "part",
+          "third",
+          "quarter",
+          "earnings",
+          "results",
+          "rearview",
+          "mirror",
+          ",",
+          "investors",
+          "looking",
+          "closely",
+          "marquee",
+          "reports",
+          "nvidia",
+          "nvda",
+          "walmart",
+          "wmt",
+          "week",
+          ".",
+          "far",
+          ",",
+          "third",
+          "quarter",
+          "earnin",
+          "13121",
+          "chars"
+        ],
+        "lemmatized": [
+          "earnings",
+          "live",
+          "walmart",
+          "raise",
+          "outlook",
+          ",",
+          "nvidia",
+          "stock",
+          "jump",
+          "blockbuster",
+          "report",
+          ".",
+          "great",
+          "part",
+          "third",
+          "quarter",
+          "earnings",
+          "result",
+          "rearview",
+          "mirror",
+          ",",
+          "investor",
+          "look",
+          "closely",
+          "marquee",
+          "report",
+          "nvidia",
+          "nvda",
+          "walmart",
+          "wmt",
+          "week",
+          ".",
+          "far",
+          ",",
+          "third",
+          "quarter",
+          "earnin",
+          "13121",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "1f7b21561823ae87",
+      "title": "Walmart Is Talking Up Its Tech Focus. A New Stock Exchange Is Its Next Move",
+      "body": "The retailer is one of several companies telling investors tech is a big part of its business.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:32.651470",
+      "url": "https://finnhub.io/api/news?id=54a890435319a267bd86fc203a3c529228d826ab58156c557acb7c54f6bac94c",
+      "raw_text": "Walmart Is Talking Up Its Tech Focus. A New Stock Exchange Is Its Next Move. The retailer is one of several companies telling investors tech is a big part of its business.",
+      "tickers_mentioned": "TECH,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TECH": [],
+        "WMT": [
+          "**Walmart** Is Talking Up Its Tech Focus. A New Stock Exchange"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "New Stock Exchange"
+          ],
+          "GPE": [
+            "Walmart"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            2
+          ],
+          [
+            "walmart",
+            1
+          ],
+          [
+            "talk",
+            1
+          ],
+          [
+            "focus",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "retailer",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "is",
+          "talking",
+          "up",
+          "its",
+          "tech",
+          "focus",
+          ".",
+          "a",
+          "new",
+          "stock",
+          "exchange",
+          "is",
+          "its",
+          "next",
+          "move",
+          ".",
+          "the",
+          "retailer",
+          "is",
+          "one",
+          "of",
+          "several",
+          "companies",
+          "telling",
+          "investors",
+          "tech",
+          "is",
+          "a",
+          "big",
+          "part",
+          "of",
+          "its",
+          "business",
+          "."
+        ],
+        "filtered": [
+          "walmart",
+          "talking",
+          "up",
+          "tech",
+          "focus",
+          ".",
+          "new",
+          "stock",
+          "exchange",
+          "next",
+          "move",
+          ".",
+          "retailer",
+          "one",
+          "several",
+          "companies",
+          "telling",
+          "investors",
+          "tech",
+          "big",
+          "part",
+          "business",
+          "."
+        ],
+        "lemmatized": [
+          "walmart",
+          "talk",
+          "up",
+          "tech",
+          "focus",
+          ".",
+          "new",
+          "stock",
+          "exchange",
+          "next",
+          "move",
+          ".",
+          "retailer",
+          "one",
+          "several",
+          "company",
+          "tell",
+          "investor",
+          "tech",
+          "big",
+          "part",
+          "business",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "498d1c77f6a1e986",
+      "title": "These Stocks Moved the Most Today Nvidia, Exact Sciences, Walmart, AMD, Alphabet, Palo Alto Networks, and More",
+      "body": "Nvidia turns lower as strong earnings fail to assuage concerns over an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:32.666379",
+      "url": "https://finnhub.io/api/news?id=4621cf73e0e38efb70dd9646ac5cae83374e6caa0fd216e82d3bead261a10230",
+      "raw_text": "These Stocks Moved the Most Today Nvidia, Exact Sciences, Walmart, AMD, Alphabet, Palo Alto Networks, and More. Nvidia turns lower as strong earnings fail to assuage concerns over an artificial-intelligence bubble.",
+      "tickers_mentioned": "GOOG,PANW,NVDA,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GOOG": [],
+        "PANW": [
+          "Moved the Most Today: Nvidia, Exact Sciences, Walmart, AMD, Alphabet, **Palo** Alto Networks, and More. Nvidia turns lower as strong earnings"
+        ],
+        "NVDA": [
+          "These Stocks Moved the Most Today: **Nvidia,** Exact Sciences, Walmart, AMD, Alphabet, Palo Alto Networks, and More.",
+          "Exact Sciences, Walmart, AMD, Alphabet, Palo Alto Networks, and More. **Nvidia** turns lower as strong earnings fail to assuage concerns over"
+        ],
+        "WMT": [
+          "These Stocks Moved the Most Today: Nvidia, Exact Sciences, **Walmart,** AMD, Alphabet, Palo Alto Networks, and More. Nvidia turns lower"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stocks",
+            "Walmart",
+            "Palo Alto Networks",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "Exact Sciences",
+            "AMD"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [
+            "lower"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "exact",
+            1
+          ],
+          [
+            "science",
+            1
+          ],
+          [
+            "walmart",
+            1
+          ],
+          [
+            "amd",
+            1
+          ],
+          [
+            "alphabet",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "moved",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "walmart",
+          ",",
+          "amd",
+          ",",
+          "alphabet",
+          ",",
+          "palo",
+          "alto",
+          "networks",
+          ",",
+          "and",
+          "more",
+          ".",
+          "nvidia",
+          "turns",
+          "lower",
+          "as",
+          "strong",
+          "earnings",
+          "fail",
+          "to",
+          "assuage",
+          "concerns",
+          "over",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moved",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "walmart",
+          ",",
+          "amd",
+          ",",
+          "alphabet",
+          ",",
+          "palo",
+          "alto",
+          "networks",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "turns",
+          "lower",
+          "strong",
+          "earnings",
+          "fail",
+          "assuage",
+          "concerns",
+          "over",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "exact",
+          "science",
+          ",",
+          "walmart",
+          ",",
+          "amd",
+          ",",
+          "alphabet",
+          ",",
+          "palo",
+          "alto",
+          "network",
+          ",",
+          "more",
+          ".",
+          "nvidia",
+          "turn",
+          "low",
+          "strong",
+          "earnings",
+          "fail",
+          "assuage",
+          "concern",
+          "over",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "63678b7e39d5bb50",
+      "title": "These Stocks Are Moving the Most Today Nvidia, Palantir, AMD, Palo Alto Networks, Walmart, Alphabet, and More",
+      "body": "Chip maker Nvidias strong earnings and rock-solid guidance ease worries about an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:32.870514",
+      "url": "https://finnhub.io/api/news?id=8afee9562433309d691da2dd2afc121f72b4373c4d93bd1204eb6cd2c5d4a0d0",
+      "raw_text": "These Stocks Are Moving the Most Today Nvidia, Palantir, AMD, Palo Alto Networks, Walmart, Alphabet, and More. Chip maker Nvidias strong earnings and rock-solid guidance ease worries about an artificial-intelligence bubble.",
+      "tickers_mentioned": "GOOG,NVDA,PLTR,WMT,PANW",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "GOOG": [],
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: **Nvidia,** Palantir, AMD, Palo Alto Networks, Walmart, Alphabet, and More. Chip",
+          "AMD, Palo Alto Networks, Walmart, Alphabet, and More. Chip maker **Nvidia’s** strong earnings and rock-solid guidance ease worries about an artificial-intelligence"
+        ],
+        "PLTR": [],
+        "WMT": [
+          "Moving the Most Today: Nvidia, Palantir, AMD, Palo Alto Networks, **Walmart,** Alphabet, and More. Chip maker Nvidia’s strong earnings and rock-solid"
+        ],
+        "PANW": [
+          "These Stocks Are Moving the Most Today: Nvidia, Palantir, AMD, **Palo** Alto Networks, Walmart, Alphabet, and More. Chip maker Nvidia’s strong"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palo Alto Networks",
+            "Walmart",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "AMD"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Palantir",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "palantir",
+            1
+          ],
+          [
+            "amd",
+            1
+          ],
+          [
+            "palo",
+            1
+          ],
+          [
+            "alto",
+            1
+          ],
+          [
+            "network",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "amd",
+          ",",
+          "palo",
+          "alto",
+          "networks",
+          ",",
+          "walmart",
+          ",",
+          "alphabet",
+          ",",
+          "and",
+          "more",
+          ".",
+          "chip",
+          "maker",
+          "nvidias",
+          "strong",
+          "earnings",
+          "and",
+          "rock-solid",
+          "guidance",
+          "ease",
+          "worries",
+          "about",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "amd",
+          ",",
+          "palo",
+          "alto",
+          "networks",
+          ",",
+          "walmart",
+          ",",
+          "alphabet",
+          ",",
+          "more",
+          ".",
+          "chip",
+          "maker",
+          "nvidias",
+          "strong",
+          "earnings",
+          "rock-solid",
+          "guidance",
+          "ease",
+          "worries",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "amd",
+          ",",
+          "palo",
+          "alto",
+          "network",
+          ",",
+          "walmart",
+          ",",
+          "alphabet",
+          ",",
+          "more",
+          ".",
+          "chip",
+          "maker",
+          "nvidias",
+          "strong",
+          "earnings",
+          "rock-solid",
+          "guidance",
+          "ease",
+          "worry",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "2b8afe12625e9c8b",
+      "title": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk",
+      "body": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:33.280192",
+      "url": "https://finnhub.io/api/news?id=f20d52f362a48238c759e963e90e8598efc6449396a71c37de911e50e7dd5c5d",
+      "raw_text": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk. Here are five key things investors need to know to start the trading day.",
+      "tickers_mentioned": "NVDA,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "**Nvidia's** earnings blowout, Walmart's outlook, Fed minutes and more in Morning"
+        ],
+        "WMT": [
+          "Nvidia's earnings blowout, **Walmart's** outlook, Fed minutes and more in Morning Squawk. Here are"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "Fed"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidias",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "blowout",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "feed",
+            1
+          ],
+          [
+            "minute",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "morning",
+            1
+          ],
+          [
+            "squawk",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "and",
+          "more",
+          "in",
+          "morning",
+          "squawk",
+          ".",
+          "here",
+          "are",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "to",
+          "know",
+          "to",
+          "start",
+          "the",
+          "trading",
+          "day",
+          "."
+        ],
+        "filtered": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "know",
+          "start",
+          "trading",
+          "day",
+          "."
+        ],
+        "lemmatized": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "feed",
+          "minute",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "thing",
+          "investor",
+          "need",
+          "know",
+          "start",
+          "trade",
+          "day",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "06cc460f8a7bddd1",
+      "title": "Dow Jones Futures Rise As Nvidia Jumps On Earnings Jobs Report, Walmart Due",
+      "body": "Dow Jones futures rose overnight, along with SP 500 futures and especially Nasdaq futures. Nvidia jumped on strong earnings and guidance, also lifting Broadcom, Taiwan Semiconductor, Advanced Micro Devices and the broader AI ecosystem.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:33.319874",
+      "url": "https://finnhub.io/api/news?id=ca6e847ecda50f4713c6a9d775f7a1c30dc42ac20638f73e5d78ff667baa9045",
+      "raw_text": "Dow Jones Futures Rise As Nvidia Jumps On Earnings Jobs Report, Walmart Due. Dow Jones futures rose overnight, along with SP 500 futures and especially Nasdaq futures. Nvidia jumped on strong earnings and guidance, also lifting Broadcom, Taiwan Semiconductor, Advanced Micro Devices and the broader AI ecosystem.",
+      "tickers_mentioned": "AMD,NVDA,AVGO,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AMD": [
+          "on strong earnings and guidance, also lifting Broadcom, Taiwan Semiconductor, **Advanced** Micro Devices and the broader AI ecosystem."
+        ],
+        "NVDA": [
+          "Dow Jones Futures Rise As **Nvidia** Jumps On Earnings; Jobs Report, Walmart Due. Dow Jones futures",
+          "overnight, along with S&P 500 futures and especially Nasdaq futures. **Nvidia** jumped on strong earnings and guidance, also lifting Broadcom, Taiwan"
+        ],
+        "AVGO": [
+          "futures. Nvidia jumped on strong earnings and guidance, also lifting **Broadcom,** Taiwan Semiconductor, Advanced Micro Devices and the broader AI ecosystem."
+        ],
+        "WMT": [
+          "Jones Futures Rise As Nvidia Jumps On Earnings; Jobs Report, **Walmart** Due. Dow Jones futures rose overnight, along with S&P 500"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow",
+            "Jones Futures Rise",
+            "Nvidia Jumps",
+            "Jobs Report",
+            "Walmart Due",
+            "Dow Jones",
+            "Nvidia",
+            "Broadcom",
+            "Advanced Micro Devices"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Earnings",
+            "Nasdaq",
+            "Taiwan"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "rise",
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "futures",
+            4
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "rise",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "jump",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "job",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "walmart",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 12,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dow",
+          "jones",
+          "futures",
+          "rise",
+          "as",
+          "nvidia",
+          "jumps",
+          "on",
+          "earnings",
+          "jobs",
+          "report",
+          ",",
+          "walmart",
+          "due",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "rose",
+          "overnight",
+          ",",
+          "along",
+          "with",
+          "sp",
+          "500",
+          "futures",
+          "and",
+          "especially",
+          "nasdaq",
+          "futures",
+          ".",
+          "nvidia",
+          "jumped",
+          "on",
+          "strong",
+          "earnings",
+          "and",
+          "guidance",
+          ",",
+          "also",
+          "lifting",
+          "broadcom",
+          ",",
+          "taiwan",
+          "semiconductor",
+          ",",
+          "advanced",
+          "micro",
+          "devices",
+          "and",
+          "the",
+          "broader",
+          "ai",
+          "ecosystem",
+          "."
+        ],
+        "filtered": [
+          "dow",
+          "jones",
+          "futures",
+          "rise",
+          "nvidia",
+          "jumps",
+          "earnings",
+          "jobs",
+          "report",
+          ",",
+          "walmart",
+          "due",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "rose",
+          "overnight",
+          ",",
+          "along",
+          "sp",
+          "500",
+          "futures",
+          "especially",
+          "nasdaq",
+          "futures",
+          ".",
+          "nvidia",
+          "jumped",
+          "strong",
+          "earnings",
+          "guidance",
+          ",",
+          "also",
+          "lifting",
+          "broadcom",
+          ",",
+          "taiwan",
+          "semiconductor",
+          ",",
+          "advanced",
+          "micro",
+          "devices",
+          "broader",
+          "ai",
+          "ecosystem",
+          "."
+        ],
+        "lemmatized": [
+          "dow",
+          "jones",
+          "futures",
+          "rise",
+          "nvidia",
+          "jump",
+          "earnings",
+          "job",
+          "report",
+          ",",
+          "walmart",
+          "due",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "rise",
+          "overnight",
+          ",",
+          "along",
+          "sp",
+          "500",
+          "futures",
+          "especially",
+          "nasdaq",
+          "futures",
+          ".",
+          "nvidia",
+          "jump",
+          "strong",
+          "earnings",
+          "guidance",
+          ",",
+          "also",
+          "lift",
+          "broadcom",
+          ",",
+          "taiwan",
+          "semiconductor",
+          ",",
+          "advance",
+          "micro",
+          "device",
+          "broader",
+          "ai",
+          "ecosystem",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5c3bfffaa9b90067",
+      "title": "As holidays approach, value players Walmart and T.J. Maxx are drawing the cash-strapped and the wealthy",
+      "body": "As more major retailers post earnings, one theme is clear value players are winning both the wealthy and the cash-strapped. Walmart and T.J. Maxxs parent company TJX stood apart from the pack this 6167 chars",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:35.803122",
+      "url": "https://www.cnbc.com/2025/11/20/walmart-tjx-earnings-wealthy-shoppers-value.html",
+      "raw_text": "As holidays approach, value players Walmart and T.J. Maxx are drawing the cash-strapped and the wealthy. As more major retailers post earnings, one theme is clear value players are winning both the wealthy and the cash-strapped. Walmart and T.J. Maxxs parent company TJX stood apart from the pack this 6167 chars",
+      "tickers_mentioned": "WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "WMT": [
+          "As holidays approach, value players **Walmart** and T.J. Maxx are drawing the cash-strapped and the wealthy.",
+          "value players are winning both the wealthy and the cash-strapped. **Walmart** and T.J. Maxx's parent company TJX stood apart from the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "TJX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "6167"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "value",
+            2
+          ],
+          [
+            "player",
+            2
+          ],
+          [
+            "walmart",
+            2
+          ],
+          [
+            "t.j.",
+            2
+          ],
+          [
+            "cash-strapped",
+            2
+          ],
+          [
+            "wealthy",
+            2
+          ],
+          [
+            "holiday",
+            1
+          ],
+          [
+            "approach",
+            1
+          ],
+          [
+            "maxx",
+            1
+          ],
+          [
+            "draw",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "as",
+          "holidays",
+          "approach",
+          ",",
+          "value",
+          "players",
+          "walmart",
+          "and",
+          "t.j.",
+          "maxx",
+          "are",
+          "drawing",
+          "the",
+          "cash-strapped",
+          "and",
+          "the",
+          "wealthy",
+          ".",
+          "as",
+          "more",
+          "major",
+          "retailers",
+          "post",
+          "earnings",
+          ",",
+          "one",
+          "theme",
+          "is",
+          "clear",
+          "value",
+          "players",
+          "are",
+          "winning",
+          "both",
+          "the",
+          "wealthy",
+          "and",
+          "the",
+          "cash-strapped",
+          ".",
+          "walmart",
+          "and",
+          "t.j.",
+          "maxxs",
+          "parent",
+          "company",
+          "tjx",
+          "stood",
+          "apart",
+          "from",
+          "the",
+          "pack",
+          "this",
+          "6167",
+          "chars"
+        ],
+        "filtered": [
+          "holidays",
+          "approach",
+          ",",
+          "value",
+          "players",
+          "walmart",
+          "t.j.",
+          "maxx",
+          "drawing",
+          "cash-strapped",
+          "wealthy",
+          ".",
+          "more",
+          "major",
+          "retailers",
+          "post",
+          "earnings",
+          ",",
+          "one",
+          "theme",
+          "clear",
+          "value",
+          "players",
+          "winning",
+          "wealthy",
+          "cash-strapped",
+          ".",
+          "walmart",
+          "t.j.",
+          "maxxs",
+          "parent",
+          "company",
+          "tjx",
+          "stood",
+          "apart",
+          "pack",
+          "6167",
+          "chars"
+        ],
+        "lemmatized": [
+          "holiday",
+          "approach",
+          ",",
+          "value",
+          "player",
+          "walmart",
+          "t.j.",
+          "maxx",
+          "draw",
+          "cash-strapped",
+          "wealthy",
+          ".",
+          "more",
+          "major",
+          "retailer",
+          "post",
+          "earnings",
+          ",",
+          "one",
+          "theme",
+          "clear",
+          "value",
+          "player",
+          "win",
+          "wealthy",
+          "cash-strapped",
+          ".",
+          "walmart",
+          "t.j.",
+          "maxxs",
+          "parent",
+          "company",
+          "tjx",
+          "stand",
+          "apart",
+          "pack",
+          "6167",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "1e221c65be37f957",
+      "title": "Walmart reports strong third quarter results on surging e-commerce sales",
+      "body": "NEW YORK, Nov. 20 Xinhua -- Walmart on Thursday reported strong third-quarter results as its global e-commerce business surged. The retail giant posted a total revenue of 179.5 billion U.S. dolla 788 chars",
+      "source": "The Star Online",
+      "timestamp": "2025-11-22T00:48:35.885731",
+      "url": "https://www.thestar.com.my/news/world/2025/11/21/walmart-reports-strong-q3-results-on-surging-e-commerce-sales",
+      "raw_text": "Walmart reports strong third quarter results on surging e-commerce sales. NEW YORK, Nov. 20 Xinhua -- Walmart on Thursday reported strong third-quarter results as its global e-commerce business surged. The retail giant posted a total revenue of 179.5 billion U.S. dolla 788 chars",
+      "tickers_mentioned": "GPN,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "GPN": [],
+        "WMT": [
+          "**Walmart** reports strong Q3 results on surging e-commerce sales. NEW YORK,",
+          "on surging e-commerce sales. NEW YORK, Nov. 20 (Xinhua) -- **Walmart** on Thursday reported strong third-quarter results as its global e-commerce"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "NEW",
+            "Xinhua"
+          ],
+          "GPE": [
+            "Walmart",
+            "YORK",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "20",
+          "179.5",
+          "788"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "strong",
+            2
+          ],
+          [
+            "result",
+            2
+          ],
+          [
+            "surge",
+            2
+          ],
+          [
+            "e-commerce",
+            2
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "sales",
+            1
+          ],
+          [
+            "new",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 3,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "reports",
+          "strong",
+          "third",
+          "quarter",
+          "results",
+          "on",
+          "surging",
+          "e-commerce",
+          "sales",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "20",
+          "xinhua",
+          "--",
+          "walmart",
+          "on",
+          "thursday",
+          "reported",
+          "strong",
+          "third-quarter",
+          "results",
+          "as",
+          "its",
+          "global",
+          "e-commerce",
+          "business",
+          "surged",
+          ".",
+          "the",
+          "retail",
+          "giant",
+          "posted",
+          "a",
+          "total",
+          "revenue",
+          "of",
+          "179.5",
+          "billion",
+          "u.s.",
+          "dolla",
+          "788",
+          "chars"
+        ],
+        "filtered": [
+          "walmart",
+          "reports",
+          "strong",
+          "third",
+          "quarter",
+          "results",
+          "surging",
+          "e-commerce",
+          "sales",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "20",
+          "xinhua",
+          "--",
+          "walmart",
+          "thursday",
+          "reported",
+          "strong",
+          "third-quarter",
+          "results",
+          "global",
+          "e-commerce",
+          "business",
+          "surged",
+          ".",
+          "retail",
+          "giant",
+          "posted",
+          "total",
+          "revenue",
+          "179.5",
+          "billion",
+          "u.s.",
+          "dolla",
+          "788",
+          "chars"
+        ],
+        "lemmatized": [
+          "walmart",
+          "report",
+          "strong",
+          "third",
+          "quarter",
+          "result",
+          "surge",
+          "e-commerce",
+          "sales",
+          ".",
+          "new",
+          "york",
+          ",",
+          "nov.",
+          "20",
+          "xinhua",
+          "--",
+          "walmart",
+          "thursday",
+          "report",
+          "strong",
+          "third-quarter",
+          "result",
+          "global",
+          "e-commerce",
+          "business",
+          "surge",
+          ".",
+          "retail",
+          "giant",
+          "post",
+          "total",
+          "revenue",
+          "179.5",
+          "billion",
+          "u.s.",
+          "dolla",
+          "788",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "70983412336641c6",
+      "title": "U.S. stocks rise on a wave of fresh optimism led by Nvidia and Walmart",
+      "body": "A blowout quarterly earnings report from the computer chip giant Nvidia, a strong showing from Walmart and a better than expected September jobs report sent stocks surging early Thursday, as investor 2810 chars",
+      "source": "NBC News",
+      "timestamp": "2025-11-22T00:48:35.992951",
+      "url": "https://www.nbcnews.com/business/business-news/stock-market-nvidia-walmart-jobs-rcna244960",
+      "raw_text": "U.S. stocks rise on a wave of fresh optimism led by Nvidia and Walmart. A blowout quarterly earnings report from the computer chip giant Nvidia, a strong showing from Walmart and a better than expected September jobs report sent stocks surging early Thursday, as investor 2810 chars",
+      "tickers_mentioned": "NVDA,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NVDA": [
+          "stocks rise on a wave of fresh optimism led by **Nvidia** and Walmart. A blowout quarterly earnings report from the computer",
+          "A blowout quarterly earnings report from the computer chip giant **Nvidia,** a strong showing from Walmart and a better than expected"
+        ],
+        "WMT": [
+          "on a wave of fresh optimism led by Nvidia and **Walmart.** A blowout quarterly earnings report from the computer chip giant",
+          "from the computer chip giant Nvidia, a strong showing from **Walmart** and a better than expected September jobs report sent stocks"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "U.S.",
+            "Nvidia",
+            "Walmart"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "expect",
+            "quarter",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "2810"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "walmart",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "rise",
+            1
+          ],
+          [
+            "wave",
+            1
+          ],
+          [
+            "fresh",
+            1
+          ],
+          [
+            "optimism",
+            1
+          ],
+          [
+            "lead",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 4,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "u.s.",
+          "stocks",
+          "rise",
+          "on",
+          "a",
+          "wave",
+          "of",
+          "fresh",
+          "optimism",
+          "led",
+          "by",
+          "nvidia",
+          "and",
+          "walmart",
+          ".",
+          "a",
+          "blowout",
+          "quarterly",
+          "earnings",
+          "report",
+          "from",
+          "the",
+          "computer",
+          "chip",
+          "giant",
+          "nvidia",
+          ",",
+          "a",
+          "strong",
+          "showing",
+          "from",
+          "walmart",
+          "and",
+          "a",
+          "better",
+          "than",
+          "expected",
+          "september",
+          "jobs",
+          "report",
+          "sent",
+          "stocks",
+          "surging",
+          "early",
+          "thursday",
+          ",",
+          "as",
+          "investor",
+          "2810",
+          "chars"
+        ],
+        "filtered": [
+          "u.s.",
+          "stocks",
+          "rise",
+          "wave",
+          "fresh",
+          "optimism",
+          "led",
+          "nvidia",
+          "walmart",
+          ".",
+          "blowout",
+          "quarterly",
+          "earnings",
+          "report",
+          "computer",
+          "chip",
+          "giant",
+          "nvidia",
+          ",",
+          "strong",
+          "showing",
+          "walmart",
+          "better",
+          "expected",
+          "september",
+          "jobs",
+          "report",
+          "sent",
+          "stocks",
+          "surging",
+          "early",
+          "thursday",
+          ",",
+          "investor",
+          "2810",
+          "chars"
+        ],
+        "lemmatized": [
+          "u.s.",
+          "stock",
+          "rise",
+          "wave",
+          "fresh",
+          "optimism",
+          "lead",
+          "nvidia",
+          "walmart",
+          ".",
+          "blowout",
+          "quarterly",
+          "earnings",
+          "report",
+          "computer",
+          "chip",
+          "giant",
+          "nvidia",
+          ",",
+          "strong",
+          "show",
+          "walmart",
+          "well",
+          "expect",
+          "september",
+          "job",
+          "report",
+          "send",
+          "stock",
+          "surge",
+          "early",
+          "thursday",
+          ",",
+          "investor",
+          "2810",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "605b978dded36994",
+      "title": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More",
+      "body": "Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 4554 chars",
+      "source": "PCMag.com",
+      "timestamp": "2025-11-22T00:48:36.072705",
+      "url": "https://me.pcmag.com/en/topic-2/33597/amazing-apple-early-black-friday-deals-save-hundreds-on-ipads-macbooks-and-more",
+      "raw_text": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More. Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 4554 chars",
+      "tickers_mentioned": "TECH,BBY,AMZN,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TECH": [],
+        "BBY": [
+          "already seeing lots of early Black Friday deals from Amazon, **Best** Buy, and Walmart, includi… [+4554 chars]"
+        ],
+        "AMZN": [
+          "We're already seeing lots of early Black Friday deals from **Amazon,** Best Buy, and Walmart, includi… [+4554 chars]"
+        ],
+        "WMT": [
+          "of early Black Friday deals from Amazon, Best Buy, and **Walmart,** includi… [+4554 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Early Black",
+            "Save Hundreds",
+            "Black",
+            "Apple",
+            "Best Buy",
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "MacBooks"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4554"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "early",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "amaze",
+            1
+          ],
+          [
+            "save",
+            1
+          ],
+          [
+            "hundred",
+            1
+          ],
+          [
+            "ipads",
+            1
+          ],
+          [
+            "macbooks",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "on",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "and",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "is",
+          "only",
+          "a",
+          "week",
+          "away",
+          ",",
+          "but",
+          "you",
+          "do",
+          "not",
+          "have",
+          "to",
+          "wait",
+          "to",
+          "score",
+          "low",
+          "prices",
+          "on",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "we",
+          "are",
+          "already",
+          "seeing",
+          "lots",
+          "of",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "from",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "and",
+          "walmart",
+          ",",
+          "includi",
+          "4554",
+          "chars"
+        ],
+        "filtered": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "prices",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "seeing",
+          "lots",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "4554",
+          "chars"
+        ],
+        "lemmatized": [
+          "amaze",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "save",
+          "hundred",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "price",
+          "apple",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "see",
+          "lot",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "4554",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "f0812d74dbe0acb1",
+      "title": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More",
+      "body": "Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 5692 chars",
+      "source": "PCMag.com",
+      "timestamp": "2025-11-22T00:48:36.083743",
+      "url": "https://uk.pcmag.com/black-friday/161409/amazing-apple-early-black-friday-deals-save-hundreds-on-ipads-macbooks-and-more",
+      "raw_text": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More. Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 5692 chars",
+      "tickers_mentioned": "TECH,BBY,AMZN,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TECH": [],
+        "BBY": [
+          "already seeing lots of early Black Friday deals from Amazon, **Best** Buy, and Walmart, includi… [+5692 chars]"
+        ],
+        "AMZN": [
+          "We're already seeing lots of early Black Friday deals from **Amazon,** Best Buy, and Walmart, includi… [+5692 chars]"
+        ],
+        "WMT": [
+          "of early Black Friday deals from Amazon, Best Buy, and **Walmart,** includi… [+5692 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Early Black",
+            "Save Hundreds",
+            "Black",
+            "Apple",
+            "Best Buy",
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "MacBooks"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "5692"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "early",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "amaze",
+            1
+          ],
+          [
+            "save",
+            1
+          ],
+          [
+            "hundred",
+            1
+          ],
+          [
+            "ipads",
+            1
+          ],
+          [
+            "macbooks",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "on",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "and",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "is",
+          "only",
+          "a",
+          "week",
+          "away",
+          ",",
+          "but",
+          "you",
+          "do",
+          "not",
+          "have",
+          "to",
+          "wait",
+          "to",
+          "score",
+          "low",
+          "prices",
+          "on",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "we",
+          "are",
+          "already",
+          "seeing",
+          "lots",
+          "of",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "from",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "and",
+          "walmart",
+          ",",
+          "includi",
+          "5692",
+          "chars"
+        ],
+        "filtered": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "prices",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "seeing",
+          "lots",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "5692",
+          "chars"
+        ],
+        "lemmatized": [
+          "amaze",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "save",
+          "hundred",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "price",
+          "apple",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "see",
+          "lot",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "5692",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "28c06601ec254daf",
+      "title": "Walmart raises profit expectations as more Americans hunt deals in sluggish economy",
+      "body": "By ANNE DINNOCENZIO, Associated Press Retail Writer NEW YORK AP Walmart delivered another standout quarter, posting strong sales and profits that blew past Wall Street expectations as it wins over 4538 chars",
+      "source": "Boston Herald",
+      "timestamp": "2025-11-22T00:48:36.178791",
+      "url": "https://www.bostonherald.com/2025/11/20/walmart-raises-expectations-sluggish-economy/",
+      "raw_text": "Walmart raises profit expectations as more Americans hunt deals in sluggish economy. By ANNE DINNOCENZIO, Associated Press Retail Writer NEW YORK AP Walmart delivered another standout quarter, posting strong sales and profits that blew past Wall Street expectations as it wins over 4538 chars",
+      "tickers_mentioned": "WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WMT": [
+          "**Walmart** raises profit expectations as more Americans hunt deals in sluggish",
+          "By ANNE DINNOCENZIO, Associated Press Retail Writer NEW YORK (AP) **Walmart** delivered another standout quarter, posting strong sales and profits that"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "ANNE",
+            "Associated",
+            "NEW",
+            "AP"
+          ],
+          "GPE": [
+            "Walmart"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "profit"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "4538"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "profit",
+            2
+          ],
+          [
+            "expectation",
+            2
+          ],
+          [
+            "raise",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "american",
+            1
+          ],
+          [
+            "hunt",
+            1
+          ],
+          [
+            "deal",
+            1
+          ],
+          [
+            "sluggish",
+            1
+          ],
+          [
+            "economy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "raises",
+          "profit",
+          "expectations",
+          "as",
+          "more",
+          "americans",
+          "hunt",
+          "deals",
+          "in",
+          "sluggish",
+          "economy",
+          ".",
+          "by",
+          "anne",
+          "dinnocenzio",
+          ",",
+          "associated",
+          "press",
+          "retail",
+          "writer",
+          "new",
+          "york",
+          "ap",
+          "walmart",
+          "delivered",
+          "another",
+          "standout",
+          "quarter",
+          ",",
+          "posting",
+          "strong",
+          "sales",
+          "and",
+          "profits",
+          "that",
+          "blew",
+          "past",
+          "wall",
+          "street",
+          "expectations",
+          "as",
+          "it",
+          "wins",
+          "over",
+          "4538",
+          "chars"
+        ],
+        "filtered": [
+          "walmart",
+          "raises",
+          "profit",
+          "expectations",
+          "more",
+          "americans",
+          "hunt",
+          "deals",
+          "sluggish",
+          "economy",
+          ".",
+          "anne",
+          "dinnocenzio",
+          ",",
+          "associated",
+          "press",
+          "retail",
+          "writer",
+          "new",
+          "york",
+          "ap",
+          "walmart",
+          "delivered",
+          "another",
+          "standout",
+          "quarter",
+          ",",
+          "posting",
+          "strong",
+          "sales",
+          "profits",
+          "blew",
+          "past",
+          "wall",
+          "street",
+          "expectations",
+          "wins",
+          "over",
+          "4538",
+          "chars"
+        ],
+        "lemmatized": [
+          "walmart",
+          "raise",
+          "profit",
+          "expectation",
+          "more",
+          "american",
+          "hunt",
+          "deal",
+          "sluggish",
+          "economy",
+          ".",
+          "anne",
+          "dinnocenzio",
+          ",",
+          "associated",
+          "press",
+          "retail",
+          "writer",
+          "new",
+          "york",
+          "ap",
+          "walmart",
+          "deliver",
+          "another",
+          "standout",
+          "quarter",
+          ",",
+          "post",
+          "strong",
+          "sales",
+          "profit",
+          "blow",
+          "past",
+          "wall",
+          "street",
+          "expectation",
+          "win",
+          "over",
+          "4538",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "1f7b21561823ae87",
+      "title": "Walmart Is Talking Up Its Tech Focus. A New Stock Exchange Is Its Next Move",
+      "body": "The retailer is one of several companies telling investors tech is a big part of its business.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:36.822470",
+      "url": "https://finnhub.io/api/news?id=54a890435319a267bd86fc203a3c529228d826ab58156c557acb7c54f6bac94c",
+      "raw_text": "Walmart Is Talking Up Its Tech Focus. A New Stock Exchange Is Its Next Move. The retailer is one of several companies telling investors tech is a big part of its business.",
+      "tickers_mentioned": "TECH,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TECH": [],
+        "WMT": [
+          "**Walmart** Is Talking Up Its Tech Focus. A New Stock Exchange"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "New Stock Exchange"
+          ],
+          "GPE": [
+            "Walmart"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            2
+          ],
+          [
+            "walmart",
+            1
+          ],
+          [
+            "talk",
+            1
+          ],
+          [
+            "focus",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "exchange",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "retailer",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "is",
+          "talking",
+          "up",
+          "its",
+          "tech",
+          "focus",
+          ".",
+          "a",
+          "new",
+          "stock",
+          "exchange",
+          "is",
+          "its",
+          "next",
+          "move",
+          ".",
+          "the",
+          "retailer",
+          "is",
+          "one",
+          "of",
+          "several",
+          "companies",
+          "telling",
+          "investors",
+          "tech",
+          "is",
+          "a",
+          "big",
+          "part",
+          "of",
+          "its",
+          "business",
+          "."
+        ],
+        "filtered": [
+          "walmart",
+          "talking",
+          "up",
+          "tech",
+          "focus",
+          ".",
+          "new",
+          "stock",
+          "exchange",
+          "next",
+          "move",
+          ".",
+          "retailer",
+          "one",
+          "several",
+          "companies",
+          "telling",
+          "investors",
+          "tech",
+          "big",
+          "part",
+          "business",
+          "."
+        ],
+        "lemmatized": [
+          "walmart",
+          "talk",
+          "up",
+          "tech",
+          "focus",
+          ".",
+          "new",
+          "stock",
+          "exchange",
+          "next",
+          "move",
+          ".",
+          "retailer",
+          "one",
+          "several",
+          "company",
+          "tell",
+          "investor",
+          "tech",
+          "big",
+          "part",
+          "business",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a553056e8fd1c62c",
+      "title": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron",
+      "body": "Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:37.121114",
+      "url": "https://finnhub.io/api/news?id=2952b41960798b4ec3377c7e89a13a3a3e807e801fdbef5f5a90e096172d3d14",
+      "raw_text": "Stocks to Watch Thursday Walmart, Nvidia, Exact Sciences, Regeneron. Walmart WMT The biggest U.S. retailer and private-sector employer posted solid quarterly results and raised its outlook. Shares climbed 6 percent. Nvidia NVDA The chip maker reported record sales and issued strong guidance, helping ease angst about an artificial-intelligence bubble.",
+      "tickers_mentioned": "REGN,NVDA,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "REGN": [],
+        "NVDA": [
+          "Stocks to Watch Thursday: Walmart, **Nvidia,** Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S. retailer",
+          "quarterly results and raised its outlook. Shares climbed 6%. ↗️ **Nvidia** (NVDA): The chip maker reported record sales and issued strong"
+        ],
+        "WMT": [
+          "Stocks to Watch Thursday: **Walmart,** Nvidia, Exact Sciences, Regeneron. ↗️ Walmart (WMT): The biggest U.S.",
+          "Stocks to Watch Thursday: Walmart, Nvidia, Exact Sciences, Regeneron. ↗️ **Walmart** (WMT): The biggest U.S. retailer and private-sector employer posted solid"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Regeneron",
+            "Shares"
+          ],
+          "ORGANIZATION": [
+            "Exact Sciences",
+            "WMT",
+            "NVDA"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Walmart",
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "record"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "exact",
+            1
+          ],
+          [
+            "science",
+            1
+          ],
+          [
+            "regeneron",
+            1
+          ],
+          [
+            "wmt",
+            1
+          ],
+          [
+            "big",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "the",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "and",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "and",
+          "raised",
+          "its",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "the",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "and",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "about",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "sciences",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "biggest",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "posted",
+          "solid",
+          "quarterly",
+          "results",
+          "raised",
+          "outlook",
+          ".",
+          "shares",
+          "climbed",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "reported",
+          "record",
+          "sales",
+          "issued",
+          "strong",
+          "guidance",
+          ",",
+          "helping",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "thursday",
+          "walmart",
+          ",",
+          "nvidia",
+          ",",
+          "exact",
+          "science",
+          ",",
+          "regeneron",
+          ".",
+          "walmart",
+          "wmt",
+          "big",
+          "u.s.",
+          "retailer",
+          "private-sector",
+          "employer",
+          "post",
+          "solid",
+          "quarterly",
+          "result",
+          "raise",
+          "outlook",
+          ".",
+          "shares",
+          "climb",
+          "6",
+          "percent",
+          ".",
+          "nvidia",
+          "nvda",
+          "chip",
+          "maker",
+          "report",
+          "record",
+          "sales",
+          "issue",
+          "strong",
+          "guidance",
+          ",",
+          "help",
+          "ease",
+          "angst",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "7e5b516515643cc5",
+      "title": "E-Commerce Today - WeShop Redefines Retail with U.S. Social Commerce Expansion",
+      "body": "WeShop, a pioneering social commerce platform, has entered the U.S. market following a successful debut on the Nasdaq. The companys app allows users to earn ownership in the platform through their purchases and referrals, transforming the traditional shopping experience with its ShareBack program. With partnerships including major brands like Bloomingdales, Walmart, and Nike, WeShop enables users to explore over 1 billion products while earning WePoints that can be converted into equity...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:37.286976",
+      "url": "https://finnhub.io/api/news?id=46f21ef885e7fd723cfceaffb448cfd46103ba9b8618df55f6e785ca921f7414",
+      "raw_text": "E-Commerce Today - WeShop Redefines Retail with U.S. Social Commerce Expansion. WeShop, a pioneering social commerce platform, has entered the U.S. market following a successful debut on the Nasdaq. The companys app allows users to earn ownership in the platform through their purchases and referrals, transforming the traditional shopping experience with its ShareBack program. With partnerships including major brands like Bloomingdales, Walmart, and Nike, WeShop enables users to explore over 1 billion products while earning WePoints that can be converted into equity...",
+      "tickers_mentioned": "EQR,NKE,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "EQR": [],
+        "NKE": [],
+        "WMT": [
+          "its ShareBack™ program. With partnerships including major brands like Bloomingdales, **Walmart,** and Nike, WeShop enables users to explore over 1 billion"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Nike"
+          ],
+          "ORGANIZATION": [
+            "WeShop Redefines Retail",
+            "WeShop",
+            "Nasdaq",
+            "WePoints"
+          ],
+          "GPE": [
+            "U.S.",
+            "Bloomingdales"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "weshop",
+            3
+          ],
+          [
+            "u.s.",
+            2
+          ],
+          [
+            "social",
+            2
+          ],
+          [
+            "commerce",
+            2
+          ],
+          [
+            "platform",
+            2
+          ],
+          [
+            "user",
+            2
+          ],
+          [
+            "earn",
+            2
+          ],
+          [
+            "e-commerce",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "redefines",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "e-commerce",
+          "today",
+          "-",
+          "weshop",
+          "redefines",
+          "retail",
+          "with",
+          "u.s.",
+          "social",
+          "commerce",
+          "expansion",
+          ".",
+          "weshop",
+          ",",
+          "a",
+          "pioneering",
+          "social",
+          "commerce",
+          "platform",
+          ",",
+          "has",
+          "entered",
+          "the",
+          "u.s.",
+          "market",
+          "following",
+          "a",
+          "successful",
+          "debut",
+          "on",
+          "the",
+          "nasdaq",
+          ".",
+          "the",
+          "companys",
+          "app",
+          "allows",
+          "users",
+          "to",
+          "earn",
+          "ownership",
+          "in",
+          "the",
+          "platform",
+          "through",
+          "their",
+          "purchases",
+          "and",
+          "referrals",
+          ",",
+          "transforming",
+          "the",
+          "traditional",
+          "shopping",
+          "experience",
+          "with",
+          "its",
+          "shareback",
+          "program",
+          ".",
+          "with",
+          "partnerships",
+          "including",
+          "major",
+          "brands",
+          "like",
+          "bloomingdales",
+          ",",
+          "walmart",
+          ",",
+          "and",
+          "nike",
+          ",",
+          "weshop",
+          "enables",
+          "users",
+          "to",
+          "explore",
+          "over",
+          "1",
+          "billion",
+          "products",
+          "while",
+          "earning",
+          "wepoints",
+          "that",
+          "can",
+          "be",
+          "converted",
+          "into",
+          "equity",
+          "..."
+        ],
+        "filtered": [
+          "e-commerce",
+          "today",
+          "-",
+          "weshop",
+          "redefines",
+          "retail",
+          "u.s.",
+          "social",
+          "commerce",
+          "expansion",
+          ".",
+          "weshop",
+          ",",
+          "pioneering",
+          "social",
+          "commerce",
+          "platform",
+          ",",
+          "entered",
+          "u.s.",
+          "market",
+          "following",
+          "successful",
+          "debut",
+          "nasdaq",
+          ".",
+          "companys",
+          "app",
+          "allows",
+          "users",
+          "earn",
+          "ownership",
+          "platform",
+          "purchases",
+          "referrals",
+          ",",
+          "transforming",
+          "traditional",
+          "shopping",
+          "experience",
+          "shareback",
+          "program",
+          ".",
+          "partnerships",
+          "including",
+          "major",
+          "brands",
+          "like",
+          "bloomingdales",
+          ",",
+          "walmart",
+          ",",
+          "nike",
+          ",",
+          "weshop",
+          "enables",
+          "users",
+          "explore",
+          "over",
+          "1",
+          "billion",
+          "products",
+          "earning",
+          "wepoints",
+          "converted",
+          "equity",
+          "..."
+        ],
+        "lemmatized": [
+          "e-commerce",
+          "today",
+          "-",
+          "weshop",
+          "redefines",
+          "retail",
+          "u.s.",
+          "social",
+          "commerce",
+          "expansion",
+          ".",
+          "weshop",
+          ",",
+          "pioneer",
+          "social",
+          "commerce",
+          "platform",
+          ",",
+          "enter",
+          "u.s.",
+          "market",
+          "follow",
+          "successful",
+          "debut",
+          "nasdaq",
+          ".",
+          "company",
+          "app",
+          "allow",
+          "user",
+          "earn",
+          "ownership",
+          "platform",
+          "purchase",
+          "referral",
+          ",",
+          "transform",
+          "traditional",
+          "shopping",
+          "experience",
+          "shareback",
+          "program",
+          ".",
+          "partnership",
+          "include",
+          "major",
+          "brand",
+          "like",
+          "bloomingdales",
+          ",",
+          "walmart",
+          ",",
+          "nike",
+          ",",
+          "weshop",
+          "enable",
+          "user",
+          "explore",
+          "over",
+          "1",
+          "billion",
+          "product",
+          "earn",
+          "wepoints",
+          "convert",
+          "equity",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "2b8afe12625e9c8b",
+      "title": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk",
+      "body": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:37.484908",
+      "url": "https://finnhub.io/api/news?id=f20d52f362a48238c759e963e90e8598efc6449396a71c37de911e50e7dd5c5d",
+      "raw_text": "Nvidias earnings blowout, Walmarts outlook, Fed minutes and more in Morning Squawk. Here are five key things investors need to know to start the trading day.",
+      "tickers_mentioned": "NVDA,WMT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NVDA": [
+          "**Nvidia's** earnings blowout, Walmart's outlook, Fed minutes and more in Morning"
+        ],
+        "WMT": [
+          "Nvidia's earnings blowout, **Walmart's** outlook, Fed minutes and more in Morning Squawk. Here are"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "Fed"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidias",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "blowout",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "feed",
+            1
+          ],
+          [
+            "minute",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "morning",
+            1
+          ],
+          [
+            "squawk",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "and",
+          "more",
+          "in",
+          "morning",
+          "squawk",
+          ".",
+          "here",
+          "are",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "to",
+          "know",
+          "to",
+          "start",
+          "the",
+          "trading",
+          "day",
+          "."
+        ],
+        "filtered": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "fed",
+          "minutes",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "things",
+          "investors",
+          "need",
+          "know",
+          "start",
+          "trading",
+          "day",
+          "."
+        ],
+        "lemmatized": [
+          "nvidias",
+          "earnings",
+          "blowout",
+          ",",
+          "walmarts",
+          "outlook",
+          ",",
+          "feed",
+          "minute",
+          "more",
+          "morning",
+          "squawk",
+          ".",
+          "five",
+          "key",
+          "thing",
+          "investor",
+          "need",
+          "know",
+          "start",
+          "trade",
+          "day",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "99831ac20928be74",
+      "title": "ASUS Launches Exclusive Early Black Friday Offers",
+      "body": "Save up to C$750 and enjoy up to 50 percent off laptops, desktops, and accessories starting November 21KEY POINTS Start saving early Early Black Friday deals begin November 21, with additional discounts launching on Black Friday and Cyber Monday.Massive holiday savings Get up to C$750 off and up to 50 percent off ASUS laptops, desktops, Chromebooks, and more.Shop at your favorite retailers Deals available at Amazon, ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples, Walmart, and more. T",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:37.890583",
+      "url": "https://finnhub.io/api/news?id=32720b9b7921b8748ac1dac37a8fd2a7d3794e3b98d2262e5e47a52e4a75325a",
+      "raw_text": "ASUS Launches Exclusive Early Black Friday Offers. Save up to C$750 and enjoy up to 50 percent off laptops, desktops, and accessories starting November 21KEY POINTS Start saving early Early Black Friday deals begin November 21, with additional discounts launching on Black Friday and Cyber Monday.Massive holiday savings Get up to C$750 off and up to 50 percent off ASUS laptops, desktops, Chromebooks, and more.Shop at your favorite retailers Deals available at Amazon, ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples, Walmart, and more. T",
+      "tickers_mentioned": "BBY,AMZN,COST,WMT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [
+          "at your favorite retailers: Deals available at Amazon, ASUS Store, **Best** Buy, Canada Computers, Costco, London Drugs, Staples, Walmart, and more."
+        ],
+        "AMZN": [
+          "Chromebooks, and more.Shop at your favorite retailers: Deals available at **Amazon,** ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples,"
+        ],
+        "COST": [
+          "Deals available at Amazon, ASUS Store, Best Buy, Canada Computers, **Costco,** London Drugs, Staples, Walmart, and more. T"
+        ],
+        "WMT": [
+          "ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples, **Walmart,** and more. T"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Launches Exclusive Early Black",
+            "Black",
+            "Cyber",
+            "Best Buy",
+            "Canada Computers",
+            "London Drugs",
+            "Staples",
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "ASUS",
+            "POINTS",
+            "Amazon",
+            "ASUS Store"
+          ],
+          "GPE": [
+            "Chromebooks",
+            "Costco"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "750",
+          "50",
+          "21",
+          "750",
+          "50"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "asus",
+            3
+          ],
+          [
+            "early",
+            3
+          ],
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "launch",
+            2
+          ],
+          [
+            "save",
+            2
+          ],
+          [
+            "750",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "laptop",
+            2
+          ],
+          [
+            "desktop",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 14,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "asus",
+          "launches",
+          "exclusive",
+          "early",
+          "black",
+          "friday",
+          "offers",
+          ".",
+          "save",
+          "up",
+          "to",
+          "c",
+          "$",
+          "750",
+          "and",
+          "enjoy",
+          "up",
+          "to",
+          "50",
+          "percent",
+          "off",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "and",
+          "accessories",
+          "starting",
+          "november",
+          "21key",
+          "points",
+          "start",
+          "saving",
+          "early",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "begin",
+          "november",
+          "21",
+          ",",
+          "with",
+          "additional",
+          "discounts",
+          "launching",
+          "on",
+          "black",
+          "friday",
+          "and",
+          "cyber",
+          "monday.massive",
+          "holiday",
+          "savings",
+          "get",
+          "up",
+          "to",
+          "c",
+          "$",
+          "750",
+          "off",
+          "and",
+          "up",
+          "to",
+          "50",
+          "percent",
+          "off",
+          "asus",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "chromebooks",
+          ",",
+          "and",
+          "more.shop",
+          "at",
+          "your",
+          "favorite",
+          "retailers",
+          "deals",
+          "available",
+          "at",
+          "amazon",
+          ",",
+          "asus",
+          "store",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "canada",
+          "computers",
+          ",",
+          "costco",
+          ",",
+          "london",
+          "drugs",
+          ",",
+          "staples",
+          ",",
+          "walmart",
+          ",",
+          "and",
+          "more",
+          ".",
+          "t"
+        ],
+        "filtered": [
+          "asus",
+          "launches",
+          "exclusive",
+          "early",
+          "black",
+          "friday",
+          "offers",
+          ".",
+          "save",
+          "up",
+          "c",
+          "$",
+          "750",
+          "enjoy",
+          "up",
+          "50",
+          "percent",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "accessories",
+          "starting",
+          "november",
+          "21key",
+          "points",
+          "start",
+          "saving",
+          "early",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "begin",
+          "november",
+          "21",
+          ",",
+          "additional",
+          "discounts",
+          "launching",
+          "black",
+          "friday",
+          "cyber",
+          "monday.massive",
+          "holiday",
+          "savings",
+          "get",
+          "up",
+          "c",
+          "$",
+          "750",
+          "up",
+          "50",
+          "percent",
+          "asus",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "chromebooks",
+          ",",
+          "more.shop",
+          "favorite",
+          "retailers",
+          "deals",
+          "available",
+          "amazon",
+          ",",
+          "asus",
+          "store",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "canada",
+          "computers",
+          ",",
+          "costco",
+          ",",
+          "london",
+          "drugs",
+          ",",
+          "staples",
+          ",",
+          "walmart",
+          ",",
+          "more",
+          "."
+        ],
+        "lemmatized": [
+          "asus",
+          "launch",
+          "exclusive",
+          "early",
+          "black",
+          "friday",
+          "offer",
+          ".",
+          "save",
+          "up",
+          "c",
+          "$",
+          "750",
+          "enjoy",
+          "up",
+          "50",
+          "percent",
+          "laptop",
+          ",",
+          "desktop",
+          ",",
+          "accessory",
+          "start",
+          "november",
+          "21key",
+          "point",
+          "start",
+          "save",
+          "early",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "begin",
+          "november",
+          "21",
+          ",",
+          "additional",
+          "discount",
+          "launch",
+          "black",
+          "friday",
+          "cyber",
+          "monday.massive",
+          "holiday",
+          "savings",
+          "get",
+          "up",
+          "c",
+          "$",
+          "750",
+          "up",
+          "50",
+          "percent",
+          "asus",
+          "laptop",
+          ",",
+          "desktop",
+          ",",
+          "chromebooks",
+          ",",
+          "more.shop",
+          "favorite",
+          "retailer",
+          "deal",
+          "available",
+          "amazon",
+          ",",
+          "asus",
+          "store",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "canada",
+          "computer",
+          ",",
+          "costco",
+          ",",
+          "london",
+          "drug",
+          ",",
+          "staple",
+          ",",
+          "walmart",
+          ",",
+          "more",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "ce4e9b3c566f23ab",
+      "title": "Heard on the Street Friday Recap Walmart Succession",
+      "body": "Walmarts Chief Executive Doug McMillon will step down after more than a decade in the role. John Furner, CEO of Walmart U.S. since 2019, will succeed him. The 51-year-old Furner began his Walmart career as an hourly associate in 1993.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:39.480494",
+      "url": "https://finnhub.io/api/news?id=7cb8770fd8674c96a24d5e142cb4765954b8f4397c78e19a22dd231fab109861",
+      "raw_text": "Heard on the Street Friday Recap Walmart Succession. Walmarts Chief Executive Doug McMillon will step down after more than a decade in the role. John Furner, CEO of Walmart U.S. since 2019, will succeed him. The 51-year-old Furner began his Walmart career as an hourly associate in 1993.",
+      "tickers_mentioned": "WMT",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "WMT": [
+          "Heard on the Street Friday Recap: **Walmart** Succession. Walmart's Chief Executive Doug McMillon will step down after",
+          "Heard on the Street Friday Recap: Walmart Succession. **Walmart's** Chief Executive Doug McMillon will step down after more than",
+          "than a decade in the role. John Furner, CEO of **Walmart** U.S. since 2019, will succeed him. The 51-year-old Furner began",
+          "since 2019, will succeed him. The 51-year-old Furner began his **Walmart** career as an hourly associate in 1993."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Heard",
+            "Walmart Succession",
+            "Walmart",
+            "Doug McMillon",
+            "John Furner",
+            "Walmart U.S.",
+            "Furner"
+          ],
+          "ORGANIZATION": [
+            "Street",
+            "CEO"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2019",
+          "51",
+          "1993"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "walmart",
+            3
+          ],
+          [
+            "furner",
+            2
+          ],
+          [
+            "heard",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "friday",
+            1
+          ],
+          [
+            "recap",
+            1
+          ],
+          [
+            "succession",
+            1
+          ],
+          [
+            "walmarts",
+            1
+          ],
+          [
+            "chief",
+            1
+          ],
+          [
+            "executive",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "heard",
+          "on",
+          "the",
+          "street",
+          "friday",
+          "recap",
+          "walmart",
+          "succession",
+          ".",
+          "walmarts",
+          "chief",
+          "executive",
+          "doug",
+          "mcmillon",
+          "will",
+          "step",
+          "down",
+          "after",
+          "more",
+          "than",
+          "a",
+          "decade",
+          "in",
+          "the",
+          "role",
+          ".",
+          "john",
+          "furner",
+          ",",
+          "ceo",
+          "of",
+          "walmart",
+          "u.s.",
+          "since",
+          "2019",
+          ",",
+          "will",
+          "succeed",
+          "him",
+          ".",
+          "the",
+          "51-year-old",
+          "furner",
+          "began",
+          "his",
+          "walmart",
+          "career",
+          "as",
+          "an",
+          "hourly",
+          "associate",
+          "in",
+          "1993",
+          "."
+        ],
+        "filtered": [
+          "heard",
+          "street",
+          "friday",
+          "recap",
+          "walmart",
+          "succession",
+          ".",
+          "walmarts",
+          "chief",
+          "executive",
+          "doug",
+          "mcmillon",
+          "step",
+          "down",
+          "more",
+          "decade",
+          "role",
+          ".",
+          "john",
+          "furner",
+          ",",
+          "ceo",
+          "walmart",
+          "u.s.",
+          "since",
+          "2019",
+          ",",
+          "succeed",
+          ".",
+          "51-year-old",
+          "furner",
+          "began",
+          "walmart",
+          "career",
+          "hourly",
+          "associate",
+          "1993",
+          "."
+        ],
+        "lemmatized": [
+          "heard",
+          "street",
+          "friday",
+          "recap",
+          "walmart",
+          "succession",
+          ".",
+          "walmarts",
+          "chief",
+          "executive",
+          "doug",
+          "mcmillon",
+          "step",
+          "down",
+          "more",
+          "decade",
+          "role",
+          ".",
+          "john",
+          "furner",
+          ",",
+          "ceo",
+          "walmart",
+          "u.s.",
+          "since",
+          "2019",
+          ",",
+          "succeed",
+          ".",
+          "51-year-old",
+          "furner",
+          "begin",
+          "walmart",
+          "career",
+          "hourly",
+          "associate",
+          "1993",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "74769b5011e5e9d2",
+      "title": "Trick week for stocks",
+      "body": "Stocks face potentially a volatile week. Not just from the earnings that are due from the likes of Nvidia, Walmart, Home Depot, Lowes and Target. there is also a bit of unease settling over markets coming from crypto land, where prices for bitcoin, ethereum and other crypto currencies have slumped ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:39.597553",
+      "url": "https://finnhub.io/api/news?id=977f6d8a3a843c8a4d926df2b7cbef6d3fd3919c05a434027f6dae890a684373",
+      "raw_text": "Trick week for stocks. Stocks face potentially a volatile week. Not just from the earnings that are due from the likes of Nvidia, Walmart, Home Depot, Lowes and Target. there is also a bit of unease settling over markets coming from crypto land, where prices for bitcoin, ethereum and other crypto currencies have slumped ...",
+      "tickers_mentioned": "HD,NVDA,TGT,WMT,LOW",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "HD": [],
+        "NVDA": [
+          "from the earnings that are due from the likes of **Nvidia,** Walmart, Home Depot, Lowe's and Target. There's also a bit"
+        ],
+        "TGT": [],
+        "WMT": [
+          "the earnings that are due from the likes of Nvidia, **Walmart,** Home Depot, Lowe's and Target. There's also a bit of"
+        ],
+        "LOW": [
+          "are due from the likes of Nvidia, Walmart, Home Depot, **Lowe's** and Target. There's also a bit of unease settling over"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Walmart",
+            "Home Depot",
+            "Lowe"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Trick",
+            "Nvidia",
+            "Target"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "slump"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "week",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "crypto",
+            2
+          ],
+          [
+            "trick",
+            1
+          ],
+          [
+            "face",
+            1
+          ],
+          [
+            "potentially",
+            1
+          ],
+          [
+            "volatile",
+            1
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "due",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "trick",
+          "week",
+          "for",
+          "stocks",
+          ".",
+          "stocks",
+          "face",
+          "potentially",
+          "a",
+          "volatile",
+          "week",
+          ".",
+          "not",
+          "just",
+          "from",
+          "the",
+          "earnings",
+          "that",
+          "are",
+          "due",
+          "from",
+          "the",
+          "likes",
+          "of",
+          "nvidia",
+          ",",
+          "walmart",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "lowes",
+          "and",
+          "target",
+          ".",
+          "there",
+          "is",
+          "also",
+          "a",
+          "bit",
+          "of",
+          "unease",
+          "settling",
+          "over",
+          "markets",
+          "coming",
+          "from",
+          "crypto",
+          "land",
+          ",",
+          "where",
+          "prices",
+          "for",
+          "bitcoin",
+          ",",
+          "ethereum",
+          "and",
+          "other",
+          "crypto",
+          "currencies",
+          "have",
+          "slumped",
+          "..."
+        ],
+        "filtered": [
+          "trick",
+          "week",
+          "stocks",
+          ".",
+          "stocks",
+          "face",
+          "potentially",
+          "volatile",
+          "week",
+          ".",
+          "not",
+          "earnings",
+          "due",
+          "likes",
+          "nvidia",
+          ",",
+          "walmart",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "lowes",
+          "target",
+          ".",
+          "also",
+          "bit",
+          "unease",
+          "settling",
+          "over",
+          "markets",
+          "coming",
+          "crypto",
+          "land",
+          ",",
+          "prices",
+          "bitcoin",
+          ",",
+          "ethereum",
+          "crypto",
+          "currencies",
+          "slumped",
+          "..."
+        ],
+        "lemmatized": [
+          "trick",
+          "week",
+          "stock",
+          ".",
+          "stock",
+          "face",
+          "potentially",
+          "volatile",
+          "week",
+          ".",
+          "not",
+          "earnings",
+          "due",
+          "like",
+          "nvidia",
+          ",",
+          "walmart",
+          ",",
+          "home",
+          "depot",
+          ",",
+          "lowes",
+          "target",
+          ".",
+          "also",
+          "bit",
+          "unease",
+          "settling",
+          "over",
+          "market",
+          "come",
+          "crypto",
+          "land",
+          ",",
+          "price",
+          "bitcoin",
+          ",",
+          "ethereum",
+          "crypto",
+          "currency",
+          "slump",
+          "..."
+        ]
+      }
+    }
+  ]
+}

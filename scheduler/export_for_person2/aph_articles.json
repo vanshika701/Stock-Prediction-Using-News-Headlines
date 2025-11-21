@@ -1,0 +1,359 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "c3bdc1bfea350e96",
+      "title": "Bull of the Day Amphenol APH",
+      "body": "Amphenol is uniquely positioned as a top supplier of the worlds most powerful technology trends, supplying the essential components that enable modern electronics to function.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:36.495646",
+      "url": "https://www.zacks.com/commentary/2793262/bull-of-the-day-amphenol-aph",
+      "raw_text": "Bull of the Day Amphenol APH. Amphenol is uniquely positioned as a top supplier of the worlds most powerful technology trends, supplying the essential components that enable modern electronics to function.",
+      "tickers_mentioned": "APH",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "APH": [
+          "Bull of the Day: **Amphenol** ( APH ) . Amphenol is uniquely positioned as a",
+          "Bull of the Day: Amphenol ( APH ) . **Amphenol** is uniquely positioned as a top supplier of the world's"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amphenol"
+          ],
+          "ORGANIZATION": [
+            "APH"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amphenol",
+            2
+          ],
+          [
+            "bull",
+            1
+          ],
+          [
+            "day",
+            1
+          ],
+          [
+            "aph",
+            1
+          ],
+          [
+            "uniquely",
+            1
+          ],
+          [
+            "position",
+            1
+          ],
+          [
+            "top",
+            1
+          ],
+          [
+            "supplier",
+            1
+          ],
+          [
+            "world",
+            1
+          ],
+          [
+            "most",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bull",
+          "of",
+          "the",
+          "day",
+          "amphenol",
+          "aph",
+          ".",
+          "amphenol",
+          "is",
+          "uniquely",
+          "positioned",
+          "as",
+          "a",
+          "top",
+          "supplier",
+          "of",
+          "the",
+          "worlds",
+          "most",
+          "powerful",
+          "technology",
+          "trends",
+          ",",
+          "supplying",
+          "the",
+          "essential",
+          "components",
+          "that",
+          "enable",
+          "modern",
+          "electronics",
+          "to",
+          "function",
+          "."
+        ],
+        "filtered": [
+          "bull",
+          "day",
+          "amphenol",
+          "aph",
+          ".",
+          "amphenol",
+          "uniquely",
+          "positioned",
+          "top",
+          "supplier",
+          "worlds",
+          "most",
+          "powerful",
+          "technology",
+          "trends",
+          ",",
+          "supplying",
+          "essential",
+          "components",
+          "enable",
+          "modern",
+          "electronics",
+          "function",
+          "."
+        ],
+        "lemmatized": [
+          "bull",
+          "day",
+          "amphenol",
+          "aph",
+          ".",
+          "amphenol",
+          "uniquely",
+          "position",
+          "top",
+          "supplier",
+          "world",
+          "most",
+          "powerful",
+          "technology",
+          "trend",
+          ",",
+          "supply",
+          "essential",
+          "component",
+          "enable",
+          "modern",
+          "electronics",
+          "function",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4e3c7482442d1545",
+      "title": "Bull of the Day Amphenol APH",
+      "body": "Amphenol is uniquely positioned as a top supplier of the worlds most powerful technology trends, supplying the essential components that enable modern electronics to function.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:37.385120",
+      "url": "https://finnhub.io/api/news?id=750d8a1125c307ea59d305ba9e475080b6ee1879b56ddb05fca05c8ca526c72e",
+      "raw_text": "Bull of the Day Amphenol APH. Amphenol is uniquely positioned as a top supplier of the worlds most powerful technology trends, supplying the essential components that enable modern electronics to function.",
+      "tickers_mentioned": "APH",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "APH": [
+          "Bull of the Day: **Amphenol** (APH). Amphenol is uniquely positioned as a top supplier of",
+          "Bull of the Day: Amphenol (APH). **Amphenol** is uniquely positioned as a top supplier of the world's"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amphenol"
+          ],
+          "ORGANIZATION": [
+            "APH"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "amphenol",
+            2
+          ],
+          [
+            "bull",
+            1
+          ],
+          [
+            "day",
+            1
+          ],
+          [
+            "aph",
+            1
+          ],
+          [
+            "uniquely",
+            1
+          ],
+          [
+            "position",
+            1
+          ],
+          [
+            "top",
+            1
+          ],
+          [
+            "supplier",
+            1
+          ],
+          [
+            "world",
+            1
+          ],
+          [
+            "most",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bull",
+          "of",
+          "the",
+          "day",
+          "amphenol",
+          "aph",
+          ".",
+          "amphenol",
+          "is",
+          "uniquely",
+          "positioned",
+          "as",
+          "a",
+          "top",
+          "supplier",
+          "of",
+          "the",
+          "worlds",
+          "most",
+          "powerful",
+          "technology",
+          "trends",
+          ",",
+          "supplying",
+          "the",
+          "essential",
+          "components",
+          "that",
+          "enable",
+          "modern",
+          "electronics",
+          "to",
+          "function",
+          "."
+        ],
+        "filtered": [
+          "bull",
+          "day",
+          "amphenol",
+          "aph",
+          ".",
+          "amphenol",
+          "uniquely",
+          "positioned",
+          "top",
+          "supplier",
+          "worlds",
+          "most",
+          "powerful",
+          "technology",
+          "trends",
+          ",",
+          "supplying",
+          "essential",
+          "components",
+          "enable",
+          "modern",
+          "electronics",
+          "function",
+          "."
+        ],
+        "lemmatized": [
+          "bull",
+          "day",
+          "amphenol",
+          "aph",
+          ".",
+          "amphenol",
+          "uniquely",
+          "position",
+          "top",
+          "supplier",
+          "world",
+          "most",
+          "powerful",
+          "technology",
+          "trend",
+          ",",
+          "supply",
+          "essential",
+          "component",
+          "enable",
+          "modern",
+          "electronics",
+          "function",
+          "."
+        ]
+      }
+    }
+  ]
+}

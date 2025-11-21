@@ -1,0 +1,250 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "92a937fd7756ac33",
+      "title": "The best early Black Friday grill deals Save on Traeger, Blackstone, Weber, and more",
+      "body": "Even though grill season is technically winding down, Black Friday is the best time to invest in a brand new grill as popular brands like Traeger, Weber, and Blackstone drop prices for the holiday se 6003 chars",
+      "source": "Business Insider",
+      "timestamp": "2025-11-22T00:48:35.745090",
+      "url": "https://www.businessinsider.com/guides/deals/black-friday-grill-deals-2025-11",
+      "raw_text": "The best early Black Friday grill deals Save on Traeger, Blackstone, Weber, and more. Even though grill season is technically winding down, Black Friday is the best time to invest in a brand new grill as popular brands like Traeger, Weber, and Blackstone drop prices for the holiday se 6003 chars",
+      "tickers_mentioned": "BX",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "BX": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Traeger",
+            "Black"
+          ],
+          "ORGANIZATION": [
+            "Blackstone"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "6003"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "grill",
+            3
+          ],
+          [
+            "best",
+            2
+          ],
+          [
+            "black",
+            2
+          ],
+          [
+            "friday",
+            2
+          ],
+          [
+            "traeger",
+            2
+          ],
+          [
+            "blackstone",
+            2
+          ],
+          [
+            "weber",
+            2
+          ],
+          [
+            "brand",
+            2
+          ],
+          [
+            "early",
+            1
+          ],
+          [
+            "deal",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "early",
+          "black",
+          "friday",
+          "grill",
+          "deals",
+          "save",
+          "on",
+          "traeger",
+          ",",
+          "blackstone",
+          ",",
+          "weber",
+          ",",
+          "and",
+          "more",
+          ".",
+          "even",
+          "though",
+          "grill",
+          "season",
+          "is",
+          "technically",
+          "winding",
+          "down",
+          ",",
+          "black",
+          "friday",
+          "is",
+          "the",
+          "best",
+          "time",
+          "to",
+          "invest",
+          "in",
+          "a",
+          "brand",
+          "new",
+          "grill",
+          "as",
+          "popular",
+          "brands",
+          "like",
+          "traeger",
+          ",",
+          "weber",
+          ",",
+          "and",
+          "blackstone",
+          "drop",
+          "prices",
+          "for",
+          "the",
+          "holiday",
+          "se",
+          "6003",
+          "chars"
+        ],
+        "filtered": [
+          "best",
+          "early",
+          "black",
+          "friday",
+          "grill",
+          "deals",
+          "save",
+          "traeger",
+          ",",
+          "blackstone",
+          ",",
+          "weber",
+          ",",
+          "more",
+          ".",
+          "even",
+          "though",
+          "grill",
+          "season",
+          "technically",
+          "winding",
+          "down",
+          ",",
+          "black",
+          "friday",
+          "best",
+          "time",
+          "invest",
+          "brand",
+          "new",
+          "grill",
+          "popular",
+          "brands",
+          "like",
+          "traeger",
+          ",",
+          "weber",
+          ",",
+          "blackstone",
+          "drop",
+          "prices",
+          "holiday",
+          "se",
+          "6003",
+          "chars"
+        ],
+        "lemmatized": [
+          "best",
+          "early",
+          "black",
+          "friday",
+          "grill",
+          "deal",
+          "save",
+          "traeger",
+          ",",
+          "blackstone",
+          ",",
+          "weber",
+          ",",
+          "more",
+          ".",
+          "even",
+          "though",
+          "grill",
+          "season",
+          "technically",
+          "wind",
+          "down",
+          ",",
+          "black",
+          "friday",
+          "best",
+          "time",
+          "invest",
+          "brand",
+          "new",
+          "grill",
+          "popular",
+          "brand",
+          "like",
+          "traeger",
+          ",",
+          "weber",
+          ",",
+          "blackstone",
+          "drop",
+          "price",
+          "holiday",
+          "se",
+          "6003",
+          "char"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "ac2b02d0bf39075d",
+      "title": "ESPN, NBCUniversal, Netflix Secure MLB Broadcast Rights From 2026",
+      "body": "Walt Disney DIS-owned ESPN, Comcast CMCSA unit NBCUniversal, and Netflix NFLX signed new three",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:21.691915",
+      "url": "https://finnhub.io/api/news?id=628f147ecb22305fc9c35143869336c4343ca4ba254bbea0eb8ee3dd911d744a",
+      "raw_text": "ESPN, NBCUniversal, Netflix Secure MLB Broadcast Rights From 2026. Walt Disney DIS-owned ESPN, Comcast CMCSA unit NBCUniversal, and Netflix NFLX signed new three",
+      "tickers_mentioned": "NFLX,CMCSA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "ESPN, NBCUniversal, **Netflix** Secure MLB Broadcast Rights From 2026. Walt Disney (DIS)-owned ESPN,",
+          "2026. Walt Disney (DIS)-owned ESPN, Comcast (CMCSA) unit NBCUniversal, and **Netflix** (NFLX) signed new three"
+        ],
+        "CMCSA": [
+          "Secure MLB Broadcast Rights From 2026. Walt Disney (DIS)-owned ESPN, **Comcast** (CMCSA) unit NBCUniversal, and Netflix (NFLX) signed new three"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix Secure",
+            "Broadcast Rights",
+            "Walt Disney"
+          ],
+          "ORGANIZATION": [
+            "NBCUniversal",
+            "DIS",
+            "ESPN",
+            "CMCSA",
+            "NFLX"
+          ],
+          "GPE": [
+            "ESPN",
+            "Comcast",
+            "Netflix"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "espn",
+            2
+          ],
+          [
+            "nbcuniversal",
+            2
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "secure",
+            1
+          ],
+          [
+            "mlb",
+            1
+          ],
+          [
+            "broadcast",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "2026.",
+            1
+          ],
+          [
+            "walt",
+            1
+          ],
+          [
+            "disney",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "espn",
+          ",",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "secure",
+          "mlb",
+          "broadcast",
+          "rights",
+          "from",
+          "2026.",
+          "walt",
+          "disney",
+          "dis-owned",
+          "espn",
+          ",",
+          "comcast",
+          "cmcsa",
+          "unit",
+          "nbcuniversal",
+          ",",
+          "and",
+          "netflix",
+          "nflx",
+          "signed",
+          "new",
+          "three"
+        ],
+        "filtered": [
+          "espn",
+          ",",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "secure",
+          "mlb",
+          "broadcast",
+          "rights",
+          "2026.",
+          "walt",
+          "disney",
+          "dis-owned",
+          "espn",
+          ",",
+          "comcast",
+          "cmcsa",
+          "unit",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "nflx",
+          "signed",
+          "new",
+          "three"
+        ],
+        "lemmatized": [
+          "espn",
+          ",",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "secure",
+          "mlb",
+          "broadcast",
+          "right",
+          "2026.",
+          "walt",
+          "disney",
+          "dis-owned",
+          "espn",
+          ",",
+          "comcast",
+          "cmcsa",
+          "unit",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "nflx",
+          "sign",
+          "new",
+          "three"
+        ]
+      }
+    }
+  ]
+}

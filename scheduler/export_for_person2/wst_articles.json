@@ -1,0 +1,183 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "8183a25a7b9daa87",
+      "title": "Google Drops $40 Billion on New Texas AI Data Centers",
+      "body": "Tech giants are piling into the state, turning West Texas into the epicenter of Americas AI buildout",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:35.260547",
+      "url": "https://finnhub.io/api/news?id=d448048b57c58d15004c2a4f4f307dd2fef5ab38d167b850ec919ca0e02f3763",
+      "raw_text": "Google Drops $40 Billion on New Texas AI Data Centers. Tech giants are piling into the state, turning West Texas into the epicenter of Americas AI buildout",
+      "tickers_mentioned": "TECH,TPL,STT,WST",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "TPL": [],
+        "STT": [],
+        "WST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Google"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "New Texas",
+            "America"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "state"
+          ]
+        },
+        "numbers": [
+          "40"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "texas",
+            2
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "center",
+            1
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "giant",
+            1
+          ],
+          [
+            "pile",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "google",
+          "drops",
+          "$",
+          "40",
+          "billion",
+          "on",
+          "new",
+          "texas",
+          "ai",
+          "data",
+          "centers",
+          ".",
+          "tech",
+          "giants",
+          "are",
+          "piling",
+          "into",
+          "the",
+          "state",
+          ",",
+          "turning",
+          "west",
+          "texas",
+          "into",
+          "the",
+          "epicenter",
+          "of",
+          "americas",
+          "ai",
+          "buildout"
+        ],
+        "filtered": [
+          "google",
+          "drops",
+          "$",
+          "40",
+          "billion",
+          "new",
+          "texas",
+          "ai",
+          "data",
+          "centers",
+          ".",
+          "tech",
+          "giants",
+          "piling",
+          "state",
+          ",",
+          "turning",
+          "west",
+          "texas",
+          "epicenter",
+          "americas",
+          "ai",
+          "buildout"
+        ],
+        "lemmatized": [
+          "google",
+          "drop",
+          "$",
+          "40",
+          "billion",
+          "new",
+          "texas",
+          "ai",
+          "data",
+          "center",
+          ".",
+          "tech",
+          "giant",
+          "pile",
+          "state",
+          ",",
+          "turn",
+          "west",
+          "texas",
+          "epicenter",
+          "america",
+          "ai",
+          "buildout"
+        ]
+      }
+    }
+  ]
+}

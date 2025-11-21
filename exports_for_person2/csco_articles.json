@@ -1,0 +1,542 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "1b3e3a577995eb6a",
+      "title": "Ciscos 25-year comeback is the ultimate cautionary tale of the AI-bubble debate",
+      "body": "Ciscos stock has been basically flat since the peak of the dot-com bubble. Meanwhile, the SP 500 is up about 350 percent.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:51.277717",
+      "url": "https://finnhub.io/api/news?id=bdc15c4d48f60960f6e7623827d1516c7c92ffa3a9a0215df552027cae14d538",
+      "raw_text": "Ciscos 25-year comeback is the ultimate cautionary tale of the AI-bubble debate. Ciscos stock has been basically flat since the peak of the dot-com bubble. Meanwhile, the SP 500 is up about 350 percent.",
+      "tickers_mentioned": "CSCO",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "CSCO": [
+          "**Cisco's** 25-year comeback is the ultimate cautionary tale of the AI-bubble",
+          "comeback is the ultimate cautionary tale of the AI-bubble debate. **Cisco's** stock has been basically flat since the peak of the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cisco"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "25",
+          "500",
+          "350"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "ciscos",
+            1
+          ],
+          [
+            "25-year",
+            1
+          ],
+          [
+            "comeback",
+            1
+          ],
+          [
+            "ultimate",
+            1
+          ],
+          [
+            "cautionary",
+            1
+          ],
+          [
+            "tale",
+            1
+          ],
+          [
+            "ai-bubble",
+            1
+          ],
+          [
+            "debate",
+            1
+          ],
+          [
+            "cisco",
+            1
+          ],
+          [
+            "stock",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ciscos",
+          "25-year",
+          "comeback",
+          "is",
+          "the",
+          "ultimate",
+          "cautionary",
+          "tale",
+          "of",
+          "the",
+          "ai-bubble",
+          "debate",
+          ".",
+          "ciscos",
+          "stock",
+          "has",
+          "been",
+          "basically",
+          "flat",
+          "since",
+          "the",
+          "peak",
+          "of",
+          "the",
+          "dot-com",
+          "bubble",
+          ".",
+          "meanwhile",
+          ",",
+          "the",
+          "sp",
+          "500",
+          "is",
+          "up",
+          "about",
+          "350",
+          "percent",
+          "."
+        ],
+        "filtered": [
+          "ciscos",
+          "25-year",
+          "comeback",
+          "ultimate",
+          "cautionary",
+          "tale",
+          "ai-bubble",
+          "debate",
+          ".",
+          "ciscos",
+          "stock",
+          "basically",
+          "flat",
+          "since",
+          "peak",
+          "dot-com",
+          "bubble",
+          ".",
+          "meanwhile",
+          ",",
+          "sp",
+          "500",
+          "up",
+          "350",
+          "percent",
+          "."
+        ],
+        "lemmatized": [
+          "ciscos",
+          "25-year",
+          "comeback",
+          "ultimate",
+          "cautionary",
+          "tale",
+          "ai-bubble",
+          "debate",
+          ".",
+          "cisco",
+          "stock",
+          "basically",
+          "flat",
+          "since",
+          "peak",
+          "dot-com",
+          "bubble",
+          ".",
+          "meanwhile",
+          ",",
+          "sp",
+          "500",
+          "up",
+          "350",
+          "percent",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a5aa7b49233b092b",
+      "title": "Even Ciscos 2 percent Dividend Cant Save Them From Investor Hate",
+      "body": "Shares of CiscoNASDAQCSCO are trading just under $78 per share. Theyve done well, up 37 percent over the past year and still near a 52-week high. Despite this, retail investors on Reddit have turned starkly bearish. Social sentiment has plunged to 35100 today 50100 is neutral. Even Ciscos respectable 2.09 percent dividend yield, a standout in the ... Even Ciscos 2 percent Dividend Cant Save Them From Investor Hate",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.528923",
+      "url": "https://finnhub.io/api/news?id=0ed6af59cd05567f038cd2083134f55d9f7c12ed9cd53854f2d69dd13656e35b",
+      "raw_text": "Even Ciscos 2 percent Dividend Cant Save Them From Investor Hate. Shares of CiscoNASDAQCSCO are trading just under $78 per share. Theyve done well, up 37 percent over the past year and still near a 52-week high. Despite this, retail investors on Reddit have turned starkly bearish. Social sentiment has plunged to 35100 today 50100 is neutral. Even Ciscos respectable 2.09 percent dividend yield, a standout in the ... Even Ciscos 2 percent Dividend Cant Save Them From Investor Hate",
+      "tickers_mentioned": "CSCO,WELL",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "CSCO": [
+          "Even **Cisco’s** 2% Dividend Can’t Save Them From Investor Hate. Shares of",
+          "2% Dividend Can’t Save Them From Investor Hate. Shares of **Cisco(NASDAQ:CSCO)** are trading just under $78 per share. They’ve done well,",
+          "sentiment has plunged to 35/100 today (50/100 is neutral). Even **Cisco’s** respectable 2.09% dividend yield, a standout in the ... Even",
+          "respectable 2.09% dividend yield, a standout in the ... Even **Cisco’s** 2% Dividend Can’t Save Them From Investor Hate"
+        ],
+        "WELL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cisco",
+            "Dividend Can",
+            "Save Them",
+            "Shares",
+            "Social"
+          ],
+          "ORGANIZATION": [
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Cisco",
+            "Reddit"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "plunge",
+            "bearish"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2",
+          "78",
+          "37",
+          "52",
+          "35",
+          "100",
+          "50",
+          "100",
+          "2.09",
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "percent",
+            4
+          ],
+          [
+            "even",
+            3
+          ],
+          [
+            "ciscos",
+            3
+          ],
+          [
+            "dividend",
+            3
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "cant",
+            2
+          ],
+          [
+            "save",
+            2
+          ],
+          [
+            "hate",
+            2
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "cisconasdaqcsco",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 10,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "even",
+          "ciscos",
+          "2",
+          "percent",
+          "dividend",
+          "cant",
+          "save",
+          "them",
+          "from",
+          "investor",
+          "hate",
+          ".",
+          "shares",
+          "of",
+          "cisconasdaqcsco",
+          "are",
+          "trading",
+          "just",
+          "under",
+          "$",
+          "78",
+          "per",
+          "share",
+          ".",
+          "theyve",
+          "done",
+          "well",
+          ",",
+          "up",
+          "37",
+          "percent",
+          "over",
+          "the",
+          "past",
+          "year",
+          "and",
+          "still",
+          "near",
+          "a",
+          "52-week",
+          "high",
+          ".",
+          "despite",
+          "this",
+          ",",
+          "retail",
+          "investors",
+          "on",
+          "reddit",
+          "have",
+          "turned",
+          "starkly",
+          "bearish",
+          ".",
+          "social",
+          "sentiment",
+          "has",
+          "plunged",
+          "to",
+          "35100",
+          "today",
+          "50100",
+          "is",
+          "neutral",
+          ".",
+          "even",
+          "ciscos",
+          "respectable",
+          "2.09",
+          "percent",
+          "dividend",
+          "yield",
+          ",",
+          "a",
+          "standout",
+          "in",
+          "the",
+          "...",
+          "even",
+          "ciscos",
+          "2",
+          "percent",
+          "dividend",
+          "cant",
+          "save",
+          "them",
+          "from",
+          "investor",
+          "hate"
+        ],
+        "filtered": [
+          "even",
+          "ciscos",
+          "2",
+          "percent",
+          "dividend",
+          "cant",
+          "save",
+          "investor",
+          "hate",
+          ".",
+          "shares",
+          "cisconasdaqcsco",
+          "trading",
+          "under",
+          "$",
+          "78",
+          "per",
+          "share",
+          ".",
+          "theyve",
+          "done",
+          "well",
+          ",",
+          "up",
+          "37",
+          "percent",
+          "over",
+          "past",
+          "year",
+          "still",
+          "near",
+          "52-week",
+          "high",
+          ".",
+          "despite",
+          ",",
+          "retail",
+          "investors",
+          "reddit",
+          "turned",
+          "starkly",
+          "bearish",
+          ".",
+          "social",
+          "sentiment",
+          "plunged",
+          "35100",
+          "today",
+          "50100",
+          "neutral",
+          ".",
+          "even",
+          "ciscos",
+          "respectable",
+          "2.09",
+          "percent",
+          "dividend",
+          "yield",
+          ",",
+          "standout",
+          "...",
+          "even",
+          "ciscos",
+          "2",
+          "percent",
+          "dividend",
+          "cant",
+          "save",
+          "investor",
+          "hate"
+        ],
+        "lemmatized": [
+          "even",
+          "ciscos",
+          "2",
+          "percent",
+          "dividend",
+          "cant",
+          "save",
+          "investor",
+          "hate",
+          ".",
+          "shares",
+          "cisconasdaqcsco",
+          "trade",
+          "under",
+          "$",
+          "78",
+          "per",
+          "share",
+          ".",
+          "theyve",
+          "do",
+          "well",
+          ",",
+          "up",
+          "37",
+          "percent",
+          "over",
+          "past",
+          "year",
+          "still",
+          "near",
+          "52-week",
+          "high",
+          ".",
+          "despite",
+          ",",
+          "retail",
+          "investor",
+          "reddit",
+          "turned",
+          "starkly",
+          "bearish",
+          ".",
+          "social",
+          "sentiment",
+          "plunge",
+          "35100",
+          "today",
+          "50100",
+          "neutral",
+          ".",
+          "even",
+          "ciscos",
+          "respectable",
+          "2.09",
+          "percent",
+          "dividend",
+          "yield",
+          ",",
+          "standout",
+          "...",
+          "even",
+          "ciscos",
+          "2",
+          "percent",
+          "dividend",
+          "cant",
+          "save",
+          "investor",
+          "hate"
+        ]
+      }
+    }
+  ]
+}

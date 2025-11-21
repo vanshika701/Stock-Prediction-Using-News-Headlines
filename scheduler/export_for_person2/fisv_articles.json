@@ -1,0 +1,191 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "b024a106f7141710",
+      "title": "Jeff Auxiers Strategic Moves Fiserv Inc. Takes Center Stage with 0.24 percent Portfolio Impact",
+      "body": "Insightful Analysis of Jeff Auxier Trades, Portfolios Third Quarter 2025 13F Filing",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:29.674120",
+      "url": "https://finnhub.io/api/news?id=b30a0d0fc1a1376e92adcddaeb81275135af34bdddbff9dac30bd50183e69518",
+      "raw_text": "Jeff Auxiers Strategic Moves Fiserv Inc. Takes Center Stage with 0.24 percent Portfolio Impact. Insightful Analysis of Jeff Auxier Trades, Portfolios Third Quarter 2025 13F Filing",
+      "tickers_mentioned": "FISV",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FISV": [
+          "Jeff Auxier's Strategic Moves: **Fiserv** Inc. Takes Center Stage with 0.24% Portfolio Impact. Insightful Analysis"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeff",
+            "Auxier",
+            "Fiserv Inc. Takes Center Stage",
+            "Portfolio Impact",
+            "Jeff Auxier"
+          ],
+          "ORGANIZATION": [
+            "Strategic",
+            "Trades"
+          ],
+          "GPE": [
+            "Portfolio"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "0.24",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "jeff",
+            2
+          ],
+          [
+            "portfolio",
+            2
+          ],
+          [
+            "auxiers",
+            1
+          ],
+          [
+            "strategic",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "fiserv",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "take",
+            1
+          ],
+          [
+            "center",
+            1
+          ],
+          [
+            "stage",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "jeff",
+          "auxiers",
+          "strategic",
+          "moves",
+          "fiserv",
+          "inc.",
+          "takes",
+          "center",
+          "stage",
+          "with",
+          "0.24",
+          "percent",
+          "portfolio",
+          "impact",
+          ".",
+          "insightful",
+          "analysis",
+          "of",
+          "jeff",
+          "auxier",
+          "trades",
+          ",",
+          "portfolios",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "filing"
+        ],
+        "filtered": [
+          "jeff",
+          "auxiers",
+          "strategic",
+          "moves",
+          "fiserv",
+          "inc.",
+          "takes",
+          "center",
+          "stage",
+          "0.24",
+          "percent",
+          "portfolio",
+          "impact",
+          ".",
+          "insightful",
+          "analysis",
+          "jeff",
+          "auxier",
+          "trades",
+          ",",
+          "portfolios",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "filing"
+        ],
+        "lemmatized": [
+          "jeff",
+          "auxiers",
+          "strategic",
+          "move",
+          "fiserv",
+          "inc.",
+          "take",
+          "center",
+          "stage",
+          "0.24",
+          "percent",
+          "portfolio",
+          "impact",
+          ".",
+          "insightful",
+          "analysis",
+          "jeff",
+          "auxier",
+          "trade",
+          ",",
+          "portfolio",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "filing"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4300 @@
+{
+  "count": 20,
+  "articles": [
+    {
+      "article_id": "bdefc7acd3a9e90b",
+      "title": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?",
+      "body": "Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:43.892497",
+      "url": "https://finnhub.io/api/news?id=dd8aff2813ab3badff2d5fa310465d8e50356520f91311b1b7136df2863b04e4",
+      "raw_text": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?. Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "tickers_mentioned": "DLTR,PLTR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DLTR": [],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "Artificial Intelligence"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "artificial",
+            2
+          ],
+          [
+            "intelligence",
+            2
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "become",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "could",
+          "palantir",
+          "be",
+          "the",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "to",
+          "hit",
+          "a",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "has",
+          "become",
+          "one",
+          "of",
+          "the",
+          "most",
+          "valuable",
+          "companies",
+          "in",
+          "the",
+          "world",
+          "thanks",
+          "to",
+          "tailwinds",
+          "from",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "filtered": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "companies",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "lemmatized": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "company",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "9aa16aa56a08fd1a",
+      "title": "Hiring trends suggest Palantirs profitability poised to keep growing",
+      "body": "Hiring and recruiting activity by Palantir PLTR and other companies that use its technology indicates that the tech giants profits and margins are likely to keep rising significantly in the coming quarters. Palantirs ability to boost profitability matters because its super-high valuationat a ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:43.919831",
+      "url": "https://finnhub.io/api/news?id=a64a6c61ba2220da099e2a92ea94401e306691745b91b3d4fb03642b164daf1b",
+      "raw_text": "Hiring trends suggest Palantirs profitability poised to keep growing. Hiring and recruiting activity by Palantir PLTR and other companies that use its technology indicates that the tech giants profits and margins are likely to keep rising significantly in the coming quarters. Palantirs ability to boost profitability matters because its super-high valuationat a ...",
+      "tickers_mentioned": "PLTR,TECH",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "PLTR": [],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "PLTR"
+          ],
+          "GPE": [
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "boost",
+            "profit",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "hire",
+            2
+          ],
+          [
+            "palantirs",
+            2
+          ],
+          [
+            "profitability",
+            2
+          ],
+          [
+            "keep",
+            2
+          ],
+          [
+            "trend",
+            1
+          ],
+          [
+            "suggest",
+            1
+          ],
+          [
+            "poise",
+            1
+          ],
+          [
+            "grow",
+            1
+          ],
+          [
+            "recruit",
+            1
+          ],
+          [
+            "activity",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "hiring",
+          "trends",
+          "suggest",
+          "palantirs",
+          "profitability",
+          "poised",
+          "to",
+          "keep",
+          "growing",
+          ".",
+          "hiring",
+          "and",
+          "recruiting",
+          "activity",
+          "by",
+          "palantir",
+          "pltr",
+          "and",
+          "other",
+          "companies",
+          "that",
+          "use",
+          "its",
+          "technology",
+          "indicates",
+          "that",
+          "the",
+          "tech",
+          "giants",
+          "profits",
+          "and",
+          "margins",
+          "are",
+          "likely",
+          "to",
+          "keep",
+          "rising",
+          "significantly",
+          "in",
+          "the",
+          "coming",
+          "quarters",
+          ".",
+          "palantirs",
+          "ability",
+          "to",
+          "boost",
+          "profitability",
+          "matters",
+          "because",
+          "its",
+          "super-high",
+          "valuationat",
+          "a",
+          "..."
+        ],
+        "filtered": [
+          "hiring",
+          "trends",
+          "suggest",
+          "palantirs",
+          "profitability",
+          "poised",
+          "keep",
+          "growing",
+          ".",
+          "hiring",
+          "recruiting",
+          "activity",
+          "palantir",
+          "pltr",
+          "companies",
+          "use",
+          "technology",
+          "indicates",
+          "tech",
+          "giants",
+          "profits",
+          "margins",
+          "likely",
+          "keep",
+          "rising",
+          "significantly",
+          "coming",
+          "quarters",
+          ".",
+          "palantirs",
+          "ability",
+          "boost",
+          "profitability",
+          "matters",
+          "super-high",
+          "valuationat",
+          "..."
+        ],
+        "lemmatized": [
+          "hire",
+          "trend",
+          "suggest",
+          "palantirs",
+          "profitability",
+          "poise",
+          "keep",
+          "grow",
+          ".",
+          "hire",
+          "recruit",
+          "activity",
+          "palantir",
+          "pltr",
+          "company",
+          "use",
+          "technology",
+          "indicates",
+          "tech",
+          "giant",
+          "profit",
+          "margin",
+          "likely",
+          "keep",
+          "rise",
+          "significantly",
+          "come",
+          "quarter",
+          ".",
+          "palantirs",
+          "ability",
+          "boost",
+          "profitability",
+          "matter",
+          "super-high",
+          "valuationat",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "29876141ee974172",
+      "title": "Stock Market Today Dow Jones Index Dives 400 Points Nvidia, Palantir Extending Their Losses Live Coverage",
+      "body": "Stock Market Today The Dow Jones index dropped 400 points Tuesday. Home Depot, Nvidia and Palantir were early losers.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.458376",
+      "url": "https://finnhub.io/api/news?id=4d354e0f0b867732b42e039eb32e059dacd8e991732ab25a0ce37ced847df63a",
+      "raw_text": "Stock Market Today Dow Jones Index Dives 400 Points Nvidia, Palantir Extending Their Losses Live Coverage. Stock Market Today The Dow Jones index dropped 400 points Tuesday. Home Depot, Nvidia and Palantir were early losers.",
+      "tickers_mentioned": "LYV,PLTR,HD,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LYV": [],
+        "PLTR": [],
+        "HD": [],
+        "NVDA": [
+          "Stock Market Today: Dow Jones Index Dives 400 Points; **Nvidia,** Palantir Extending Their Losses (Live Coverage). Stock Market Today: The",
+          "The Dow Jones index dropped 400 points Tuesday. Home Depot, **Nvidia** and Palantir were early losers."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Jones Index",
+            "Palantir Extending",
+            "Live Coverage",
+            "Stock Market",
+            "Home Depot"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "400",
+          "400"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "index",
+            2
+          ],
+          [
+            "400",
+            2
+          ],
+          [
+            "point",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dives",
+          "400",
+          "points",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "their",
+          "losses",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "and",
+          "palantir",
+          "were",
+          "early",
+          "losers",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dives",
+          "400",
+          "points",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "losses",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "palantir",
+          "early",
+          "losers",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dive",
+          "400",
+          "point",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "loss",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "drop",
+          "400",
+          "point",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "palantir",
+          "early",
+          "loser",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a11dda3df39a55f2",
+      "title": "Dow Jones Futures Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop",
+      "body": "Dow Jones Futures Apple, Google, Nvidia, Palantir and Tesla were big movers Monday during the stock market sell-off.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.589792",
+      "url": "https://finnhub.io/api/news?id=d01dc7d52bf3531d1200b85bbcce561f6df56c66b20584cec5208c6d4ae906ba",
+      "raw_text": "Dow Jones Futures Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop. Dow Jones Futures Apple, Google, Nvidia, Palantir and Tesla were big movers Monday during the stock market sell-off.",
+      "tickers_mentioned": "AAPL,PLTR,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AAPL": [],
+        "PLTR": [],
+        "NVDA": [
+          "Dow Jones Futures: Apple, Google, **Nvidia,** Palantir, Tesla Big Movers Amid Stock Market Drop. Dow Jones",
+          "Movers Amid Stock Market Drop. Dow Jones Futures: Apple, Google, **Nvidia,** Palantir and Tesla were big movers Monday during the stock"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow",
+            "Tesla Big Movers Amid Stock Market Drop",
+            "Dow Jones",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "Jones"
+          ],
+          "GPE": [
+            "Google",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "google",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "mover",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "movers",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "and",
+          "tesla",
+          "were",
+          "big",
+          "movers",
+          "monday",
+          "during",
+          "the",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ],
+        "filtered": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "movers",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "tesla",
+          "big",
+          "movers",
+          "monday",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ],
+        "lemmatized": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "mover",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "tesla",
+          "big",
+          "mover",
+          "monday",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "89dbaad083140d35",
+      "title": "Palantir stock plunges 20 percent despite explosive growth",
+      "body": "Palantir Technologies experienced a sharp 20 percent pullback in recent trading despite reporting strong financial performance that exceeded many investor expectations. The data analytics specialist current 5272 chars",
+      "source": "Rolling Out",
+      "timestamp": "2025-11-22T00:25:45.393966",
+      "url": "https://rollingout.com/2025/11/20/palantir-stock-plunges-20-despite-growth/",
+      "raw_text": "Palantir stock plunges 20 percent despite explosive growth. Palantir Technologies experienced a sharp 20 percent pullback in recent trading despite reporting strong financial performance that exceeded many investor expectations. The data analytics specialist current 5272 chars",
+      "tickers_mentioned": "PLTR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "PLTR": [
+          "Palantir stock plunges 20% despite explosive growth. **Palantir** Technologies experienced a sharp 20% pullback in recent trading despite"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Palantir Technologies"
+          ],
+          "GPE": [
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "exceed",
+            "growth"
+          ],
+          "negative": [
+            "plunge"
+          ],
+          "neutral": [
+            "report",
+            "expect"
+          ]
+        },
+        "numbers": [
+          "20",
+          "20",
+          "5272"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "despite",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "plunge",
+            1
+          ],
+          [
+            "explosive",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "technology",
+            1
+          ],
+          [
+            "experience",
+            1
+          ],
+          [
+            "sharp",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "palantir",
+          "stock",
+          "plunges",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technologies",
+          "experienced",
+          "a",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "in",
+          "recent",
+          "trading",
+          "despite",
+          "reporting",
+          "strong",
+          "financial",
+          "performance",
+          "that",
+          "exceeded",
+          "many",
+          "investor",
+          "expectations",
+          ".",
+          "the",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "chars"
+        ],
+        "filtered": [
+          "palantir",
+          "stock",
+          "plunges",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technologies",
+          "experienced",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "recent",
+          "trading",
+          "despite",
+          "reporting",
+          "strong",
+          "financial",
+          "performance",
+          "exceeded",
+          "many",
+          "investor",
+          "expectations",
+          ".",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "chars"
+        ],
+        "lemmatized": [
+          "palantir",
+          "stock",
+          "plunge",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technology",
+          "experience",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "recent",
+          "trading",
+          "despite",
+          "report",
+          "strong",
+          "financial",
+          "performance",
+          "exceed",
+          "many",
+          "investor",
+          "expectation",
+          ".",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "bdefc7acd3a9e90b",
+      "title": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?",
+      "body": "Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.174682",
+      "url": "https://finnhub.io/api/news?id=dd8aff2813ab3badff2d5fa310465d8e50356520f91311b1b7136df2863b04e4",
+      "raw_text": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?. Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "tickers_mentioned": "DLTR,PLTR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DLTR": [],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "Artificial Intelligence"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "artificial",
+            2
+          ],
+          [
+            "intelligence",
+            2
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "become",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "could",
+          "palantir",
+          "be",
+          "the",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "to",
+          "hit",
+          "a",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "has",
+          "become",
+          "one",
+          "of",
+          "the",
+          "most",
+          "valuable",
+          "companies",
+          "in",
+          "the",
+          "world",
+          "thanks",
+          "to",
+          "tailwinds",
+          "from",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "filtered": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "companies",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "lemmatized": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "company",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "bb4c5c7bb5dd1ed8",
+      "title": "Peter Thiel Just Slashed His Stake in Tesla Stock by 76 percent. Should You Sell TSLA Too?",
+      "body": "After paring his complete stake in Nvidia, the Palantir co-founder has trimmed his stake in the EV leader substantially.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.906805",
+      "url": "https://finnhub.io/api/news?id=468d42d66d85e9d700059379d405d8b3c881f154e04b5c4f96e30175c6b3551c",
+      "raw_text": "Peter Thiel Just Slashed His Stake in Tesla Stock by 76 percent. Should You Sell TSLA Too?. After paring his complete stake in Nvidia, the Palantir co-founder has trimmed his stake in the EV leader substantially.",
+      "tickers_mentioned": "PLTR,TSLA,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "PLTR": [],
+        "TSLA": [],
+        "NVDA": [
+          "You Sell TSLA Too?. After paring his complete stake in **Nvidia,** the Palantir co-founder has trimmed his stake in the EV"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Peter",
+            "Thiel Just"
+          ],
+          "ORGANIZATION": [
+            "TSLA Too",
+            "EV"
+          ],
+          "GPE": [
+            "Tesla",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "76"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stake",
+            3
+          ],
+          [
+            "peter",
+            1
+          ],
+          [
+            "thiel",
+            1
+          ],
+          [
+            "slash",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "tsla",
+            1
+          ],
+          [
+            "par",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "peter",
+          "thiel",
+          "just",
+          "slashed",
+          "his",
+          "stake",
+          "in",
+          "tesla",
+          "stock",
+          "by",
+          "76",
+          "percent",
+          ".",
+          "should",
+          "you",
+          "sell",
+          "tsla",
+          "too",
+          "?",
+          ".",
+          "after",
+          "paring",
+          "his",
+          "complete",
+          "stake",
+          "in",
+          "nvidia",
+          ",",
+          "the",
+          "palantir",
+          "co-founder",
+          "has",
+          "trimmed",
+          "his",
+          "stake",
+          "in",
+          "the",
+          "ev",
+          "leader",
+          "substantially",
+          "."
+        ],
+        "filtered": [
+          "peter",
+          "thiel",
+          "slashed",
+          "stake",
+          "tesla",
+          "stock",
+          "76",
+          "percent",
+          ".",
+          "sell",
+          "tsla",
+          "?",
+          ".",
+          "paring",
+          "complete",
+          "stake",
+          "nvidia",
+          ",",
+          "palantir",
+          "co-founder",
+          "trimmed",
+          "stake",
+          "ev",
+          "leader",
+          "substantially",
+          "."
+        ],
+        "lemmatized": [
+          "peter",
+          "thiel",
+          "slash",
+          "stake",
+          "tesla",
+          "stock",
+          "76",
+          "percent",
+          ".",
+          "sell",
+          "tsla",
+          "?",
+          ".",
+          "par",
+          "complete",
+          "stake",
+          "nvidia",
+          ",",
+          "palantir",
+          "co-founder",
+          "trim",
+          "stake",
+          "ev",
+          "leader",
+          "substantially",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a11dda3df39a55f2",
+      "title": "Dow Jones Futures Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop",
+      "body": "Dow Jones Futures Apple, Google, Nvidia, Palantir and Tesla were big movers Monday during the stock market sell-off.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.001641",
+      "url": "https://finnhub.io/api/news?id=d01dc7d52bf3531d1200b85bbcce561f6df56c66b20584cec5208c6d4ae906ba",
+      "raw_text": "Dow Jones Futures Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop. Dow Jones Futures Apple, Google, Nvidia, Palantir and Tesla were big movers Monday during the stock market sell-off.",
+      "tickers_mentioned": "AAPL,PLTR,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AAPL": [],
+        "PLTR": [],
+        "NVDA": [
+          "Dow Jones Futures: Apple, Google, **Nvidia,** Palantir, Tesla Big Movers Amid Stock Market Drop. Dow Jones",
+          "Movers Amid Stock Market Drop. Dow Jones Futures: Apple, Google, **Nvidia,** Palantir and Tesla were big movers Monday during the stock"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow",
+            "Tesla Big Movers Amid Stock Market Drop",
+            "Dow Jones",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "Jones"
+          ],
+          "GPE": [
+            "Google",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "google",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "mover",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "movers",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "and",
+          "tesla",
+          "were",
+          "big",
+          "movers",
+          "monday",
+          "during",
+          "the",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ],
+        "filtered": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "movers",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "tesla",
+          "big",
+          "movers",
+          "monday",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ],
+        "lemmatized": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "mover",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "tesla",
+          "big",
+          "mover",
+          "monday",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "65481c1a83964c67",
+      "title": "Joe Terranova on the quantitative approach to the JOET ETF that identifies winners like Palantir early",
+      "body": "Joe Terranova discussed what has helped his quality momentum ETF outperform and where he envisions taking the fund from here.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:48.356904",
+      "url": "https://finnhub.io/api/news?id=5cad9ce3e09ea055c1d4500dde7942f5f4e09096976d8de01afab40dc6b6d9ba",
+      "raw_text": "Joe Terranova on the quantitative approach to the JOET ETF that identifies winners like Palantir early. Joe Terranova discussed what has helped his quality momentum ETF outperform and where he envisions taking the fund from here.",
+      "tickers_mentioned": "PLTR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Joe Terranova"
+          ],
+          "ORGANIZATION": [
+            "JOET",
+            "ETF"
+          ],
+          "GPE": [
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "outperform"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "joe",
+            2
+          ],
+          [
+            "terranova",
+            2
+          ],
+          [
+            "etf",
+            2
+          ],
+          [
+            "quantitative",
+            1
+          ],
+          [
+            "approach",
+            1
+          ],
+          [
+            "joet",
+            1
+          ],
+          [
+            "identifies",
+            1
+          ],
+          [
+            "winner",
+            1
+          ],
+          [
+            "like",
+            1
+          ],
+          [
+            "palantir",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "joe",
+          "terranova",
+          "on",
+          "the",
+          "quantitative",
+          "approach",
+          "to",
+          "the",
+          "joet",
+          "etf",
+          "that",
+          "identifies",
+          "winners",
+          "like",
+          "palantir",
+          "early",
+          ".",
+          "joe",
+          "terranova",
+          "discussed",
+          "what",
+          "has",
+          "helped",
+          "his",
+          "quality",
+          "momentum",
+          "etf",
+          "outperform",
+          "and",
+          "where",
+          "he",
+          "envisions",
+          "taking",
+          "the",
+          "fund",
+          "from",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "joe",
+          "terranova",
+          "quantitative",
+          "approach",
+          "joet",
+          "etf",
+          "identifies",
+          "winners",
+          "like",
+          "palantir",
+          "early",
+          ".",
+          "joe",
+          "terranova",
+          "discussed",
+          "helped",
+          "quality",
+          "momentum",
+          "etf",
+          "outperform",
+          "envisions",
+          "taking",
+          "fund",
+          "."
+        ],
+        "lemmatized": [
+          "joe",
+          "terranova",
+          "quantitative",
+          "approach",
+          "joet",
+          "etf",
+          "identifies",
+          "winner",
+          "like",
+          "palantir",
+          "early",
+          ".",
+          "joe",
+          "terranova",
+          "discuss",
+          "help",
+          "quality",
+          "momentum",
+          "etf",
+          "outperform",
+          "envisions",
+          "take",
+          "fund",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "99375e07e9620055",
+      "title": "Bearish On AI? Tell That To The $600 Billion Big Tech Is About To Spend",
+      "body": "Despite a sharp pullback in major artificial intelligence tech stocks like Tesla Inc. NASDAQTSLA, Microsoft Corp. NASDAQMSFT, Palantir Technologies Inc. NASDAQPLTR, and Nvidia Corp. NASDAQNVDA, the downturn appears to be a brief panic ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.569088",
+      "url": "https://finnhub.io/api/news?id=c1c27ed901584d9456ce7d94ddf00cc26bd62f853584114418966eea3722f4f8",
+      "raw_text": "Bearish On AI? Tell That To The $600 Billion Big Tech Is About To Spend. Despite a sharp pullback in major artificial intelligence tech stocks like Tesla Inc. NASDAQTSLA, Microsoft Corp. NASDAQMSFT, Palantir Technologies Inc. NASDAQPLTR, and Nvidia Corp. NASDAQNVDA, the downturn appears to be a brief panic ...",
+      "tickers_mentioned": "TSLA,NVDA,MSFT,PLTR,TECH",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TSLA": [],
+        "NVDA": [
+          "Inc. (NASDAQ:TSLA), Microsoft Corp. (NASDAQ:MSFT), Palantir Technologies Inc. (NASDAQ:PLTR), and **Nvidia** Corp. (NASDAQ:NVDA), the downturn appears to be a brief panic"
+        ],
+        "MSFT": [
+          "in major artificial intelligence tech stocks like Tesla Inc. (NASDAQ:TSLA), **Microsoft** Corp. (NASDAQ:MSFT), Palantir Technologies Inc. (NASDAQ:PLTR), and Nvidia Corp. (NASDAQ:NVDA),"
+        ],
+        "PLTR": [
+          "intelligence tech stocks like Tesla Inc. (NASDAQ:TSLA), Microsoft Corp. (NASDAQ:MSFT), **Palantir** Technologies Inc. (NASDAQ:PLTR), and Nvidia Corp. (NASDAQ:NVDA), the downturn appears"
+        ],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billion Big Tech"
+          ],
+          "ORGANIZATION": [
+            "Tesla Inc.",
+            "NASDAQ",
+            "Microsoft Corp.",
+            "Palantir Technologies Inc.",
+            "Nvidia Corp."
+          ],
+          "GPE": [
+            "Bearish",
+            "Spend"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "bearish"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "600"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "corp.",
+            2
+          ],
+          [
+            "bearish",
+            1
+          ],
+          [
+            "tell",
+            1
+          ],
+          [
+            "600",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "big",
+            1
+          ],
+          [
+            "spend",
+            1
+          ],
+          [
+            "despite",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bearish",
+          "on",
+          "ai",
+          "?",
+          "tell",
+          "that",
+          "to",
+          "the",
+          "$",
+          "600",
+          "billion",
+          "big",
+          "tech",
+          "is",
+          "about",
+          "to",
+          "spend",
+          ".",
+          "despite",
+          "a",
+          "sharp",
+          "pullback",
+          "in",
+          "major",
+          "artificial",
+          "intelligence",
+          "tech",
+          "stocks",
+          "like",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          ",",
+          "microsoft",
+          "corp.",
+          "nasdaqmsft",
+          ",",
+          "palantir",
+          "technologies",
+          "inc.",
+          "nasdaqpltr",
+          ",",
+          "and",
+          "nvidia",
+          "corp.",
+          "nasdaqnvda",
+          ",",
+          "the",
+          "downturn",
+          "appears",
+          "to",
+          "be",
+          "a",
+          "brief",
+          "panic",
+          "..."
+        ],
+        "filtered": [
+          "bearish",
+          "ai",
+          "?",
+          "tell",
+          "$",
+          "600",
+          "billion",
+          "big",
+          "tech",
+          "spend",
+          ".",
+          "despite",
+          "sharp",
+          "pullback",
+          "major",
+          "artificial",
+          "intelligence",
+          "tech",
+          "stocks",
+          "like",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          ",",
+          "microsoft",
+          "corp.",
+          "nasdaqmsft",
+          ",",
+          "palantir",
+          "technologies",
+          "inc.",
+          "nasdaqpltr",
+          ",",
+          "nvidia",
+          "corp.",
+          "nasdaqnvda",
+          ",",
+          "downturn",
+          "appears",
+          "brief",
+          "panic",
+          "..."
+        ],
+        "lemmatized": [
+          "bearish",
+          "ai",
+          "?",
+          "tell",
+          "$",
+          "600",
+          "billion",
+          "big",
+          "tech",
+          "spend",
+          ".",
+          "despite",
+          "sharp",
+          "pullback",
+          "major",
+          "artificial",
+          "intelligence",
+          "tech",
+          "stock",
+          "like",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          ",",
+          "microsoft",
+          "corp.",
+          "nasdaqmsft",
+          ",",
+          "palantir",
+          "technology",
+          "inc.",
+          "nasdaqpltr",
+          ",",
+          "nvidia",
+          "corp.",
+          "nasdaqnvda",
+          ",",
+          "downturn",
+          "appear",
+          "brief",
+          "panic",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "89dbaad083140d35",
+      "title": "Palantir stock plunges 20 percent despite explosive growth",
+      "body": "Palantir Technologies experienced a sharp 20 percent pullback in recent trading despite reporting strong financial performance that exceeded many investor expectations. The data analytics specialist current 5272 chars",
+      "source": "Rolling Out",
+      "timestamp": "2025-11-22T00:25:48.629989",
+      "url": "https://rollingout.com/2025/11/20/palantir-stock-plunges-20-despite-growth/",
+      "raw_text": "Palantir stock plunges 20 percent despite explosive growth. Palantir Technologies experienced a sharp 20 percent pullback in recent trading despite reporting strong financial performance that exceeded many investor expectations. The data analytics specialist current 5272 chars",
+      "tickers_mentioned": "PLTR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "PLTR": [
+          "Palantir stock plunges 20% despite explosive growth. **Palantir** Technologies experienced a sharp 20% pullback in recent trading despite"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Palantir Technologies"
+          ],
+          "GPE": [
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "exceed",
+            "growth"
+          ],
+          "negative": [
+            "plunge"
+          ],
+          "neutral": [
+            "report",
+            "expect"
+          ]
+        },
+        "numbers": [
+          "20",
+          "20",
+          "5272"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "despite",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "plunge",
+            1
+          ],
+          [
+            "explosive",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "technology",
+            1
+          ],
+          [
+            "experience",
+            1
+          ],
+          [
+            "sharp",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "palantir",
+          "stock",
+          "plunges",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technologies",
+          "experienced",
+          "a",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "in",
+          "recent",
+          "trading",
+          "despite",
+          "reporting",
+          "strong",
+          "financial",
+          "performance",
+          "that",
+          "exceeded",
+          "many",
+          "investor",
+          "expectations",
+          ".",
+          "the",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "chars"
+        ],
+        "filtered": [
+          "palantir",
+          "stock",
+          "plunges",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technologies",
+          "experienced",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "recent",
+          "trading",
+          "despite",
+          "reporting",
+          "strong",
+          "financial",
+          "performance",
+          "exceeded",
+          "many",
+          "investor",
+          "expectations",
+          ".",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "chars"
+        ],
+        "lemmatized": [
+          "palantir",
+          "stock",
+          "plunge",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technology",
+          "experience",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "recent",
+          "trading",
+          "despite",
+          "report",
+          "strong",
+          "financial",
+          "performance",
+          "exceed",
+          "many",
+          "investor",
+          "expectation",
+          ".",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "bdefc7acd3a9e90b",
+      "title": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?",
+      "body": "Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:49.934300",
+      "url": "https://finnhub.io/api/news?id=dd8aff2813ab3badff2d5fa310465d8e50356520f91311b1b7136df2863b04e4",
+      "raw_text": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?. Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "tickers_mentioned": "DLTR,PLTR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DLTR": [],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "Artificial Intelligence"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "artificial",
+            2
+          ],
+          [
+            "intelligence",
+            2
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "become",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "could",
+          "palantir",
+          "be",
+          "the",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "to",
+          "hit",
+          "a",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "has",
+          "become",
+          "one",
+          "of",
+          "the",
+          "most",
+          "valuable",
+          "companies",
+          "in",
+          "the",
+          "world",
+          "thanks",
+          "to",
+          "tailwinds",
+          "from",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "filtered": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "companies",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "lemmatized": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "company",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "29876141ee974172",
+      "title": "Stock Market Today Dow Jones Index Dives 400 Points Nvidia, Palantir Extending Their Losses Live Coverage",
+      "body": "Stock Market Today The Dow Jones index dropped 400 points Tuesday. Home Depot, Nvidia and Palantir were early losers.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:50.937789",
+      "url": "https://finnhub.io/api/news?id=4d354e0f0b867732b42e039eb32e059dacd8e991732ab25a0ce37ced847df63a",
+      "raw_text": "Stock Market Today Dow Jones Index Dives 400 Points Nvidia, Palantir Extending Their Losses Live Coverage. Stock Market Today The Dow Jones index dropped 400 points Tuesday. Home Depot, Nvidia and Palantir were early losers.",
+      "tickers_mentioned": "LYV,PLTR,HD,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LYV": [],
+        "PLTR": [],
+        "HD": [],
+        "NVDA": [
+          "Stock Market Today: Dow Jones Index Dives 400 Points; **Nvidia,** Palantir Extending Their Losses (Live Coverage). Stock Market Today: The",
+          "The Dow Jones index dropped 400 points Tuesday. Home Depot, **Nvidia** and Palantir were early losers."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Jones Index",
+            "Palantir Extending",
+            "Live Coverage",
+            "Stock Market",
+            "Home Depot"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "400",
+          "400"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "index",
+            2
+          ],
+          [
+            "400",
+            2
+          ],
+          [
+            "point",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dives",
+          "400",
+          "points",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "their",
+          "losses",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "and",
+          "palantir",
+          "were",
+          "early",
+          "losers",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dives",
+          "400",
+          "points",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "losses",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "palantir",
+          "early",
+          "losers",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dive",
+          "400",
+          "point",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "loss",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "drop",
+          "400",
+          "point",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "palantir",
+          "early",
+          "loser",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "63678b7e39d5bb50",
+      "title": "These Stocks Are Moving the Most Today Nvidia, Palantir, AMD, Palo Alto Networks, Walmart, Alphabet, and More",
+      "body": "Chip maker Nvidias strong earnings and rock-solid guidance ease worries about an artificial-intelligence bubble.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.524490",
+      "url": "https://finnhub.io/api/news?id=8afee9562433309d691da2dd2afc121f72b4373c4d93bd1204eb6cd2c5d4a0d0",
+      "raw_text": "These Stocks Are Moving the Most Today Nvidia, Palantir, AMD, Palo Alto Networks, Walmart, Alphabet, and More. Chip maker Nvidias strong earnings and rock-solid guidance ease worries about an artificial-intelligence bubble.",
+      "tickers_mentioned": "PANW,GOOG,NVDA,WMT,PLTR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "PANW": [
+          "These Stocks Are Moving the Most Today: Nvidia, Palantir, AMD, **Palo** Alto Networks, Walmart, Alphabet, and More. Chip maker Nvidia’s strong"
+        ],
+        "GOOG": [],
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: **Nvidia,** Palantir, AMD, Palo Alto Networks, Walmart, Alphabet, and More. Chip",
+          "AMD, Palo Alto Networks, Walmart, Alphabet, and More. Chip maker **Nvidia’s** strong earnings and rock-solid guidance ease worries about an artificial-intelligence"
+        ],
+        "WMT": [
+          "Moving the Most Today: Nvidia, Palantir, AMD, Palo Alto Networks, **Walmart,** Alphabet, and More. Chip maker Nvidia’s strong earnings and rock-solid"
+        ],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palo Alto Networks",
+            "Walmart",
+            "Nvidia"
+          ],
+          "ORGANIZATION": [
+            "AMD"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Palantir",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "palantir",
+            1
+          ],
+          [
+            "amd",
+            1
+          ],
+          [
+            "palo",
+            1
+          ],
+          [
+            "alto",
+            1
+          ],
+          [
+            "network",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "amd",
+          ",",
+          "palo",
+          "alto",
+          "networks",
+          ",",
+          "walmart",
+          ",",
+          "alphabet",
+          ",",
+          "and",
+          "more",
+          ".",
+          "chip",
+          "maker",
+          "nvidias",
+          "strong",
+          "earnings",
+          "and",
+          "rock-solid",
+          "guidance",
+          "ease",
+          "worries",
+          "about",
+          "an",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "amd",
+          ",",
+          "palo",
+          "alto",
+          "networks",
+          ",",
+          "walmart",
+          ",",
+          "alphabet",
+          ",",
+          "more",
+          ".",
+          "chip",
+          "maker",
+          "nvidias",
+          "strong",
+          "earnings",
+          "rock-solid",
+          "guidance",
+          "ease",
+          "worries",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "amd",
+          ",",
+          "palo",
+          "alto",
+          "network",
+          ",",
+          "walmart",
+          ",",
+          "alphabet",
+          ",",
+          "more",
+          ".",
+          "chip",
+          "maker",
+          "nvidias",
+          "strong",
+          "earnings",
+          "rock-solid",
+          "guidance",
+          "ease",
+          "worry",
+          "artificial-intelligence",
+          "bubble",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "bdefc7acd3a9e90b",
+      "title": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?",
+      "body": "Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.816848",
+      "url": "https://finnhub.io/api/news?id=dd8aff2813ab3badff2d5fa310465d8e50356520f91311b1b7136df2863b04e4",
+      "raw_text": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?. Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "tickers_mentioned": "DLTR,PLTR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DLTR": [],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "Artificial Intelligence"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "artificial",
+            2
+          ],
+          [
+            "intelligence",
+            2
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "become",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "could",
+          "palantir",
+          "be",
+          "the",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "to",
+          "hit",
+          "a",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "has",
+          "become",
+          "one",
+          "of",
+          "the",
+          "most",
+          "valuable",
+          "companies",
+          "in",
+          "the",
+          "world",
+          "thanks",
+          "to",
+          "tailwinds",
+          "from",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "filtered": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "companies",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "lemmatized": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "company",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a11dda3df39a55f2",
+      "title": "Dow Jones Futures Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop",
+      "body": "Dow Jones Futures Apple, Google, Nvidia, Palantir and Tesla were big movers Monday during the stock market sell-off.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.967686",
+      "url": "https://finnhub.io/api/news?id=d01dc7d52bf3531d1200b85bbcce561f6df56c66b20584cec5208c6d4ae906ba",
+      "raw_text": "Dow Jones Futures Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop. Dow Jones Futures Apple, Google, Nvidia, Palantir and Tesla were big movers Monday during the stock market sell-off.",
+      "tickers_mentioned": "AAPL,PLTR,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "AAPL": [],
+        "PLTR": [],
+        "NVDA": [
+          "Dow Jones Futures: Apple, Google, **Nvidia,** Palantir, Tesla Big Movers Amid Stock Market Drop. Dow Jones",
+          "Movers Amid Stock Market Drop. Dow Jones Futures: Apple, Google, **Nvidia,** Palantir and Tesla were big movers Monday during the stock"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow",
+            "Tesla Big Movers Amid Stock Market Drop",
+            "Dow Jones",
+            "Tesla"
+          ],
+          "ORGANIZATION": [
+            "Jones"
+          ],
+          "GPE": [
+            "Google",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "google",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "mover",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "movers",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "and",
+          "tesla",
+          "were",
+          "big",
+          "movers",
+          "monday",
+          "during",
+          "the",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ],
+        "filtered": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "movers",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "tesla",
+          "big",
+          "movers",
+          "monday",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ],
+        "lemmatized": [
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          ",",
+          "tesla",
+          "big",
+          "mover",
+          "amid",
+          "stock",
+          "market",
+          "drop",
+          ".",
+          "dow",
+          "jones",
+          "futures",
+          "apple",
+          ",",
+          "google",
+          ",",
+          "nvidia",
+          ",",
+          "palantir",
+          "tesla",
+          "big",
+          "mover",
+          "monday",
+          "stock",
+          "market",
+          "sell-off",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "89dbaad083140d35",
+      "title": "Palantir stock plunges 20 percent despite explosive growth",
+      "body": "Palantir Technologies experienced a sharp 20 percent pullback in recent trading despite reporting strong financial performance that exceeded many investor expectations. The data analytics specialist current 5272 chars",
+      "source": "Rolling Out",
+      "timestamp": "2025-11-22T00:25:54.492615",
+      "url": "https://rollingout.com/2025/11/20/palantir-stock-plunges-20-despite-growth/",
+      "raw_text": "Palantir stock plunges 20 percent despite explosive growth. Palantir Technologies experienced a sharp 20 percent pullback in recent trading despite reporting strong financial performance that exceeded many investor expectations. The data analytics specialist current 5272 chars",
+      "tickers_mentioned": "PLTR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "PLTR": [
+          "Palantir stock plunges 20% despite explosive growth. **Palantir** Technologies experienced a sharp 20% pullback in recent trading despite"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Palantir Technologies"
+          ],
+          "GPE": [
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "exceed",
+            "growth"
+          ],
+          "negative": [
+            "plunge"
+          ],
+          "neutral": [
+            "report",
+            "expect"
+          ]
+        },
+        "numbers": [
+          "20",
+          "20",
+          "5272"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "despite",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "plunge",
+            1
+          ],
+          [
+            "explosive",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "technology",
+            1
+          ],
+          [
+            "experience",
+            1
+          ],
+          [
+            "sharp",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "palantir",
+          "stock",
+          "plunges",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technologies",
+          "experienced",
+          "a",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "in",
+          "recent",
+          "trading",
+          "despite",
+          "reporting",
+          "strong",
+          "financial",
+          "performance",
+          "that",
+          "exceeded",
+          "many",
+          "investor",
+          "expectations",
+          ".",
+          "the",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "chars"
+        ],
+        "filtered": [
+          "palantir",
+          "stock",
+          "plunges",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technologies",
+          "experienced",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "recent",
+          "trading",
+          "despite",
+          "reporting",
+          "strong",
+          "financial",
+          "performance",
+          "exceeded",
+          "many",
+          "investor",
+          "expectations",
+          ".",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "chars"
+        ],
+        "lemmatized": [
+          "palantir",
+          "stock",
+          "plunge",
+          "20",
+          "percent",
+          "despite",
+          "explosive",
+          "growth",
+          ".",
+          "palantir",
+          "technology",
+          "experience",
+          "sharp",
+          "20",
+          "percent",
+          "pullback",
+          "recent",
+          "trading",
+          "despite",
+          "report",
+          "strong",
+          "financial",
+          "performance",
+          "exceed",
+          "many",
+          "investor",
+          "expectation",
+          ".",
+          "data",
+          "analytics",
+          "specialist",
+          "current",
+          "5272",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "bdefc7acd3a9e90b",
+      "title": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?",
+      "body": "Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:55.911994",
+      "url": "https://finnhub.io/api/news?id=dd8aff2813ab3badff2d5fa310465d8e50356520f91311b1b7136df2863b04e4",
+      "raw_text": "Could Palantir Be the Next Artificial Intelligence AI Stock to Hit a Trillion-Dollar Valuation?. Palantir has become one of the most valuable companies in the world thanks to tailwinds from artificial intelligence.",
+      "tickers_mentioned": "DLTR,PLTR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "DLTR": [],
+        "PLTR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "Artificial Intelligence"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            2
+          ],
+          [
+            "artificial",
+            2
+          ],
+          [
+            "intelligence",
+            2
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "become",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "could",
+          "palantir",
+          "be",
+          "the",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "to",
+          "hit",
+          "a",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "has",
+          "become",
+          "one",
+          "of",
+          "the",
+          "most",
+          "valuable",
+          "companies",
+          "in",
+          "the",
+          "world",
+          "thanks",
+          "to",
+          "tailwinds",
+          "from",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "filtered": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "companies",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "lemmatized": [
+          "could",
+          "palantir",
+          "next",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "hit",
+          "trillion-dollar",
+          "valuation",
+          "?",
+          ".",
+          "palantir",
+          "become",
+          "one",
+          "most",
+          "valuable",
+          "company",
+          "world",
+          "thanks",
+          "tailwinds",
+          "artificial",
+          "intelligence",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "b997504f21e32767",
+      "title": "Palantir Stock Fell Below Its 50-Day Moving Average. Where It Could Be Headed Next.",
+      "body": "Palantir Technologies stock has fallen below its 50-day moving average and was hovering dangerously close to its 100-day moving average on Tuesdaya sign that it could be headed lower. Palantir was also narrowly above its 100-day moving average of $169.24, after dipping below that level earlier in Tuesdays session. It has failed to close above the $200 mark since then, despite Palantir posting what CEO Alex Karp called arguably the best results that any software company has ever delivered.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.769304",
+      "url": "https://finnhub.io/api/news?id=41cd1b7692c6da0e91792b6607bbf1eba708acaa33185c57cdb9eb1b28374397",
+      "raw_text": "Palantir Stock Fell Below Its 50-Day Moving Average. Where It Could Be Headed Next.. Palantir Technologies stock has fallen below its 50-day moving average and was hovering dangerously close to its 100-day moving average on Tuesdaya sign that it could be headed lower. Palantir was also narrowly above its 100-day moving average of $169.24, after dipping below that level earlier in Tuesdays session. It has failed to close above the $200 mark since then, despite Palantir posting what CEO Alex Karp called arguably the best results that any software company has ever delivered.",
+      "tickers_mentioned": "PLTR",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "PLTR": [
+          "Its 50-Day Moving Average. Where It Could Be Headed Next.. **Palantir** Technologies stock has fallen below its 50-day moving average and"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stock Fell Below",
+            "Next",
+            "Palantir"
+          ],
+          "ORGANIZATION": [
+            "CEO Alex Karp"
+          ],
+          "GPE": [
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "fall",
+            "lower"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "50",
+          "50",
+          "100",
+          "100",
+          "169.24",
+          "200"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "palantir",
+            4
+          ],
+          [
+            "average",
+            4
+          ],
+          [
+            "below",
+            3
+          ],
+          [
+            "move",
+            3
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "50-day",
+            2
+          ],
+          [
+            "could",
+            2
+          ],
+          [
+            "head",
+            2
+          ],
+          [
+            "close",
+            2
+          ],
+          [
+            "100-day",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "palantir",
+          "stock",
+          "fell",
+          "below",
+          "its",
+          "50-day",
+          "moving",
+          "average",
+          ".",
+          "where",
+          "it",
+          "could",
+          "be",
+          "headed",
+          "next",
+          "..",
+          "palantir",
+          "technologies",
+          "stock",
+          "has",
+          "fallen",
+          "below",
+          "its",
+          "50-day",
+          "moving",
+          "average",
+          "and",
+          "was",
+          "hovering",
+          "dangerously",
+          "close",
+          "to",
+          "its",
+          "100-day",
+          "moving",
+          "average",
+          "on",
+          "tuesdaya",
+          "sign",
+          "that",
+          "it",
+          "could",
+          "be",
+          "headed",
+          "lower",
+          ".",
+          "palantir",
+          "was",
+          "also",
+          "narrowly",
+          "above",
+          "its",
+          "100-day",
+          "moving",
+          "average",
+          "of",
+          "$",
+          "169.24",
+          ",",
+          "after",
+          "dipping",
+          "below",
+          "that",
+          "level",
+          "earlier",
+          "in",
+          "tuesdays",
+          "session",
+          ".",
+          "it",
+          "has",
+          "failed",
+          "to",
+          "close",
+          "above",
+          "the",
+          "$",
+          "200",
+          "mark",
+          "since",
+          "then",
+          ",",
+          "despite",
+          "palantir",
+          "posting",
+          "what",
+          "ceo",
+          "alex",
+          "karp",
+          "called",
+          "arguably",
+          "the",
+          "best",
+          "results",
+          "that",
+          "any",
+          "software",
+          "company",
+          "has",
+          "ever",
+          "delivered",
+          "."
+        ],
+        "filtered": [
+          "palantir",
+          "stock",
+          "fell",
+          "below",
+          "50-day",
+          "moving",
+          "average",
+          ".",
+          "could",
+          "headed",
+          "next",
+          "..",
+          "palantir",
+          "technologies",
+          "stock",
+          "fallen",
+          "below",
+          "50-day",
+          "moving",
+          "average",
+          "hovering",
+          "dangerously",
+          "close",
+          "100-day",
+          "moving",
+          "average",
+          "tuesdaya",
+          "sign",
+          "could",
+          "headed",
+          "lower",
+          ".",
+          "palantir",
+          "also",
+          "narrowly",
+          "above",
+          "100-day",
+          "moving",
+          "average",
+          "$",
+          "169.24",
+          ",",
+          "dipping",
+          "below",
+          "level",
+          "earlier",
+          "tuesdays",
+          "session",
+          ".",
+          "failed",
+          "close",
+          "above",
+          "$",
+          "200",
+          "mark",
+          "since",
+          ",",
+          "despite",
+          "palantir",
+          "posting",
+          "ceo",
+          "alex",
+          "karp",
+          "called",
+          "arguably",
+          "best",
+          "results",
+          "software",
+          "company",
+          "ever",
+          "delivered",
+          "."
+        ],
+        "lemmatized": [
+          "palantir",
+          "stock",
+          "fell",
+          "below",
+          "50-day",
+          "moving",
+          "average",
+          ".",
+          "could",
+          "head",
+          "next",
+          "..",
+          "palantir",
+          "technology",
+          "stock",
+          "fall",
+          "below",
+          "50-day",
+          "move",
+          "average",
+          "hover",
+          "dangerously",
+          "close",
+          "100-day",
+          "move",
+          "average",
+          "tuesdaya",
+          "sign",
+          "could",
+          "head",
+          "low",
+          ".",
+          "palantir",
+          "also",
+          "narrowly",
+          "above",
+          "100-day",
+          "move",
+          "average",
+          "$",
+          "169.24",
+          ",",
+          "dip",
+          "below",
+          "level",
+          "earlier",
+          "tuesdays",
+          "session",
+          ".",
+          "fail",
+          "close",
+          "above",
+          "$",
+          "200",
+          "mark",
+          "since",
+          ",",
+          "despite",
+          "palantir",
+          "post",
+          "ceo",
+          "alex",
+          "karp",
+          "call",
+          "arguably",
+          "best",
+          "result",
+          "software",
+          "company",
+          "ever",
+          "deliver",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "29876141ee974172",
+      "title": "Stock Market Today Dow Jones Index Dives 400 Points Nvidia, Palantir Extending Their Losses Live Coverage",
+      "body": "Stock Market Today The Dow Jones index dropped 400 points Tuesday. Home Depot, Nvidia and Palantir were early losers.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.853541",
+      "url": "https://finnhub.io/api/news?id=4d354e0f0b867732b42e039eb32e059dacd8e991732ab25a0ce37ced847df63a",
+      "raw_text": "Stock Market Today Dow Jones Index Dives 400 Points Nvidia, Palantir Extending Their Losses Live Coverage. Stock Market Today The Dow Jones index dropped 400 points Tuesday. Home Depot, Nvidia and Palantir were early losers.",
+      "tickers_mentioned": "LYV,PLTR,HD,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LYV": [],
+        "PLTR": [],
+        "HD": [],
+        "NVDA": [
+          "Stock Market Today: Dow Jones Index Dives 400 Points; **Nvidia,** Palantir Extending Their Losses (Live Coverage). Stock Market Today: The",
+          "The Dow Jones index dropped 400 points Tuesday. Home Depot, **Nvidia** and Palantir were early losers."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Jones Index",
+            "Palantir Extending",
+            "Live Coverage",
+            "Stock Market",
+            "Home Depot"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia",
+            "Palantir"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "400",
+          "400"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "jones",
+            2
+          ],
+          [
+            "index",
+            2
+          ],
+          [
+            "400",
+            2
+          ],
+          [
+            "point",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "palantir",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dives",
+          "400",
+          "points",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "their",
+          "losses",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "and",
+          "palantir",
+          "were",
+          "early",
+          "losers",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dives",
+          "400",
+          "points",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "losses",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dropped",
+          "400",
+          "points",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "palantir",
+          "early",
+          "losers",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dive",
+          "400",
+          "point",
+          "nvidia",
+          ",",
+          "palantir",
+          "extending",
+          "loss",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "drop",
+          "400",
+          "point",
+          "tuesday",
+          ".",
+          "home",
+          "depot",
+          ",",
+          "nvidia",
+          "palantir",
+          "early",
+          "loser",
+          "."
+        ]
+      }
+    }
+  ]
+}

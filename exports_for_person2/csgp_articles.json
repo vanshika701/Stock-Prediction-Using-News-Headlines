@@ -1,0 +1,221 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "cebcc7bfd4987b46",
+      "title": "U.S. hotel results for week ending 15 November",
+      "body": "ARLINGTON, Va. The U.S. hotel industry reported negative year-over-year comparisons, according to CoStars latest data through 15 November. CoStar is a leading global provider of online real estate ma 4699 chars",
+      "source": "Hospitality Net",
+      "timestamp": "2025-11-21T23:33:36.929069",
+      "url": "https://www.hospitalitynet.org/news/4129892.html",
+      "raw_text": "U.S. hotel results for week ending 15 November. ARLINGTON, Va. The U.S. hotel industry reported negative year-over-year comparisons, according to CoStars latest data through 15 November. CoStar is a leading global provider of online real estate ma 4699 chars",
+      "tickers_mentioned": "CSGP,GPN",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "CSGP": [],
+        "GPN": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "ARLINGTON",
+            "CoStars",
+            "CoStar"
+          ],
+          "GPE": [
+            "U.S.",
+            "Va"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "report",
+            "state"
+          ]
+        },
+        "numbers": [
+          "15",
+          "15",
+          "4699"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "u.s.",
+            2
+          ],
+          [
+            "hotel",
+            2
+          ],
+          [
+            "november",
+            2
+          ],
+          [
+            "result",
+            1
+          ],
+          [
+            "week",
+            1
+          ],
+          [
+            "end",
+            1
+          ],
+          [
+            "arlington",
+            1
+          ],
+          [
+            "va.",
+            1
+          ],
+          [
+            "industry",
+            1
+          ],
+          [
+            "report",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "u.s.",
+          "hotel",
+          "results",
+          "for",
+          "week",
+          "ending",
+          "15",
+          "november",
+          ".",
+          "arlington",
+          ",",
+          "va.",
+          "the",
+          "u.s.",
+          "hotel",
+          "industry",
+          "reported",
+          "negative",
+          "year-over-year",
+          "comparisons",
+          ",",
+          "according",
+          "to",
+          "costars",
+          "latest",
+          "data",
+          "through",
+          "15",
+          "november",
+          ".",
+          "costar",
+          "is",
+          "a",
+          "leading",
+          "global",
+          "provider",
+          "of",
+          "online",
+          "real",
+          "estate",
+          "ma",
+          "4699",
+          "chars"
+        ],
+        "filtered": [
+          "u.s.",
+          "hotel",
+          "results",
+          "week",
+          "ending",
+          "15",
+          "november",
+          ".",
+          "arlington",
+          ",",
+          "va.",
+          "u.s.",
+          "hotel",
+          "industry",
+          "reported",
+          "negative",
+          "year-over-year",
+          "comparisons",
+          ",",
+          "according",
+          "costars",
+          "latest",
+          "data",
+          "15",
+          "november",
+          ".",
+          "costar",
+          "leading",
+          "global",
+          "provider",
+          "online",
+          "real",
+          "estate",
+          "4699",
+          "chars"
+        ],
+        "lemmatized": [
+          "u.s.",
+          "hotel",
+          "result",
+          "week",
+          "end",
+          "15",
+          "november",
+          ".",
+          "arlington",
+          ",",
+          "va.",
+          "u.s.",
+          "hotel",
+          "industry",
+          "report",
+          "negative",
+          "year-over-year",
+          "comparison",
+          ",",
+          "accord",
+          "costars",
+          "late",
+          "data",
+          "15",
+          "november",
+          ".",
+          "costar",
+          "lead",
+          "global",
+          "provider",
+          "online",
+          "real",
+          "estate",
+          "4699",
+          "char"
+        ]
+      }
+    }
+  ]
+}

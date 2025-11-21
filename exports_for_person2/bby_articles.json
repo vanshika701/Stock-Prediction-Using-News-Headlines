@@ -1,0 +1,7373 @@
+{
+  "count": 32,
+  "articles": [
+    {
+      "article_id": "8f83897d0f8aaca1",
+      "title": "The Best Tech Stock to Hold in Uncertain Times",
+      "body": "This companys diversified business reduces the risks that come with uncertainty.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:25:43.395360",
+      "url": "https://www.fool.com/investing/2025/11/19/the-best-tech-stock-to-hold-in-uncertain-times/",
+      "raw_text": "The Best Tech Stock to Hold in Uncertain Times. This companys diversified business reduces the risks that come with uncertainty.",
+      "tickers_mentioned": "BBY,TECH",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Best Tech Stock"
+          ],
+          "GPE": [
+            "Uncertain Times"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "hold",
+            1
+          ],
+          [
+            "uncertain",
+            1
+          ],
+          [
+            "time",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "diversify",
+            1
+          ],
+          [
+            "business",
+            1
+          ],
+          [
+            "reduces",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "tech",
+          "stock",
+          "to",
+          "hold",
+          "in",
+          "uncertain",
+          "times",
+          ".",
+          "this",
+          "companys",
+          "diversified",
+          "business",
+          "reduces",
+          "the",
+          "risks",
+          "that",
+          "come",
+          "with",
+          "uncertainty",
+          "."
+        ],
+        "filtered": [
+          "best",
+          "tech",
+          "stock",
+          "hold",
+          "uncertain",
+          "times",
+          ".",
+          "companys",
+          "diversified",
+          "business",
+          "reduces",
+          "risks",
+          "come",
+          "uncertainty",
+          "."
+        ],
+        "lemmatized": [
+          "best",
+          "tech",
+          "stock",
+          "hold",
+          "uncertain",
+          "time",
+          ".",
+          "company",
+          "diversify",
+          "business",
+          "reduces",
+          "risk",
+          "come",
+          "uncertainty",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "70c928f8d7099d87",
+      "title": "Billionaire David Tepper Just Loaded Up on These 3 Artificial Intelligence AI Stocks",
+      "body": "One of Teppers purchases in third quarter could be his best AI move.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:25:43.413180",
+      "url": "https://www.fool.com/investing/2025/11/19/billionaire-david-tepper-just-loaded-up-on-these-3/",
+      "raw_text": "Billionaire David Tepper Just Loaded Up on These 3 Artificial Intelligence AI Stocks. One of Teppers purchases in third quarter could be his best AI move.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Billionaire",
+            "David Tepper Just"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Tepper",
+            "Q3"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "billionaire",
+            1
+          ],
+          [
+            "david",
+            1
+          ],
+          [
+            "tepper",
+            1
+          ],
+          [
+            "load",
+            1
+          ],
+          [
+            "artificial",
+            1
+          ],
+          [
+            "intelligence",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "one",
+            1
+          ],
+          [
+            "teppers",
+            1
+          ],
+          [
+            "purchase",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "billionaire",
+          "david",
+          "tepper",
+          "just",
+          "loaded",
+          "up",
+          "on",
+          "these",
+          "3",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stocks",
+          ".",
+          "one",
+          "of",
+          "teppers",
+          "purchases",
+          "in",
+          "third",
+          "quarter",
+          "could",
+          "be",
+          "his",
+          "best",
+          "ai",
+          "move",
+          "."
+        ],
+        "filtered": [
+          "billionaire",
+          "david",
+          "tepper",
+          "loaded",
+          "up",
+          "3",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stocks",
+          ".",
+          "one",
+          "teppers",
+          "purchases",
+          "third",
+          "quarter",
+          "could",
+          "best",
+          "ai",
+          "move",
+          "."
+        ],
+        "lemmatized": [
+          "billionaire",
+          "david",
+          "tepper",
+          "load",
+          "up",
+          "3",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          ".",
+          "one",
+          "teppers",
+          "purchase",
+          "third",
+          "quarter",
+          "could",
+          "best",
+          "ai",
+          "move",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "3092950ab0f21b61",
+      "title": "Jim Cramer explains how to take advantage of market declines",
+      "body": "CNBCs Jim Cramer reviewed how best to buy on weakness as stocks fell during Tuesdays session.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:44.333395",
+      "url": "https://finnhub.io/api/news?id=5a1a7aeef19c5f1c912d8621ac52994ec27d70e783b14b9f789fa2af939a7d6f",
+      "raw_text": "Jim Cramer explains how to take advantage of market declines. CNBCs Jim Cramer reviewed how best to buy on weakness as stocks fell during Tuesdays session.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jim",
+            "Jim Cramer"
+          ],
+          "ORGANIZATION": [
+            "Cramer",
+            "CNBC"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [
+            "decline",
+            "weak"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "jim",
+            2
+          ],
+          [
+            "cramer",
+            2
+          ],
+          [
+            "explains",
+            1
+          ],
+          [
+            "take",
+            1
+          ],
+          [
+            "advantage",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "decline",
+            1
+          ],
+          [
+            "cnbcs",
+            1
+          ],
+          [
+            "review",
+            1
+          ],
+          [
+            "best",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "jim",
+          "cramer",
+          "explains",
+          "how",
+          "to",
+          "take",
+          "advantage",
+          "of",
+          "market",
+          "declines",
+          ".",
+          "cnbcs",
+          "jim",
+          "cramer",
+          "reviewed",
+          "how",
+          "best",
+          "to",
+          "buy",
+          "on",
+          "weakness",
+          "as",
+          "stocks",
+          "fell",
+          "during",
+          "tuesdays",
+          "session",
+          "."
+        ],
+        "filtered": [
+          "jim",
+          "cramer",
+          "explains",
+          "take",
+          "advantage",
+          "market",
+          "declines",
+          ".",
+          "cnbcs",
+          "jim",
+          "cramer",
+          "reviewed",
+          "best",
+          "buy",
+          "weakness",
+          "stocks",
+          "fell",
+          "tuesdays",
+          "session",
+          "."
+        ],
+        "lemmatized": [
+          "jim",
+          "cramer",
+          "explains",
+          "take",
+          "advantage",
+          "market",
+          "decline",
+          ".",
+          "cnbcs",
+          "jim",
+          "cramer",
+          "review",
+          "best",
+          "buy",
+          "weakness",
+          "stock",
+          "fell",
+          "tuesdays",
+          "session",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "a6e656a80e82020d",
+      "title": "Apple AAPLs the Best Balance Sheet Ive Ever Seen, Says Jim Cramer",
+      "body": "We recently published 16 Latest Stocks on Jim Cramers Radar. Apple Inc. NASDAQAAPL is one of the stocks on Jim Cramers radar. Cramer frequently discussed consumer electronics giant Apple Inc. NASDAQAAPL after the firms iPhone launch in September. He praised the firms new phones and added that carrier plans would allow consumers to afford them.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.769013",
+      "url": "https://finnhub.io/api/news?id=f816af51aa60558ae21ed80555c648fe18772d54a8a0ef3459254f3d69b45b4a",
+      "raw_text": "Apple AAPLs the Best Balance Sheet Ive Ever Seen, Says Jim Cramer. We recently published 16 Latest Stocks on Jim Cramers Radar. Apple Inc. NASDAQAAPL is one of the stocks on Jim Cramers radar. Cramer frequently discussed consumer electronics giant Apple Inc. NASDAQAAPL after the firms iPhone launch in September. He praised the firms new phones and added that carrier plans would allow consumers to afford them.",
+      "tickers_mentioned": "AAPL,BBY,CARR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AAPL": [
+          "We recently published 16 Latest Stocks on Jim Cramer’s Radar. **Apple** Inc. (NASDAQ:AAPL) is one of the stocks on Jim Cramer’s",
+          "on Jim Cramer’s radar. Cramer frequently discussed consumer electronics giant **Apple** Inc. (NASDAQ:AAPL) after the firm’s iPhone launch in September. He"
+        ],
+        "BBY": [],
+        "CARR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Balance Sheet",
+            "Jim Cramer",
+            "Radar",
+            "Apple Inc.",
+            "Cramer"
+          ],
+          "ORGANIZATION": [
+            "AAPL",
+            "Latest Stocks",
+            "NASDAQ",
+            "Apple Inc.",
+            "iPhone"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "16"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "apple",
+            3
+          ],
+          [
+            "jim",
+            3
+          ],
+          [
+            "cramer",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "cramers",
+            2
+          ],
+          [
+            "radar",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "nasdaqaapl",
+            2
+          ],
+          [
+            "consumer",
+            2
+          ],
+          [
+            "firm",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "apple",
+          "aapls",
+          "the",
+          "best",
+          "balance",
+          "sheet",
+          "ive",
+          "ever",
+          "seen",
+          ",",
+          "says",
+          "jim",
+          "cramer",
+          ".",
+          "we",
+          "recently",
+          "published",
+          "16",
+          "latest",
+          "stocks",
+          "on",
+          "jim",
+          "cramers",
+          "radar",
+          ".",
+          "apple",
+          "inc.",
+          "nasdaqaapl",
+          "is",
+          "one",
+          "of",
+          "the",
+          "stocks",
+          "on",
+          "jim",
+          "cramers",
+          "radar",
+          ".",
+          "cramer",
+          "frequently",
+          "discussed",
+          "consumer",
+          "electronics",
+          "giant",
+          "apple",
+          "inc.",
+          "nasdaqaapl",
+          "after",
+          "the",
+          "firms",
+          "iphone",
+          "launch",
+          "in",
+          "september",
+          ".",
+          "he",
+          "praised",
+          "the",
+          "firms",
+          "new",
+          "phones",
+          "and",
+          "added",
+          "that",
+          "carrier",
+          "plans",
+          "would",
+          "allow",
+          "consumers",
+          "to",
+          "afford",
+          "them",
+          "."
+        ],
+        "filtered": [
+          "apple",
+          "aapls",
+          "best",
+          "balance",
+          "sheet",
+          "ive",
+          "ever",
+          "seen",
+          ",",
+          "says",
+          "jim",
+          "cramer",
+          ".",
+          "recently",
+          "published",
+          "16",
+          "latest",
+          "stocks",
+          "jim",
+          "cramers",
+          "radar",
+          ".",
+          "apple",
+          "inc.",
+          "nasdaqaapl",
+          "one",
+          "stocks",
+          "jim",
+          "cramers",
+          "radar",
+          ".",
+          "cramer",
+          "frequently",
+          "discussed",
+          "consumer",
+          "electronics",
+          "giant",
+          "apple",
+          "inc.",
+          "nasdaqaapl",
+          "firms",
+          "iphone",
+          "launch",
+          "september",
+          ".",
+          "praised",
+          "firms",
+          "new",
+          "phones",
+          "added",
+          "carrier",
+          "plans",
+          "would",
+          "allow",
+          "consumers",
+          "afford",
+          "."
+        ],
+        "lemmatized": [
+          "apple",
+          "aapls",
+          "best",
+          "balance",
+          "sheet",
+          "ive",
+          "ever",
+          "see",
+          ",",
+          "say",
+          "jim",
+          "cramer",
+          ".",
+          "recently",
+          "publish",
+          "16",
+          "late",
+          "stock",
+          "jim",
+          "cramers",
+          "radar",
+          ".",
+          "apple",
+          "inc.",
+          "nasdaqaapl",
+          "one",
+          "stock",
+          "jim",
+          "cramers",
+          "radar",
+          ".",
+          "cramer",
+          "frequently",
+          "discuss",
+          "consumer",
+          "electronics",
+          "giant",
+          "apple",
+          "inc.",
+          "nasdaqaapl",
+          "firm",
+          "iphone",
+          "launch",
+          "september",
+          ".",
+          "praised",
+          "firm",
+          "new",
+          "phone",
+          "add",
+          "carrier",
+          "plan",
+          "would",
+          "allow",
+          "consumer",
+          "afford",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "92dc44c2c8932d14",
+      "title": "Best Stock to Buy Right Now Apple vs. Amazon",
+      "body": "Which company has better long-term growth prospects?",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.935743",
+      "url": "https://finnhub.io/api/news?id=135a2baad9a5cf8ce2ebf77bad23a345ae63f4a56f2f8c52794b00a33e41b3bc",
+      "raw_text": "Best Stock to Buy Right Now Apple vs. Amazon. Which company has better long-term growth prospects?",
+      "tickers_mentioned": "AAPL,BBY,AMZN",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "BBY": [],
+        "AMZN": [
+          "Best Stock to Buy Right Now: Apple vs. **Amazon.** Which company has better long-term growth prospects?"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Right",
+            "Which"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "vs.",
+            1
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "well",
+            1
+          ],
+          [
+            "long-term",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "best",
+          "stock",
+          "to",
+          "buy",
+          "right",
+          "now",
+          "apple",
+          "vs.",
+          "amazon",
+          ".",
+          "which",
+          "company",
+          "has",
+          "better",
+          "long-term",
+          "growth",
+          "prospects",
+          "?"
+        ],
+        "filtered": [
+          "best",
+          "stock",
+          "buy",
+          "right",
+          "apple",
+          "vs.",
+          "amazon",
+          ".",
+          "company",
+          "better",
+          "long-term",
+          "growth",
+          "prospects",
+          "?"
+        ],
+        "lemmatized": [
+          "best",
+          "stock",
+          "buy",
+          "right",
+          "apple",
+          "vs.",
+          "amazon",
+          ".",
+          "company",
+          "well",
+          "long-term",
+          "growth",
+          "prospect",
+          "?"
+        ]
+      }
+    },
+    {
+      "article_id": "4eb9ce24deb228fe",
+      "title": "Michael Burry Just Torched Big Techs AI Profit Party",
+      "body": "Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.962313",
+      "url": "https://finnhub.io/api/news?id=d452c342513befebd018fed1071dbb8ba1709647a4bf2e6586a0efa6cc4e6df2",
+      "raw_text": "Michael Burry Just Torched Big Techs AI Profit Party. Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "tickers_mentioned": "BBY,TECH,GOOG,META",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": [],
+        "GOOG": [],
+        "META": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Michael",
+            "Burry Just Torched",
+            "Michael Burry"
+          ],
+          "ORGANIZATION": [
+            "AI Profit Party",
+            "Trades",
+            "Scion Asset",
+            "Meta",
+            "NASDAQ",
+            "META"
+          ],
+          "GPE": [
+            "Portfolio",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "profit"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "2008"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            3
+          ],
+          [
+            "michael",
+            2
+          ],
+          [
+            "burry",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "profit",
+            2
+          ],
+          [
+            "torch",
+            1
+          ],
+          [
+            "party",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "run",
+            1
+          ],
+          [
+            "hot",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "michael",
+          "burry",
+          "just",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "has",
+          "been",
+          "running",
+          "hot",
+          "for",
+          "years",
+          ",",
+          "but",
+          "a",
+          "new",
+          "wrinkle",
+          "just",
+          "arrived",
+          "from",
+          "a",
+          "voice",
+          "investors",
+          "tend",
+          "to",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "the",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "for",
+          "his",
+          "bet",
+          "against",
+          "the",
+          "housing",
+          "market",
+          "before",
+          "the",
+          "2008",
+          "crisis",
+          "hinted",
+          "this",
+          "week",
+          "that",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "and",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "be",
+          "benefiting",
+          "from",
+          "earnings",
+          "that",
+          "look",
+          "stronger",
+          "because",
+          "of",
+          "longer",
+          "depreciation",
+          "schedules",
+          "on",
+          "their",
+          "servers",
+          "and",
+          "chips",
+          "."
+        ],
+        "filtered": [
+          "michael",
+          "burry",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "running",
+          "hot",
+          "years",
+          ",",
+          "new",
+          "wrinkle",
+          "arrived",
+          "voice",
+          "investors",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hinted",
+          "week",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefiting",
+          "earnings",
+          "look",
+          "stronger",
+          "longer",
+          "depreciation",
+          "schedules",
+          "servers",
+          "chips",
+          "."
+        ],
+        "lemmatized": [
+          "michael",
+          "burry",
+          "torch",
+          "big",
+          "tech",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "tech",
+          "profit",
+          "story",
+          "run",
+          "hot",
+          "year",
+          ",",
+          "new",
+          "wrinkle",
+          "arrive",
+          "voice",
+          "investor",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trade",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "know",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hint",
+          "week",
+          "tech",
+          "giant",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefit",
+          "earnings",
+          "look",
+          "strong",
+          "long",
+          "depreciation",
+          "schedule",
+          "server",
+          "chip",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "67a26ccbf3995812",
+      "title": "What Is 1 of the Best Artificial Intelligence AI Stocks to Buy Now?",
+      "body": "There are many, but this one has a great advantage.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:45.069541",
+      "url": "https://finnhub.io/api/news?id=06455e7798674f82e6d6555908e1e43b7471ccb169d0d880852355ccf6c94177",
+      "raw_text": "What Is 1 of the Best Artificial Intelligence AI Stocks to Buy Now?. There are many, but this one has a great advantage.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Best Artificial Intelligence"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "artificial",
+            1
+          ],
+          [
+            "intelligence",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "many",
+            1
+          ],
+          [
+            "one",
+            1
+          ],
+          [
+            "great",
+            1
+          ],
+          [
+            "advantage",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "what",
+          "is",
+          "1",
+          "of",
+          "the",
+          "best",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stocks",
+          "to",
+          "buy",
+          "now",
+          "?",
+          ".",
+          "there",
+          "are",
+          "many",
+          ",",
+          "but",
+          "this",
+          "one",
+          "has",
+          "a",
+          "great",
+          "advantage",
+          "."
+        ],
+        "filtered": [
+          "1",
+          "best",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stocks",
+          "buy",
+          "?",
+          ".",
+          "many",
+          ",",
+          "one",
+          "great",
+          "advantage",
+          "."
+        ],
+        "lemmatized": [
+          "1",
+          "best",
+          "artificial",
+          "intelligence",
+          "ai",
+          "stock",
+          "buy",
+          "?",
+          ".",
+          "many",
+          ",",
+          "one",
+          "great",
+          "advantage",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "99516dd58832ef19",
+      "title": "2 Warren Buffett Stocks I would Sell Right Now",
+      "body": "Even the best investors make mistakes sometimes.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:45.074116",
+      "url": "https://finnhub.io/api/news?id=3f5b77287efa0e429fa0140eb96c2767a62e357dcbd79fd33623d6283f2221dd",
+      "raw_text": "2 Warren Buffett Stocks I would Sell Right Now. Even the best investors make mistakes sometimes.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Warren Buffett"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "warren",
+            1
+          ],
+          [
+            "buffett",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "would",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "even",
+            1
+          ],
+          [
+            "best",
+            1
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "make",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "2",
+          "warren",
+          "buffett",
+          "stocks",
+          "i",
+          "would",
+          "sell",
+          "right",
+          "now",
+          ".",
+          "even",
+          "the",
+          "best",
+          "investors",
+          "make",
+          "mistakes",
+          "sometimes",
+          "."
+        ],
+        "filtered": [
+          "2",
+          "warren",
+          "buffett",
+          "stocks",
+          "would",
+          "sell",
+          "right",
+          ".",
+          "even",
+          "best",
+          "investors",
+          "make",
+          "mistakes",
+          "sometimes",
+          "."
+        ],
+        "lemmatized": [
+          "2",
+          "warren",
+          "buffett",
+          "stock",
+          "would",
+          "sell",
+          "right",
+          ".",
+          "even",
+          "best",
+          "investor",
+          "make",
+          "mistake",
+          "sometimes",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "19ad6b3747d858f7",
+      "title": "Is Meta Stock a Buy or a Sell Before Michael Burry Drops His Bombshell on November 25?",
+      "body": "Meta Platforms META, which not long ago was the years best-performing constituent of the Magnificent Seven and briefly joined the $2 trillion market cap club, has since pared gains and has lost ne 4896 chars",
+      "source": "Barchart.com",
+      "timestamp": "2025-11-22T00:25:46.064965",
+      "url": "https://www.barchart.com/story/news/36210800/is-meta-stock-a-buy-or-a-sell-before-michael-burry-drops-his-bombshell-on-november-25",
+      "raw_text": "Is Meta Stock a Buy or a Sell Before Michael Burry Drops His Bombshell on November 25?. Meta Platforms META, which not long ago was the years best-performing constituent of the Magnificent Seven and briefly joined the $2 trillion market cap club, has since pared gains and has lost ne 4896 chars",
+      "tickers_mentioned": "BBY,META",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BBY": [],
+        "META": [
+          "Sell Before Michael Burry Drops His Bombshell on November 25?. **Meta** Platforms (META), which not long ago was the year's best-performing"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Meta Platforms"
+          ],
+          "ORGANIZATION": [
+            "Meta",
+            "Sell Before Michael Burry",
+            "Bombshell",
+            "META",
+            "Magnificent Seven"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "buy"
+          ],
+          "negative": [
+            "drop",
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "25",
+          "2",
+          "4896"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "meta",
+            3
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "michael",
+            1
+          ],
+          [
+            "burry",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "bombshell",
+            1
+          ],
+          [
+            "november",
+            1
+          ],
+          [
+            "platform",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "is",
+          "meta",
+          "stock",
+          "a",
+          "buy",
+          "or",
+          "a",
+          "sell",
+          "before",
+          "michael",
+          "burry",
+          "drops",
+          "his",
+          "bombshell",
+          "on",
+          "november",
+          "25",
+          "?",
+          ".",
+          "meta",
+          "platforms",
+          "meta",
+          ",",
+          "which",
+          "not",
+          "long",
+          "ago",
+          "was",
+          "the",
+          "years",
+          "best-performing",
+          "constituent",
+          "of",
+          "the",
+          "magnificent",
+          "seven",
+          "and",
+          "briefly",
+          "joined",
+          "the",
+          "$",
+          "2",
+          "trillion",
+          "market",
+          "cap",
+          "club",
+          ",",
+          "has",
+          "since",
+          "pared",
+          "gains",
+          "and",
+          "has",
+          "lost",
+          "ne",
+          "4896",
+          "chars"
+        ],
+        "filtered": [
+          "meta",
+          "stock",
+          "buy",
+          "sell",
+          "michael",
+          "burry",
+          "drops",
+          "bombshell",
+          "november",
+          "25",
+          "?",
+          ".",
+          "meta",
+          "platforms",
+          "meta",
+          ",",
+          "not",
+          "long",
+          "ago",
+          "years",
+          "best-performing",
+          "constituent",
+          "magnificent",
+          "seven",
+          "briefly",
+          "joined",
+          "$",
+          "2",
+          "trillion",
+          "market",
+          "cap",
+          "club",
+          ",",
+          "since",
+          "pared",
+          "gains",
+          "lost",
+          "ne",
+          "4896",
+          "chars"
+        ],
+        "lemmatized": [
+          "meta",
+          "stock",
+          "buy",
+          "sell",
+          "michael",
+          "burry",
+          "drop",
+          "bombshell",
+          "november",
+          "25",
+          "?",
+          ".",
+          "meta",
+          "platform",
+          "meta",
+          ",",
+          "not",
+          "long",
+          "ago",
+          "year",
+          "best-performing",
+          "constituent",
+          "magnificent",
+          "seven",
+          "briefly",
+          "join",
+          "$",
+          "2",
+          "trillion",
+          "market",
+          "cap",
+          "club",
+          ",",
+          "since",
+          "par",
+          "gain",
+          "lose",
+          "ne",
+          "4896",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "e05934a094fa59ec",
+      "title": "Cantor Fitzgerald Boosts Tesla TSLA Price Target as New Production Plans Accelerate Growth Outlook",
+      "body": "Tesla Inc. NASDAQTSLA ranks among the best sustainability stocks to invest in. On October 27, Cantor Fitzgerald maintained its Overweight rating on Tesla Inc. NASDAQTSLA and increased its price target from $355 to $510. The firm referenced Teslas announcement that Cybercab, Semi, and Megapack 3 volume production is scheduled for fiscal year 2026, with Optimus",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.739864",
+      "url": "https://finnhub.io/api/news?id=75b6e45dae2e96c7c0c77f7116273a970bde4bbc8064bc86ebecd97f7a15e1f1",
+      "raw_text": "Cantor Fitzgerald Boosts Tesla TSLA Price Target as New Production Plans Accelerate Growth Outlook. Tesla Inc. NASDAQTSLA ranks among the best sustainability stocks to invest in. On October 27, Cantor Fitzgerald maintained its Overweight rating on Tesla Inc. NASDAQTSLA and increased its price target from $355 to $510. The firm referenced Teslas announcement that Cybercab, Semi, and Megapack 3 volume production is scheduled for fiscal year 2026, with Optimus",
+      "tickers_mentioned": "BBY,TSLA,TGT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "TSLA": [],
+        "TGT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Tesla Inc.",
+            "Cantor Fitzgerald",
+            "Tesla",
+            "Cybercab",
+            "Semi",
+            "Optimus"
+          ],
+          "ORGANIZATION": [
+            "Fitzgerald Boosts Tesla",
+            "TSLA",
+            "Accelerate Growth Outlook",
+            "NASDAQ",
+            "Tesla Inc."
+          ],
+          "GPE": [
+            "Cantor",
+            "New"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "boost",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "27",
+          "355",
+          "510",
+          "3",
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            4
+          ],
+          [
+            "cantor",
+            2
+          ],
+          [
+            "fitzgerald",
+            2
+          ],
+          [
+            "price",
+            2
+          ],
+          [
+            "target",
+            2
+          ],
+          [
+            "production",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "nasdaqtsla",
+            2
+          ],
+          [
+            "boost",
+            1
+          ],
+          [
+            "tsla",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cantor",
+          "fitzgerald",
+          "boosts",
+          "tesla",
+          "tsla",
+          "price",
+          "target",
+          "as",
+          "new",
+          "production",
+          "plans",
+          "accelerate",
+          "growth",
+          "outlook",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ranks",
+          "among",
+          "the",
+          "best",
+          "sustainability",
+          "stocks",
+          "to",
+          "invest",
+          "in",
+          ".",
+          "on",
+          "october",
+          "27",
+          ",",
+          "cantor",
+          "fitzgerald",
+          "maintained",
+          "its",
+          "overweight",
+          "rating",
+          "on",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "and",
+          "increased",
+          "its",
+          "price",
+          "target",
+          "from",
+          "$",
+          "355",
+          "to",
+          "$",
+          "510",
+          ".",
+          "the",
+          "firm",
+          "referenced",
+          "teslas",
+          "announcement",
+          "that",
+          "cybercab",
+          ",",
+          "semi",
+          ",",
+          "and",
+          "megapack",
+          "3",
+          "volume",
+          "production",
+          "is",
+          "scheduled",
+          "for",
+          "fiscal",
+          "year",
+          "2026",
+          ",",
+          "with",
+          "optimus"
+        ],
+        "filtered": [
+          "cantor",
+          "fitzgerald",
+          "boosts",
+          "tesla",
+          "tsla",
+          "price",
+          "target",
+          "new",
+          "production",
+          "plans",
+          "accelerate",
+          "growth",
+          "outlook",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "ranks",
+          "among",
+          "best",
+          "sustainability",
+          "stocks",
+          "invest",
+          ".",
+          "october",
+          "27",
+          ",",
+          "cantor",
+          "fitzgerald",
+          "maintained",
+          "overweight",
+          "rating",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "increased",
+          "price",
+          "target",
+          "$",
+          "355",
+          "$",
+          "510",
+          ".",
+          "firm",
+          "referenced",
+          "teslas",
+          "announcement",
+          "cybercab",
+          ",",
+          "semi",
+          ",",
+          "megapack",
+          "3",
+          "volume",
+          "production",
+          "scheduled",
+          "fiscal",
+          "year",
+          "2026",
+          ",",
+          "optimus"
+        ],
+        "lemmatized": [
+          "cantor",
+          "fitzgerald",
+          "boost",
+          "tesla",
+          "tsla",
+          "price",
+          "target",
+          "new",
+          "production",
+          "plan",
+          "accelerate",
+          "growth",
+          "outlook",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "rank",
+          "among",
+          "best",
+          "sustainability",
+          "stock",
+          "invest",
+          ".",
+          "october",
+          "27",
+          ",",
+          "cantor",
+          "fitzgerald",
+          "maintain",
+          "overweight",
+          "rating",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "increased",
+          "price",
+          "target",
+          "$",
+          "355",
+          "$",
+          "510",
+          ".",
+          "firm",
+          "reference",
+          "tesla",
+          "announcement",
+          "cybercab",
+          ",",
+          "semi",
+          ",",
+          "megapack",
+          "3",
+          "volume",
+          "production",
+          "schedule",
+          "fiscal",
+          "year",
+          "2026",
+          ",",
+          "optimus"
+        ]
+      }
+    },
+    {
+      "article_id": "8d73edb8eac18a73",
+      "title": "Wall Street Touts Tesla Inc. TSLA Prospects Following $1Trillion Elon Musk Compensation Approval",
+      "body": "Tesla Inc. NASDAQTSLA is one of the best blue-chip stocks to buy now. On November 11, analysts at Truist Securities expressed confidence in Tesla Inc.s NASDAQTSLA prospects following the approval of $1 trillion equity compensation for Chief Executive Officer Elon Musk. The research firm reiterated a Hold rating and a $406 price target, citing confidence",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:48.610511",
+      "url": "https://finnhub.io/api/news?id=33b3ca6e34fa07acf1c3a898a396c375913cbb073c43393fba530c5fe5608000",
+      "raw_text": "Wall Street Touts Tesla Inc. TSLA Prospects Following $1Trillion Elon Musk Compensation Approval. Tesla Inc. NASDAQTSLA is one of the best blue-chip stocks to buy now. On November 11, analysts at Truist Securities expressed confidence in Tesla Inc.s NASDAQTSLA prospects following the approval of $1 trillion equity compensation for Chief Executive Officer Elon Musk. The research firm reiterated a Hold rating and a $406 price target, citing confidence",
+      "tickers_mentioned": "TSLA,TGT,TFC,BBY,EQR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TSLA": [],
+        "TGT": [],
+        "TFC": [],
+        "BBY": [],
+        "EQR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Street Touts Tesla",
+            "Tesla Inc."
+          ],
+          "ORGANIZATION": [
+            "TSLA",
+            "NASDAQ",
+            "Truist Securities"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "11",
+          "1",
+          "406"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tesla",
+            3
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "prospect",
+            2
+          ],
+          [
+            "follow",
+            2
+          ],
+          [
+            "elon",
+            2
+          ],
+          [
+            "musk",
+            2
+          ],
+          [
+            "compensation",
+            2
+          ],
+          [
+            "approval",
+            2
+          ],
+          [
+            "nasdaqtsla",
+            2
+          ],
+          [
+            "confidence",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wall",
+          "street",
+          "touts",
+          "tesla",
+          "inc.",
+          "tsla",
+          "prospects",
+          "following",
+          "$",
+          "1trillion",
+          "elon",
+          "musk",
+          "compensation",
+          "approval",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "is",
+          "one",
+          "of",
+          "the",
+          "best",
+          "blue-chip",
+          "stocks",
+          "to",
+          "buy",
+          "now",
+          ".",
+          "on",
+          "november",
+          "11",
+          ",",
+          "analysts",
+          "at",
+          "truist",
+          "securities",
+          "expressed",
+          "confidence",
+          "in",
+          "tesla",
+          "inc.s",
+          "nasdaqtsla",
+          "prospects",
+          "following",
+          "the",
+          "approval",
+          "of",
+          "$",
+          "1",
+          "trillion",
+          "equity",
+          "compensation",
+          "for",
+          "chief",
+          "executive",
+          "officer",
+          "elon",
+          "musk",
+          ".",
+          "the",
+          "research",
+          "firm",
+          "reiterated",
+          "a",
+          "hold",
+          "rating",
+          "and",
+          "a",
+          "$",
+          "406",
+          "price",
+          "target",
+          ",",
+          "citing",
+          "confidence"
+        ],
+        "filtered": [
+          "wall",
+          "street",
+          "touts",
+          "tesla",
+          "inc.",
+          "tsla",
+          "prospects",
+          "following",
+          "$",
+          "1trillion",
+          "elon",
+          "musk",
+          "compensation",
+          "approval",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "one",
+          "best",
+          "blue-chip",
+          "stocks",
+          "buy",
+          ".",
+          "november",
+          "11",
+          ",",
+          "analysts",
+          "truist",
+          "securities",
+          "expressed",
+          "confidence",
+          "tesla",
+          "inc.s",
+          "nasdaqtsla",
+          "prospects",
+          "following",
+          "approval",
+          "$",
+          "1",
+          "trillion",
+          "equity",
+          "compensation",
+          "chief",
+          "executive",
+          "officer",
+          "elon",
+          "musk",
+          ".",
+          "research",
+          "firm",
+          "reiterated",
+          "hold",
+          "rating",
+          "$",
+          "406",
+          "price",
+          "target",
+          ",",
+          "citing",
+          "confidence"
+        ],
+        "lemmatized": [
+          "wall",
+          "street",
+          "tout",
+          "tesla",
+          "inc.",
+          "tsla",
+          "prospect",
+          "follow",
+          "$",
+          "1trillion",
+          "elon",
+          "musk",
+          "compensation",
+          "approval",
+          ".",
+          "tesla",
+          "inc.",
+          "nasdaqtsla",
+          "one",
+          "best",
+          "blue-chip",
+          "stock",
+          "buy",
+          ".",
+          "november",
+          "11",
+          ",",
+          "analyst",
+          "truist",
+          "securities",
+          "express",
+          "confidence",
+          "tesla",
+          "inc.s",
+          "nasdaqtsla",
+          "prospect",
+          "follow",
+          "approval",
+          "$",
+          "1",
+          "trillion",
+          "equity",
+          "compensation",
+          "chief",
+          "executive",
+          "officer",
+          "elon",
+          "musk",
+          ".",
+          "research",
+          "firm",
+          "reiterate",
+          "hold",
+          "rating",
+          "$",
+          "406",
+          "price",
+          "target",
+          ",",
+          "cite",
+          "confidence"
+        ]
+      }
+    },
+    {
+      "article_id": "fcfa2b4ebc1b7011",
+      "title": "VOO Offers Broad Diversification, While QQQ Boasts Tech-Heavy Growth. Which Is Best for Investors?",
+      "body": "Both VOO and QQQ can be fantastic investments, but they differ in their goals, fees, and risk profiles.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:25:49.260180",
+      "url": "https://www.fool.com/coverage/etfs/2025/11/20/voo-offers-broad-diversification-while-qqq-could-supercharge-your-earnings-which-is-best-for-investors/",
+      "raw_text": "VOO Offers Broad Diversification, While QQQ Boasts Tech-Heavy Growth. Which Is Best for Investors?. Both VOO and QQQ can be fantastic investments, but they differ in their goals, fees, and risk profiles.",
+      "tickers_mentioned": "BBY,TECH",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Broad Diversification",
+            "Which"
+          ],
+          "ORGANIZATION": [
+            "VOO",
+            "QQQ"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "voo",
+            2
+          ],
+          [
+            "qqq",
+            2
+          ],
+          [
+            "offer",
+            1
+          ],
+          [
+            "broad",
+            1
+          ],
+          [
+            "diversification",
+            1
+          ],
+          [
+            "boast",
+            1
+          ],
+          [
+            "tech-heavy",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "best",
+            1
+          ],
+          [
+            "investor",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "voo",
+          "offers",
+          "broad",
+          "diversification",
+          ",",
+          "while",
+          "qqq",
+          "boasts",
+          "tech-heavy",
+          "growth",
+          ".",
+          "which",
+          "is",
+          "best",
+          "for",
+          "investors",
+          "?",
+          ".",
+          "both",
+          "voo",
+          "and",
+          "qqq",
+          "can",
+          "be",
+          "fantastic",
+          "investments",
+          ",",
+          "but",
+          "they",
+          "differ",
+          "in",
+          "their",
+          "goals",
+          ",",
+          "fees",
+          ",",
+          "and",
+          "risk",
+          "profiles",
+          "."
+        ],
+        "filtered": [
+          "voo",
+          "offers",
+          "broad",
+          "diversification",
+          ",",
+          "qqq",
+          "boasts",
+          "tech-heavy",
+          "growth",
+          ".",
+          "best",
+          "investors",
+          "?",
+          ".",
+          "voo",
+          "qqq",
+          "fantastic",
+          "investments",
+          ",",
+          "differ",
+          "goals",
+          ",",
+          "fees",
+          ",",
+          "risk",
+          "profiles",
+          "."
+        ],
+        "lemmatized": [
+          "voo",
+          "offer",
+          "broad",
+          "diversification",
+          ",",
+          "qqq",
+          "boast",
+          "tech-heavy",
+          "growth",
+          ".",
+          "best",
+          "investor",
+          "?",
+          ".",
+          "voo",
+          "qqq",
+          "fantastic",
+          "investment",
+          ",",
+          "differ",
+          "goal",
+          ",",
+          "fee",
+          ",",
+          "risk",
+          "profile",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "77a6931d63f378db",
+      "title": "The Best Buying Opportunity Since Aprils Selloff Is Emerging",
+      "body": "Discover why strong corporate earnings, not AI fears or job data, steer SP 500 gains.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:49.421266",
+      "url": "https://finnhub.io/api/news?id=f09cbd3bbc44f33e4afb763f8a6646ba70adeca13242bf4b8d32fc51c09b6622",
+      "raw_text": "The Best Buying Opportunity Since Aprils Selloff Is Emerging. Discover why strong corporate earnings, not AI fears or job data, steer SP 500 gains.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [
+          "The **Best** Buying Opportunity Since April's Selloff Is Emerging. Discover why strong"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "April",
+            "Selloff"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "buy"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "buying",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "since",
+            1
+          ],
+          [
+            "april",
+            1
+          ],
+          [
+            "selloff",
+            1
+          ],
+          [
+            "emerge",
+            1
+          ],
+          [
+            "discover",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "corporate",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "buying",
+          "opportunity",
+          "since",
+          "aprils",
+          "selloff",
+          "is",
+          "emerging",
+          ".",
+          "discover",
+          "why",
+          "strong",
+          "corporate",
+          "earnings",
+          ",",
+          "not",
+          "ai",
+          "fears",
+          "or",
+          "job",
+          "data",
+          ",",
+          "steer",
+          "sp",
+          "500",
+          "gains",
+          "."
+        ],
+        "filtered": [
+          "best",
+          "buying",
+          "opportunity",
+          "since",
+          "aprils",
+          "selloff",
+          "emerging",
+          ".",
+          "discover",
+          "strong",
+          "corporate",
+          "earnings",
+          ",",
+          "not",
+          "ai",
+          "fears",
+          "job",
+          "data",
+          ",",
+          "steer",
+          "sp",
+          "500",
+          "gains",
+          "."
+        ],
+        "lemmatized": [
+          "best",
+          "buying",
+          "opportunity",
+          "since",
+          "april",
+          "selloff",
+          "emerge",
+          ".",
+          "discover",
+          "strong",
+          "corporate",
+          "earnings",
+          ",",
+          "not",
+          "ai",
+          "fear",
+          "job",
+          "data",
+          ",",
+          "steer",
+          "sp",
+          "500",
+          "gain",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0abf7ff2443bf568",
+      "title": "2 AI Infrastructure Stocks to Buy on the Dip",
+      "body": "When execution stumbles meet unlimited demand, patient investors get the best entry points.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:49.827152",
+      "url": "https://finnhub.io/api/news?id=b3a1553ed660dc86cc93cc7372450f84ff7fff597b120fe00a5feb7950402133",
+      "raw_text": "2 AI Infrastructure Stocks to Buy on the Dip. When execution stumbles meet unlimited demand, patient investors get the best entry points.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Stocks"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [
+            "cut",
+            "tumble"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "infrastructure",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "dip",
+            1
+          ],
+          [
+            "execution",
+            1
+          ],
+          [
+            "stumble",
+            1
+          ],
+          [
+            "meet",
+            1
+          ],
+          [
+            "unlimited",
+            1
+          ],
+          [
+            "demand",
+            1
+          ],
+          [
+            "patient",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "2",
+          "ai",
+          "infrastructure",
+          "stocks",
+          "to",
+          "buy",
+          "on",
+          "the",
+          "dip",
+          ".",
+          "when",
+          "execution",
+          "stumbles",
+          "meet",
+          "unlimited",
+          "demand",
+          ",",
+          "patient",
+          "investors",
+          "get",
+          "the",
+          "best",
+          "entry",
+          "points",
+          "."
+        ],
+        "filtered": [
+          "2",
+          "ai",
+          "infrastructure",
+          "stocks",
+          "buy",
+          "dip",
+          ".",
+          "execution",
+          "stumbles",
+          "meet",
+          "unlimited",
+          "demand",
+          ",",
+          "patient",
+          "investors",
+          "get",
+          "best",
+          "entry",
+          "points",
+          "."
+        ],
+        "lemmatized": [
+          "2",
+          "ai",
+          "infrastructure",
+          "stock",
+          "buy",
+          "dip",
+          ".",
+          "execution",
+          "stumble",
+          "meet",
+          "unlimited",
+          "demand",
+          ",",
+          "patient",
+          "investor",
+          "get",
+          "best",
+          "entry",
+          "point",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4eb9ce24deb228fe",
+      "title": "Michael Burry Just Torched Big Techs AI Profit Party",
+      "body": "Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:51.551743",
+      "url": "https://finnhub.io/api/news?id=d452c342513befebd018fed1071dbb8ba1709647a4bf2e6586a0efa6cc4e6df2",
+      "raw_text": "Michael Burry Just Torched Big Techs AI Profit Party. Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "tickers_mentioned": "BBY,TECH,GOOG,META",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": [],
+        "GOOG": [],
+        "META": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Michael",
+            "Burry Just Torched",
+            "Michael Burry"
+          ],
+          "ORGANIZATION": [
+            "AI Profit Party",
+            "Trades",
+            "Scion Asset",
+            "Meta",
+            "NASDAQ",
+            "META"
+          ],
+          "GPE": [
+            "Portfolio",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "profit"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "2008"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            3
+          ],
+          [
+            "michael",
+            2
+          ],
+          [
+            "burry",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "profit",
+            2
+          ],
+          [
+            "torch",
+            1
+          ],
+          [
+            "party",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "run",
+            1
+          ],
+          [
+            "hot",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "michael",
+          "burry",
+          "just",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "has",
+          "been",
+          "running",
+          "hot",
+          "for",
+          "years",
+          ",",
+          "but",
+          "a",
+          "new",
+          "wrinkle",
+          "just",
+          "arrived",
+          "from",
+          "a",
+          "voice",
+          "investors",
+          "tend",
+          "to",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "the",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "for",
+          "his",
+          "bet",
+          "against",
+          "the",
+          "housing",
+          "market",
+          "before",
+          "the",
+          "2008",
+          "crisis",
+          "hinted",
+          "this",
+          "week",
+          "that",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "and",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "be",
+          "benefiting",
+          "from",
+          "earnings",
+          "that",
+          "look",
+          "stronger",
+          "because",
+          "of",
+          "longer",
+          "depreciation",
+          "schedules",
+          "on",
+          "their",
+          "servers",
+          "and",
+          "chips",
+          "."
+        ],
+        "filtered": [
+          "michael",
+          "burry",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "running",
+          "hot",
+          "years",
+          ",",
+          "new",
+          "wrinkle",
+          "arrived",
+          "voice",
+          "investors",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hinted",
+          "week",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefiting",
+          "earnings",
+          "look",
+          "stronger",
+          "longer",
+          "depreciation",
+          "schedules",
+          "servers",
+          "chips",
+          "."
+        ],
+        "lemmatized": [
+          "michael",
+          "burry",
+          "torch",
+          "big",
+          "tech",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "tech",
+          "profit",
+          "story",
+          "run",
+          "hot",
+          "year",
+          ",",
+          "new",
+          "wrinkle",
+          "arrive",
+          "voice",
+          "investor",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trade",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "know",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hint",
+          "week",
+          "tech",
+          "giant",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefit",
+          "earnings",
+          "look",
+          "strong",
+          "long",
+          "depreciation",
+          "schedule",
+          "server",
+          "chip",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "70c5b279ea94c659",
+      "title": "Microsoft MSFT Expands Data Center Build-out with an AI Super Factory, Reports WSJ",
+      "body": "Microsoft Corporation NASDAQMSFT is one of the Best Fundamentally Strong Stocks to Buy. On November 12, the Wall Street Journal reported that Microsoft Corporation NASDAQMSFT has been expanding its data center build-out with an AI super factory. This is the set of two-story structures in Atlanta, focused towards connecting seamlessly with infrastructure in other areas to harness the",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:51.680754",
+      "url": "https://finnhub.io/api/news?id=49ab2e25b386825047b0e0cc0f0893e7a852bd97800804cc21098b23f59c07fd",
+      "raw_text": "Microsoft MSFT Expands Data Center Build-out with an AI Super Factory, Reports WSJ. Microsoft Corporation NASDAQMSFT is one of the Best Fundamentally Strong Stocks to Buy. On November 12, the Wall Street Journal reported that Microsoft Corporation NASDAQMSFT has been expanding its data center build-out with an AI super factory. This is the set of two-story structures in Atlanta, focused towards connecting seamlessly with infrastructure in other areas to harness the",
+      "tickers_mentioned": "BBY,MSFT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "MSFT": [
+          "**Microsoft** (MSFT) Expands Data Center Build-out with an AI Super Factory,",
+          "Data Center Build-out with an AI Super Factory, Reports WSJ. **Microsoft** Corporation (NASDAQ:MSFT) is one of the Best Fundamentally Strong Stocks",
+          "Buy. On November 12, the Wall Street Journal reported that **Microsoft** Corporation (NASDAQ:MSFT) has been expanding its data center build-out with"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Expands Data Center",
+            "Reports WSJ",
+            "Microsoft Corporation"
+          ],
+          "ORGANIZATION": [
+            "MSFT",
+            "NASDAQ",
+            "Best Fundamentally Strong Stocks"
+          ],
+          "GPE": [
+            "Microsoft",
+            "Buy",
+            "Atlanta"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "12"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "microsoft",
+            3
+          ],
+          [
+            "expand",
+            2
+          ],
+          [
+            "data",
+            2
+          ],
+          [
+            "center",
+            2
+          ],
+          [
+            "build-out",
+            2
+          ],
+          [
+            "super",
+            2
+          ],
+          [
+            "factory",
+            2
+          ],
+          [
+            "report",
+            2
+          ],
+          [
+            "corporation",
+            2
+          ],
+          [
+            "nasdaqmsft",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "microsoft",
+          "msft",
+          "expands",
+          "data",
+          "center",
+          "build-out",
+          "with",
+          "an",
+          "ai",
+          "super",
+          "factory",
+          ",",
+          "reports",
+          "wsj",
+          ".",
+          "microsoft",
+          "corporation",
+          "nasdaqmsft",
+          "is",
+          "one",
+          "of",
+          "the",
+          "best",
+          "fundamentally",
+          "strong",
+          "stocks",
+          "to",
+          "buy",
+          ".",
+          "on",
+          "november",
+          "12",
+          ",",
+          "the",
+          "wall",
+          "street",
+          "journal",
+          "reported",
+          "that",
+          "microsoft",
+          "corporation",
+          "nasdaqmsft",
+          "has",
+          "been",
+          "expanding",
+          "its",
+          "data",
+          "center",
+          "build-out",
+          "with",
+          "an",
+          "ai",
+          "super",
+          "factory",
+          ".",
+          "this",
+          "is",
+          "the",
+          "set",
+          "of",
+          "two-story",
+          "structures",
+          "in",
+          "atlanta",
+          ",",
+          "focused",
+          "towards",
+          "connecting",
+          "seamlessly",
+          "with",
+          "infrastructure",
+          "in",
+          "other",
+          "areas",
+          "to",
+          "harness",
+          "the"
+        ],
+        "filtered": [
+          "microsoft",
+          "msft",
+          "expands",
+          "data",
+          "center",
+          "build-out",
+          "ai",
+          "super",
+          "factory",
+          ",",
+          "reports",
+          "wsj",
+          ".",
+          "microsoft",
+          "corporation",
+          "nasdaqmsft",
+          "one",
+          "best",
+          "fundamentally",
+          "strong",
+          "stocks",
+          "buy",
+          ".",
+          "november",
+          "12",
+          ",",
+          "wall",
+          "street",
+          "journal",
+          "reported",
+          "microsoft",
+          "corporation",
+          "nasdaqmsft",
+          "expanding",
+          "data",
+          "center",
+          "build-out",
+          "ai",
+          "super",
+          "factory",
+          ".",
+          "set",
+          "two-story",
+          "structures",
+          "atlanta",
+          ",",
+          "focused",
+          "towards",
+          "connecting",
+          "seamlessly",
+          "infrastructure",
+          "areas",
+          "harness"
+        ],
+        "lemmatized": [
+          "microsoft",
+          "msft",
+          "expand",
+          "data",
+          "center",
+          "build-out",
+          "ai",
+          "super",
+          "factory",
+          ",",
+          "report",
+          "wsj",
+          ".",
+          "microsoft",
+          "corporation",
+          "nasdaqmsft",
+          "one",
+          "best",
+          "fundamentally",
+          "strong",
+          "stock",
+          "buy",
+          ".",
+          "november",
+          "12",
+          ",",
+          "wall",
+          "street",
+          "journal",
+          "report",
+          "microsoft",
+          "corporation",
+          "nasdaqmsft",
+          "expand",
+          "data",
+          "center",
+          "build-out",
+          "ai",
+          "super",
+          "factory",
+          ".",
+          "set",
+          "two-story",
+          "structure",
+          "atlanta",
+          ",",
+          "focus",
+          "towards",
+          "connect",
+          "seamlessly",
+          "infrastructure",
+          "area",
+          "harness"
+        ]
+      }
+    },
+    {
+      "article_id": "77a6931d63f378db",
+      "title": "The Best Buying Opportunity Since Aprils Selloff Is Emerging",
+      "body": "Discover why strong corporate earnings, not AI fears or job data, steer SP 500 gains.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:52.205179",
+      "url": "https://finnhub.io/api/news?id=f09cbd3bbc44f33e4afb763f8a6646ba70adeca13242bf4b8d32fc51c09b6622",
+      "raw_text": "The Best Buying Opportunity Since Aprils Selloff Is Emerging. Discover why strong corporate earnings, not AI fears or job data, steer SP 500 gains.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [
+          "The **Best** Buying Opportunity Since April's Selloff Is Emerging. Discover why strong"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "April",
+            "Selloff"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "buy"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "buying",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "since",
+            1
+          ],
+          [
+            "april",
+            1
+          ],
+          [
+            "selloff",
+            1
+          ],
+          [
+            "emerge",
+            1
+          ],
+          [
+            "discover",
+            1
+          ],
+          [
+            "strong",
+            1
+          ],
+          [
+            "corporate",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "buying",
+          "opportunity",
+          "since",
+          "aprils",
+          "selloff",
+          "is",
+          "emerging",
+          ".",
+          "discover",
+          "why",
+          "strong",
+          "corporate",
+          "earnings",
+          ",",
+          "not",
+          "ai",
+          "fears",
+          "or",
+          "job",
+          "data",
+          ",",
+          "steer",
+          "sp",
+          "500",
+          "gains",
+          "."
+        ],
+        "filtered": [
+          "best",
+          "buying",
+          "opportunity",
+          "since",
+          "aprils",
+          "selloff",
+          "emerging",
+          ".",
+          "discover",
+          "strong",
+          "corporate",
+          "earnings",
+          ",",
+          "not",
+          "ai",
+          "fears",
+          "job",
+          "data",
+          ",",
+          "steer",
+          "sp",
+          "500",
+          "gains",
+          "."
+        ],
+        "lemmatized": [
+          "best",
+          "buying",
+          "opportunity",
+          "since",
+          "april",
+          "selloff",
+          "emerge",
+          ".",
+          "discover",
+          "strong",
+          "corporate",
+          "earnings",
+          ",",
+          "not",
+          "ai",
+          "fear",
+          "job",
+          "data",
+          ",",
+          "steer",
+          "sp",
+          "500",
+          "gain",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "fe873f9fd269e0f0",
+      "title": "The 3 Best Magnificent 7 Stocks to Own In 2026",
+      "body": "With a wide variation in valuation multiples and growth prospects, the Magnificent 7 group of mega-cap tech stocks is one of the most intriguing parts of the equity market to look at. By all accounts, these seven companies drive a significant percentage of the entire returns of most indices. As such, they deserve the microscope ... The 3 Best Magnificent 7 Stocks to Own In 2026",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.564509",
+      "url": "https://finnhub.io/api/news?id=8bf0229df3bc5a9c9ecbde4bc17938f96f5345a3fbfe65b01ab2c071e74ee69b",
+      "raw_text": "The 3 Best Magnificent 7 Stocks to Own In 2026. With a wide variation in valuation multiples and growth prospects, the Magnificent 7 group of mega-cap tech stocks is one of the most intriguing parts of the equity market to look at. By all accounts, these seven companies drive a significant percentage of the entire returns of most indices. As such, they deserve the microscope ... The 3 Best Magnificent 7 Stocks to Own In 2026",
+      "tickers_mentioned": "EQR,BBY,TECH",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EQR": [],
+        "BBY": [],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "3",
+          "7",
+          "2026",
+          "7",
+          "3",
+          "7",
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "magnificent",
+            3
+          ],
+          [
+            "stock",
+            3
+          ],
+          [
+            "best",
+            2
+          ],
+          [
+            "most",
+            2
+          ],
+          [
+            "2026.",
+            1
+          ],
+          [
+            "wide",
+            1
+          ],
+          [
+            "variation",
+            1
+          ],
+          [
+            "valuation",
+            1
+          ],
+          [
+            "multiple",
+            1
+          ],
+          [
+            "growth",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 0,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 7,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "3",
+          "best",
+          "magnificent",
+          "7",
+          "stocks",
+          "to",
+          "own",
+          "in",
+          "2026.",
+          "with",
+          "a",
+          "wide",
+          "variation",
+          "in",
+          "valuation",
+          "multiples",
+          "and",
+          "growth",
+          "prospects",
+          ",",
+          "the",
+          "magnificent",
+          "7",
+          "group",
+          "of",
+          "mega-cap",
+          "tech",
+          "stocks",
+          "is",
+          "one",
+          "of",
+          "the",
+          "most",
+          "intriguing",
+          "parts",
+          "of",
+          "the",
+          "equity",
+          "market",
+          "to",
+          "look",
+          "at",
+          ".",
+          "by",
+          "all",
+          "accounts",
+          ",",
+          "these",
+          "seven",
+          "companies",
+          "drive",
+          "a",
+          "significant",
+          "percentage",
+          "of",
+          "the",
+          "entire",
+          "returns",
+          "of",
+          "most",
+          "indices",
+          ".",
+          "as",
+          "such",
+          ",",
+          "they",
+          "deserve",
+          "the",
+          "microscope",
+          "...",
+          "the",
+          "3",
+          "best",
+          "magnificent",
+          "7",
+          "stocks",
+          "to",
+          "own",
+          "in",
+          "2026"
+        ],
+        "filtered": [
+          "3",
+          "best",
+          "magnificent",
+          "7",
+          "stocks",
+          "2026.",
+          "wide",
+          "variation",
+          "valuation",
+          "multiples",
+          "growth",
+          "prospects",
+          ",",
+          "magnificent",
+          "7",
+          "group",
+          "mega-cap",
+          "tech",
+          "stocks",
+          "one",
+          "most",
+          "intriguing",
+          "parts",
+          "equity",
+          "market",
+          "look",
+          ".",
+          "accounts",
+          ",",
+          "seven",
+          "companies",
+          "drive",
+          "significant",
+          "percentage",
+          "entire",
+          "returns",
+          "most",
+          "indices",
+          ".",
+          ",",
+          "deserve",
+          "microscope",
+          "...",
+          "3",
+          "best",
+          "magnificent",
+          "7",
+          "stocks",
+          "2026"
+        ],
+        "lemmatized": [
+          "3",
+          "best",
+          "magnificent",
+          "7",
+          "stock",
+          "2026.",
+          "wide",
+          "variation",
+          "valuation",
+          "multiple",
+          "growth",
+          "prospect",
+          ",",
+          "magnificent",
+          "7",
+          "group",
+          "mega-cap",
+          "tech",
+          "stock",
+          "one",
+          "most",
+          "intriguing",
+          "part",
+          "equity",
+          "market",
+          "look",
+          ".",
+          "account",
+          ",",
+          "seven",
+          "company",
+          "drive",
+          "significant",
+          "percentage",
+          "entire",
+          "returns",
+          "most",
+          "index",
+          ".",
+          ",",
+          "deserve",
+          "microscope",
+          "...",
+          "3",
+          "best",
+          "magnificent",
+          "7",
+          "stock",
+          "2026"
+        ]
+      }
+    },
+    {
+      "article_id": "de259347a7fc81ca",
+      "title": "Meta Platforms Are We Headed For An AI Winter?",
+      "body": "Explore why Meta Platforms, Inc. is lagging in 2024 and discover if current market uncertainty makes now the best time to invest. Click for our META update.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:53.156118",
+      "url": "https://finnhub.io/api/news?id=4933271b52463b95a098f9b695e27b8f597e7aa9a58ae1bb814eee41fd23415c",
+      "raw_text": "Meta Platforms Are We Headed For An AI Winter?. Explore why Meta Platforms, Inc. is lagging in 2024 and discover if current market uncertainty makes now the best time to invest. Click for our META update.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Meta Platforms",
+            "Click"
+          ],
+          "ORGANIZATION": [
+            "META"
+          ],
+          "GPE": [
+            "Meta"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2024"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "meta",
+            3
+          ],
+          [
+            "platform",
+            2
+          ],
+          [
+            "head",
+            1
+          ],
+          [
+            "winter",
+            1
+          ],
+          [
+            "explore",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "lag",
+            1
+          ],
+          [
+            "2024",
+            1
+          ],
+          [
+            "discover",
+            1
+          ],
+          [
+            "current",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "meta",
+          "platforms",
+          "are",
+          "we",
+          "headed",
+          "for",
+          "an",
+          "ai",
+          "winter",
+          "?",
+          ".",
+          "explore",
+          "why",
+          "meta",
+          "platforms",
+          ",",
+          "inc.",
+          "is",
+          "lagging",
+          "in",
+          "2024",
+          "and",
+          "discover",
+          "if",
+          "current",
+          "market",
+          "uncertainty",
+          "makes",
+          "now",
+          "the",
+          "best",
+          "time",
+          "to",
+          "invest",
+          ".",
+          "click",
+          "for",
+          "our",
+          "meta",
+          "update",
+          "."
+        ],
+        "filtered": [
+          "meta",
+          "platforms",
+          "headed",
+          "ai",
+          "winter",
+          "?",
+          ".",
+          "explore",
+          "meta",
+          "platforms",
+          ",",
+          "inc.",
+          "lagging",
+          "2024",
+          "discover",
+          "current",
+          "market",
+          "uncertainty",
+          "makes",
+          "best",
+          "time",
+          "invest",
+          ".",
+          "click",
+          "meta",
+          "update",
+          "."
+        ],
+        "lemmatized": [
+          "meta",
+          "platform",
+          "head",
+          "ai",
+          "winter",
+          "?",
+          ".",
+          "explore",
+          "meta",
+          "platform",
+          ",",
+          "inc.",
+          "lag",
+          "2024",
+          "discover",
+          "current",
+          "market",
+          "uncertainty",
+          "make",
+          "best",
+          "time",
+          "invest",
+          ".",
+          "click",
+          "meta",
+          "update",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4eb9ce24deb228fe",
+      "title": "Michael Burry Just Torched Big Techs AI Profit Party",
+      "body": "Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:54.471280",
+      "url": "https://finnhub.io/api/news?id=d452c342513befebd018fed1071dbb8ba1709647a4bf2e6586a0efa6cc4e6df2",
+      "raw_text": "Michael Burry Just Torched Big Techs AI Profit Party. Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "tickers_mentioned": "BBY,TECH,GOOG,META",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": [],
+        "GOOG": [],
+        "META": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Michael",
+            "Burry Just Torched",
+            "Michael Burry"
+          ],
+          "ORGANIZATION": [
+            "AI Profit Party",
+            "Trades",
+            "Scion Asset",
+            "Meta",
+            "NASDAQ",
+            "META"
+          ],
+          "GPE": [
+            "Portfolio",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "profit"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "2008"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            3
+          ],
+          [
+            "michael",
+            2
+          ],
+          [
+            "burry",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "profit",
+            2
+          ],
+          [
+            "torch",
+            1
+          ],
+          [
+            "party",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "run",
+            1
+          ],
+          [
+            "hot",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "michael",
+          "burry",
+          "just",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "has",
+          "been",
+          "running",
+          "hot",
+          "for",
+          "years",
+          ",",
+          "but",
+          "a",
+          "new",
+          "wrinkle",
+          "just",
+          "arrived",
+          "from",
+          "a",
+          "voice",
+          "investors",
+          "tend",
+          "to",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "the",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "for",
+          "his",
+          "bet",
+          "against",
+          "the",
+          "housing",
+          "market",
+          "before",
+          "the",
+          "2008",
+          "crisis",
+          "hinted",
+          "this",
+          "week",
+          "that",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "and",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "be",
+          "benefiting",
+          "from",
+          "earnings",
+          "that",
+          "look",
+          "stronger",
+          "because",
+          "of",
+          "longer",
+          "depreciation",
+          "schedules",
+          "on",
+          "their",
+          "servers",
+          "and",
+          "chips",
+          "."
+        ],
+        "filtered": [
+          "michael",
+          "burry",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "running",
+          "hot",
+          "years",
+          ",",
+          "new",
+          "wrinkle",
+          "arrived",
+          "voice",
+          "investors",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hinted",
+          "week",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefiting",
+          "earnings",
+          "look",
+          "stronger",
+          "longer",
+          "depreciation",
+          "schedules",
+          "servers",
+          "chips",
+          "."
+        ],
+        "lemmatized": [
+          "michael",
+          "burry",
+          "torch",
+          "big",
+          "tech",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "tech",
+          "profit",
+          "story",
+          "run",
+          "hot",
+          "year",
+          ",",
+          "new",
+          "wrinkle",
+          "arrive",
+          "voice",
+          "investor",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trade",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "know",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hint",
+          "week",
+          "tech",
+          "giant",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefit",
+          "earnings",
+          "look",
+          "strong",
+          "long",
+          "depreciation",
+          "schedule",
+          "server",
+          "chip",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "86fa6f2795331f63",
+      "title": "Grab Chargers and More for Your New Devices at Amazons Ugreen Week Sale",
+      "body": "Black Friday is one of the best times of the year to pick up some new tech gadgets. So that means you may also be in the market for some new accessories like charging cables and USB hubs. Ugreen make 1448 chars",
+      "source": "CNET",
+      "timestamp": "2025-11-22T00:25:54.523434",
+      "url": "https://www.cnet.com/deals/ugreen-black-friday-deals-amazon-sale/",
+      "raw_text": "Grab Chargers and More for Your New Devices at Amazons Ugreen Week Sale. Black Friday is one of the best times of the year to pick up some new tech gadgets. So that means you may also be in the market for some new accessories like charging cables and USB hubs. Ugreen make 1448 chars",
+      "tickers_mentioned": "BBY,TECH",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Grab",
+            "Ugreen Week Sale",
+            "Black"
+          ],
+          "ORGANIZATION": [
+            "New Devices",
+            "Amazon",
+            "USB"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1448"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "new",
+            3
+          ],
+          [
+            "ugreen",
+            2
+          ],
+          [
+            "grab",
+            1
+          ],
+          [
+            "charger",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "device",
+            1
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "week",
+            1
+          ],
+          [
+            "sale",
+            1
+          ],
+          [
+            "black",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "grab",
+          "chargers",
+          "and",
+          "more",
+          "for",
+          "your",
+          "new",
+          "devices",
+          "at",
+          "amazons",
+          "ugreen",
+          "week",
+          "sale",
+          ".",
+          "black",
+          "friday",
+          "is",
+          "one",
+          "of",
+          "the",
+          "best",
+          "times",
+          "of",
+          "the",
+          "year",
+          "to",
+          "pick",
+          "up",
+          "some",
+          "new",
+          "tech",
+          "gadgets",
+          ".",
+          "so",
+          "that",
+          "means",
+          "you",
+          "may",
+          "also",
+          "be",
+          "in",
+          "the",
+          "market",
+          "for",
+          "some",
+          "new",
+          "accessories",
+          "like",
+          "charging",
+          "cables",
+          "and",
+          "usb",
+          "hubs",
+          ".",
+          "ugreen",
+          "make",
+          "1448",
+          "chars"
+        ],
+        "filtered": [
+          "grab",
+          "chargers",
+          "more",
+          "new",
+          "devices",
+          "amazons",
+          "ugreen",
+          "week",
+          "sale",
+          ".",
+          "black",
+          "friday",
+          "one",
+          "best",
+          "times",
+          "year",
+          "pick",
+          "up",
+          "new",
+          "tech",
+          "gadgets",
+          ".",
+          "means",
+          "may",
+          "also",
+          "market",
+          "new",
+          "accessories",
+          "like",
+          "charging",
+          "cables",
+          "usb",
+          "hubs",
+          ".",
+          "ugreen",
+          "make",
+          "1448",
+          "chars"
+        ],
+        "lemmatized": [
+          "grab",
+          "charger",
+          "more",
+          "new",
+          "device",
+          "amazon",
+          "ugreen",
+          "week",
+          "sale",
+          ".",
+          "black",
+          "friday",
+          "one",
+          "best",
+          "time",
+          "year",
+          "pick",
+          "up",
+          "new",
+          "tech",
+          "gadget",
+          ".",
+          "mean",
+          "may",
+          "also",
+          "market",
+          "new",
+          "accessory",
+          "like",
+          "charge",
+          "cable",
+          "usb",
+          "hub",
+          ".",
+          "ugreen",
+          "make",
+          "1448",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "d2ccfb38bc10be21",
+      "title": "Best Buys Early LEGO Black Friday Deals Are Live",
+      "body": "Weve been seeing occasional early Black Friday deals pop up at various retailers all month, but they have finally began in earnest. Both Amazon and Best Buy kicked off their official Black Friday sales 2960 chars",
+      "source": "IGN",
+      "timestamp": "2025-11-22T00:25:54.592214",
+      "url": "https://www.ign.com/articles/best-buy-lego-deals-early-black-friday-2025",
+      "raw_text": "Best Buys Early LEGO Black Friday Deals Are Live. Weve been seeing occasional early Black Friday deals pop up at various retailers all month, but they have finally began in earnest. Both Amazon and Best Buy kicked off their official Black Friday sales 2960 chars",
+      "tickers_mentioned": "LYV,BBY,AMZN",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "BBY": [
+          "**Best** Buy’s Early LEGO Black Friday Deals Are Live. Weve been",
+          "month, but they've finally began in earnest. Both Amazon and **Best** Buy kicked off their official Black Friday sales… [+2960 chars]"
+        ],
+        "AMZN": [
+          "retailers all month, but they've finally began in earnest. Both **Amazon** and Best Buy kicked off their official Black Friday sales…"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Buy",
+            "Early",
+            "Weve",
+            "Best Buy",
+            "Black"
+          ],
+          "ORGANIZATION": [
+            "LEGO Black",
+            "Amazon"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2960"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "best",
+            2
+          ],
+          [
+            "buy",
+            2
+          ],
+          [
+            "early",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "lego",
+            1
+          ],
+          [
+            "live",
+            1
+          ],
+          [
+            "weve",
+            1
+          ],
+          [
+            "see",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "best",
+          "buys",
+          "early",
+          "lego",
+          "black",
+          "friday",
+          "deals",
+          "are",
+          "live",
+          ".",
+          "weve",
+          "been",
+          "seeing",
+          "occasional",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "pop",
+          "up",
+          "at",
+          "various",
+          "retailers",
+          "all",
+          "month",
+          ",",
+          "but",
+          "they",
+          "have",
+          "finally",
+          "began",
+          "in",
+          "earnest",
+          ".",
+          "both",
+          "amazon",
+          "and",
+          "best",
+          "buy",
+          "kicked",
+          "off",
+          "their",
+          "official",
+          "black",
+          "friday",
+          "sales",
+          "2960",
+          "chars"
+        ],
+        "filtered": [
+          "best",
+          "buys",
+          "early",
+          "lego",
+          "black",
+          "friday",
+          "deals",
+          "live",
+          ".",
+          "weve",
+          "seeing",
+          "occasional",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "pop",
+          "up",
+          "various",
+          "retailers",
+          "month",
+          ",",
+          "finally",
+          "began",
+          "earnest",
+          ".",
+          "amazon",
+          "best",
+          "buy",
+          "kicked",
+          "official",
+          "black",
+          "friday",
+          "sales",
+          "2960",
+          "chars"
+        ],
+        "lemmatized": [
+          "best",
+          "buy",
+          "early",
+          "lego",
+          "black",
+          "friday",
+          "deal",
+          "live",
+          ".",
+          "weve",
+          "see",
+          "occasional",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "pop",
+          "up",
+          "various",
+          "retailer",
+          "month",
+          ",",
+          "finally",
+          "begin",
+          "earnest",
+          ".",
+          "amazon",
+          "best",
+          "buy",
+          "kick",
+          "official",
+          "black",
+          "friday",
+          "sales",
+          "2960",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "6d0f403423513023",
+      "title": "Black Friday Week deals AirPods Pro 3 all-time low, M4 Mac mini $479 $200 off M4 Pro model, iPads from $280, much more",
+      "body": "The official Amazon 2025 Black Friday Week deals are now live and they are not playing around. We are getting the best price ever on the new AirPods Pro 3 down at $220 alongside a new Amazon all-time 6120 chars",
+      "source": "9to5Mac",
+      "timestamp": "2025-11-22T00:25:54.718635",
+      "url": "https://9to5mac.com/2025/11/20/black-friday-week-deals-airpods-pro-3-m4-mac-mini-ipad/",
+      "raw_text": "Black Friday Week deals AirPods Pro 3 all-time low, M4 Mac mini $479 $200 off M4 Pro model, iPads from $280, much more. The official Amazon 2025 Black Friday Week deals are now live and they are not playing around. We are getting the best price ever on the new AirPods Pro 3 down at $220 alongside a new Amazon all-time 6120 chars",
+      "tickers_mentioned": "LYV,BBY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LYV": [],
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Black",
+            "M4 Mac",
+            "M4 Pro"
+          ],
+          "ORGANIZATION": [
+            "AirPods",
+            "Amazon"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "3",
+          "479",
+          "200",
+          "280",
+          "2025",
+          "3",
+          "220",
+          "6120"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "pro",
+            3
+          ],
+          [
+            "black",
+            2
+          ],
+          [
+            "friday",
+            2
+          ],
+          [
+            "week",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "airpods",
+            2
+          ],
+          [
+            "all-time",
+            2
+          ],
+          [
+            "amazon",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "low",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 8,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "black",
+          "friday",
+          "week",
+          "deals",
+          "airpods",
+          "pro",
+          "3",
+          "all-time",
+          "low",
+          ",",
+          "m4",
+          "mac",
+          "mini",
+          "$",
+          "479",
+          "$",
+          "200",
+          "off",
+          "m4",
+          "pro",
+          "model",
+          ",",
+          "ipads",
+          "from",
+          "$",
+          "280",
+          ",",
+          "much",
+          "more",
+          ".",
+          "the",
+          "official",
+          "amazon",
+          "2025",
+          "black",
+          "friday",
+          "week",
+          "deals",
+          "are",
+          "now",
+          "live",
+          "and",
+          "they",
+          "are",
+          "not",
+          "playing",
+          "around",
+          ".",
+          "we",
+          "are",
+          "getting",
+          "the",
+          "best",
+          "price",
+          "ever",
+          "on",
+          "the",
+          "new",
+          "airpods",
+          "pro",
+          "3",
+          "down",
+          "at",
+          "$",
+          "220",
+          "alongside",
+          "a",
+          "new",
+          "amazon",
+          "all-time",
+          "6120",
+          "chars"
+        ],
+        "filtered": [
+          "black",
+          "friday",
+          "week",
+          "deals",
+          "airpods",
+          "pro",
+          "3",
+          "all-time",
+          "low",
+          ",",
+          "m4",
+          "mac",
+          "mini",
+          "$",
+          "479",
+          "$",
+          "200",
+          "m4",
+          "pro",
+          "model",
+          ",",
+          "ipads",
+          "$",
+          "280",
+          ",",
+          "much",
+          "more",
+          ".",
+          "official",
+          "amazon",
+          "2025",
+          "black",
+          "friday",
+          "week",
+          "deals",
+          "live",
+          "not",
+          "playing",
+          "around",
+          ".",
+          "getting",
+          "best",
+          "price",
+          "ever",
+          "new",
+          "airpods",
+          "pro",
+          "3",
+          "down",
+          "$",
+          "220",
+          "alongside",
+          "new",
+          "amazon",
+          "all-time",
+          "6120",
+          "chars"
+        ],
+        "lemmatized": [
+          "black",
+          "friday",
+          "week",
+          "deal",
+          "airpods",
+          "pro",
+          "3",
+          "all-time",
+          "low",
+          ",",
+          "m4",
+          "mac",
+          "mini",
+          "$",
+          "479",
+          "$",
+          "200",
+          "m4",
+          "pro",
+          "model",
+          ",",
+          "ipads",
+          "$",
+          "280",
+          ",",
+          "much",
+          "more",
+          ".",
+          "official",
+          "amazon",
+          "2025",
+          "black",
+          "friday",
+          "week",
+          "deal",
+          "live",
+          "not",
+          "play",
+          "around",
+          ".",
+          "get",
+          "best",
+          "price",
+          "ever",
+          "new",
+          "airpods",
+          "pro",
+          "3",
+          "down",
+          "$",
+          "220",
+          "alongside",
+          "new",
+          "amazon",
+          "all-time",
+          "6120",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "605b978dded36994",
+      "title": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More",
+      "body": "Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 4554 chars",
+      "source": "PCMag.com",
+      "timestamp": "2025-11-22T00:25:54.737681",
+      "url": "https://me.pcmag.com/en/topic-2/33597/amazing-apple-early-black-friday-deals-save-hundreds-on-ipads-macbooks-and-more",
+      "raw_text": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More. Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 4554 chars",
+      "tickers_mentioned": "WMT,BBY,AMZN,TECH",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WMT": [
+          "of early Black Friday deals from Amazon, Best Buy, and **Walmart,** includi… [+4554 chars]"
+        ],
+        "BBY": [
+          "already seeing lots of early Black Friday deals from Amazon, **Best** Buy, and Walmart, includi… [+4554 chars]"
+        ],
+        "AMZN": [
+          "We're already seeing lots of early Black Friday deals from **Amazon,** Best Buy, and Walmart, includi… [+4554 chars]"
+        ],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Early Black",
+            "Save Hundreds",
+            "Black",
+            "Apple",
+            "Best Buy",
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "MacBooks"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "4554"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "early",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "amaze",
+            1
+          ],
+          [
+            "save",
+            1
+          ],
+          [
+            "hundred",
+            1
+          ],
+          [
+            "ipads",
+            1
+          ],
+          [
+            "macbooks",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "on",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "and",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "is",
+          "only",
+          "a",
+          "week",
+          "away",
+          ",",
+          "but",
+          "you",
+          "do",
+          "not",
+          "have",
+          "to",
+          "wait",
+          "to",
+          "score",
+          "low",
+          "prices",
+          "on",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "we",
+          "are",
+          "already",
+          "seeing",
+          "lots",
+          "of",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "from",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "and",
+          "walmart",
+          ",",
+          "includi",
+          "4554",
+          "chars"
+        ],
+        "filtered": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "prices",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "seeing",
+          "lots",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "4554",
+          "chars"
+        ],
+        "lemmatized": [
+          "amaze",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "save",
+          "hundred",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "price",
+          "apple",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "see",
+          "lot",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "4554",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "f0812d74dbe0acb1",
+      "title": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More",
+      "body": "Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 5692 chars",
+      "source": "PCMag.com",
+      "timestamp": "2025-11-22T00:25:54.747787",
+      "url": "https://uk.pcmag.com/black-friday/161409/amazing-apple-early-black-friday-deals-save-hundreds-on-ipads-macbooks-and-more",
+      "raw_text": "Amazing Apple Early Black Friday Deals Save Hundreds on iPads, MacBooks, and More. Black Friday is only a week away, but you do not have to wait to score low prices on Apples top tech. We are already seeing lots of early Black Friday deals from Amazon, Best Buy, and Walmart, includi 5692 chars",
+      "tickers_mentioned": "WMT,BBY,AMZN,TECH",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WMT": [
+          "of early Black Friday deals from Amazon, Best Buy, and **Walmart,** includi… [+5692 chars]"
+        ],
+        "BBY": [
+          "already seeing lots of early Black Friday deals from Amazon, **Best** Buy, and Walmart, includi… [+5692 chars]"
+        ],
+        "AMZN": [
+          "We're already seeing lots of early Black Friday deals from **Amazon,** Best Buy, and Walmart, includi… [+5692 chars]"
+        ],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Early Black",
+            "Save Hundreds",
+            "Black",
+            "Apple",
+            "Best Buy",
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "MacBooks"
+          ],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "5692"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "early",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "amaze",
+            1
+          ],
+          [
+            "save",
+            1
+          ],
+          [
+            "hundred",
+            1
+          ],
+          [
+            "ipads",
+            1
+          ],
+          [
+            "macbooks",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "on",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "and",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "is",
+          "only",
+          "a",
+          "week",
+          "away",
+          ",",
+          "but",
+          "you",
+          "do",
+          "not",
+          "have",
+          "to",
+          "wait",
+          "to",
+          "score",
+          "low",
+          "prices",
+          "on",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "we",
+          "are",
+          "already",
+          "seeing",
+          "lots",
+          "of",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "from",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "and",
+          "walmart",
+          ",",
+          "includi",
+          "5692",
+          "chars"
+        ],
+        "filtered": [
+          "amazing",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "save",
+          "hundreds",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "prices",
+          "apples",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "seeing",
+          "lots",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "5692",
+          "chars"
+        ],
+        "lemmatized": [
+          "amaze",
+          "apple",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "save",
+          "hundred",
+          "ipads",
+          ",",
+          "macbooks",
+          ",",
+          "more",
+          ".",
+          "black",
+          "friday",
+          "week",
+          "away",
+          ",",
+          "not",
+          "wait",
+          "score",
+          "low",
+          "price",
+          "apple",
+          "top",
+          "tech",
+          ".",
+          "already",
+          "see",
+          "lot",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "amazon",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "walmart",
+          ",",
+          "includi",
+          "5692",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "c5e90d7a10e31005",
+      "title": "Official Black Friday Week M4 MacBook Air deals now live from $749 All colorsconfigs $250 off",
+      "body": "The official Amazon 2025 Black Friday Week sale is now live with the best price ever on the new AirPods Pro 3 and AirPods 4 with ANC at a new $110all-time low, but it has also brought back is best pr 1740 chars",
+      "source": "9to5Toys",
+      "timestamp": "2025-11-22T00:25:54.853662",
+      "url": "http://9to5toys.com/2025/11/20/official-black-friday-m4-macbook-air-deals/",
+      "raw_text": "Official Black Friday Week M4 MacBook Air deals now live from $749 All colorsconfigs $250 off. The official Amazon 2025 Black Friday Week sale is now live with the best price ever on the new AirPods Pro 3 and AirPods 4 with ANC at a new $110all-time low, but it has also brought back is best pr 1740 chars",
+      "tickers_mentioned": "LYV,BBY,AMZN",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LYV": [],
+        "BBY": [],
+        "AMZN": [
+          "now live from $749 (All colors/configs $250 off). The official **Amazon** 2025 Black Friday Week sale is now live with the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Black"
+          ],
+          "ORGANIZATION": [
+            "MacBook Air",
+            "AirPods",
+            "ANC"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "749",
+          "250",
+          "2025",
+          "3",
+          "4",
+          "1740"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "official",
+            2
+          ],
+          [
+            "black",
+            2
+          ],
+          [
+            "friday",
+            2
+          ],
+          [
+            "week",
+            2
+          ],
+          [
+            "live",
+            2
+          ],
+          [
+            "best",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "airpods",
+            2
+          ],
+          [
+            "macbook",
+            1
+          ],
+          [
+            "air",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "official",
+          "black",
+          "friday",
+          "week",
+          "m4",
+          "macbook",
+          "air",
+          "deals",
+          "now",
+          "live",
+          "from",
+          "$",
+          "749",
+          "all",
+          "colorsconfigs",
+          "$",
+          "250",
+          "off",
+          ".",
+          "the",
+          "official",
+          "amazon",
+          "2025",
+          "black",
+          "friday",
+          "week",
+          "sale",
+          "is",
+          "now",
+          "live",
+          "with",
+          "the",
+          "best",
+          "price",
+          "ever",
+          "on",
+          "the",
+          "new",
+          "airpods",
+          "pro",
+          "3",
+          "and",
+          "airpods",
+          "4",
+          "with",
+          "anc",
+          "at",
+          "a",
+          "new",
+          "$",
+          "110all-time",
+          "low",
+          ",",
+          "but",
+          "it",
+          "has",
+          "also",
+          "brought",
+          "back",
+          "is",
+          "best",
+          "pr",
+          "1740",
+          "chars"
+        ],
+        "filtered": [
+          "official",
+          "black",
+          "friday",
+          "week",
+          "m4",
+          "macbook",
+          "air",
+          "deals",
+          "live",
+          "$",
+          "749",
+          "colorsconfigs",
+          "$",
+          "250",
+          ".",
+          "official",
+          "amazon",
+          "2025",
+          "black",
+          "friday",
+          "week",
+          "sale",
+          "live",
+          "best",
+          "price",
+          "ever",
+          "new",
+          "airpods",
+          "pro",
+          "3",
+          "airpods",
+          "4",
+          "anc",
+          "new",
+          "$",
+          "110all-time",
+          "low",
+          ",",
+          "also",
+          "brought",
+          "back",
+          "best",
+          "pr",
+          "1740",
+          "chars"
+        ],
+        "lemmatized": [
+          "official",
+          "black",
+          "friday",
+          "week",
+          "m4",
+          "macbook",
+          "air",
+          "deal",
+          "live",
+          "$",
+          "749",
+          "colorsconfigs",
+          "$",
+          "250",
+          ".",
+          "official",
+          "amazon",
+          "2025",
+          "black",
+          "friday",
+          "week",
+          "sale",
+          "live",
+          "best",
+          "price",
+          "ever",
+          "new",
+          "airpods",
+          "pro",
+          "3",
+          "airpods",
+          "4",
+          "anc",
+          "new",
+          "$",
+          "110all-time",
+          "low",
+          ",",
+          "also",
+          "bring",
+          "back",
+          "best",
+          "pr",
+          "1740",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "9f9b89eb69eb5727",
+      "title": "The Best Stocks to Buy With $500 Right Now",
+      "body": "Look here for long-term growth and value.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:25:55.066896",
+      "url": "https://www.fool.com/investing/2025/11/20/the-best-stocks-to-buy-with-500-right-now/",
+      "raw_text": "The Best Stocks to Buy With $500 Right Now. Look here for long-term growth and value.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "long-term",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "value",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 0,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "stocks",
+          "to",
+          "buy",
+          "with",
+          "$",
+          "500",
+          "right",
+          "now",
+          ".",
+          "look",
+          "here",
+          "for",
+          "long-term",
+          "growth",
+          "and",
+          "value",
+          "."
+        ],
+        "filtered": [
+          "best",
+          "stocks",
+          "buy",
+          "$",
+          "500",
+          "right",
+          ".",
+          "look",
+          "long-term",
+          "growth",
+          "value",
+          "."
+        ],
+        "lemmatized": [
+          "best",
+          "stock",
+          "buy",
+          "$",
+          "500",
+          "right",
+          ".",
+          "look",
+          "long-term",
+          "growth",
+          "value",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5fa95744268f8389",
+      "title": "The Best Stocks to Buy With $500 Right Now",
+      "body": "Look here for long-term growth and value.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:55.811607",
+      "url": "https://finnhub.io/api/news?id=0af661810b927dd07776503757dcf33941191842d10e4fcdc7d385b2c4514a84",
+      "raw_text": "The Best Stocks to Buy With $500 Right Now. Look here for long-term growth and value.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "500"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "long-term",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "value",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 0,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "stocks",
+          "to",
+          "buy",
+          "with",
+          "$",
+          "500",
+          "right",
+          "now",
+          ".",
+          "look",
+          "here",
+          "for",
+          "long-term",
+          "growth",
+          "and",
+          "value",
+          "."
+        ],
+        "filtered": [
+          "best",
+          "stocks",
+          "buy",
+          "$",
+          "500",
+          "right",
+          ".",
+          "look",
+          "long-term",
+          "growth",
+          "value",
+          "."
+        ],
+        "lemmatized": [
+          "best",
+          "stock",
+          "buy",
+          "$",
+          "500",
+          "right",
+          ".",
+          "look",
+          "long-term",
+          "growth",
+          "value",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "99831ac20928be74",
+      "title": "ASUS Launches Exclusive Early Black Friday Offers",
+      "body": "Save up to C$750 and enjoy up to 50 percent off laptops, desktops, and accessories starting November 21KEY POINTS Start saving early Early Black Friday deals begin November 21, with additional discounts launching on Black Friday and Cyber Monday.Massive holiday savings Get up to C$750 off and up to 50 percent off ASUS laptops, desktops, Chromebooks, and more.Shop at your favorite retailers Deals available at Amazon, ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples, Walmart, and more. T",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.285433",
+      "url": "https://finnhub.io/api/news?id=32720b9b7921b8748ac1dac37a8fd2a7d3794e3b98d2262e5e47a52e4a75325a",
+      "raw_text": "ASUS Launches Exclusive Early Black Friday Offers. Save up to C$750 and enjoy up to 50 percent off laptops, desktops, and accessories starting November 21KEY POINTS Start saving early Early Black Friday deals begin November 21, with additional discounts launching on Black Friday and Cyber Monday.Massive holiday savings Get up to C$750 off and up to 50 percent off ASUS laptops, desktops, Chromebooks, and more.Shop at your favorite retailers Deals available at Amazon, ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples, Walmart, and more. T",
+      "tickers_mentioned": "WMT,COST,BBY,AMZN",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "WMT": [
+          "ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples, **Walmart,** and more. T"
+        ],
+        "COST": [
+          "Deals available at Amazon, ASUS Store, Best Buy, Canada Computers, **Costco,** London Drugs, Staples, Walmart, and more. T"
+        ],
+        "BBY": [
+          "at your favorite retailers: Deals available at Amazon, ASUS Store, **Best** Buy, Canada Computers, Costco, London Drugs, Staples, Walmart, and more."
+        ],
+        "AMZN": [
+          "Chromebooks, and more.Shop at your favorite retailers: Deals available at **Amazon,** ASUS Store, Best Buy, Canada Computers, Costco, London Drugs, Staples,"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Launches Exclusive Early Black",
+            "Black",
+            "Cyber",
+            "Best Buy",
+            "Canada Computers",
+            "London Drugs",
+            "Staples",
+            "Walmart"
+          ],
+          "ORGANIZATION": [
+            "ASUS",
+            "POINTS",
+            "Amazon",
+            "ASUS Store"
+          ],
+          "GPE": [
+            "Chromebooks",
+            "Costco"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "750",
+          "50",
+          "21",
+          "750",
+          "50"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "asus",
+            3
+          ],
+          [
+            "early",
+            3
+          ],
+          [
+            "black",
+            3
+          ],
+          [
+            "friday",
+            3
+          ],
+          [
+            "launch",
+            2
+          ],
+          [
+            "save",
+            2
+          ],
+          [
+            "750",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "laptop",
+            2
+          ],
+          [
+            "desktop",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 14,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "asus",
+          "launches",
+          "exclusive",
+          "early",
+          "black",
+          "friday",
+          "offers",
+          ".",
+          "save",
+          "up",
+          "to",
+          "c",
+          "$",
+          "750",
+          "and",
+          "enjoy",
+          "up",
+          "to",
+          "50",
+          "percent",
+          "off",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "and",
+          "accessories",
+          "starting",
+          "november",
+          "21key",
+          "points",
+          "start",
+          "saving",
+          "early",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "begin",
+          "november",
+          "21",
+          ",",
+          "with",
+          "additional",
+          "discounts",
+          "launching",
+          "on",
+          "black",
+          "friday",
+          "and",
+          "cyber",
+          "monday.massive",
+          "holiday",
+          "savings",
+          "get",
+          "up",
+          "to",
+          "c",
+          "$",
+          "750",
+          "off",
+          "and",
+          "up",
+          "to",
+          "50",
+          "percent",
+          "off",
+          "asus",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "chromebooks",
+          ",",
+          "and",
+          "more.shop",
+          "at",
+          "your",
+          "favorite",
+          "retailers",
+          "deals",
+          "available",
+          "at",
+          "amazon",
+          ",",
+          "asus",
+          "store",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "canada",
+          "computers",
+          ",",
+          "costco",
+          ",",
+          "london",
+          "drugs",
+          ",",
+          "staples",
+          ",",
+          "walmart",
+          ",",
+          "and",
+          "more",
+          ".",
+          "t"
+        ],
+        "filtered": [
+          "asus",
+          "launches",
+          "exclusive",
+          "early",
+          "black",
+          "friday",
+          "offers",
+          ".",
+          "save",
+          "up",
+          "c",
+          "$",
+          "750",
+          "enjoy",
+          "up",
+          "50",
+          "percent",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "accessories",
+          "starting",
+          "november",
+          "21key",
+          "points",
+          "start",
+          "saving",
+          "early",
+          "early",
+          "black",
+          "friday",
+          "deals",
+          "begin",
+          "november",
+          "21",
+          ",",
+          "additional",
+          "discounts",
+          "launching",
+          "black",
+          "friday",
+          "cyber",
+          "monday.massive",
+          "holiday",
+          "savings",
+          "get",
+          "up",
+          "c",
+          "$",
+          "750",
+          "up",
+          "50",
+          "percent",
+          "asus",
+          "laptops",
+          ",",
+          "desktops",
+          ",",
+          "chromebooks",
+          ",",
+          "more.shop",
+          "favorite",
+          "retailers",
+          "deals",
+          "available",
+          "amazon",
+          ",",
+          "asus",
+          "store",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "canada",
+          "computers",
+          ",",
+          "costco",
+          ",",
+          "london",
+          "drugs",
+          ",",
+          "staples",
+          ",",
+          "walmart",
+          ",",
+          "more",
+          "."
+        ],
+        "lemmatized": [
+          "asus",
+          "launch",
+          "exclusive",
+          "early",
+          "black",
+          "friday",
+          "offer",
+          ".",
+          "save",
+          "up",
+          "c",
+          "$",
+          "750",
+          "enjoy",
+          "up",
+          "50",
+          "percent",
+          "laptop",
+          ",",
+          "desktop",
+          ",",
+          "accessory",
+          "start",
+          "november",
+          "21key",
+          "point",
+          "start",
+          "save",
+          "early",
+          "early",
+          "black",
+          "friday",
+          "deal",
+          "begin",
+          "november",
+          "21",
+          ",",
+          "additional",
+          "discount",
+          "launch",
+          "black",
+          "friday",
+          "cyber",
+          "monday.massive",
+          "holiday",
+          "savings",
+          "get",
+          "up",
+          "c",
+          "$",
+          "750",
+          "up",
+          "50",
+          "percent",
+          "asus",
+          "laptop",
+          ",",
+          "desktop",
+          ",",
+          "chromebooks",
+          ",",
+          "more.shop",
+          "favorite",
+          "retailer",
+          "deal",
+          "available",
+          "amazon",
+          ",",
+          "asus",
+          "store",
+          ",",
+          "best",
+          "buy",
+          ",",
+          "canada",
+          "computer",
+          ",",
+          "costco",
+          ",",
+          "london",
+          "drug",
+          ",",
+          "staple",
+          ",",
+          "walmart",
+          ",",
+          "more",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "92dc44c2c8932d14",
+      "title": "Best Stock to Buy Right Now Apple vs. Amazon",
+      "body": "Which company has better long-term growth prospects?",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.704371",
+      "url": "https://finnhub.io/api/news?id=135a2baad9a5cf8ce2ebf77bad23a345ae63f4a56f2f8c52794b00a33e41b3bc",
+      "raw_text": "Best Stock to Buy Right Now Apple vs. Amazon. Which company has better long-term growth prospects?",
+      "tickers_mentioned": "AAPL,BBY,AMZN",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "BBY": [],
+        "AMZN": [
+          "Best Stock to Buy Right Now: Apple vs. **Amazon.** Which company has better long-term growth prospects?"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Right",
+            "Which"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "best",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "vs.",
+            1
+          ],
+          [
+            "amazon",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "well",
+            1
+          ],
+          [
+            "long-term",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "best",
+          "stock",
+          "to",
+          "buy",
+          "right",
+          "now",
+          "apple",
+          "vs.",
+          "amazon",
+          ".",
+          "which",
+          "company",
+          "has",
+          "better",
+          "long-term",
+          "growth",
+          "prospects",
+          "?"
+        ],
+        "filtered": [
+          "best",
+          "stock",
+          "buy",
+          "right",
+          "apple",
+          "vs.",
+          "amazon",
+          ".",
+          "company",
+          "better",
+          "long-term",
+          "growth",
+          "prospects",
+          "?"
+        ],
+        "lemmatized": [
+          "best",
+          "stock",
+          "buy",
+          "right",
+          "apple",
+          "vs.",
+          "amazon",
+          ".",
+          "company",
+          "well",
+          "long-term",
+          "growth",
+          "prospect",
+          "?"
+        ]
+      }
+    },
+    {
+      "article_id": "4eb9ce24deb228fe",
+      "title": "Michael Burry Just Torched Big Techs AI Profit Party",
+      "body": "Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.718178",
+      "url": "https://finnhub.io/api/news?id=d452c342513befebd018fed1071dbb8ba1709647a4bf2e6586a0efa6cc4e6df2",
+      "raw_text": "Michael Burry Just Torched Big Techs AI Profit Party. Big Techs profit story has been running hot for years, but a new wrinkle just arrived from a voice investors tend to monitor. Michael Burry Trades, Portfolio the Scion Asset Management chief best known for his bet against the housing market before the 2008 crisis hinted this week that tech giants like Meta NASDAQMETA and Alphabet NASDAQGOOG may be benefiting from earnings that look stronger because of longer depreciation schedules on their servers and chips.",
+      "tickers_mentioned": "BBY,TECH,GOOG,META",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": [],
+        "TECH": [],
+        "GOOG": [],
+        "META": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Michael",
+            "Burry Just Torched",
+            "Michael Burry"
+          ],
+          "ORGANIZATION": [
+            "AI Profit Party",
+            "Trades",
+            "Scion Asset",
+            "Meta",
+            "NASDAQ",
+            "META"
+          ],
+          "GPE": [
+            "Portfolio",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "strong",
+            "profit"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "2008"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tech",
+            3
+          ],
+          [
+            "michael",
+            2
+          ],
+          [
+            "burry",
+            2
+          ],
+          [
+            "big",
+            2
+          ],
+          [
+            "profit",
+            2
+          ],
+          [
+            "torch",
+            1
+          ],
+          [
+            "party",
+            1
+          ],
+          [
+            "story",
+            1
+          ],
+          [
+            "run",
+            1
+          ],
+          [
+            "hot",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "michael",
+          "burry",
+          "just",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "has",
+          "been",
+          "running",
+          "hot",
+          "for",
+          "years",
+          ",",
+          "but",
+          "a",
+          "new",
+          "wrinkle",
+          "just",
+          "arrived",
+          "from",
+          "a",
+          "voice",
+          "investors",
+          "tend",
+          "to",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "the",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "for",
+          "his",
+          "bet",
+          "against",
+          "the",
+          "housing",
+          "market",
+          "before",
+          "the",
+          "2008",
+          "crisis",
+          "hinted",
+          "this",
+          "week",
+          "that",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "and",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "be",
+          "benefiting",
+          "from",
+          "earnings",
+          "that",
+          "look",
+          "stronger",
+          "because",
+          "of",
+          "longer",
+          "depreciation",
+          "schedules",
+          "on",
+          "their",
+          "servers",
+          "and",
+          "chips",
+          "."
+        ],
+        "filtered": [
+          "michael",
+          "burry",
+          "torched",
+          "big",
+          "techs",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "techs",
+          "profit",
+          "story",
+          "running",
+          "hot",
+          "years",
+          ",",
+          "new",
+          "wrinkle",
+          "arrived",
+          "voice",
+          "investors",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trades",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "known",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hinted",
+          "week",
+          "tech",
+          "giants",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefiting",
+          "earnings",
+          "look",
+          "stronger",
+          "longer",
+          "depreciation",
+          "schedules",
+          "servers",
+          "chips",
+          "."
+        ],
+        "lemmatized": [
+          "michael",
+          "burry",
+          "torch",
+          "big",
+          "tech",
+          "ai",
+          "profit",
+          "party",
+          ".",
+          "big",
+          "tech",
+          "profit",
+          "story",
+          "run",
+          "hot",
+          "year",
+          ",",
+          "new",
+          "wrinkle",
+          "arrive",
+          "voice",
+          "investor",
+          "tend",
+          "monitor",
+          ".",
+          "michael",
+          "burry",
+          "trade",
+          ",",
+          "portfolio",
+          "scion",
+          "asset",
+          "management",
+          "chief",
+          "best",
+          "know",
+          "bet",
+          "housing",
+          "market",
+          "2008",
+          "crisis",
+          "hint",
+          "week",
+          "tech",
+          "giant",
+          "like",
+          "meta",
+          "nasdaqmeta",
+          "alphabet",
+          "nasdaqgoog",
+          "may",
+          "benefit",
+          "earnings",
+          "look",
+          "strong",
+          "long",
+          "depreciation",
+          "schedule",
+          "server",
+          "chip",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "89fd1bf98cc388ef",
+      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
+      "body": "These three stocks are in different industries, but are all quintessentially Buffett.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:57.743020",
+      "url": "https://finnhub.io/api/news?id=887d59db779727300a0402945728161a31addbc2e132211f10c6f1f7c9575ceb",
+      "raw_text": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now. These three stocks are in different industries, but are all quintessentially Buffett.",
+      "tickers_mentioned": "BBY",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BBY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Buffett"
+          ],
+          "ORGANIZATION": [
+            "Best Warren Buffett Stocks"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "000"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "buffett",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "best",
+            1
+          ],
+          [
+            "warren",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "1,000",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "three",
+            1
+          ],
+          [
+            "different",
+            1
+          ],
+          [
+            "industry",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "best",
+          "warren",
+          "buffett",
+          "stocks",
+          "to",
+          "buy",
+          "with",
+          "$",
+          "1,000",
+          "right",
+          "now",
+          ".",
+          "these",
+          "three",
+          "stocks",
+          "are",
+          "in",
+          "different",
+          "industries",
+          ",",
+          "but",
+          "are",
+          "all",
+          "quintessentially",
+          "buffett",
+          "."
+        ],
+        "filtered": [
+          "best",
+          "warren",
+          "buffett",
+          "stocks",
+          "buy",
+          "$",
+          "1,000",
+          "right",
+          ".",
+          "three",
+          "stocks",
+          "different",
+          "industries",
+          ",",
+          "quintessentially",
+          "buffett",
+          "."
+        ],
+        "lemmatized": [
+          "best",
+          "warren",
+          "buffett",
+          "stock",
+          "buy",
+          "$",
+          "1,000",
+          "right",
+          ".",
+          "three",
+          "stock",
+          "different",
+          "industry",
+          ",",
+          "quintessentially",
+          "buffett",
+          "."
+        ]
+      }
+    }
+  ]
+}

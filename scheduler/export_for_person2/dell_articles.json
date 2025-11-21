@@ -1,0 +1,2011 @@
+{
+  "count": 8,
+  "articles": [
+    {
+      "article_id": "ac2cded85a48328e",
+      "title": "Dell shares playbook on how enterprises can finally close the cyber readiness gap",
+      "body": "Keeping out the cyber criminals isnt enough in the current climate, companies need a game plan for long-term cyber resilience. Dell Technologies Inc. starts by assessing a customers security postur 3651 chars",
+      "source": "SiliconANGLE News",
+      "timestamp": "2025-11-22T00:48:19.522519",
+      "url": "https://siliconangle.com/2025/11/20/dell-microsoft-cyber-resilience-microsoftignite/",
+      "raw_text": "Dell shares playbook on how enterprises can finally close the cyber readiness gap. Keeping out the cyber criminals isnt enough in the current climate, companies need a game plan for long-term cyber resilience. Dell Technologies Inc. starts by assessing a customers security postur 3651 chars",
+      "tickers_mentioned": "DELL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "DELL": [
+          "climate, companies need a game plan for long-term cyber resilience. **Dell** Technologies Inc. starts by assessing a customers security postur… [+3651"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Dell Technologies Inc."
+          ],
+          "GPE": [
+            "Dell"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "3651"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cyber",
+            3
+          ],
+          [
+            "dell",
+            2
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "playbook",
+            1
+          ],
+          [
+            "enterprises",
+            1
+          ],
+          [
+            "finally",
+            1
+          ],
+          [
+            "close",
+            1
+          ],
+          [
+            "readiness",
+            1
+          ],
+          [
+            "gap",
+            1
+          ],
+          [
+            "keep",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dell",
+          "shares",
+          "playbook",
+          "on",
+          "how",
+          "enterprises",
+          "can",
+          "finally",
+          "close",
+          "the",
+          "cyber",
+          "readiness",
+          "gap",
+          ".",
+          "keeping",
+          "out",
+          "the",
+          "cyber",
+          "criminals",
+          "isnt",
+          "enough",
+          "in",
+          "the",
+          "current",
+          "climate",
+          ",",
+          "companies",
+          "need",
+          "a",
+          "game",
+          "plan",
+          "for",
+          "long-term",
+          "cyber",
+          "resilience",
+          ".",
+          "dell",
+          "technologies",
+          "inc.",
+          "starts",
+          "by",
+          "assessing",
+          "a",
+          "customers",
+          "security",
+          "postur",
+          "3651",
+          "chars"
+        ],
+        "filtered": [
+          "dell",
+          "shares",
+          "playbook",
+          "enterprises",
+          "finally",
+          "close",
+          "cyber",
+          "readiness",
+          "gap",
+          ".",
+          "keeping",
+          "cyber",
+          "criminals",
+          "isnt",
+          "enough",
+          "current",
+          "climate",
+          ",",
+          "companies",
+          "need",
+          "game",
+          "plan",
+          "long-term",
+          "cyber",
+          "resilience",
+          ".",
+          "dell",
+          "technologies",
+          "inc.",
+          "starts",
+          "assessing",
+          "customers",
+          "security",
+          "postur",
+          "3651",
+          "chars"
+        ],
+        "lemmatized": [
+          "dell",
+          "shares",
+          "playbook",
+          "enterprises",
+          "finally",
+          "close",
+          "cyber",
+          "readiness",
+          "gap",
+          ".",
+          "keep",
+          "cyber",
+          "criminal",
+          "isnt",
+          "enough",
+          "current",
+          "climate",
+          ",",
+          "company",
+          "need",
+          "game",
+          "plan",
+          "long-term",
+          "cyber",
+          "resilience",
+          ".",
+          "dell",
+          "technology",
+          "inc.",
+          "start",
+          "assess",
+          "customer",
+          "security",
+          "postur",
+          "3651",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "0cb58bbf81d79295",
+      "title": "These Stocks Are Moving the Most Today Alphabet, Apple, Nvidia, Dell, XPeng, Tesla, E.W. Scripps, and More",
+      "body": "Alphabet rises after Berkshire Hathaway discloses it bought $4.3 billion worth of shares in the parent company of Google in the third quarter.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:23.514246",
+      "url": "https://finnhub.io/api/news?id=daf08534b2a0025f637623e7b7c4ba50a13a05a4a3b4c466f372ac5eb065f6f6",
+      "raw_text": "These Stocks Are Moving the Most Today Alphabet, Apple, Nvidia, Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after Berkshire Hathaway discloses it bought $4.3 billion worth of shares in the parent company of Google in the third quarter.",
+      "tickers_mentioned": "AAPL,GOOG,NVDA,BRK.B,DELL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "GOOG": [],
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: Alphabet, Apple, **Nvidia,** Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after"
+        ],
+        "BRK.B": [
+          "Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after **Berkshire** Hathaway discloses it bought $4.3 billion worth of shares in"
+        ],
+        "DELL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple",
+            "Tesla",
+            "Scripps",
+            "Alphabet"
+          ],
+          "ORGANIZATION": [
+            "Dell",
+            "XPeng",
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "4.3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "dell",
+            1
+          ],
+          [
+            "xpeng",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "and",
+          "more",
+          ".",
+          "alphabet",
+          "rises",
+          "after",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "it",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "of",
+          "shares",
+          "in",
+          "the",
+          "parent",
+          "company",
+          "of",
+          "google",
+          "in",
+          "the",
+          "third",
+          "quarter",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "more",
+          ".",
+          "alphabet",
+          "rises",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "shares",
+          "parent",
+          "company",
+          "google",
+          "third",
+          "quarter",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "more",
+          ".",
+          "alphabet",
+          "rise",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "buy",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "shares",
+          "parent",
+          "company",
+          "google",
+          "third",
+          "quarter",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0cb58bbf81d79295",
+      "title": "These Stocks Are Moving the Most Today Alphabet, Apple, Nvidia, Dell, XPeng, Tesla, E.W. Scripps, and More",
+      "body": "Alphabet rises after Berkshire Hathaway discloses it bought $4.3 billion worth of shares in the parent company of Google in the third quarter.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.442570",
+      "url": "https://finnhub.io/api/news?id=daf08534b2a0025f637623e7b7c4ba50a13a05a4a3b4c466f372ac5eb065f6f6",
+      "raw_text": "These Stocks Are Moving the Most Today Alphabet, Apple, Nvidia, Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after Berkshire Hathaway discloses it bought $4.3 billion worth of shares in the parent company of Google in the third quarter.",
+      "tickers_mentioned": "AAPL,GOOG,NVDA,BRK.B,DELL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "GOOG": [],
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: Alphabet, Apple, **Nvidia,** Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after"
+        ],
+        "BRK.B": [
+          "Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after **Berkshire** Hathaway discloses it bought $4.3 billion worth of shares in"
+        ],
+        "DELL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple",
+            "Tesla",
+            "Scripps",
+            "Alphabet"
+          ],
+          "ORGANIZATION": [
+            "Dell",
+            "XPeng",
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "4.3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "dell",
+            1
+          ],
+          [
+            "xpeng",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "and",
+          "more",
+          ".",
+          "alphabet",
+          "rises",
+          "after",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "it",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "of",
+          "shares",
+          "in",
+          "the",
+          "parent",
+          "company",
+          "of",
+          "google",
+          "in",
+          "the",
+          "third",
+          "quarter",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "more",
+          ".",
+          "alphabet",
+          "rises",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "shares",
+          "parent",
+          "company",
+          "google",
+          "third",
+          "quarter",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "more",
+          ".",
+          "alphabet",
+          "rise",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "buy",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "shares",
+          "parent",
+          "company",
+          "google",
+          "third",
+          "quarter",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "ac2cded85a48328e",
+      "title": "Dell shares playbook on how enterprises can finally close the cyber readiness gap",
+      "body": "Keeping out the cyber criminals isnt enough in the current climate, companies need a game plan for long-term cyber resilience. Dell Technologies Inc. starts by assessing a customers security postur 3651 chars",
+      "source": "SiliconANGLE News",
+      "timestamp": "2025-11-22T00:48:27.849561",
+      "url": "https://siliconangle.com/2025/11/20/dell-microsoft-cyber-resilience-microsoftignite/",
+      "raw_text": "Dell shares playbook on how enterprises can finally close the cyber readiness gap. Keeping out the cyber criminals isnt enough in the current climate, companies need a game plan for long-term cyber resilience. Dell Technologies Inc. starts by assessing a customers security postur 3651 chars",
+      "tickers_mentioned": "DELL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "DELL": [
+          "climate, companies need a game plan for long-term cyber resilience. **Dell** Technologies Inc. starts by assessing a customers security postur… [+3651"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Dell Technologies Inc."
+          ],
+          "GPE": [
+            "Dell"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "3651"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "cyber",
+            3
+          ],
+          [
+            "dell",
+            2
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "playbook",
+            1
+          ],
+          [
+            "enterprises",
+            1
+          ],
+          [
+            "finally",
+            1
+          ],
+          [
+            "close",
+            1
+          ],
+          [
+            "readiness",
+            1
+          ],
+          [
+            "gap",
+            1
+          ],
+          [
+            "keep",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dell",
+          "shares",
+          "playbook",
+          "on",
+          "how",
+          "enterprises",
+          "can",
+          "finally",
+          "close",
+          "the",
+          "cyber",
+          "readiness",
+          "gap",
+          ".",
+          "keeping",
+          "out",
+          "the",
+          "cyber",
+          "criminals",
+          "isnt",
+          "enough",
+          "in",
+          "the",
+          "current",
+          "climate",
+          ",",
+          "companies",
+          "need",
+          "a",
+          "game",
+          "plan",
+          "for",
+          "long-term",
+          "cyber",
+          "resilience",
+          ".",
+          "dell",
+          "technologies",
+          "inc.",
+          "starts",
+          "by",
+          "assessing",
+          "a",
+          "customers",
+          "security",
+          "postur",
+          "3651",
+          "chars"
+        ],
+        "filtered": [
+          "dell",
+          "shares",
+          "playbook",
+          "enterprises",
+          "finally",
+          "close",
+          "cyber",
+          "readiness",
+          "gap",
+          ".",
+          "keeping",
+          "cyber",
+          "criminals",
+          "isnt",
+          "enough",
+          "current",
+          "climate",
+          ",",
+          "companies",
+          "need",
+          "game",
+          "plan",
+          "long-term",
+          "cyber",
+          "resilience",
+          ".",
+          "dell",
+          "technologies",
+          "inc.",
+          "starts",
+          "assessing",
+          "customers",
+          "security",
+          "postur",
+          "3651",
+          "chars"
+        ],
+        "lemmatized": [
+          "dell",
+          "shares",
+          "playbook",
+          "enterprises",
+          "finally",
+          "close",
+          "cyber",
+          "readiness",
+          "gap",
+          ".",
+          "keep",
+          "cyber",
+          "criminal",
+          "isnt",
+          "enough",
+          "current",
+          "climate",
+          ",",
+          "company",
+          "need",
+          "game",
+          "plan",
+          "long-term",
+          "cyber",
+          "resilience",
+          ".",
+          "dell",
+          "technology",
+          "inc.",
+          "start",
+          "assess",
+          "customer",
+          "security",
+          "postur",
+          "3651",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "400ba68c24b3f9ab",
+      "title": "The Zacks Analyst Blog Highlights Dell, Hewlett-Packard, NVIDIA and Microsoft",
+      "body": "DELL readies third quarter results as surging demand for AI-optimized servers and a broadening partner ecosystem shape expectations for growth.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:28.623577",
+      "url": "https://www.zacks.com/stock/news/2793961/the-zacks-analyst-blog-highlights-dell-hewlett-packard-nvidia-and-microsoft",
+      "raw_text": "The Zacks Analyst Blog Highlights Dell, Hewlett-Packard, NVIDIA and Microsoft. DELL readies third quarter results as surging demand for AI-optimized servers and a broadening partner ecosystem shape expectations for growth.",
+      "tickers_mentioned": "MSFT,DELL,NVDA,HPE",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "MSFT": [
+          "The Zacks Analyst Blog Highlights Dell, Hewlett-Packard, NVIDIA and **Microsoft.** DELL readies Q3 results as surging demand for AI-optimized servers"
+        ],
+        "DELL": [],
+        "NVDA": [
+          "The Zacks Analyst Blog Highlights Dell, Hewlett-Packard, **NVIDIA** and Microsoft. DELL readies Q3 results as surging demand for"
+        ],
+        "HPE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "Zacks Analyst Blog Highlights Dell",
+            "NVIDIA",
+            "Microsoft",
+            "DELL"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "expect"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "dell",
+            2
+          ],
+          [
+            "zacks",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "blog",
+            1
+          ],
+          [
+            "highlight",
+            1
+          ],
+          [
+            "hewlett-packard",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "microsoft",
+            1
+          ],
+          [
+            "ready",
+            1
+          ],
+          [
+            "third",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "zacks",
+          "analyst",
+          "blog",
+          "highlights",
+          "dell",
+          ",",
+          "hewlett-packard",
+          ",",
+          "nvidia",
+          "and",
+          "microsoft",
+          ".",
+          "dell",
+          "readies",
+          "third",
+          "quarter",
+          "results",
+          "as",
+          "surging",
+          "demand",
+          "for",
+          "ai-optimized",
+          "servers",
+          "and",
+          "a",
+          "broadening",
+          "partner",
+          "ecosystem",
+          "shape",
+          "expectations",
+          "for",
+          "growth",
+          "."
+        ],
+        "filtered": [
+          "zacks",
+          "analyst",
+          "blog",
+          "highlights",
+          "dell",
+          ",",
+          "hewlett-packard",
+          ",",
+          "nvidia",
+          "microsoft",
+          ".",
+          "dell",
+          "readies",
+          "third",
+          "quarter",
+          "results",
+          "surging",
+          "demand",
+          "ai-optimized",
+          "servers",
+          "broadening",
+          "partner",
+          "ecosystem",
+          "shape",
+          "expectations",
+          "growth",
+          "."
+        ],
+        "lemmatized": [
+          "zacks",
+          "analyst",
+          "blog",
+          "highlight",
+          "dell",
+          ",",
+          "hewlett-packard",
+          ",",
+          "nvidia",
+          "microsoft",
+          ".",
+          "dell",
+          "ready",
+          "third",
+          "quarter",
+          "result",
+          "surge",
+          "demand",
+          "ai-optimized",
+          "server",
+          "broaden",
+          "partner",
+          "ecosystem",
+          "shape",
+          "expectation",
+          "growth",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "93927027888339f3",
+      "title": "DELL Gears Up to Report third quarter Earnings Buy, Sell or Hold the Stock?",
+      "body": "Dell Technologies third quarter results are likely to benefit from solid AI-server momentum and double-digit growth forecasts despite market headwinds.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:28.806929",
+      "url": "https://www.zacks.com/stock/news/2793728/dell-gears-up-to-report-q3-earnings-buy-sell-or-hold-the-stock",
+      "raw_text": "DELL Gears Up to Report third quarter Earnings Buy, Sell or Hold the Stock?. Dell Technologies third quarter results are likely to benefit from solid AI-server momentum and double-digit growth forecasts despite market headwinds.",
+      "tickers_mentioned": "DELL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "DELL": [
+          "to Report Q3 Earnings: Buy, Sell or Hold the Stock?. **Dell** Technologies' Q3 results are likely to benefit from solid AI-server"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Gears Up"
+          ],
+          "ORGANIZATION": [
+            "DELL",
+            "Report Q3",
+            "Sell",
+            "Dell Technologies"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth",
+            "buy"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "report",
+            "forecast",
+            "earnings",
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "dell",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "gear",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "sell",
+            1
+          ],
+          [
+            "hold",
+            1
+          ],
+          [
+            "stock",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 4,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "dell",
+          "gears",
+          "up",
+          "to",
+          "report",
+          "third",
+          "quarter",
+          "earnings",
+          "buy",
+          ",",
+          "sell",
+          "or",
+          "hold",
+          "the",
+          "stock",
+          "?",
+          ".",
+          "dell",
+          "technologies",
+          "third",
+          "quarter",
+          "results",
+          "are",
+          "likely",
+          "to",
+          "benefit",
+          "from",
+          "solid",
+          "ai-server",
+          "momentum",
+          "and",
+          "double-digit",
+          "growth",
+          "forecasts",
+          "despite",
+          "market",
+          "headwinds",
+          "."
+        ],
+        "filtered": [
+          "dell",
+          "gears",
+          "up",
+          "report",
+          "third",
+          "quarter",
+          "earnings",
+          "buy",
+          ",",
+          "sell",
+          "hold",
+          "stock",
+          "?",
+          ".",
+          "dell",
+          "technologies",
+          "third",
+          "quarter",
+          "results",
+          "likely",
+          "benefit",
+          "solid",
+          "ai-server",
+          "momentum",
+          "double-digit",
+          "growth",
+          "forecasts",
+          "despite",
+          "market",
+          "headwinds",
+          "."
+        ],
+        "lemmatized": [
+          "dell",
+          "gear",
+          "up",
+          "report",
+          "third",
+          "quarter",
+          "earnings",
+          "buy",
+          ",",
+          "sell",
+          "hold",
+          "stock",
+          "?",
+          ".",
+          "dell",
+          "technology",
+          "third",
+          "quarter",
+          "result",
+          "likely",
+          "benefit",
+          "solid",
+          "ai-server",
+          "momentum",
+          "double-digit",
+          "growth",
+          "forecast",
+          "despite",
+          "market",
+          "headwind",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "522d05b765b23d02",
+      "title": "Alphabet stock rises, hardware stocks downgraded, Vita Coco climbs",
+      "body": "Julie Hyman examines some of the top stories on Wall Street on Yahoo Finances Market Minute. Big Tech stocks are mixed, with Alphabet GOOG, GOOGL gaining as Nvidia NVDA is under pressure. Morgan Stanley analysts downgrade hardware stocks, like Dell Technologies DELL, HP HPQ, and Hewlett Packard Enterprise HPE. Vita Coco COCO stock climbs after the company updated its tariff impact expectations. Catch Yahoo Finances interview with Vita Coco co-founder and executive chairman Michael Kirban. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:35.332464",
+      "url": "https://finnhub.io/api/news?id=b2d542f109cb93f0497609fb2010d8089ae2413d4e7dd76a4864560710ab0ef1",
+      "raw_text": "Alphabet stock rises, hardware stocks downgraded, Vita Coco climbs. Julie Hyman examines some of the top stories on Wall Street on Yahoo Finances Market Minute. Big Tech stocks are mixed, with Alphabet GOOG, GOOGL gaining as Nvidia NVDA is under pressure. Morgan Stanley analysts downgrade hardware stocks, like Dell Technologies DELL, HP HPQ, and Hewlett Packard Enterprise HPE. Vita Coco COCO stock climbs after the company updated its tariff impact expectations. Catch Yahoo Finances interview with Vita Coco co-founder and executive chairman Michael Kirban. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finances Market Minute.",
+      "tickers_mentioned": "TECH,GOOG,GOOGL,NVDA,HPE,MS,SWK,DELL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TECH": [],
+        "GOOG": [],
+        "GOOGL": [],
+        "NVDA": [
+          "Tech stocks are mixed, with Alphabet (GOOG, GOOGL) gaining as **Nvidia** (NVDA) is under pressure. Morgan Stanley analysts downgrade hardware stocks,"
+        ],
+        "HPE": [
+          "downgrade hardware stocks, like Dell Technologies (DELL), HP (HPQ), and **Hewlett** Packard Enterprise (HPE). Vita Coco (COCO) stock climbs after the"
+        ],
+        "MS": [
+          "Alphabet (GOOG, GOOGL) gaining as Nvidia (NVDA) is under pressure. **Morgan** Stanley analysts downgrade hardware stocks, like Dell Technologies (DELL), HP"
+        ],
+        "SWK": [],
+        "DELL": [
+          "is under pressure. Morgan Stanley analysts downgrade hardware stocks, like **Dell** Technologies (DELL), HP (HPQ), and Hewlett Packard Enterprise (HPE). Vita"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Vita Coco",
+            "Julie Hyman",
+            "Market Minute",
+            "Morgan Stanley",
+            "Hewlett Packard Enterprise",
+            "Catch Yahoo Finance",
+            "Michael Kirban",
+            "Yahoo Finance"
+          ],
+          "ORGANIZATION": [
+            "Yahoo Finance",
+            "GOOG",
+            "GOOGL",
+            "NVDA",
+            "Dell Technologies",
+            "DELL",
+            "HPQ",
+            "HPE",
+            "COCO"
+          ],
+          "GPE": [
+            "Alphabet",
+            "Nvidia",
+            "HP"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise",
+            "gain"
+          ],
+          "negative": [
+            "cut",
+            "downgrade"
+          ],
+          "neutral": [
+            "expect"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            5
+          ],
+          [
+            "coco",
+            4
+          ],
+          [
+            "vita",
+            3
+          ],
+          [
+            "yahoo",
+            3
+          ],
+          [
+            "finance",
+            3
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "hardware",
+            2
+          ],
+          [
+            "downgrade",
+            2
+          ],
+          [
+            "climb",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 20,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "alphabet",
+          "stock",
+          "rises",
+          ",",
+          "hardware",
+          "stocks",
+          "downgraded",
+          ",",
+          "vita",
+          "coco",
+          "climbs",
+          ".",
+          "julie",
+          "hyman",
+          "examines",
+          "some",
+          "of",
+          "the",
+          "top",
+          "stories",
+          "on",
+          "wall",
+          "street",
+          "on",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          ".",
+          "big",
+          "tech",
+          "stocks",
+          "are",
+          "mixed",
+          ",",
+          "with",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "gaining",
+          "as",
+          "nvidia",
+          "nvda",
+          "is",
+          "under",
+          "pressure",
+          ".",
+          "morgan",
+          "stanley",
+          "analysts",
+          "downgrade",
+          "hardware",
+          "stocks",
+          ",",
+          "like",
+          "dell",
+          "technologies",
+          "dell",
+          ",",
+          "hp",
+          "hpq",
+          ",",
+          "and",
+          "hewlett",
+          "packard",
+          "enterprise",
+          "hpe",
+          ".",
+          "vita",
+          "coco",
+          "coco",
+          "stock",
+          "climbs",
+          "after",
+          "the",
+          "company",
+          "updated",
+          "its",
+          "tariff",
+          "impact",
+          "expectations",
+          ".",
+          "catch",
+          "yahoo",
+          "finances",
+          "interview",
+          "with",
+          "vita",
+          "coco",
+          "co-founder",
+          "and",
+          "executive",
+          "chairman",
+          "michael",
+          "kirban",
+          ".",
+          "stay",
+          "up",
+          "to",
+          "date",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "with",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "filtered": [
+          "alphabet",
+          "stock",
+          "rises",
+          ",",
+          "hardware",
+          "stocks",
+          "downgraded",
+          ",",
+          "vita",
+          "coco",
+          "climbs",
+          ".",
+          "julie",
+          "hyman",
+          "examines",
+          "top",
+          "stories",
+          "wall",
+          "street",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          ".",
+          "big",
+          "tech",
+          "stocks",
+          "mixed",
+          ",",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "gaining",
+          "nvidia",
+          "nvda",
+          "under",
+          "pressure",
+          ".",
+          "morgan",
+          "stanley",
+          "analysts",
+          "downgrade",
+          "hardware",
+          "stocks",
+          ",",
+          "like",
+          "dell",
+          "technologies",
+          "dell",
+          ",",
+          "hp",
+          "hpq",
+          ",",
+          "hewlett",
+          "packard",
+          "enterprise",
+          "hpe",
+          ".",
+          "vita",
+          "coco",
+          "coco",
+          "stock",
+          "climbs",
+          "company",
+          "updated",
+          "tariff",
+          "impact",
+          "expectations",
+          ".",
+          "catch",
+          "yahoo",
+          "finances",
+          "interview",
+          "vita",
+          "coco",
+          "co-founder",
+          "executive",
+          "chairman",
+          "michael",
+          "kirban",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finances",
+          "market",
+          "minute",
+          "."
+        ],
+        "lemmatized": [
+          "alphabet",
+          "stock",
+          "rise",
+          ",",
+          "hardware",
+          "stock",
+          "downgrade",
+          ",",
+          "vita",
+          "coco",
+          "climb",
+          ".",
+          "julie",
+          "hyman",
+          "examine",
+          "top",
+          "story",
+          "wall",
+          "street",
+          "yahoo",
+          "finance",
+          "market",
+          "minute",
+          ".",
+          "big",
+          "tech",
+          "stock",
+          "mixed",
+          ",",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "gain",
+          "nvidia",
+          "nvda",
+          "under",
+          "pressure",
+          ".",
+          "morgan",
+          "stanley",
+          "analyst",
+          "downgrade",
+          "hardware",
+          "stock",
+          ",",
+          "like",
+          "dell",
+          "technology",
+          "dell",
+          ",",
+          "hp",
+          "hpq",
+          ",",
+          "hewlett",
+          "packard",
+          "enterprise",
+          "hpe",
+          ".",
+          "vita",
+          "coco",
+          "coco",
+          "stock",
+          "climb",
+          "company",
+          "update",
+          "tariff",
+          "impact",
+          "expectation",
+          ".",
+          "catch",
+          "yahoo",
+          "finance",
+          "interview",
+          "vita",
+          "coco",
+          "co-founder",
+          "executive",
+          "chairman",
+          "michael",
+          "kirban",
+          ".",
+          "stay",
+          "up",
+          "date",
+          "late",
+          "market",
+          "action",
+          ",",
+          "minute-by-minute",
+          ",",
+          "yahoo",
+          "finance",
+          "market",
+          "minute",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "0cb58bbf81d79295",
+      "title": "These Stocks Are Moving the Most Today Alphabet, Apple, Nvidia, Dell, XPeng, Tesla, E.W. Scripps, and More",
+      "body": "Alphabet rises after Berkshire Hathaway discloses it bought $4.3 billion worth of shares in the parent company of Google in the third quarter.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:35.552225",
+      "url": "https://finnhub.io/api/news?id=daf08534b2a0025f637623e7b7c4ba50a13a05a4a3b4c466f372ac5eb065f6f6",
+      "raw_text": "These Stocks Are Moving the Most Today Alphabet, Apple, Nvidia, Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after Berkshire Hathaway discloses it bought $4.3 billion worth of shares in the parent company of Google in the third quarter.",
+      "tickers_mentioned": "AAPL,GOOG,NVDA,BRK.B,DELL",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "GOOG": [],
+        "NVDA": [
+          "These Stocks Are Moving the Most Today: Alphabet, Apple, **Nvidia,** Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after"
+        ],
+        "BRK.B": [
+          "Dell, XPeng, Tesla, E.W. Scripps, and More. Alphabet rises after **Berkshire** Hathaway discloses it bought $4.3 billion worth of shares in"
+        ],
+        "DELL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple",
+            "Tesla",
+            "Scripps",
+            "Alphabet"
+          ],
+          "ORGANIZATION": [
+            "Dell",
+            "XPeng",
+            "Berkshire Hathaway"
+          ],
+          "GPE": [
+            "Nvidia",
+            "Google"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rise"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "4.3"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "move",
+            1
+          ],
+          [
+            "most",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "apple",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "dell",
+            1
+          ],
+          [
+            "xpeng",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "these",
+          "stocks",
+          "are",
+          "moving",
+          "the",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "and",
+          "more",
+          ".",
+          "alphabet",
+          "rises",
+          "after",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "it",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "of",
+          "shares",
+          "in",
+          "the",
+          "parent",
+          "company",
+          "of",
+          "google",
+          "in",
+          "the",
+          "third",
+          "quarter",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "moving",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "more",
+          ".",
+          "alphabet",
+          "rises",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "bought",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "shares",
+          "parent",
+          "company",
+          "google",
+          "third",
+          "quarter",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "move",
+          "most",
+          "today",
+          "alphabet",
+          ",",
+          "apple",
+          ",",
+          "nvidia",
+          ",",
+          "dell",
+          ",",
+          "xpeng",
+          ",",
+          "tesla",
+          ",",
+          "e.w",
+          ".",
+          "scripps",
+          ",",
+          "more",
+          ".",
+          "alphabet",
+          "rise",
+          "berkshire",
+          "hathaway",
+          "discloses",
+          "buy",
+          "$",
+          "4.3",
+          "billion",
+          "worth",
+          "shares",
+          "parent",
+          "company",
+          "google",
+          "third",
+          "quarter",
+          "."
+        ]
+      }
+    }
+  ]
+}

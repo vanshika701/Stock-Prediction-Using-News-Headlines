@@ -1,0 +1,7727 @@
+{
+  "count": 34,
+  "articles": [
+    {
+      "article_id": "ba52406c12e8d445",
+      "title": "what is Going On With Verizon Stock Today?",
+      "body": "Shares of Verizon Communications Inc. NASDAQVZ are trading lower Thursday. The telecommunications company will lay off thousands of workers in the coming weeks, according to a report from The Wall 144 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:42.865982",
+      "url": "https://biztoc.com/x/57f363c2fdd26632",
+      "raw_text": "what is Going On With Verizon Stock Today?. Shares of Verizon Communications Inc. NASDAQVZ are trading lower Thursday. The telecommunications company will lay off thousands of workers in the coming weeks, according to a report from The Wall 144 chars",
+      "tickers_mentioned": "VZ",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "What's Going On With **Verizon** Stock Today?. Shares of Verizon Communications Inc. (NASDAQ:VZ) are trading",
+          "What's Going On With Verizon Stock Today?. Shares of **Verizon** Communications Inc. (NASDAQ:VZ) are trading lower Thursday. The telecommunications company"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon Stock"
+          ],
+          "ORGANIZATION": [
+            "Verizon Communications Inc.",
+            "NASDAQ"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "lower"
+          ],
+          "neutral": [
+            "report"
+          ]
+        },
+        "numbers": [
+          "144"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "verizon",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "communication",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "nasdaqvz",
+            1
+          ],
+          [
+            "trade",
+            1
+          ],
+          [
+            "low",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "what",
+          "is",
+          "going",
+          "on",
+          "with",
+          "verizon",
+          "stock",
+          "today",
+          "?",
+          ".",
+          "shares",
+          "of",
+          "verizon",
+          "communications",
+          "inc.",
+          "nasdaqvz",
+          "are",
+          "trading",
+          "lower",
+          "thursday",
+          ".",
+          "the",
+          "telecommunications",
+          "company",
+          "will",
+          "lay",
+          "off",
+          "thousands",
+          "of",
+          "workers",
+          "in",
+          "the",
+          "coming",
+          "weeks",
+          ",",
+          "according",
+          "to",
+          "a",
+          "report",
+          "from",
+          "the",
+          "wall",
+          "144",
+          "chars"
+        ],
+        "filtered": [
+          "going",
+          "verizon",
+          "stock",
+          "today",
+          "?",
+          ".",
+          "shares",
+          "verizon",
+          "communications",
+          "inc.",
+          "nasdaqvz",
+          "trading",
+          "lower",
+          "thursday",
+          ".",
+          "telecommunications",
+          "company",
+          "lay",
+          "thousands",
+          "workers",
+          "coming",
+          "weeks",
+          ",",
+          "according",
+          "report",
+          "wall",
+          "144",
+          "chars"
+        ],
+        "lemmatized": [
+          "go",
+          "verizon",
+          "stock",
+          "today",
+          "?",
+          ".",
+          "shares",
+          "verizon",
+          "communication",
+          "inc.",
+          "nasdaqvz",
+          "trade",
+          "low",
+          "thursday",
+          ".",
+          "telecommunication",
+          "company",
+          "lay",
+          "thousand",
+          "worker",
+          "come",
+          "week",
+          ",",
+          "accord",
+          "report",
+          "wall",
+          "144",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "df8867aa74970012",
+      "title": "Heres Why Stocks Have Given Up Their Gains",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 761 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.648340",
+      "url": "https://biztoc.com/x/c0adcf40352b4100",
+      "raw_text": "Heres Why Stocks Have Given Up Their Gains. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 761 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "VZ": [
+          "Their Gains. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+761 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "761"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "here",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "give",
+            1
+          ],
+          [
+            "gain",
+            1
+          ],
+          [
+            "falsewhy",
+            1
+          ],
+          [
+            "verizon",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "heres",
+          "why",
+          "stocks",
+          "have",
+          "given",
+          "up",
+          "their",
+          "gains",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "761",
+          "chars"
+        ],
+        "filtered": [
+          "heres",
+          "stocks",
+          "given",
+          "up",
+          "gains",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "761",
+          "chars"
+        ],
+        "lemmatized": [
+          "here",
+          "stock",
+          "give",
+          "up",
+          "gain",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "761",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "5f7567a1d54a51ca",
+      "title": "Financial Services Roundup Market Talk",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 686 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.666333",
+      "url": "https://biztoc.com/x/3a20b9bb3a1f038e",
+      "raw_text": "Financial Services Roundup Market Talk. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 686 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Market Talk. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+686 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market Talk",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "686"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "financial",
+            1
+          ],
+          [
+            "service",
+            1
+          ],
+          [
+            "roundup",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "talk",
+            1
+          ],
+          [
+            "falsewhy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "financial",
+          "services",
+          "roundup",
+          "market",
+          "talk",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "686",
+          "chars"
+        ],
+        "filtered": [
+          "financial",
+          "services",
+          "roundup",
+          "market",
+          "talk",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "686",
+          "chars"
+        ],
+        "lemmatized": [
+          "financial",
+          "service",
+          "roundup",
+          "market",
+          "talk",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "686",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "b790de3bef510e6f",
+      "title": "Tech, Media Telecom Roundup Market Talk",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 675 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.676136",
+      "url": "https://biztoc.com/x/96efd0f89a928664",
+      "raw_text": "Tech, Media Telecom Roundup Market Talk. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 675 chars",
+      "tickers_mentioned": "VZ,NVDA,TECH",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Market Talk. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+675 chars]"
+        ],
+        "TECH": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market Talk",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Telecom",
+            "'_blank"
+          ],
+          "GPE": [
+            "Tech",
+            "Media",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "675"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "tech",
+            1
+          ],
+          [
+            "medium",
+            1
+          ],
+          [
+            "telecom",
+            1
+          ],
+          [
+            "roundup",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "talk",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tech",
+          ",",
+          "media",
+          "telecom",
+          "roundup",
+          "market",
+          "talk",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "675",
+          "chars"
+        ],
+        "filtered": [
+          "tech",
+          ",",
+          "media",
+          "telecom",
+          "roundup",
+          "market",
+          "talk",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "675",
+          "chars"
+        ],
+        "lemmatized": [
+          "tech",
+          ",",
+          "medium",
+          "telecom",
+          "roundup",
+          "market",
+          "talk",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "675",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "a4231c03ca044ac5",
+      "title": "Walmart bumps up outlook ahead of holidays, plans listing switch to Nasdaq",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 704 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.687502",
+      "url": "https://biztoc.com/x/6cafe87387c9dedb",
+      "raw_text": "Walmart bumps up outlook ahead of holidays, plans listing switch to Nasdaq. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 704 chars",
+      "tickers_mentioned": "WMT,VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "WMT": [
+          "**Walmart** bumps up outlook ahead of holidays, plans listing switch to"
+        ],
+        "VZ": [
+          "to Nasdaq. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+704 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Walmart",
+            "Nasdaq",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "704"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "walmart",
+            1
+          ],
+          [
+            "bump",
+            1
+          ],
+          [
+            "outlook",
+            1
+          ],
+          [
+            "ahead",
+            1
+          ],
+          [
+            "holiday",
+            1
+          ],
+          [
+            "plan",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "walmart",
+          "bumps",
+          "up",
+          "outlook",
+          "ahead",
+          "of",
+          "holidays",
+          ",",
+          "plans",
+          "listing",
+          "switch",
+          "to",
+          "nasdaq",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "704",
+          "chars"
+        ],
+        "filtered": [
+          "walmart",
+          "bumps",
+          "up",
+          "outlook",
+          "ahead",
+          "holidays",
+          ",",
+          "plans",
+          "listing",
+          "switch",
+          "nasdaq",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "704",
+          "chars"
+        ],
+        "lemmatized": [
+          "walmart",
+          "bump",
+          "up",
+          "outlook",
+          "ahead",
+          "holiday",
+          ",",
+          "plan",
+          "listing",
+          "switch",
+          "nasdaq",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "704",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "9f8e92944118704d",
+      "title": "Nows Your Chance to Buy Bullish at Its IPO Price. Think Twice",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 682 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.698109",
+      "url": "https://biztoc.com/x/f74e998610d4ad07",
+      "raw_text": "Nows Your Chance to Buy Bullish at Its IPO Price. Think Twice. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 682 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "VZ": [
+          "Think Twice. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+682 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bullish",
+            "Think Twice",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "IPO",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "bullish",
+            "buy"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "682"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "now",
+            1
+          ],
+          [
+            "chance",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "bullish",
+            1
+          ],
+          [
+            "ipo",
+            1
+          ],
+          [
+            "price",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "nows",
+          "your",
+          "chance",
+          "to",
+          "buy",
+          "bullish",
+          "at",
+          "its",
+          "ipo",
+          "price",
+          ".",
+          "think",
+          "twice",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "682",
+          "chars"
+        ],
+        "filtered": [
+          "nows",
+          "chance",
+          "buy",
+          "bullish",
+          "ipo",
+          "price",
+          ".",
+          "think",
+          "twice",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "682",
+          "chars"
+        ],
+        "lemmatized": [
+          "now",
+          "chance",
+          "buy",
+          "bullish",
+          "ipo",
+          "price",
+          ".",
+          "think",
+          "twice",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "682",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "a2fefe77f14c4ab5",
+      "title": "U.S. stocks have not blown an intraday gain like this since April follow live",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 776 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.708676",
+      "url": "https://biztoc.com/x/8cc46f7c1025614c",
+      "raw_text": "U.S. stocks have not blown an intraday gain like this since April follow live. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 776 chars",
+      "tickers_mentioned": "LYV,VZ,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LYV": [],
+        "VZ": [
+          "follow live. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+776 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "U.S.",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "776"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "u.s.",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "blow",
+            1
+          ],
+          [
+            "intraday",
+            1
+          ],
+          [
+            "gain",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "u.s.",
+          "stocks",
+          "have",
+          "not",
+          "blown",
+          "an",
+          "intraday",
+          "gain",
+          "like",
+          "this",
+          "since",
+          "april",
+          "follow",
+          "live",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "776",
+          "chars"
+        ],
+        "filtered": [
+          "u.s.",
+          "stocks",
+          "not",
+          "blown",
+          "intraday",
+          "gain",
+          "like",
+          "since",
+          "april",
+          "follow",
+          "live",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "776",
+          "chars"
+        ],
+        "lemmatized": [
+          "u.s.",
+          "stock",
+          "not",
+          "blow",
+          "intraday",
+          "gain",
+          "like",
+          "since",
+          "april",
+          "follow",
+          "live",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "776",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "620d0c5dcac571b3",
+      "title": "AI borrowing binge prompts investors to back away from corporate bonds",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.719830",
+      "url": "https://biztoc.com/x/fc819581200d3d8d",
+      "raw_text": "AI borrowing binge prompts investors to back away from corporate bonds. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "corporate bonds. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+687 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "687"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "borrow",
+            1
+          ],
+          [
+            "binge",
+            1
+          ],
+          [
+            "prompt",
+            1
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "back",
+            1
+          ],
+          [
+            "away",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ai",
+          "borrowing",
+          "binge",
+          "prompts",
+          "investors",
+          "to",
+          "back",
+          "away",
+          "from",
+          "corporate",
+          "bonds",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "filtered": [
+          "ai",
+          "borrowing",
+          "binge",
+          "prompts",
+          "investors",
+          "back",
+          "away",
+          "corporate",
+          "bonds",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "lemmatized": [
+          "ai",
+          "borrow",
+          "binge",
+          "prompt",
+          "investor",
+          "back",
+          "away",
+          "corporate",
+          "bond",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "b3308b4ca39a6cb1",
+      "title": "Crypto Market Extends Slide With Bitcoin Dropping Below $87,000",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 729 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.731757",
+      "url": "https://biztoc.com/x/cd9323b09f52939a",
+      "raw_text": "Crypto Market Extends Slide With Bitcoin Dropping Below $87,000. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 729 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Below $87,000. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+729 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Crypto",
+            "Market Extends Slide",
+            "Bitcoin Dropping Below",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "drop",
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "87",
+          "000",
+          "200",
+          "13",
+          "000",
+          "200",
+          "729"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "crypto",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "extend",
+            1
+          ],
+          [
+            "slide",
+            1
+          ],
+          [
+            "bitcoin",
+            1
+          ],
+          [
+            "drop",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 7,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "crypto",
+          "market",
+          "extends",
+          "slide",
+          "with",
+          "bitcoin",
+          "dropping",
+          "below",
+          "$",
+          "87,000",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "729",
+          "chars"
+        ],
+        "filtered": [
+          "crypto",
+          "market",
+          "extends",
+          "slide",
+          "bitcoin",
+          "dropping",
+          "below",
+          "$",
+          "87,000",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "729",
+          "chars"
+        ],
+        "lemmatized": [
+          "crypto",
+          "market",
+          "extend",
+          "slide",
+          "bitcoin",
+          "drop",
+          "below",
+          "$",
+          "87,000",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "729",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "1d9cac77a04da1cc",
+      "title": "The VIX Cboes fear gauge turned dramatically higher amid stock reversal",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 699 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.744270",
+      "url": "https://biztoc.com/x/f98afd0d1a9a61ac",
+      "raw_text": "The VIX Cboes fear gauge turned dramatically higher amid stock reversal. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 699 chars",
+      "tickers_mentioned": "VZ,CBOE,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "VZ": [
+          "stock reversal. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "CBOE": [],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+699 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "VIX",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "699"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "vix",
+            1
+          ],
+          [
+            "cboes",
+            1
+          ],
+          [
+            "fear",
+            1
+          ],
+          [
+            "gauge",
+            1
+          ],
+          [
+            "turn",
+            1
+          ],
+          [
+            "dramatically",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "vix",
+          "cboes",
+          "fear",
+          "gauge",
+          "turned",
+          "dramatically",
+          "higher",
+          "amid",
+          "stock",
+          "reversal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "chars"
+        ],
+        "filtered": [
+          "vix",
+          "cboes",
+          "fear",
+          "gauge",
+          "turned",
+          "dramatically",
+          "higher",
+          "amid",
+          "stock",
+          "reversal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "chars"
+        ],
+        "lemmatized": [
+          "vix",
+          "cboes",
+          "fear",
+          "gauge",
+          "turn",
+          "dramatically",
+          "high",
+          "amid",
+          "stock",
+          "reversal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "b933b77a4f89fa4e",
+      "title": "Speech by Governor Cook on financial stability",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.753924",
+      "url": "https://biztoc.com/x/490d4b0ae5ba54e0",
+      "raw_text": "Speech by Governor Cook on financial stability. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "financial stability. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+687 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Speech",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "687"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "speech",
+            1
+          ],
+          [
+            "governor",
+            1
+          ],
+          [
+            "cook",
+            1
+          ],
+          [
+            "financial",
+            1
+          ],
+          [
+            "stability",
+            1
+          ],
+          [
+            "falsewhy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "speech",
+          "by",
+          "governor",
+          "cook",
+          "on",
+          "financial",
+          "stability",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "filtered": [
+          "speech",
+          "governor",
+          "cook",
+          "financial",
+          "stability",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "lemmatized": [
+          "speech",
+          "governor",
+          "cook",
+          "financial",
+          "stability",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "88ff36ae7eac839d",
+      "title": "One Earnings Report Cant Erase the Stock Markets AI Bubble Concerns",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.764593",
+      "url": "https://biztoc.com/x/c9acc6a75f5ea2c2",
+      "raw_text": "One Earnings Report Cant Erase the Stock Markets AI Bubble Concerns. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Bubble Concerns. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+687 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "AI Bubble Concerns",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "report",
+            "earnings"
+          ]
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "687"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bubble",
+            2
+          ],
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "one",
+            1
+          ],
+          [
+            "earnings",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "cant",
+            1
+          ],
+          [
+            "erase",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 2,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "one",
+          "earnings",
+          "report",
+          "cant",
+          "erase",
+          "the",
+          "stock",
+          "markets",
+          "ai",
+          "bubble",
+          "concerns",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "filtered": [
+          "one",
+          "earnings",
+          "report",
+          "cant",
+          "erase",
+          "stock",
+          "markets",
+          "ai",
+          "bubble",
+          "concerns",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "lemmatized": [
+          "one",
+          "earnings",
+          "report",
+          "cant",
+          "erase",
+          "stock",
+          "market",
+          "ai",
+          "bubble",
+          "concern",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "32d68a9146d913cb",
+      "title": "This Nursing Home Operator Has Been Embroiled in Drama. Why The Stock Is Up 54 percent",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 691 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.775208",
+      "url": "https://biztoc.com/x/1fce0b75e1d2d946",
+      "raw_text": "This Nursing Home Operator Has Been Embroiled in Drama. Why The Stock Is Up 54 percent. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 691 chars",
+      "tickers_mentioned": "VZ,HD,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Up 54%. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "HD": [],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+691 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Drama",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "54",
+          "200",
+          "13",
+          "000",
+          "200",
+          "691"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "nursing",
+            1
+          ],
+          [
+            "home",
+            1
+          ],
+          [
+            "operator",
+            1
+          ],
+          [
+            "embroil",
+            1
+          ],
+          [
+            "drama",
+            1
+          ],
+          [
+            "stock",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "this",
+          "nursing",
+          "home",
+          "operator",
+          "has",
+          "been",
+          "embroiled",
+          "in",
+          "drama",
+          ".",
+          "why",
+          "the",
+          "stock",
+          "is",
+          "up",
+          "54",
+          "percent",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "691",
+          "chars"
+        ],
+        "filtered": [
+          "nursing",
+          "home",
+          "operator",
+          "embroiled",
+          "drama",
+          ".",
+          "stock",
+          "up",
+          "54",
+          "percent",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "691",
+          "chars"
+        ],
+        "lemmatized": [
+          "nursing",
+          "home",
+          "operator",
+          "embroil",
+          "drama",
+          ".",
+          "stock",
+          "up",
+          "54",
+          "percent",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "691",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "7876684375857ae5",
+      "title": "Sources AI robotics startup Physical Intelligence raised 600 million dollars led by CapitalG at a $5.6B valuation, with participation from Jeff Bezos, Lux, Thrive, and more",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 742 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.788343",
+      "url": "https://biztoc.com/x/397c54e3017daf10",
+      "raw_text": "Sources AI robotics startup Physical Intelligence raised 600 million dollars led by CapitalG at a $5.6B valuation, with participation from Jeff Bezos, Lux, Thrive, and more. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 742 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "and more. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+742 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeff Bezos",
+            "Lux",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Physical Intelligence",
+            "CapitalG",
+            "'_blank"
+          ],
+          "GPE": [
+            "Thrive",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "600M",
+          "5.6B",
+          "200",
+          "13",
+          "000",
+          "200",
+          "742"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "source",
+            1
+          ],
+          [
+            "robotics",
+            1
+          ],
+          [
+            "startup",
+            1
+          ],
+          [
+            "physical",
+            1
+          ],
+          [
+            "intelligence",
+            1
+          ],
+          [
+            "raise",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 7,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "sources",
+          "ai",
+          "robotics",
+          "startup",
+          "physical",
+          "intelligence",
+          "raised",
+          "600",
+          "million",
+          "dollars",
+          "led",
+          "by",
+          "capitalg",
+          "at",
+          "a",
+          "$",
+          "5.6b",
+          "valuation",
+          ",",
+          "with",
+          "participation",
+          "from",
+          "jeff",
+          "bezos",
+          ",",
+          "lux",
+          ",",
+          "thrive",
+          ",",
+          "and",
+          "more",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "742",
+          "chars"
+        ],
+        "filtered": [
+          "sources",
+          "ai",
+          "robotics",
+          "startup",
+          "physical",
+          "intelligence",
+          "raised",
+          "600",
+          "million",
+          "dollars",
+          "led",
+          "capitalg",
+          "$",
+          "5.6b",
+          "valuation",
+          ",",
+          "participation",
+          "jeff",
+          "bezos",
+          ",",
+          "lux",
+          ",",
+          "thrive",
+          ",",
+          "more",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "742",
+          "chars"
+        ],
+        "lemmatized": [
+          "source",
+          "ai",
+          "robotics",
+          "startup",
+          "physical",
+          "intelligence",
+          "raise",
+          "600",
+          "million",
+          "dollar",
+          "lead",
+          "capitalg",
+          "$",
+          "5.6b",
+          "valuation",
+          ",",
+          "participation",
+          "jeff",
+          "bezos",
+          ",",
+          "lux",
+          ",",
+          "thrive",
+          ",",
+          "more",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "742",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "8a543eb1455e11c1",
+      "title": "Wall Street Is Betting on Nuclear Energy, But Legendary Investor Peter Thiel Just Ditched This 1 Key Power Stock",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 764 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.798499",
+      "url": "https://biztoc.com/x/fe8f4d4f56286f19",
+      "raw_text": "Wall Street Is Betting on Nuclear Energy, But Legendary Investor Peter Thiel Just Ditched This 1 Key Power Stock. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 764 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Power Stock. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+764 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Street",
+            "Nuclear Energy",
+            "Legendary Investor Peter Thiel",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "200",
+          "13",
+          "000",
+          "200",
+          "764"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "bet",
+            1
+          ],
+          [
+            "nuclear",
+            1
+          ],
+          [
+            "energy",
+            1
+          ],
+          [
+            "legendary",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wall",
+          "street",
+          "is",
+          "betting",
+          "on",
+          "nuclear",
+          "energy",
+          ",",
+          "but",
+          "legendary",
+          "investor",
+          "peter",
+          "thiel",
+          "just",
+          "ditched",
+          "this",
+          "1",
+          "key",
+          "power",
+          "stock",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "764",
+          "chars"
+        ],
+        "filtered": [
+          "wall",
+          "street",
+          "betting",
+          "nuclear",
+          "energy",
+          ",",
+          "legendary",
+          "investor",
+          "peter",
+          "thiel",
+          "ditched",
+          "1",
+          "key",
+          "power",
+          "stock",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "764",
+          "chars"
+        ],
+        "lemmatized": [
+          "wall",
+          "street",
+          "bet",
+          "nuclear",
+          "energy",
+          ",",
+          "legendary",
+          "investor",
+          "peter",
+          "thiel",
+          "ditch",
+          "1",
+          "key",
+          "power",
+          "stock",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "764",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "fb2b67bbbbe242d0",
+      "title": "Weak Mexico Growth Seen Cooling Prices, Trade Uncertainty Weighs",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 730 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.807916",
+      "url": "https://biztoc.com/x/6c93502092ed469f",
+      "raw_text": "Weak Mexico Growth Seen Cooling Prices, Trade Uncertainty Weighs. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 730 chars",
+      "tickers_mentioned": "TTD,VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TTD": [],
+        "VZ": [
+          "Uncertainty Weighs. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+730 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Weak",
+            "Mexico Growth",
+            "Trade Uncertainty Weighs",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [
+            "weak",
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "730"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "weak",
+            1
+          ],
+          [
+            "mexico",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "see",
+            1
+          ],
+          [
+            "cool",
+            1
+          ],
+          [
+            "price",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "weak",
+          "mexico",
+          "growth",
+          "seen",
+          "cooling",
+          "prices",
+          ",",
+          "trade",
+          "uncertainty",
+          "weighs",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "chars"
+        ],
+        "filtered": [
+          "weak",
+          "mexico",
+          "growth",
+          "seen",
+          "cooling",
+          "prices",
+          ",",
+          "trade",
+          "uncertainty",
+          "weighs",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "chars"
+        ],
+        "lemmatized": [
+          "weak",
+          "mexico",
+          "growth",
+          "see",
+          "cool",
+          "price",
+          ",",
+          "trade",
+          "uncertainty",
+          "weigh",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "30108e1c19591677",
+      "title": "Hyundai Pursues Profit Boost With Higher-Performance Genesis EV",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 730 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.817378",
+      "url": "https://biztoc.com/x/5f8160be61829298",
+      "raw_text": "Hyundai Pursues Profit Boost With Higher-Performance Genesis EV. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 730 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "VZ": [
+          "Genesis EV. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+730 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Hyundai",
+            "Pursues Profit Boost",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "boost",
+            "profit",
+            "high"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "730"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "hyundai",
+            1
+          ],
+          [
+            "pursues",
+            1
+          ],
+          [
+            "profit",
+            1
+          ],
+          [
+            "boost",
+            1
+          ],
+          [
+            "higher-performance",
+            1
+          ],
+          [
+            "genesis",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "hyundai",
+          "pursues",
+          "profit",
+          "boost",
+          "with",
+          "higher-performance",
+          "genesis",
+          "ev",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "chars"
+        ],
+        "filtered": [
+          "hyundai",
+          "pursues",
+          "profit",
+          "boost",
+          "higher-performance",
+          "genesis",
+          "ev",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "chars"
+        ],
+        "lemmatized": [
+          "hyundai",
+          "pursues",
+          "profit",
+          "boost",
+          "higher-performance",
+          "genesis",
+          "ev",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "2d9bc07d81e0b1da",
+      "title": "Stock indexes in red at midday after squandering mornings gains live updates",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 699 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.828212",
+      "url": "https://biztoc.com/x/ef669650fbbcdb84",
+      "raw_text": "Stock indexes in red at midday after squandering mornings gains live updates. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 699 chars",
+      "tickers_mentioned": "LYV,VZ,NVDA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LYV": [],
+        "VZ": [
+          "live updates. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+699 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "699"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "index",
+            1
+          ],
+          [
+            "red",
+            1
+          ],
+          [
+            "midday",
+            1
+          ],
+          [
+            "squander",
+            1
+          ],
+          [
+            "morning",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "indexes",
+          "in",
+          "red",
+          "at",
+          "midday",
+          "after",
+          "squandering",
+          "mornings",
+          "gains",
+          "live",
+          "updates",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "chars"
+        ],
+        "filtered": [
+          "stock",
+          "indexes",
+          "red",
+          "midday",
+          "squandering",
+          "mornings",
+          "gains",
+          "live",
+          "updates",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "chars"
+        ],
+        "lemmatized": [
+          "stock",
+          "index",
+          "red",
+          "midday",
+          "squander",
+          "morning",
+          "gain",
+          "live",
+          "update",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "699",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "de975280093468cb",
+      "title": "Strategy Isnt in SP 500. Now It Could Get Kicked Out of Other Indexes",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 676 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.840495",
+      "url": "https://biztoc.com/x/a5c5824c7fe0343d",
+      "raw_text": "Strategy Isnt in SP 500. Now It Could Get Kicked Out of Other Indexes. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 676 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Other Indexes. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+676 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Strategy",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Isn",
+            "'_blank"
+          ],
+          "GPE": [
+            "Indexes",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "500",
+          "200",
+          "13",
+          "000",
+          "200",
+          "676"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "strategy",
+            1
+          ],
+          [
+            "isnt",
+            1
+          ],
+          [
+            "500.",
+            1
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "get",
+            1
+          ],
+          [
+            "kick",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "strategy",
+          "isnt",
+          "in",
+          "sp",
+          "500.",
+          "now",
+          "it",
+          "could",
+          "get",
+          "kicked",
+          "out",
+          "of",
+          "other",
+          "indexes",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "676",
+          "chars"
+        ],
+        "filtered": [
+          "strategy",
+          "isnt",
+          "sp",
+          "500.",
+          "could",
+          "get",
+          "kicked",
+          "indexes",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "676",
+          "chars"
+        ],
+        "lemmatized": [
+          "strategy",
+          "isnt",
+          "sp",
+          "500.",
+          "could",
+          "get",
+          "kick",
+          "index",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "676",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "98e29b5777aa9db0",
+      "title": "Technical Opportunity Knocks for 3 of Our Stock Picks",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 657 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.851771",
+      "url": "https://biztoc.com/x/191b6268473353c2",
+      "raw_text": "Technical Opportunity Knocks for 3 of Our Stock Picks. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 657 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Stock Picks. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+657 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Technical",
+            "Picks",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Opportunity Knocks",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "3",
+          "200",
+          "13",
+          "000",
+          "200",
+          "657"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "technical",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "knock",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "pick",
+            1
+          ],
+          [
+            "falsewhy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "technical",
+          "opportunity",
+          "knocks",
+          "for",
+          "3",
+          "of",
+          "our",
+          "stock",
+          "picks",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "657",
+          "chars"
+        ],
+        "filtered": [
+          "technical",
+          "opportunity",
+          "knocks",
+          "3",
+          "stock",
+          "picks",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "657",
+          "chars"
+        ],
+        "lemmatized": [
+          "technical",
+          "opportunity",
+          "knock",
+          "3",
+          "stock",
+          "pick",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "657",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "6026d4080984eb1e",
+      "title": "AI workplace agents startup Genspark raised a 275 million dollars Series B at a $1.25B valuation and says it hit 50 million dollars in annualized revenue after pivoting from AI search",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 719 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.863991",
+      "url": "https://biztoc.com/x/a0d40076bfea0482",
+      "raw_text": "AI workplace agents startup Genspark raised a 275 million dollars Series B at a $1.25B valuation and says it hit 50 million dollars in annualized revenue after pivoting from AI search. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 719 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "AI search. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+719 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Genspark",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "AI",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "275M",
+          "1.25B",
+          "50M",
+          "200",
+          "13",
+          "000",
+          "200",
+          "719"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "million",
+            2
+          ],
+          [
+            "dollar",
+            2
+          ],
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "workplace",
+            1
+          ],
+          [
+            "agent",
+            1
+          ],
+          [
+            "startup",
+            1
+          ],
+          [
+            "genspark",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 8,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ai",
+          "workplace",
+          "agents",
+          "startup",
+          "genspark",
+          "raised",
+          "a",
+          "275",
+          "million",
+          "dollars",
+          "series",
+          "b",
+          "at",
+          "a",
+          "$",
+          "1.25b",
+          "valuation",
+          "and",
+          "says",
+          "it",
+          "hit",
+          "50",
+          "million",
+          "dollars",
+          "in",
+          "annualized",
+          "revenue",
+          "after",
+          "pivoting",
+          "from",
+          "ai",
+          "search",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "719",
+          "chars"
+        ],
+        "filtered": [
+          "ai",
+          "workplace",
+          "agents",
+          "startup",
+          "genspark",
+          "raised",
+          "275",
+          "million",
+          "dollars",
+          "series",
+          "b",
+          "$",
+          "1.25b",
+          "valuation",
+          "says",
+          "hit",
+          "50",
+          "million",
+          "dollars",
+          "annualized",
+          "revenue",
+          "pivoting",
+          "ai",
+          "search",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "719",
+          "chars"
+        ],
+        "lemmatized": [
+          "ai",
+          "workplace",
+          "agent",
+          "startup",
+          "genspark",
+          "raise",
+          "275",
+          "million",
+          "dollar",
+          "series",
+          "b",
+          "$",
+          "1.25b",
+          "valuation",
+          "say",
+          "hit",
+          "50",
+          "million",
+          "dollar",
+          "annualized",
+          "revenue",
+          "pivot",
+          "ai",
+          "search",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "719",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "19e8a95863c936ab",
+      "title": "Cocoa Prices Rebound on Technical Short Covering",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 701 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.873043",
+      "url": "https://biztoc.com/x/e875459630085e6e",
+      "raw_text": "Cocoa Prices Rebound on Technical Short Covering. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 701 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Short Covering. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+701 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Prices Rebound",
+            "Technical Short Covering",
+            "'_blank"
+          ],
+          "GPE": [
+            "Cocoa",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "701"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "cocoa",
+            1
+          ],
+          [
+            "price",
+            1
+          ],
+          [
+            "rebound",
+            1
+          ],
+          [
+            "technical",
+            1
+          ],
+          [
+            "short",
+            1
+          ],
+          [
+            "covering",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cocoa",
+          "prices",
+          "rebound",
+          "on",
+          "technical",
+          "short",
+          "covering",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "701",
+          "chars"
+        ],
+        "filtered": [
+          "cocoa",
+          "prices",
+          "rebound",
+          "technical",
+          "short",
+          "covering",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "701",
+          "chars"
+        ],
+        "lemmatized": [
+          "cocoa",
+          "price",
+          "rebound",
+          "technical",
+          "short",
+          "covering",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "701",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "cd07b05441bb1358",
+      "title": "Rosneft Recommends Lowest Interim Dividends Since 2020",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 721 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.888523",
+      "url": "https://biztoc.com/x/00952b5a987b23f2",
+      "raw_text": "Rosneft Recommends Lowest Interim Dividends Since 2020. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 721 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Since 2020. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+721 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Rosneft",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Recommends Lowest Interim Dividends",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2020",
+          "200",
+          "13",
+          "000",
+          "200",
+          "721"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "rosneft",
+            1
+          ],
+          [
+            "recommend",
+            1
+          ],
+          [
+            "low",
+            1
+          ],
+          [
+            "interim",
+            1
+          ],
+          [
+            "dividend",
+            1
+          ],
+          [
+            "since",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "rosneft",
+          "recommends",
+          "lowest",
+          "interim",
+          "dividends",
+          "since",
+          "2020.",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "721",
+          "chars"
+        ],
+        "filtered": [
+          "rosneft",
+          "recommends",
+          "lowest",
+          "interim",
+          "dividends",
+          "since",
+          "2020.",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "721",
+          "chars"
+        ],
+        "lemmatized": [
+          "rosneft",
+          "recommend",
+          "low",
+          "interim",
+          "dividend",
+          "since",
+          "2020.",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "721",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "548922a79a4299e5",
+      "title": "Cryptos connections to the rest of the financial system",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 716 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.897871",
+      "url": "https://biztoc.com/x/220afde52499653d",
+      "raw_text": "Cryptos connections to the rest of the financial system. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 716 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "financial system. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+716 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Crypto",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "716"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "cryptos",
+            1
+          ],
+          [
+            "connection",
+            1
+          ],
+          [
+            "rest",
+            1
+          ],
+          [
+            "financial",
+            1
+          ],
+          [
+            "system",
+            1
+          ],
+          [
+            "falsewhy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cryptos",
+          "connections",
+          "to",
+          "the",
+          "rest",
+          "of",
+          "the",
+          "financial",
+          "system",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "716",
+          "chars"
+        ],
+        "filtered": [
+          "cryptos",
+          "connections",
+          "rest",
+          "financial",
+          "system",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "716",
+          "chars"
+        ],
+        "lemmatized": [
+          "cryptos",
+          "connection",
+          "rest",
+          "financial",
+          "system",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "716",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "4693f7278ffaecff",
+      "title": "Cipher Mining Stock Is Climbing. Google Backs Another Data Center Deal",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.907735",
+      "url": "https://biztoc.com/x/cd9e286d71d8bd5d",
+      "raw_text": "Cipher Mining Stock Is Climbing. Google Backs Another Data Center Deal. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Center Deal. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+687 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cipher",
+            "Google Backs",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "687"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "cipher",
+            1
+          ],
+          [
+            "mine",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "climbing",
+            1
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "back",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cipher",
+          "mining",
+          "stock",
+          "is",
+          "climbing",
+          ".",
+          "google",
+          "backs",
+          "another",
+          "data",
+          "center",
+          "deal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "filtered": [
+          "cipher",
+          "mining",
+          "stock",
+          "climbing",
+          ".",
+          "google",
+          "backs",
+          "another",
+          "data",
+          "center",
+          "deal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "lemmatized": [
+          "cipher",
+          "mine",
+          "stock",
+          "climbing",
+          ".",
+          "google",
+          "back",
+          "another",
+          "data",
+          "center",
+          "deal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "d48e1bd76ed689b2",
+      "title": "How Blue Owl found itself at the middle of Wall Streets latest private credit fears",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 746 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.918315",
+      "url": "https://biztoc.com/x/c32a957cd6d1ee47",
+      "raw_text": "How Blue Owl found itself at the middle of Wall Streets latest private credit fears. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 746 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "credit fears. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+746 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Blue Owl",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "746"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "blue",
+            1
+          ],
+          [
+            "owl",
+            1
+          ],
+          [
+            "find",
+            1
+          ],
+          [
+            "middle",
+            1
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "how",
+          "blue",
+          "owl",
+          "found",
+          "itself",
+          "at",
+          "the",
+          "middle",
+          "of",
+          "wall",
+          "streets",
+          "latest",
+          "private",
+          "credit",
+          "fears",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "chars"
+        ],
+        "filtered": [
+          "blue",
+          "owl",
+          "found",
+          "middle",
+          "wall",
+          "streets",
+          "latest",
+          "private",
+          "credit",
+          "fears",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "chars"
+        ],
+        "lemmatized": [
+          "blue",
+          "owl",
+          "find",
+          "middle",
+          "wall",
+          "street",
+          "late",
+          "private",
+          "credit",
+          "fear",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "b8e0d87d93d978f2",
+      "title": "Wall Streets Worried About an AI Bubble. Nvidia Just Delivered an Answer",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 722 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.928240",
+      "url": "https://biztoc.com/x/968696177ea51cd4",
+      "raw_text": "Wall Streets Worried About an AI Bubble. Nvidia Just Delivered an Answer. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 722 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "an Answer. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "Wall Street’s Worried About an AI Bubble. **Nvidia** Just Delivered an Answer. { window.open(this.href, '_blank'); }, 200); return",
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+722 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Street",
+            "Worried",
+            "Nvidia Just Delivered",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "722"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bubble",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "worry",
+            1
+          ],
+          [
+            "deliver",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "wall",
+          "streets",
+          "worried",
+          "about",
+          "an",
+          "ai",
+          "bubble",
+          ".",
+          "nvidia",
+          "just",
+          "delivered",
+          "an",
+          "answer",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "722",
+          "chars"
+        ],
+        "filtered": [
+          "wall",
+          "streets",
+          "worried",
+          "ai",
+          "bubble",
+          ".",
+          "nvidia",
+          "delivered",
+          "answer",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "722",
+          "chars"
+        ],
+        "lemmatized": [
+          "wall",
+          "street",
+          "worry",
+          "ai",
+          "bubble",
+          ".",
+          "nvidia",
+          "deliver",
+          "answer",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "722",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "e0a2b610e994c2ca",
+      "title": "Goldman projects $40 billion stock selling scenario over the next week",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 730 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.939715",
+      "url": "https://biztoc.com/x/726d3b492e2e004c",
+      "raw_text": "Goldman projects $40 billion stock selling scenario over the next week. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 730 chars",
+      "tickers_mentioned": "GS,VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "GS": [],
+        "VZ": [
+          "next week. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+730 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Goldman",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut",
+            "sell"
+          ],
+          "neutral": [
+            "project"
+          ]
+        },
+        "numbers": [
+          "40",
+          "200",
+          "13",
+          "000",
+          "200",
+          "730"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "goldman",
+            1
+          ],
+          [
+            "project",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "selling",
+            1
+          ],
+          [
+            "scenario",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 1,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "goldman",
+          "projects",
+          "$",
+          "40",
+          "billion",
+          "stock",
+          "selling",
+          "scenario",
+          "over",
+          "the",
+          "next",
+          "week",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "chars"
+        ],
+        "filtered": [
+          "goldman",
+          "projects",
+          "$",
+          "40",
+          "billion",
+          "stock",
+          "selling",
+          "scenario",
+          "over",
+          "next",
+          "week",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "chars"
+        ],
+        "lemmatized": [
+          "goldman",
+          "project",
+          "$",
+          "40",
+          "billion",
+          "stock",
+          "selling",
+          "scenario",
+          "over",
+          "next",
+          "week",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "730",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "55fa18b83b25e5c4",
+      "title": "Cryptos connections to the rest of the financial system",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 707 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.950739",
+      "url": "https://biztoc.com/x/a66d30e9a87b5134",
+      "raw_text": "Cryptos connections to the rest of the financial system. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 707 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "financial system. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+707 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Crypto",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "707"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "cryptos",
+            1
+          ],
+          [
+            "connection",
+            1
+          ],
+          [
+            "rest",
+            1
+          ],
+          [
+            "financial",
+            1
+          ],
+          [
+            "system",
+            1
+          ],
+          [
+            "falsewhy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cryptos",
+          "connections",
+          "to",
+          "the",
+          "rest",
+          "of",
+          "the",
+          "financial",
+          "system",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "707",
+          "chars"
+        ],
+        "filtered": [
+          "cryptos",
+          "connections",
+          "rest",
+          "financial",
+          "system",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "707",
+          "chars"
+        ],
+        "lemmatized": [
+          "cryptos",
+          "connection",
+          "rest",
+          "financial",
+          "system",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "707",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "0f2f3f734a6a2958",
+      "title": "The Stock Markets Nvidia Bump Is Fading Fast",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 746 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.960051",
+      "url": "https://biztoc.com/x/b274f469b1ea5a49",
+      "raw_text": "The Stock Markets Nvidia Bump Is Fading Fast. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 746 chars",
+      "tickers_mentioned": "FAST,VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "FAST": [],
+        "VZ": [
+          "Fading Fast. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "The Stock Market’s **Nvidia** Bump Is Fading Fast. { window.open(this.href, '_blank'); }, 200); return",
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+746 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Market",
+            "Nvidia Bump",
+            "Fast",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "746"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "bump",
+            1
+          ],
+          [
+            "fade",
+            1
+          ],
+          [
+            "fast",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "stock",
+          "markets",
+          "nvidia",
+          "bump",
+          "is",
+          "fading",
+          "fast",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "chars"
+        ],
+        "filtered": [
+          "stock",
+          "markets",
+          "nvidia",
+          "bump",
+          "fading",
+          "fast",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "chars"
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "nvidia",
+          "bump",
+          "fade",
+          "fast",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "746",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "5253997d40f95258",
+      "title": "Citadels Rubner Sees SP 500 Rebounding to 7,000 After Healthy Pullback",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 739 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.980973",
+      "url": "https://biztoc.com/x/bcd285e95a70ed99",
+      "raw_text": "Citadels Rubner Sees SP 500 Rebounding to 7,000 After Healthy Pullback. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 739 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "‘Healthy’ Pullback. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+739 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Citadel",
+            "Rubner Sees",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "500",
+          "7",
+          "000",
+          "200",
+          "13",
+          "000",
+          "200",
+          "739"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "citadel",
+            1
+          ],
+          [
+            "rubner",
+            1
+          ],
+          [
+            "see",
+            1
+          ],
+          [
+            "500",
+            1
+          ],
+          [
+            "rebound",
+            1
+          ],
+          [
+            "7,000",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 8,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "citadels",
+          "rubner",
+          "sees",
+          "sp",
+          "500",
+          "rebounding",
+          "to",
+          "7,000",
+          "after",
+          "healthy",
+          "pullback",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "739",
+          "chars"
+        ],
+        "filtered": [
+          "citadels",
+          "rubner",
+          "sees",
+          "sp",
+          "500",
+          "rebounding",
+          "7,000",
+          "healthy",
+          "pullback",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "739",
+          "chars"
+        ],
+        "lemmatized": [
+          "citadel",
+          "rubner",
+          "see",
+          "sp",
+          "500",
+          "rebound",
+          "7,000",
+          "healthy",
+          "pullback",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "739",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "00d23d21346dce4b",
+      "title": "As Nvidia Stock Soars Following third quarter Beat, Will Michael Burry Bite the Dust?",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 725 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:48.991099",
+      "url": "https://biztoc.com/x/07b4279e9f3ca957",
+      "raw_text": "As Nvidia Stock Soars Following third quarter Beat, Will Michael Burry Bite the Dust?. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 725 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "VZ": [
+          "the Dust?. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "As **Nvidia** Stock Soars Following Q3 Beat, Will Michael Burry Bite the",
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+725 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Will Michael Burry",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "Nvidia Stock Soars",
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "soar",
+            "beat"
+          ],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "725"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "soar",
+            1
+          ],
+          [
+            "follow",
+            1
+          ],
+          [
+            "third",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "as",
+          "nvidia",
+          "stock",
+          "soars",
+          "following",
+          "third",
+          "quarter",
+          "beat",
+          ",",
+          "will",
+          "michael",
+          "burry",
+          "bite",
+          "the",
+          "dust",
+          "?",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "725",
+          "chars"
+        ],
+        "filtered": [
+          "nvidia",
+          "stock",
+          "soars",
+          "following",
+          "third",
+          "quarter",
+          "beat",
+          ",",
+          "michael",
+          "burry",
+          "bite",
+          "dust",
+          "?",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "725",
+          "chars"
+        ],
+        "lemmatized": [
+          "nvidia",
+          "stock",
+          "soar",
+          "follow",
+          "third",
+          "quarter",
+          "beat",
+          ",",
+          "michael",
+          "burry",
+          "bite",
+          "dust",
+          "?",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "725",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "4693f7278ffaecff",
+      "title": "Cipher Mining Stock Is Climbing. Google Backs Another Data Center Deal",
+      "body": "window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:51.782421",
+      "url": "https://biztoc.com/x/cd9e286d71d8bd5d",
+      "raw_text": "Cipher Mining Stock Is Climbing. Google Backs Another Data Center Deal. window.openthis.href, blank , 200 return falseWhy is Verizon cutting 13,000 jobs now? window.openthis.href, blank , 200 return falseHow did Nvidia calm AI bubble fea 687 chars",
+      "tickers_mentioned": "VZ,NVDA",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "Center Deal. { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is **Verizon** cutting 13,000 jobs now? { window.open(this.href, '_blank'); }, 200); return"
+        ],
+        "NVDA": [
+          "jobs now? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did **Nvidia** calm AI bubble fea… [+687 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Cipher",
+            "Google Backs",
+            "Verizon",
+            "How"
+          ],
+          "ORGANIZATION": [
+            "'_blank"
+          ],
+          "GPE": [
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "200",
+          "13",
+          "000",
+          "200",
+          "687"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "window.openthis.href",
+            2
+          ],
+          [
+            "blank",
+            2
+          ],
+          [
+            "200",
+            2
+          ],
+          [
+            "return",
+            2
+          ],
+          [
+            "cipher",
+            1
+          ],
+          [
+            "mine",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "climbing",
+            1
+          ],
+          [
+            "google",
+            1
+          ],
+          [
+            "back",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "cipher",
+          "mining",
+          "stock",
+          "is",
+          "climbing",
+          ".",
+          "google",
+          "backs",
+          "another",
+          "data",
+          "center",
+          "deal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "is",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "now",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "did",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "filtered": [
+          "cipher",
+          "mining",
+          "stock",
+          "climbing",
+          ".",
+          "google",
+          "backs",
+          "another",
+          "data",
+          "center",
+          "deal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cutting",
+          "13,000",
+          "jobs",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "chars"
+        ],
+        "lemmatized": [
+          "cipher",
+          "mine",
+          "stock",
+          "climbing",
+          ".",
+          "google",
+          "back",
+          "another",
+          "data",
+          "center",
+          "deal",
+          ".",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsewhy",
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          "?",
+          "window.openthis.href",
+          ",",
+          "blank",
+          ",",
+          "200",
+          "return",
+          "falsehow",
+          "nvidia",
+          "calm",
+          "ai",
+          "bubble",
+          "fea",
+          "687",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "ff30b94a5ee43473",
+      "title": "Verizon to Cut 13,000 Jobs, Set Up $20 Million Reskilling Fund for Laid Off Staff In Age of AI",
+      "body": "If this is the year of publicly-traded companies signaling to Wall Street that theyre going to do more with less, in preparation for an AI-driven economy, add Verizon to the list of giants cutting a 3226 chars",
+      "source": "Hollywood Reporter",
+      "timestamp": "2025-11-22T00:25:54.797896",
+      "url": "https://www.hollywoodreporter.com/business/business-news/verizon-cuts-thousands-jobs-ai-1236432143/",
+      "raw_text": "Verizon to Cut 13,000 Jobs, Set Up $20 Million Reskilling Fund for Laid Off Staff In Age of AI. If this is the year of publicly-traded companies signaling to Wall Street that theyre going to do more with less, in preparation for an AI-driven economy, add Verizon to the list of giants cutting a 3226 chars",
+      "tickers_mentioned": "VZ",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "VZ": [
+          "**Verizon** to Cut 13,000 Jobs, Set Up $20 Million “Reskilling” Fund",
+          "more with less, in preparation for an AI-driven economy, add **Verizon** to the list of giants cutting a … [+3226 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Set Up",
+            "Laid Off Staff",
+            "Verizon"
+          ],
+          "ORGANIZATION": [
+            "AI"
+          ],
+          "GPE": [
+            "Verizon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "cut"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "13",
+          "000",
+          "20",
+          "3226"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "verizon",
+            2
+          ],
+          [
+            "cut",
+            2
+          ],
+          [
+            "13,000",
+            1
+          ],
+          [
+            "job",
+            1
+          ],
+          [
+            "set",
+            1
+          ],
+          [
+            "million",
+            1
+          ],
+          [
+            "reskilling",
+            1
+          ],
+          [
+            "fund",
+            1
+          ],
+          [
+            "lay",
+            1
+          ],
+          [
+            "staff",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "verizon",
+          "to",
+          "cut",
+          "13,000",
+          "jobs",
+          ",",
+          "set",
+          "up",
+          "$",
+          "20",
+          "million",
+          "reskilling",
+          "fund",
+          "for",
+          "laid",
+          "off",
+          "staff",
+          "in",
+          "age",
+          "of",
+          "ai",
+          ".",
+          "if",
+          "this",
+          "is",
+          "the",
+          "year",
+          "of",
+          "publicly-traded",
+          "companies",
+          "signaling",
+          "to",
+          "wall",
+          "street",
+          "that",
+          "theyre",
+          "going",
+          "to",
+          "do",
+          "more",
+          "with",
+          "less",
+          ",",
+          "in",
+          "preparation",
+          "for",
+          "an",
+          "ai-driven",
+          "economy",
+          ",",
+          "add",
+          "verizon",
+          "to",
+          "the",
+          "list",
+          "of",
+          "giants",
+          "cutting",
+          "a",
+          "3226",
+          "chars"
+        ],
+        "filtered": [
+          "verizon",
+          "cut",
+          "13,000",
+          "jobs",
+          ",",
+          "set",
+          "up",
+          "$",
+          "20",
+          "million",
+          "reskilling",
+          "fund",
+          "laid",
+          "staff",
+          "age",
+          "ai",
+          ".",
+          "year",
+          "publicly-traded",
+          "companies",
+          "signaling",
+          "wall",
+          "street",
+          "theyre",
+          "going",
+          "more",
+          "less",
+          ",",
+          "preparation",
+          "ai-driven",
+          "economy",
+          ",",
+          "add",
+          "verizon",
+          "list",
+          "giants",
+          "cutting",
+          "3226",
+          "chars"
+        ],
+        "lemmatized": [
+          "verizon",
+          "cut",
+          "13,000",
+          "job",
+          ",",
+          "set",
+          "up",
+          "$",
+          "20",
+          "million",
+          "reskilling",
+          "fund",
+          "lay",
+          "staff",
+          "age",
+          "ai",
+          ".",
+          "year",
+          "publicly-traded",
+          "company",
+          "signal",
+          "wall",
+          "street",
+          "theyre",
+          "go",
+          "more",
+          "less",
+          ",",
+          "preparation",
+          "ai-driven",
+          "economy",
+          ",",
+          "add",
+          "verizon",
+          "list",
+          "giant",
+          "cut",
+          "3226",
+          "char"
+        ]
+      }
+    }
+  ]
+}

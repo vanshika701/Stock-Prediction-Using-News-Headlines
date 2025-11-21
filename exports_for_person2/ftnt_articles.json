@@ -1,0 +1,265 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "4f73b04672148a5e",
+      "title": "DEADLINE ALERT for RICK, FTNT, and MOH The Law Offices of Frank R. Cruz Reminds Shareholders of Securities Fraud Class Actions",
+      "body": "LOS ANGELES, Nov. 20, 2025 GLOBE NEWSWIRE -- The Law Offices of Frank R. Cruz reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded 4631 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:25:42.718410",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192240/0/en/DEADLINE-ALERT-for-RICK-FTNT-and-MOH-The-Law-Offices-of-Frank-R-Cruz-Reminds-Shareholders-of-Securities-Fraud-Class-Actions.html",
+      "raw_text": "DEADLINE ALERT for RICK, FTNT, and MOH The Law Offices of Frank R. Cruz Reminds Shareholders of Securities Fraud Class Actions. LOS ANGELES, Nov. 20, 2025 GLOBE NEWSWIRE -- The Law Offices of Frank R. Cruz reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded 4631 chars",
+      "tickers_mentioned": "FTNT,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FTNT": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Frank R. Cruz Reminds Shareholders",
+            "Frank R. Cruz"
+          ],
+          "ORGANIZATION": [
+            "DEADLINE",
+            "ALERT",
+            "RICK",
+            "FTNT",
+            "MOH",
+            "Law Offices",
+            "Securities Fraud",
+            "LOS",
+            "GLOBE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "20",
+          "2025",
+          "4631"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "law",
+            2
+          ],
+          [
+            "office",
+            2
+          ],
+          [
+            "frank",
+            2
+          ],
+          [
+            "cruz",
+            2
+          ],
+          [
+            "remind",
+            2
+          ],
+          [
+            "shareholder",
+            2
+          ],
+          [
+            "class",
+            2
+          ],
+          [
+            "action",
+            2
+          ],
+          [
+            "deadline",
+            1
+          ],
+          [
+            "alert",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "deadline",
+          "alert",
+          "for",
+          "rick",
+          ",",
+          "ftnt",
+          ",",
+          "and",
+          "moh",
+          "the",
+          "law",
+          "offices",
+          "of",
+          "frank",
+          "r.",
+          "cruz",
+          "reminds",
+          "shareholders",
+          "of",
+          "securities",
+          "fraud",
+          "class",
+          "actions",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "the",
+          "law",
+          "offices",
+          "of",
+          "frank",
+          "r.",
+          "cruz",
+          "reminds",
+          "investors",
+          "that",
+          "class",
+          "action",
+          "lawsuits",
+          "have",
+          "been",
+          "filed",
+          "on",
+          "behalf",
+          "of",
+          "shareholders",
+          "of",
+          "the",
+          "following",
+          "publicly-traded",
+          "4631",
+          "chars"
+        ],
+        "filtered": [
+          "deadline",
+          "alert",
+          "rick",
+          ",",
+          "ftnt",
+          ",",
+          "moh",
+          "law",
+          "offices",
+          "frank",
+          "r.",
+          "cruz",
+          "reminds",
+          "shareholders",
+          "securities",
+          "fraud",
+          "class",
+          "actions",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "law",
+          "offices",
+          "frank",
+          "r.",
+          "cruz",
+          "reminds",
+          "investors",
+          "class",
+          "action",
+          "lawsuits",
+          "filed",
+          "behalf",
+          "shareholders",
+          "following",
+          "publicly-traded",
+          "4631",
+          "chars"
+        ],
+        "lemmatized": [
+          "deadline",
+          "alert",
+          "rick",
+          ",",
+          "ftnt",
+          ",",
+          "moh",
+          "law",
+          "office",
+          "frank",
+          "r.",
+          "cruz",
+          "remind",
+          "shareholder",
+          "securities",
+          "fraud",
+          "class",
+          "action",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "law",
+          "office",
+          "frank",
+          "r.",
+          "cruz",
+          "remind",
+          "investor",
+          "class",
+          "action",
+          "lawsuit",
+          "file",
+          "behalf",
+          "shareholder",
+          "follow",
+          "publicly-traded",
+          "4631",
+          "char"
+        ]
+      }
+    }
+  ]
+}

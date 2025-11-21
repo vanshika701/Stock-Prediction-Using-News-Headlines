@@ -1,0 +1,198 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "9de86952d9c5a808",
+      "title": "Salesforce A Justified Sell-Off And An Opportunity For The Patient",
+      "body": "Salesforce, Inc. is rated a Buy due to its positioning in the sector and ability to expand GAAP profitability. Learn more about CRM stock here.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:30.747039",
+      "url": "https://finnhub.io/api/news?id=2384b72b726cfd6727078dd3eb23490d4133f4133a4901c643a5df1e71de2361",
+      "raw_text": "Salesforce A Justified Sell-Off And An Opportunity For The Patient. Salesforce, Inc. is rated a Buy due to its positioning in the sector and ability to expand GAAP profitability. Learn more about CRM stock here.",
+      "tickers_mentioned": "EXE,CRM",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "EXE": [],
+        "CRM": [
+          "**Salesforce:** A Justified Sell-Off And An Opportunity For The Patient. Salesforce,",
+          "Salesforce: A Justified Sell-Off And An Opportunity For The Patient. **Salesforce,** Inc. is rated a Buy due to its positioning in"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Salesforce"
+          ],
+          "ORGANIZATION": [
+            "Justified",
+            "Patient",
+            "GAAP",
+            "CRM"
+          ],
+          "GPE": [
+            "Salesforce"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "profit",
+            "buy"
+          ],
+          "negative": [
+            "sell"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "salesforce",
+            2
+          ],
+          [
+            "justify",
+            1
+          ],
+          [
+            "sell-off",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ],
+          [
+            "patient",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "rat",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "due",
+            1
+          ],
+          [
+            "positioning",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "salesforce",
+          "a",
+          "justified",
+          "sell-off",
+          "and",
+          "an",
+          "opportunity",
+          "for",
+          "the",
+          "patient",
+          ".",
+          "salesforce",
+          ",",
+          "inc.",
+          "is",
+          "rated",
+          "a",
+          "buy",
+          "due",
+          "to",
+          "its",
+          "positioning",
+          "in",
+          "the",
+          "sector",
+          "and",
+          "ability",
+          "to",
+          "expand",
+          "gaap",
+          "profitability",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "crm",
+          "stock",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "salesforce",
+          "justified",
+          "sell-off",
+          "opportunity",
+          "patient",
+          ".",
+          "salesforce",
+          ",",
+          "inc.",
+          "rated",
+          "buy",
+          "due",
+          "positioning",
+          "sector",
+          "ability",
+          "expand",
+          "gaap",
+          "profitability",
+          ".",
+          "learn",
+          "more",
+          "crm",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "salesforce",
+          "justify",
+          "sell-off",
+          "opportunity",
+          "patient",
+          ".",
+          "salesforce",
+          ",",
+          "inc.",
+          "rat",
+          "buy",
+          "due",
+          "positioning",
+          "sector",
+          "ability",
+          "expand",
+          "gaap",
+          "profitability",
+          ".",
+          "learn",
+          "more",
+          "crm",
+          "stock",
+          "."
+        ]
+      }
+    }
+  ]
+}

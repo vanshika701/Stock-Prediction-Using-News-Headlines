@@ -1,0 +1,159 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "8103fd6719998e9f",
+      "title": "Investment in AI to create thousands of new jobs Government",
+      "body": "Ministers said areas to benefit will include Wales, Bristol and London.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:28.977035",
+      "url": "https://finnhub.io/api/news?id=56957927faf98b36e057defeef697596d38429f4a9dc9a7f050fd86052bc52df",
+      "raw_text": "Investment in AI to create thousands of new jobs Government. Ministers said areas to benefit will include Wales, Bristol and London.",
+      "tickers_mentioned": "BMY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BMY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Ministers",
+            "Wales"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Bristol",
+            "London"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "investment",
+            1
+          ],
+          [
+            "create",
+            1
+          ],
+          [
+            "thousand",
+            1
+          ],
+          [
+            "new",
+            1
+          ],
+          [
+            "job",
+            1
+          ],
+          [
+            "government",
+            1
+          ],
+          [
+            "minister",
+            1
+          ],
+          [
+            "say",
+            1
+          ],
+          [
+            "area",
+            1
+          ],
+          [
+            "benefit",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "investment",
+          "in",
+          "ai",
+          "to",
+          "create",
+          "thousands",
+          "of",
+          "new",
+          "jobs",
+          "government",
+          ".",
+          "ministers",
+          "said",
+          "areas",
+          "to",
+          "benefit",
+          "will",
+          "include",
+          "wales",
+          ",",
+          "bristol",
+          "and",
+          "london",
+          "."
+        ],
+        "filtered": [
+          "investment",
+          "ai",
+          "create",
+          "thousands",
+          "new",
+          "jobs",
+          "government",
+          ".",
+          "ministers",
+          "said",
+          "areas",
+          "benefit",
+          "include",
+          "wales",
+          ",",
+          "bristol",
+          "london",
+          "."
+        ],
+        "lemmatized": [
+          "investment",
+          "ai",
+          "create",
+          "thousand",
+          "new",
+          "job",
+          "government",
+          ".",
+          "minister",
+          "say",
+          "area",
+          "benefit",
+          "include",
+          "wale",
+          ",",
+          "bristol",
+          "london",
+          "."
+        ]
+      }
+    }
+  ]
+}

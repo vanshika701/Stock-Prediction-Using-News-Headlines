@@ -1,0 +1,1952 @@
+{
+  "count": 8,
+  "articles": [
+    {
+      "article_id": "897c710ef9390aa9",
+      "title": "BAX INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Baxter International",
+      "body": "Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Baxter To Contact Him Directly To Discuss Their Options If you purchased or acq 3817 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:48:19.709602",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192299/683/en/BAX-INVESTOR-NOTICE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Baxter-International.html",
+      "raw_text": "BAX INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Baxter International. Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Baxter To Contact Him Directly To Discuss Their Options If you purchased or acq 3817 chars",
+      "tickers_mentioned": "BAX,IP",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "BAX": [
+          "& Faruqi, LLP Investigates Claims on Behalf of Investors of **Baxter** International. Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh)"
+        ],
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Faruqi",
+            "Wilson Encourages"
+          ],
+          "ORGANIZATION": [
+            "BAX",
+            "LLP",
+            "Baxter International",
+            "LLP Securities Litigation Partner James",
+            "Josh",
+            "Contact Him"
+          ],
+          "GPE": [
+            "Faruqi",
+            "Losses",
+            "Baxter"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "3817"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "faruqi",
+            4
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "llp",
+            2
+          ],
+          [
+            "baxter",
+            2
+          ],
+          [
+            "bax",
+            1
+          ],
+          [
+            "notice",
+            1
+          ],
+          [
+            "investigates",
+            1
+          ],
+          [
+            "claim",
+            1
+          ],
+          [
+            "behalf",
+            1
+          ],
+          [
+            "international",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "on",
+          "behalf",
+          "of",
+          "investors",
+          "of",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "who",
+          "suffered",
+          "losses",
+          "in",
+          "baxter",
+          "to",
+          "contact",
+          "him",
+          "directly",
+          "to",
+          "discuss",
+          "their",
+          "options",
+          "if",
+          "you",
+          "purchased",
+          "or",
+          "acq",
+          "3817",
+          "chars"
+        ],
+        "filtered": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "behalf",
+          "investors",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "suffered",
+          "losses",
+          "baxter",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchased",
+          "acq",
+          "3817",
+          "chars"
+        ],
+        "lemmatized": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claim",
+          "behalf",
+          "investor",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investor",
+          "suffer",
+          "loss",
+          "baxter",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchase",
+          "acq",
+          "3817",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "baae4c7285e205a5",
+      "title": "Li Bang International Announces the Listing of Class A Ordinary Shares",
+      "body": "JIANGYIN, China, Nov. 20, 2025 GLOBE NEWSWIRE -- Li Bang International Corporation Inc. Li Bang International and its subsidiaries collectively, the Company, we, us, our company, or L 5752 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:48:20.274020",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192211/0/en/Li-Bang-International-Announces-the-Listing-of-Class-A-Ordinary-Shares.html",
+      "raw_text": "Li Bang International Announces the Listing of Class A Ordinary Shares. JIANGYIN, China, Nov. 20, 2025 GLOBE NEWSWIRE -- Li Bang International Corporation Inc. Li Bang International and its subsidiaries collectively, the Company, we, us, our company, or L 5752 chars",
+      "tickers_mentioned": "GL,IP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GL": [],
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Li",
+            "Bang International",
+            "Bang International Corporation"
+          ],
+          "ORGANIZATION": [
+            "JIANGYIN",
+            "GLOBE"
+          ],
+          "GPE": [
+            "China"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "20",
+          "2025",
+          "5752"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bang",
+            3
+          ],
+          [
+            "international",
+            3
+          ],
+          [
+            "company",
+            2
+          ],
+          [
+            "announces",
+            1
+          ],
+          [
+            "list",
+            1
+          ],
+          [
+            "class",
+            1
+          ],
+          [
+            "ordinary",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "jiangyin",
+            1
+          ],
+          [
+            "china",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "li",
+          "bang",
+          "international",
+          "announces",
+          "the",
+          "listing",
+          "of",
+          "class",
+          "a",
+          "ordinary",
+          "shares",
+          ".",
+          "jiangyin",
+          ",",
+          "china",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "li",
+          "bang",
+          "international",
+          "corporation",
+          "inc.",
+          "li",
+          "bang",
+          "international",
+          "and",
+          "its",
+          "subsidiaries",
+          "collectively",
+          ",",
+          "the",
+          "company",
+          ",",
+          "we",
+          ",",
+          "us",
+          ",",
+          "our",
+          "company",
+          ",",
+          "or",
+          "l",
+          "5752",
+          "chars"
+        ],
+        "filtered": [
+          "li",
+          "bang",
+          "international",
+          "announces",
+          "listing",
+          "class",
+          "ordinary",
+          "shares",
+          ".",
+          "jiangyin",
+          ",",
+          "china",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "li",
+          "bang",
+          "international",
+          "corporation",
+          "inc.",
+          "li",
+          "bang",
+          "international",
+          "subsidiaries",
+          "collectively",
+          ",",
+          "company",
+          ",",
+          ",",
+          "us",
+          ",",
+          "company",
+          ",",
+          "l",
+          "5752",
+          "chars"
+        ],
+        "lemmatized": [
+          "li",
+          "bang",
+          "international",
+          "announces",
+          "list",
+          "class",
+          "ordinary",
+          "shares",
+          ".",
+          "jiangyin",
+          ",",
+          "china",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "li",
+          "bang",
+          "international",
+          "corporation",
+          "inc.",
+          "li",
+          "bang",
+          "international",
+          "subsidiary",
+          "collectively",
+          ",",
+          "company",
+          ",",
+          ",",
+          "u",
+          ",",
+          "company",
+          ",",
+          "l",
+          "5752",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "05559a9ee23e2cab",
+      "title": "what is Going On With BigBear.ai Stock Today?",
+      "body": "BigBear.ai, Inc. NYSEBBAI traded higher Thursday as the artificial intelligence company announced a new international collaboration aimed at accelerating advanced aerospace and security technologi 140 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:48:20.315947",
+      "url": "https://biztoc.com/x/c0042b104503d0fe",
+      "raw_text": "what is Going On With BigBear.ai Stock Today?. BigBear.ai, Inc. NYSEBBAI traded higher Thursday as the artificial intelligence company announced a new international collaboration aimed at accelerating advanced aerospace and security technologi 140 chars",
+      "tickers_mentioned": "IP,AMD",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "IP": [],
+        "AMD": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "NYSE"
+          ],
+          "GPE": [
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "140"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bigbear.ai",
+            2
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "inc.",
+            1
+          ],
+          [
+            "nysebbai",
+            1
+          ],
+          [
+            "trade",
+            1
+          ],
+          [
+            "high",
+            1
+          ],
+          [
+            "thursday",
+            1
+          ],
+          [
+            "artificial",
+            1
+          ],
+          [
+            "intelligence",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "what",
+          "is",
+          "going",
+          "on",
+          "with",
+          "bigbear.ai",
+          "stock",
+          "today",
+          "?",
+          ".",
+          "bigbear.ai",
+          ",",
+          "inc.",
+          "nysebbai",
+          "traded",
+          "higher",
+          "thursday",
+          "as",
+          "the",
+          "artificial",
+          "intelligence",
+          "company",
+          "announced",
+          "a",
+          "new",
+          "international",
+          "collaboration",
+          "aimed",
+          "at",
+          "accelerating",
+          "advanced",
+          "aerospace",
+          "and",
+          "security",
+          "technologi",
+          "140",
+          "chars"
+        ],
+        "filtered": [
+          "going",
+          "bigbear.ai",
+          "stock",
+          "today",
+          "?",
+          ".",
+          "bigbear.ai",
+          ",",
+          "inc.",
+          "nysebbai",
+          "traded",
+          "higher",
+          "thursday",
+          "artificial",
+          "intelligence",
+          "company",
+          "announced",
+          "new",
+          "international",
+          "collaboration",
+          "aimed",
+          "accelerating",
+          "advanced",
+          "aerospace",
+          "security",
+          "technologi",
+          "140",
+          "chars"
+        ],
+        "lemmatized": [
+          "go",
+          "bigbear.ai",
+          "stock",
+          "today",
+          "?",
+          ".",
+          "bigbear.ai",
+          ",",
+          "inc.",
+          "nysebbai",
+          "trade",
+          "high",
+          "thursday",
+          "artificial",
+          "intelligence",
+          "company",
+          "announce",
+          "new",
+          "international",
+          "collaboration",
+          "aim",
+          "accelerate",
+          "advanced",
+          "aerospace",
+          "security",
+          "technologi",
+          "140",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "2700653b5d3dd78f",
+      "title": "Bolivia Charts Return to International Credit Market by 2027",
+      "body": "Bloomberg Bolivias new government expects to secure up to $5 billion in multilateral loans next year and return to international credit markets in late 2026 or early 2027, Finance Minister Jos Gab 4837 chars",
+      "source": "Financial Post",
+      "timestamp": "2025-11-22T00:48:20.689796",
+      "url": "https://financialpost.com/pmn/business-pmn/bolivia-charts-return-to-international-credit-market-by-2027",
+      "raw_text": "Bolivia Charts Return to International Credit Market by 2027. Bloomberg Bolivias new government expects to secure up to $5 billion in multilateral loans next year and return to international credit markets in late 2026 or early 2027, Finance Minister Jos Gab 4837 chars",
+      "tickers_mentioned": "IP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Charts Return",
+            "José"
+          ],
+          "ORGANIZATION": [
+            "International Credit Market",
+            "Bloomberg",
+            "Bolivias"
+          ],
+          "GPE": [
+            "Bolivia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "expect"
+          ]
+        },
+        "numbers": [
+          "2027",
+          "5",
+          "2026",
+          "2027",
+          "4837"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "return",
+            2
+          ],
+          [
+            "international",
+            2
+          ],
+          [
+            "credit",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "bolivia",
+            1
+          ],
+          [
+            "chart",
+            1
+          ],
+          [
+            "2027.",
+            1
+          ],
+          [
+            "bloomberg",
+            1
+          ],
+          [
+            "bolivias",
+            1
+          ],
+          [
+            "new",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bolivia",
+          "charts",
+          "return",
+          "to",
+          "international",
+          "credit",
+          "market",
+          "by",
+          "2027.",
+          "bloomberg",
+          "bolivias",
+          "new",
+          "government",
+          "expects",
+          "to",
+          "secure",
+          "up",
+          "to",
+          "$",
+          "5",
+          "billion",
+          "in",
+          "multilateral",
+          "loans",
+          "next",
+          "year",
+          "and",
+          "return",
+          "to",
+          "international",
+          "credit",
+          "markets",
+          "in",
+          "late",
+          "2026",
+          "or",
+          "early",
+          "2027",
+          ",",
+          "finance",
+          "minister",
+          "jos",
+          "gab",
+          "4837",
+          "chars"
+        ],
+        "filtered": [
+          "bolivia",
+          "charts",
+          "return",
+          "international",
+          "credit",
+          "market",
+          "2027.",
+          "bloomberg",
+          "bolivias",
+          "new",
+          "government",
+          "expects",
+          "secure",
+          "up",
+          "$",
+          "5",
+          "billion",
+          "multilateral",
+          "loans",
+          "next",
+          "year",
+          "return",
+          "international",
+          "credit",
+          "markets",
+          "late",
+          "2026",
+          "early",
+          "2027",
+          ",",
+          "finance",
+          "minister",
+          "jos",
+          "gab",
+          "4837",
+          "chars"
+        ],
+        "lemmatized": [
+          "bolivia",
+          "chart",
+          "return",
+          "international",
+          "credit",
+          "market",
+          "2027.",
+          "bloomberg",
+          "bolivias",
+          "new",
+          "government",
+          "expect",
+          "secure",
+          "up",
+          "$",
+          "5",
+          "billion",
+          "multilateral",
+          "loan",
+          "next",
+          "year",
+          "return",
+          "international",
+          "credit",
+          "market",
+          "late",
+          "2026",
+          "early",
+          "2027",
+          ",",
+          "finance",
+          "minister",
+          "jos",
+          "gab",
+          "4837",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "8cd98e923a9abef4",
+      "title": "UnionPay Online Payments Now Available for Apple Services in 15 Markets",
+      "body": "UnionPay International today announced the expansion of its online payment services for Apple Services, including App Store and iCloud subscriptions. UnionPay cardholders in 15 international markets can now use their cards to pay for Apples digital content and subscription services including App Store, Apple Music, Apple TV, iCloud, and more.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:21.850961",
+      "url": "https://finnhub.io/api/news?id=e04394b874078d5d39bb39ac7ef199dcdae91a04486fdd6182d295ad82f695a4",
+      "raw_text": "UnionPay Online Payments Now Available for Apple Services in 15 Markets. UnionPay International today announced the expansion of its online payment services for Apple Services, including App Store and iCloud subscriptions. UnionPay cardholders in 15 international markets can now use their cards to pay for Apples digital content and subscription services including App Store, Apple Music, Apple TV, iCloud, and more.",
+      "tickers_mentioned": "AAPL,DLR,IP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AAPL": [],
+        "DLR": [],
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Apple Services",
+            "App Store",
+            "Apple",
+            "Apple Music",
+            "Apple TV"
+          ],
+          "ORGANIZATION": [
+            "UnionPay Online",
+            "Available",
+            "Apple Services",
+            "UnionPay International",
+            "iCloud",
+            "UnionPay"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce",
+            "hold"
+          ]
+        },
+        "numbers": [
+          "15",
+          "15"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "apple",
+            5
+          ],
+          [
+            "service",
+            4
+          ],
+          [
+            "unionpay",
+            3
+          ],
+          [
+            "online",
+            2
+          ],
+          [
+            "payment",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "international",
+            2
+          ],
+          [
+            "include",
+            2
+          ],
+          [
+            "app",
+            2
+          ],
+          [
+            "store",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "unionpay",
+          "online",
+          "payments",
+          "now",
+          "available",
+          "for",
+          "apple",
+          "services",
+          "in",
+          "15",
+          "markets",
+          ".",
+          "unionpay",
+          "international",
+          "today",
+          "announced",
+          "the",
+          "expansion",
+          "of",
+          "its",
+          "online",
+          "payment",
+          "services",
+          "for",
+          "apple",
+          "services",
+          ",",
+          "including",
+          "app",
+          "store",
+          "and",
+          "icloud",
+          "subscriptions",
+          ".",
+          "unionpay",
+          "cardholders",
+          "in",
+          "15",
+          "international",
+          "markets",
+          "can",
+          "now",
+          "use",
+          "their",
+          "cards",
+          "to",
+          "pay",
+          "for",
+          "apples",
+          "digital",
+          "content",
+          "and",
+          "subscription",
+          "services",
+          "including",
+          "app",
+          "store",
+          ",",
+          "apple",
+          "music",
+          ",",
+          "apple",
+          "tv",
+          ",",
+          "icloud",
+          ",",
+          "and",
+          "more",
+          "."
+        ],
+        "filtered": [
+          "unionpay",
+          "online",
+          "payments",
+          "available",
+          "apple",
+          "services",
+          "15",
+          "markets",
+          ".",
+          "unionpay",
+          "international",
+          "today",
+          "announced",
+          "expansion",
+          "online",
+          "payment",
+          "services",
+          "apple",
+          "services",
+          ",",
+          "including",
+          "app",
+          "store",
+          "icloud",
+          "subscriptions",
+          ".",
+          "unionpay",
+          "cardholders",
+          "15",
+          "international",
+          "markets",
+          "use",
+          "cards",
+          "pay",
+          "apples",
+          "digital",
+          "content",
+          "subscription",
+          "services",
+          "including",
+          "app",
+          "store",
+          ",",
+          "apple",
+          "music",
+          ",",
+          "apple",
+          "tv",
+          ",",
+          "icloud",
+          ",",
+          "more",
+          "."
+        ],
+        "lemmatized": [
+          "unionpay",
+          "online",
+          "payment",
+          "available",
+          "apple",
+          "service",
+          "15",
+          "market",
+          ".",
+          "unionpay",
+          "international",
+          "today",
+          "announce",
+          "expansion",
+          "online",
+          "payment",
+          "service",
+          "apple",
+          "service",
+          ",",
+          "include",
+          "app",
+          "store",
+          "icloud",
+          "subscription",
+          ".",
+          "unionpay",
+          "cardholder",
+          "15",
+          "international",
+          "market",
+          "use",
+          "card",
+          "pay",
+          "apple",
+          "digital",
+          "content",
+          "subscription",
+          "service",
+          "include",
+          "app",
+          "store",
+          ",",
+          "apple",
+          "music",
+          ",",
+          "apple",
+          "tv",
+          ",",
+          "icloud",
+          ",",
+          "more",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5e121cde3710f1e3",
+      "title": "EXCLUSIVE We Dropped Out Of Harvard And Dedicated Our Lives To Building ThisTheir $349 AI With Hyper-Intelligent Brain Rivals Meta",
+      "body": "Two Harvard students built 10 projects together in a makerspace before finding the one that made them drop everything. Now Caine Ardayfio and AnhPhu Nguyen have raised $6.6 million to challenge Metas NASDAQMETA dominance in smart glasses with a radically different vision glasses that remember every conversation, meeting, and detail of your life while weighing half as much as Ray-Ban smart glasses. The Halo Nova, now rebranded as Mira, co-founders gained international attention when their fa",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:26.295558",
+      "url": "https://finnhub.io/api/news?id=30c899932da81f5b586b14b4f288fdf934c87e7d84bd2378c10fe2b1cb88554e",
+      "raw_text": "EXCLUSIVE We Dropped Out Of Harvard And Dedicated Our Lives To Building ThisTheir $349 AI With Hyper-Intelligent Brain Rivals Meta. Two Harvard students built 10 projects together in a makerspace before finding the one that made them drop everything. Now Caine Ardayfio and AnhPhu Nguyen have raised $6.6 million to challenge Metas NASDAQMETA dominance in smart glasses with a radically different vision glasses that remember every conversation, meeting, and detail of your life while weighing half as much as Ray-Ban smart glasses. The Halo Nova, now rebranded as Mira, co-founders gained international attention when their fa",
+      "tickers_mentioned": "IP",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Brain Rivals Meta",
+            "Caine Ardayfio",
+            "Mira"
+          ],
+          "ORGANIZATION": [
+            "Harvard And Dedicated",
+            "Harvard",
+            "AnhPhu Nguyen",
+            "Meta",
+            "NASDAQ",
+            "META",
+            "Halo Nova"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "project"
+          ]
+        },
+        "numbers": [
+          "349",
+          "10",
+          "6.6"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "glass",
+            3
+          ],
+          [
+            "drop",
+            2
+          ],
+          [
+            "harvard",
+            2
+          ],
+          [
+            "life",
+            2
+          ],
+          [
+            "build",
+            2
+          ],
+          [
+            "smart",
+            2
+          ],
+          [
+            "exclusive",
+            1
+          ],
+          [
+            "dedicate",
+            1
+          ],
+          [
+            "thistheir",
+            1
+          ],
+          [
+            "349",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "exclusive",
+          "we",
+          "dropped",
+          "out",
+          "of",
+          "harvard",
+          "and",
+          "dedicated",
+          "our",
+          "lives",
+          "to",
+          "building",
+          "thistheir",
+          "$",
+          "349",
+          "ai",
+          "with",
+          "hyper-intelligent",
+          "brain",
+          "rivals",
+          "meta",
+          ".",
+          "two",
+          "harvard",
+          "students",
+          "built",
+          "10",
+          "projects",
+          "together",
+          "in",
+          "a",
+          "makerspace",
+          "before",
+          "finding",
+          "the",
+          "one",
+          "that",
+          "made",
+          "them",
+          "drop",
+          "everything",
+          ".",
+          "now",
+          "caine",
+          "ardayfio",
+          "and",
+          "anhphu",
+          "nguyen",
+          "have",
+          "raised",
+          "$",
+          "6.6",
+          "million",
+          "to",
+          "challenge",
+          "metas",
+          "nasdaqmeta",
+          "dominance",
+          "in",
+          "smart",
+          "glasses",
+          "with",
+          "a",
+          "radically",
+          "different",
+          "vision",
+          "glasses",
+          "that",
+          "remember",
+          "every",
+          "conversation",
+          ",",
+          "meeting",
+          ",",
+          "and",
+          "detail",
+          "of",
+          "your",
+          "life",
+          "while",
+          "weighing",
+          "half",
+          "as",
+          "much",
+          "as",
+          "ray-ban",
+          "smart",
+          "glasses",
+          ".",
+          "the",
+          "halo",
+          "nova",
+          ",",
+          "now",
+          "rebranded",
+          "as",
+          "mira",
+          ",",
+          "co-founders",
+          "gained",
+          "international",
+          "attention",
+          "when",
+          "their",
+          "fa"
+        ],
+        "filtered": [
+          "exclusive",
+          "dropped",
+          "harvard",
+          "dedicated",
+          "lives",
+          "building",
+          "thistheir",
+          "$",
+          "349",
+          "ai",
+          "hyper-intelligent",
+          "brain",
+          "rivals",
+          "meta",
+          ".",
+          "two",
+          "harvard",
+          "students",
+          "built",
+          "10",
+          "projects",
+          "together",
+          "makerspace",
+          "finding",
+          "one",
+          "made",
+          "drop",
+          "everything",
+          ".",
+          "caine",
+          "ardayfio",
+          "anhphu",
+          "nguyen",
+          "raised",
+          "$",
+          "6.6",
+          "million",
+          "challenge",
+          "metas",
+          "nasdaqmeta",
+          "dominance",
+          "smart",
+          "glasses",
+          "radically",
+          "different",
+          "vision",
+          "glasses",
+          "remember",
+          "every",
+          "conversation",
+          ",",
+          "meeting",
+          ",",
+          "detail",
+          "life",
+          "weighing",
+          "half",
+          "much",
+          "ray-ban",
+          "smart",
+          "glasses",
+          ".",
+          "halo",
+          "nova",
+          ",",
+          "rebranded",
+          "mira",
+          ",",
+          "co-founders",
+          "gained",
+          "international",
+          "attention",
+          "fa"
+        ],
+        "lemmatized": [
+          "exclusive",
+          "drop",
+          "harvard",
+          "dedicate",
+          "life",
+          "build",
+          "thistheir",
+          "$",
+          "349",
+          "ai",
+          "hyper-intelligent",
+          "brain",
+          "rival",
+          "meta",
+          ".",
+          "two",
+          "harvard",
+          "student",
+          "build",
+          "10",
+          "project",
+          "together",
+          "makerspace",
+          "find",
+          "one",
+          "make",
+          "drop",
+          "everything",
+          ".",
+          "caine",
+          "ardayfio",
+          "anhphu",
+          "nguyen",
+          "raise",
+          "$",
+          "6.6",
+          "million",
+          "challenge",
+          "metas",
+          "nasdaqmeta",
+          "dominance",
+          "smart",
+          "glass",
+          "radically",
+          "different",
+          "vision",
+          "glass",
+          "remember",
+          "every",
+          "conversation",
+          ",",
+          "meeting",
+          ",",
+          "detail",
+          "life",
+          "weigh",
+          "half",
+          "much",
+          "ray-ban",
+          "smart",
+          "glass",
+          ".",
+          "halo",
+          "nova",
+          ",",
+          "rebranded",
+          "mira",
+          ",",
+          "co-founders",
+          "gain",
+          "international",
+          "attention",
+          "fa"
+        ]
+      }
+    },
+    {
+      "article_id": "69651b02e2fc65e8",
+      "title": "Looking For Yields MAA, PepsiCo, And Mondelez International Are Consistent Moneymakers",
+      "body": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Mid-America Apartment Communities, PepsiCo, and Mondelez International have rewarded shareholders for years and recently ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.685613",
+      "url": "https://finnhub.io/api/news?id=bc1e4adb048ef18ca1b3f3d0c6a15bdc01f39dfdd75a2dd2e51693ea5f60983b",
+      "raw_text": "Looking For Yields MAA, PepsiCo, And Mondelez International Are Consistent Moneymakers. Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Mid-America Apartment Communities, PepsiCo, and Mondelez International have rewarded shareholders for years and recently ...",
+      "tickers_mentioned": "MAA,IP,PEP,MDLZ",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "MAA": [
+          "dividends and consistently hiking them remain appealing to income-focused investors. **Mid-America** Apartment Communities, PepsiCo, and Mondelez International have rewarded shareholders for"
+        ],
+        "IP": [],
+        "PEP": [],
+        "MDLZ": [
+          "Looking For Yields: MAA, PepsiCo, And **Mondelez** International Are Consistent Moneymakers. Companies with a long history of",
+          "remain appealing to income-focused investors. Mid-America Apartment Communities, PepsiCo, and **Mondelez** International have rewarded shareholders for years and recently ..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "PepsiCo",
+            "Mondelez International Are Consistent Moneymakers",
+            "Apartment Communities",
+            "Mondelez"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "pepsico",
+            2
+          ],
+          [
+            "mondelez",
+            2
+          ],
+          [
+            "international",
+            2
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "yield",
+            1
+          ],
+          [
+            "maa",
+            1
+          ],
+          [
+            "consistent",
+            1
+          ],
+          [
+            "moneymaker",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "long",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "looking",
+          "for",
+          "yields",
+          "maa",
+          ",",
+          "pepsico",
+          ",",
+          "and",
+          "mondelez",
+          "international",
+          "are",
+          "consistent",
+          "moneymakers",
+          ".",
+          "companies",
+          "with",
+          "a",
+          "long",
+          "history",
+          "of",
+          "paying",
+          "dividends",
+          "and",
+          "consistently",
+          "hiking",
+          "them",
+          "remain",
+          "appealing",
+          "to",
+          "income-focused",
+          "investors",
+          ".",
+          "mid-america",
+          "apartment",
+          "communities",
+          ",",
+          "pepsico",
+          ",",
+          "and",
+          "mondelez",
+          "international",
+          "have",
+          "rewarded",
+          "shareholders",
+          "for",
+          "years",
+          "and",
+          "recently",
+          "..."
+        ],
+        "filtered": [
+          "looking",
+          "yields",
+          "maa",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "consistent",
+          "moneymakers",
+          ".",
+          "companies",
+          "long",
+          "history",
+          "paying",
+          "dividends",
+          "consistently",
+          "hiking",
+          "remain",
+          "appealing",
+          "income-focused",
+          "investors",
+          ".",
+          "mid-america",
+          "apartment",
+          "communities",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "rewarded",
+          "shareholders",
+          "years",
+          "recently",
+          "..."
+        ],
+        "lemmatized": [
+          "look",
+          "yield",
+          "maa",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "consistent",
+          "moneymaker",
+          ".",
+          "company",
+          "long",
+          "history",
+          "pay",
+          "dividend",
+          "consistently",
+          "hike",
+          "remain",
+          "appeal",
+          "income-focused",
+          "investor",
+          ".",
+          "mid-america",
+          "apartment",
+          "community",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "reward",
+          "shareholder",
+          "year",
+          "recently",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "07677d9f6a5e4f6f",
+      "title": "WW International First Normal Quarter Shows Signs Of Stability",
+      "body": "WW International is stabilizing their business after a voluntary chapter 11 filing, and Clinical growth appears on track to driving top line growth again in 2H-26.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:48:38.589653",
+      "url": "https://finnhub.io/api/news?id=275ed28056036d2da6362a7437d9367dd8f4b9b0fb613d133fc9ef3f7f228546",
+      "raw_text": "WW International First Normal Quarter Shows Signs Of Stability. WW International is stabilizing their business after a voluntary chapter 11 filing, and Clinical growth appears on track to driving top line growth again in 2H-26.",
+      "tickers_mentioned": "IP,FSLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "IP": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Clinical"
+          ],
+          "ORGANIZATION": [
+            "WW",
+            "WW International"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "quarter"
+          ]
+        },
+        "numbers": [
+          "11",
+          "26"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "international",
+            2
+          ],
+          [
+            "growth",
+            2
+          ],
+          [
+            "first",
+            1
+          ],
+          [
+            "normal",
+            1
+          ],
+          [
+            "quarter",
+            1
+          ],
+          [
+            "show",
+            1
+          ],
+          [
+            "sign",
+            1
+          ],
+          [
+            "stability",
+            1
+          ],
+          [
+            "stabilizing",
+            1
+          ],
+          [
+            "business",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ww",
+          "international",
+          "first",
+          "normal",
+          "quarter",
+          "shows",
+          "signs",
+          "of",
+          "stability",
+          ".",
+          "ww",
+          "international",
+          "is",
+          "stabilizing",
+          "their",
+          "business",
+          "after",
+          "a",
+          "voluntary",
+          "chapter",
+          "11",
+          "filing",
+          ",",
+          "and",
+          "clinical",
+          "growth",
+          "appears",
+          "on",
+          "track",
+          "to",
+          "driving",
+          "top",
+          "line",
+          "growth",
+          "again",
+          "in",
+          "2h-26",
+          "."
+        ],
+        "filtered": [
+          "ww",
+          "international",
+          "first",
+          "normal",
+          "quarter",
+          "shows",
+          "signs",
+          "stability",
+          ".",
+          "ww",
+          "international",
+          "stabilizing",
+          "business",
+          "voluntary",
+          "chapter",
+          "11",
+          "filing",
+          ",",
+          "clinical",
+          "growth",
+          "appears",
+          "track",
+          "driving",
+          "top",
+          "line",
+          "growth",
+          "2h-26",
+          "."
+        ],
+        "lemmatized": [
+          "ww",
+          "international",
+          "first",
+          "normal",
+          "quarter",
+          "show",
+          "sign",
+          "stability",
+          ".",
+          "ww",
+          "international",
+          "stabilizing",
+          "business",
+          "voluntary",
+          "chapter",
+          "11",
+          "filing",
+          ",",
+          "clinical",
+          "growth",
+          "appear",
+          "track",
+          "drive",
+          "top",
+          "line",
+          "growth",
+          "2h-26",
+          "."
+        ]
+      }
+    }
+  ]
+}

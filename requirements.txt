@@ -8,7 +8,7 @@ nltk==3.8.1
 #spacy==3.7.2
 
 # Database
-psycopg2-binary==2.9.9
+psycopg2-binary>=2.9.10
 pymongo==4.6.1
 
 # Caching
@@ -18,7 +18,7 @@ redis==5.0.1
 celery==5.3.4
 
 # Data Processing
-pandas==2.1.4
+pandas>=2.2.0
 python-dateutil==2.8.2
 
 # Environment Variables

@@ -10,6 +10,82 @@ import sys
 import os
 from datetime import datetime
 import logging
+import json 
+
+# Add after other imports
+import json
+import nltk
+import ssl
+
+# Fix SSL certificate issues (common on macOS)
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+# Download with explicit path
+nltk.download('maxent_ne_chunker', download_dir='/Users/vanshikasrivastava/nltk_data')
+nltk.download('words', download_dir='/Users/vanshikasrivastava/nltk_data')
+nltk.download('averaged_perceptron_tagger', download_dir='/Users/vanshikasrivastava/nltk_data')
+nltk.download('punkt', download_dir='/Users/vanshikasrivastava/nltk_data')
+nltk.download('punkt_tab', download_dir='/Users/vanshikasrivastava/nltk_data')
+# Still in Python
+from nltk.chunk import ne_chunk
+from nltk.tag import pos_tag
+from nltk.tokenize import word_tokenize
+
+text = "Apple Inc is based in California"
+tokens = word_tokenize(text)
+tagged = pos_tag(tokens)
+entities = ne_chunk(tagged)
+print(entities)
+
+
+def export_articles_for_person_2(processed_articles):
+    """
+    Export processed articles for sentiment analysis in the format used by export_for_person_2.
+    This will create one file per ticker + one file for all articles in export_for_person2/ folder.
+    """
+    # Ensure the export folder exists
+    export_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "export_for_person2")
+    os.makedirs(export_dir, exist_ok=True)
+
+    articles_by_ticker = {}
+    for article in processed_articles:
+        tickers = article.get('tickers_mentioned', '')
+        ticker_list = [t.strip() for t in tickers.split(',')] if tickers else ['general']
+        for ticker in ticker_list:
+            ticker_lc = ticker.lower()
+            articles_by_ticker.setdefault(ticker_lc, []).append(article)
+
+    # Export each ticker's articles
+    for ticker, articles in articles_by_ticker.items():
+        file_name = f"{ticker}_articles.json"
+        file_path = os.path.join(export_dir, file_name)
+        data = {
+            "count": len(articles),
+            "articles": articles
+        }
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
+    # Export all recent articles
+    all_file_name = "all_recent_articles.json"
+    all_file_path = os.path.join(export_dir, all_file_name)
+    data_all = {
+        "count": len(processed_articles),
+        "articles": processed_articles
+    }
+    with open(all_file_path, "w", encoding="utf-8") as f:
+        json.dump(data_all, f, indent=2, ensure_ascii=False)
+
+    print("\n✓ Real-time export complete for Person 2 format!")
+    print("Files created in export_for_person2 directory:")
+    for ticker in articles_by_ticker:
+        print(f"   - {os.path.join('export_for_person2', f'{ticker}_articles.json')}")
+    print("   - export_for_person2/all_recent_articles.json")
 
 # Add parent directory to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -205,7 +281,7 @@ class NewsScheduler:
             
             # Step 4: Update cache
             logger.info("\n4️⃣ Updating cache...")
-
+            export_articles_for_person_2(processed_articles)
             # Prepare data structure for cache_multiple_tickers (which takes a dict: {ticker: [articles]})
             articles_by_ticker = {}
 

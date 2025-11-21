@@ -1,0 +1,237 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "897c710ef9390aa9",
+      "title": "BAX INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Baxter International",
+      "body": "Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Baxter To Contact Him Directly To Discuss Their Options If you purchased or acq 3817 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:48:19.709602",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192299/683/en/BAX-INVESTOR-NOTICE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Baxter-International.html",
+      "raw_text": "BAX INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Baxter International. Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Baxter To Contact Him Directly To Discuss Their Options If you purchased or acq 3817 chars",
+      "tickers_mentioned": "BAX,IP",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "BAX": [
+          "& Faruqi, LLP Investigates Claims on Behalf of Investors of **Baxter** International. Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh)"
+        ],
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Faruqi",
+            "Wilson Encourages"
+          ],
+          "ORGANIZATION": [
+            "BAX",
+            "LLP",
+            "Baxter International",
+            "LLP Securities Litigation Partner James",
+            "Josh",
+            "Contact Him"
+          ],
+          "GPE": [
+            "Faruqi",
+            "Losses",
+            "Baxter"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "3817"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "faruqi",
+            4
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "llp",
+            2
+          ],
+          [
+            "baxter",
+            2
+          ],
+          [
+            "bax",
+            1
+          ],
+          [
+            "notice",
+            1
+          ],
+          [
+            "investigates",
+            1
+          ],
+          [
+            "claim",
+            1
+          ],
+          [
+            "behalf",
+            1
+          ],
+          [
+            "international",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "on",
+          "behalf",
+          "of",
+          "investors",
+          "of",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "who",
+          "suffered",
+          "losses",
+          "in",
+          "baxter",
+          "to",
+          "contact",
+          "him",
+          "directly",
+          "to",
+          "discuss",
+          "their",
+          "options",
+          "if",
+          "you",
+          "purchased",
+          "or",
+          "acq",
+          "3817",
+          "chars"
+        ],
+        "filtered": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "behalf",
+          "investors",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "suffered",
+          "losses",
+          "baxter",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchased",
+          "acq",
+          "3817",
+          "chars"
+        ],
+        "lemmatized": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claim",
+          "behalf",
+          "investor",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investor",
+          "suffer",
+          "loss",
+          "baxter",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchase",
+          "acq",
+          "3817",
+          "char"
+        ]
+      }
+    }
+  ]
+}

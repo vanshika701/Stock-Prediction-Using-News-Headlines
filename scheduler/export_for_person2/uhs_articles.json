@@ -1,0 +1,790 @@
+{
+  "count": 3,
+  "articles": [
+    {
+      "article_id": "ecf7348fbcc26f14",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:21.020352",
+      "url": "https://www.benzinga.com/pressreleases/25/11/g48967527/bitget-shatters-new-milestone-with-5b-in-stock-futures-cumulative-trading-volume",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "tickers_mentioned": "FAST,UHS,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "UHS": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Seychelles",
+            "Universal Exchange"
+          ],
+          "ORGANIZATION": [
+            "Shatters New",
+            "VICTORIA",
+            "GLOBE",
+            "UEX"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5B",
+          "19",
+          "2025",
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "milestone",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "cumulative",
+            2
+          ],
+          [
+            "trading",
+            2
+          ],
+          [
+            "volume",
+            2
+          ],
+          [
+            "shatters",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "the",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "a",
+          "new",
+          "milestone",
+          "for",
+          "its",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "in",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "world",
+          "large",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announce",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4354a0bb80a892aa",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget , the worlds largest Universal Exchange UEX, today announced a new milestone for its fast-growing stock futures product line, surpass 4604 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:48:24.642466",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3191562/0/en/Bitget-Shatters-New-Milestone-with-5B-in-Stock-Futures-Cumulative-Trading-Volume.html",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget , the worlds largest Universal Exchange UEX, today announced a new milestone for its fast-growing stock futures product line, surpass 4604 chars",
+      "tickers_mentioned": "FAST,UHS,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "UHS": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Seychelles",
+            "Universal Exchange"
+          ],
+          "ORGANIZATION": [
+            "Shatters New",
+            "VICTORIA",
+            "GLOBE",
+            "UEX"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5B",
+          "19",
+          "2025",
+          "4604"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "milestone",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "shatters",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "dollar",
+            1
+          ],
+          [
+            "cumulative",
+            1
+          ],
+          [
+            "trading",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "the",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "a",
+          "new",
+          "milestone",
+          "for",
+          "its",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "4604",
+          "chars"
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "4604",
+          "chars"
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "world",
+          "large",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announce",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "4604",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "ecf7348fbcc26f14",
+      "title": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume",
+      "body": "VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:25.639820",
+      "url": "https://www.benzinga.com/pressreleases/25/11/g48967527/bitget-shatters-new-milestone-with-5b-in-stock-futures-cumulative-trading-volume",
+      "raw_text": "Bitget Shatters New Milestone with 5 billion dollars in Stock Futures Cumulative Trading Volume. VICTORIA, Seychelles, Nov. 19, 2025 GLOBE NEWSWIRE -- Bitget, the worlds largest Universal Exchange UEX , today announced a new milestone for its fast-growing stock futures product line, surpassing $5 billion in cumulative trading volume.",
+      "tickers_mentioned": "FAST,UHS,GL",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FAST": [],
+        "UHS": [],
+        "GL": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitget",
+            "Futures Cumulative",
+            "Volume",
+            "Seychelles",
+            "Universal Exchange"
+          ],
+          "ORGANIZATION": [
+            "Shatters New",
+            "VICTORIA",
+            "GLOBE",
+            "UEX"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "5B",
+          "19",
+          "2025",
+          "5"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "bitget",
+            2
+          ],
+          [
+            "new",
+            2
+          ],
+          [
+            "milestone",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "futures",
+            2
+          ],
+          [
+            "cumulative",
+            2
+          ],
+          [
+            "trading",
+            2
+          ],
+          [
+            "volume",
+            2
+          ],
+          [
+            "shatters",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "with",
+          "5",
+          "billion",
+          "dollars",
+          "in",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "the",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "a",
+          "new",
+          "milestone",
+          "for",
+          "its",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "in",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "filtered": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollars",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "worlds",
+          "largest",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announced",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpassing",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ],
+        "lemmatized": [
+          "bitget",
+          "shatters",
+          "new",
+          "milestone",
+          "5",
+          "billion",
+          "dollar",
+          "stock",
+          "futures",
+          "cumulative",
+          "trading",
+          "volume",
+          ".",
+          "victoria",
+          ",",
+          "seychelles",
+          ",",
+          "nov.",
+          "19",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "bitget",
+          ",",
+          "world",
+          "large",
+          "universal",
+          "exchange",
+          "uex",
+          ",",
+          "today",
+          "announce",
+          "new",
+          "milestone",
+          "fast-growing",
+          "stock",
+          "futures",
+          "product",
+          "line",
+          ",",
+          "surpass",
+          "$",
+          "5",
+          "billion",
+          "cumulative",
+          "trading",
+          "volume",
+          "."
+        ]
+      }
+    }
+  ]
+}

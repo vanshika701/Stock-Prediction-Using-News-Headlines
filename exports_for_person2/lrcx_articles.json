@@ -1,0 +1,949 @@
+{
+  "count": 4,
+  "articles": [
+    {
+      "article_id": "d99151ea61077e91",
+      "title": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update",
+      "body": "GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:44.328482",
+      "url": "https://finnhub.io/api/news?id=b05438074d046bb3e4c76ce9412b9f313458cdfe24056dbddb7b2b3d89563f27",
+      "raw_text": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update. GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "tickers_mentioned": "LRCX,GOOG,COF,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LRCX": [
+          "portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and **Lam** Research as top holdings. Learn more about the portfolio here."
+        ],
+        "GOOG": [],
+        "COF": [],
+        "MSFT": [
+          "Update. GMO's Q3 2025 13F portfolio rose to $35.46B, with **Microsoft,** Alphabet, Meta, Apple, and Lam Research as top holdings. Learn"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeremy Grantham",
+            "Microsoft",
+            "Apple",
+            "Lam Research"
+          ],
+          "ORGANIZATION": [
+            "GMO Capital Portfolio",
+            "GMO",
+            "Meta"
+          ],
+          "GPE": [
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "2025",
+          "35.46B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "portfolio",
+            3
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "track",
+            1
+          ],
+          [
+            "jeremy",
+            1
+          ],
+          [
+            "granthams",
+            1
+          ],
+          [
+            "gmo",
+            1
+          ],
+          [
+            "capital",
+            1
+          ],
+          [
+            "update",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "to",
+          "$",
+          "35.46b",
+          ",",
+          "with",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "and",
+          "lam",
+          "research",
+          "as",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "the",
+          "portfolio",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ],
+        "lemmatized": [
+          "track",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rise",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "d99151ea61077e91",
+      "title": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update",
+      "body": "GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:50.846023",
+      "url": "https://finnhub.io/api/news?id=b05438074d046bb3e4c76ce9412b9f313458cdfe24056dbddb7b2b3d89563f27",
+      "raw_text": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update. GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "tickers_mentioned": "LRCX,GOOG,COF,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LRCX": [
+          "portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and **Lam** Research as top holdings. Learn more about the portfolio here."
+        ],
+        "GOOG": [],
+        "COF": [],
+        "MSFT": [
+          "Update. GMO's Q3 2025 13F portfolio rose to $35.46B, with **Microsoft,** Alphabet, Meta, Apple, and Lam Research as top holdings. Learn"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeremy Grantham",
+            "Microsoft",
+            "Apple",
+            "Lam Research"
+          ],
+          "ORGANIZATION": [
+            "GMO Capital Portfolio",
+            "GMO",
+            "Meta"
+          ],
+          "GPE": [
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "2025",
+          "35.46B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "portfolio",
+            3
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "track",
+            1
+          ],
+          [
+            "jeremy",
+            1
+          ],
+          [
+            "granthams",
+            1
+          ],
+          [
+            "gmo",
+            1
+          ],
+          [
+            "capital",
+            1
+          ],
+          [
+            "update",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "to",
+          "$",
+          "35.46b",
+          ",",
+          "with",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "and",
+          "lam",
+          "research",
+          "as",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "the",
+          "portfolio",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ],
+        "lemmatized": [
+          "track",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rise",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "d99151ea61077e91",
+      "title": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update",
+      "body": "GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:53.613072",
+      "url": "https://finnhub.io/api/news?id=b05438074d046bb3e4c76ce9412b9f313458cdfe24056dbddb7b2b3d89563f27",
+      "raw_text": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update. GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "tickers_mentioned": "LRCX,GOOG,COF,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LRCX": [
+          "portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and **Lam** Research as top holdings. Learn more about the portfolio here."
+        ],
+        "GOOG": [],
+        "COF": [],
+        "MSFT": [
+          "Update. GMO's Q3 2025 13F portfolio rose to $35.46B, with **Microsoft,** Alphabet, Meta, Apple, and Lam Research as top holdings. Learn"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeremy Grantham",
+            "Microsoft",
+            "Apple",
+            "Lam Research"
+          ],
+          "ORGANIZATION": [
+            "GMO Capital Portfolio",
+            "GMO",
+            "Meta"
+          ],
+          "GPE": [
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "2025",
+          "35.46B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "portfolio",
+            3
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "track",
+            1
+          ],
+          [
+            "jeremy",
+            1
+          ],
+          [
+            "granthams",
+            1
+          ],
+          [
+            "gmo",
+            1
+          ],
+          [
+            "capital",
+            1
+          ],
+          [
+            "update",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "to",
+          "$",
+          "35.46b",
+          ",",
+          "with",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "and",
+          "lam",
+          "research",
+          "as",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "the",
+          "portfolio",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ],
+        "lemmatized": [
+          "track",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rise",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "d99151ea61077e91",
+      "title": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update",
+      "body": "GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:56.777653",
+      "url": "https://finnhub.io/api/news?id=b05438074d046bb3e4c76ce9412b9f313458cdfe24056dbddb7b2b3d89563f27",
+      "raw_text": "Tracking Jeremy Granthams GMO Capital Portfolio - third quarter 2025 Update. GMOs third quarter 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "tickers_mentioned": "LRCX,GOOG,COF,MSFT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LRCX": [
+          "portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and **Lam** Research as top holdings. Learn more about the portfolio here."
+        ],
+        "GOOG": [],
+        "COF": [],
+        "MSFT": [
+          "Update. GMO's Q3 2025 13F portfolio rose to $35.46B, with **Microsoft,** Alphabet, Meta, Apple, and Lam Research as top holdings. Learn"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jeremy Grantham",
+            "Microsoft",
+            "Apple",
+            "Lam Research"
+          ],
+          "ORGANIZATION": [
+            "GMO Capital Portfolio",
+            "GMO",
+            "Meta"
+          ],
+          "GPE": [
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "2025",
+          "2025",
+          "35.46B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "portfolio",
+            3
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "track",
+            1
+          ],
+          [
+            "jeremy",
+            1
+          ],
+          [
+            "granthams",
+            1
+          ],
+          [
+            "gmo",
+            1
+          ],
+          [
+            "capital",
+            1
+          ],
+          [
+            "update",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 8,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "to",
+          "$",
+          "35.46b",
+          ",",
+          "with",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "and",
+          "lam",
+          "research",
+          "as",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "about",
+          "the",
+          "portfolio",
+          "here",
+          "."
+        ],
+        "filtered": [
+          "tracking",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rose",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ],
+        "lemmatized": [
+          "track",
+          "jeremy",
+          "granthams",
+          "gmo",
+          "capital",
+          "portfolio",
+          "-",
+          "third",
+          "quarter",
+          "2025",
+          "update",
+          ".",
+          "gmos",
+          "third",
+          "quarter",
+          "2025",
+          "13f",
+          "portfolio",
+          "rise",
+          "$",
+          "35.46b",
+          ",",
+          "microsoft",
+          ",",
+          "alphabet",
+          ",",
+          "meta",
+          ",",
+          "apple",
+          ",",
+          "lam",
+          "research",
+          "top",
+          "holdings",
+          ".",
+          "learn",
+          "more",
+          "portfolio",
+          "."
+        ]
+      }
+    }
+  ]
+}

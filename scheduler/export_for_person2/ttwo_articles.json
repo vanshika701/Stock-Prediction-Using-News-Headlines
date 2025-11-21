@@ -1,0 +1,175 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "3b6e97ea24d49d63",
+      "title": "Take-Two CEO says consoles are not going away, but gaming is moving toward PCs",
+      "body": "Take-Two CEO says consoles are not going away, but gaming is moving toward PCs.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:48:31.616958",
+      "url": "https://finnhub.io/api/news?id=cb66e423f048121ba871eb2bf9f5b416358b89601a8cbb928de4f1c6461dd602",
+      "raw_text": "Take-Two CEO says consoles are not going away, but gaming is moving toward PCs. Take-Two CEO says consoles are not going away, but gaming is moving toward PCs.",
+      "tickers_mentioned": "TTWO",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TTWO": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "PCs"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "take-two",
+            2
+          ],
+          [
+            "ceo",
+            2
+          ],
+          [
+            "say",
+            2
+          ],
+          [
+            "console",
+            2
+          ],
+          [
+            "not",
+            2
+          ],
+          [
+            "away",
+            2
+          ],
+          [
+            "game",
+            2
+          ],
+          [
+            "move",
+            2
+          ],
+          [
+            "toward",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 1,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "take-two",
+          "ceo",
+          "says",
+          "consoles",
+          "are",
+          "not",
+          "going",
+          "away",
+          ",",
+          "but",
+          "gaming",
+          "is",
+          "moving",
+          "toward",
+          "pcs",
+          ".",
+          "take-two",
+          "ceo",
+          "says",
+          "consoles",
+          "are",
+          "not",
+          "going",
+          "away",
+          ",",
+          "but",
+          "gaming",
+          "is",
+          "moving",
+          "toward",
+          "pcs",
+          "."
+        ],
+        "filtered": [
+          "take-two",
+          "ceo",
+          "says",
+          "consoles",
+          "not",
+          "going",
+          "away",
+          ",",
+          "gaming",
+          "moving",
+          "toward",
+          "pcs",
+          ".",
+          "take-two",
+          "ceo",
+          "says",
+          "consoles",
+          "not",
+          "going",
+          "away",
+          ",",
+          "gaming",
+          "moving",
+          "toward",
+          "pcs",
+          "."
+        ],
+        "lemmatized": [
+          "take-two",
+          "ceo",
+          "say",
+          "console",
+          "not",
+          "go",
+          "away",
+          ",",
+          "game",
+          "move",
+          "toward",
+          "pc",
+          ".",
+          "take-two",
+          "ceo",
+          "say",
+          "console",
+          "not",
+          "go",
+          "away",
+          ",",
+          "game",
+          "move",
+          "toward",
+          "pc",
+          "."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "7ed032af178d485d",
+      "title": "Liberty All-Star Growth Fund, Inc. October 2025 Monthly Update",
+      "body": "BOSTON, November 14, 2025--Liberty All-Star Growth Fund, Inc. October 2025 Monthly Update",
+      "source": "Yahoo",
+      "timestamp": "2025-11-21T23:53:31.412482",
+      "url": "https://finnhub.io/api/news?id=4b965a227e780281fe6af7b28de74e3ec853875d9f572e633ca7ca24833be4e6",
+      "raw_text": "Liberty All-Star Growth Fund, Inc. October 2025 Monthly Update. BOSTON, November 14, 2025--Liberty All-Star Growth Fund, Inc. October 2025 Monthly Update",
+      "tickers_mentioned": "BSX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "BSX": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Liberty",
+            "Monthly Update"
+          ],
+          "ORGANIZATION": [
+            "BOSTON",
+            "Growth Fund"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2025",
+          "14",
+          "2025",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [
+          "November 14, 2025"
+        ],
+        "top_words": [
+          [
+            "2025",
+            3
+          ],
+          [
+            "liberty",
+            2
+          ],
+          [
+            "all-star",
+            2
+          ],
+          [
+            "growth",
+            2
+          ],
+          [
+            "fund",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "october",
+            2
+          ],
+          [
+            "monthly",
+            2
+          ],
+          [
+            "update",
+            2
+          ],
+          [
+            "boston",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 1
+        }
+      },
+      "tokens": {
+        "original": [
+          "liberty",
+          "all-star",
+          "growth",
+          "fund",
+          ",",
+          "inc.",
+          "october",
+          "2025",
+          "monthly",
+          "update",
+          ".",
+          "boston",
+          ",",
+          "november",
+          "14",
+          ",",
+          "2025",
+          "--",
+          "liberty",
+          "all-star",
+          "growth",
+          "fund",
+          ",",
+          "inc.",
+          "october",
+          "2025",
+          "monthly",
+          "update"
+        ],
+        "filtered": [
+          "liberty",
+          "all-star",
+          "growth",
+          "fund",
+          ",",
+          "inc.",
+          "october",
+          "2025",
+          "monthly",
+          "update",
+          ".",
+          "boston",
+          ",",
+          "november",
+          "14",
+          ",",
+          "2025",
+          "--",
+          "liberty",
+          "all-star",
+          "growth",
+          "fund",
+          ",",
+          "inc.",
+          "october",
+          "2025",
+          "monthly",
+          "update"
+        ],
+        "lemmatized": [
+          "liberty",
+          "all-star",
+          "growth",
+          "fund",
+          ",",
+          "inc.",
+          "october",
+          "2025",
+          "monthly",
+          "update",
+          ".",
+          "boston",
+          ",",
+          "november",
+          "14",
+          ",",
+          "2025",
+          "--",
+          "liberty",
+          "all-star",
+          "growth",
+          "fund",
+          ",",
+          "inc.",
+          "october",
+          "2025",
+          "monthly",
+          "update"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "2d5d59dc68a88a4f",
+      "title": "If You would Invested $5,000 in Tesla TSLA 5 Years Ago, here is How Much You would Have Today",
+      "body": "Key Points-Investors in Tesla shares over the past five years have achieved a monster gain.-The companys higher revenue base has been a key contributor to the stocks performance.Tesla NASDAQ TSLA 142 chars",
+      "source": "Biztoc.com",
+      "timestamp": "2025-11-22T00:25:45.513804",
+      "url": "https://biztoc.com/x/0d7dc96687bb7b29",
+      "raw_text": "If You would Invested $5,000 in Tesla TSLA 5 Years Ago, here is How Much You would Have Today. Key Points-Investors in Tesla shares over the past five years have achieved a monster gain.-The companys higher revenue base has been a key contributor to the stocks performance.Tesla NASDAQ TSLA 142 chars",
+      "tickers_mentioned": "TSLA,MNST",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "TSLA": [],
+        "MNST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "TSLA",
+            "Key",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Tesla"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "5",
+          "000",
+          "5",
+          "142"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "would",
+            2
+          ],
+          [
+            "tesla",
+            2
+          ],
+          [
+            "tsla",
+            2
+          ],
+          [
+            "year",
+            2
+          ],
+          [
+            "key",
+            2
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "5,000",
+            1
+          ],
+          [
+            "ago",
+            1
+          ],
+          [
+            "much",
+            1
+          ],
+          [
+            "today",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "if",
+          "you",
+          "would",
+          "invested",
+          "$",
+          "5,000",
+          "in",
+          "tesla",
+          "tsla",
+          "5",
+          "years",
+          "ago",
+          ",",
+          "here",
+          "is",
+          "how",
+          "much",
+          "you",
+          "would",
+          "have",
+          "today",
+          ".",
+          "key",
+          "points-investors",
+          "in",
+          "tesla",
+          "shares",
+          "over",
+          "the",
+          "past",
+          "five",
+          "years",
+          "have",
+          "achieved",
+          "a",
+          "monster",
+          "gain.-the",
+          "companys",
+          "higher",
+          "revenue",
+          "base",
+          "has",
+          "been",
+          "a",
+          "key",
+          "contributor",
+          "to",
+          "the",
+          "stocks",
+          "performance.tesla",
+          "nasdaq",
+          "tsla",
+          "142",
+          "chars"
+        ],
+        "filtered": [
+          "would",
+          "invested",
+          "$",
+          "5,000",
+          "tesla",
+          "tsla",
+          "5",
+          "years",
+          "ago",
+          ",",
+          "much",
+          "would",
+          "today",
+          ".",
+          "key",
+          "points-investors",
+          "tesla",
+          "shares",
+          "over",
+          "past",
+          "five",
+          "years",
+          "achieved",
+          "monster",
+          "gain.-the",
+          "companys",
+          "higher",
+          "revenue",
+          "base",
+          "key",
+          "contributor",
+          "stocks",
+          "performance.tesla",
+          "nasdaq",
+          "tsla",
+          "142",
+          "chars"
+        ],
+        "lemmatized": [
+          "would",
+          "invest",
+          "$",
+          "5,000",
+          "tesla",
+          "tsla",
+          "5",
+          "year",
+          "ago",
+          ",",
+          "much",
+          "would",
+          "today",
+          ".",
+          "key",
+          "points-investors",
+          "tesla",
+          "shares",
+          "over",
+          "past",
+          "five",
+          "year",
+          "achieve",
+          "monster",
+          "gain.-the",
+          "company",
+          "high",
+          "revenue",
+          "base",
+          "key",
+          "contributor",
+          "stock",
+          "performance.tesla",
+          "nasdaq",
+          "tsla",
+          "142",
+          "char"
+        ]
+      }
+    }
+  ]
+}

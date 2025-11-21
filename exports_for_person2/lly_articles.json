@@ -1,0 +1,1670 @@
+{
+  "count": 9,
+  "articles": [
+    {
+      "article_id": "6e4592edb278623b",
+      "title": "Eli Lilly hits $1 trillion market value, a first for a health-care company",
+      "body": "The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:43.574432",
+      "url": "https://finnhub.io/api/news?id=109642ba6b3309fa0006a9afd858dd08900330a1df25478c5e1e91995636ee77",
+      "raw_text": "Eli Lilly hits $1 trillion market value, a first for a health-care company. The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "tickers_mentioned": "LLY,FSLR",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LLY": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli",
+            "Eli Lilly",
+            "Zepbound"
+          ],
+          "ORGANIZATION": [
+            "Lilly"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "eli",
+            2
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "first",
+            1
+          ],
+          [
+            "health-care",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "pharmaceutical",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "a",
+          "first",
+          "for",
+          "a",
+          "health-care",
+          "company",
+          ".",
+          "the",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "has",
+          "been",
+          "riding",
+          "the",
+          "skyrocketing",
+          "demand",
+          "for",
+          "its",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "and",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "filtered": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "riding",
+          "skyrocketing",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "lemmatized": [
+          "eli",
+          "lilly",
+          "hit",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "rid",
+          "skyrocket",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "da0f88c4224ed6d3",
+      "title": "Eli Lilly Could Be Next Company to Split Its Stock",
+      "body": "The drugmakers stock checks all the boxes for a split. the price keeps climbing, the company is on fire, and its a bull market.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:44.819977",
+      "url": "https://finnhub.io/api/news?id=5f0d331e1633811d3f46a1a03f46905b4ce7878dabd760691263cbfe65da4dfd",
+      "raw_text": "Eli Lilly Could Be Next Company to Split Its Stock. The drugmakers stock checks all the boxes for a split. the price keeps climbing, the company is on fire, and its a bull market.",
+      "tickers_mentioned": "LLY",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LLY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli",
+            "Lilly Could Be Next"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "company",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "eli",
+            1
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "drugmakers",
+            1
+          ],
+          [
+            "check",
+            1
+          ],
+          [
+            "box",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "eli",
+          "lilly",
+          "could",
+          "be",
+          "next",
+          "company",
+          "to",
+          "split",
+          "its",
+          "stock",
+          ".",
+          "the",
+          "drugmakers",
+          "stock",
+          "checks",
+          "all",
+          "the",
+          "boxes",
+          "for",
+          "a",
+          "split",
+          ".",
+          "the",
+          "price",
+          "keeps",
+          "climbing",
+          ",",
+          "the",
+          "company",
+          "is",
+          "on",
+          "fire",
+          ",",
+          "and",
+          "its",
+          "a",
+          "bull",
+          "market",
+          "."
+        ],
+        "filtered": [
+          "eli",
+          "lilly",
+          "could",
+          "next",
+          "company",
+          "split",
+          "stock",
+          ".",
+          "drugmakers",
+          "stock",
+          "checks",
+          "boxes",
+          "split",
+          ".",
+          "price",
+          "keeps",
+          "climbing",
+          ",",
+          "company",
+          "fire",
+          ",",
+          "bull",
+          "market",
+          "."
+        ],
+        "lemmatized": [
+          "eli",
+          "lilly",
+          "could",
+          "next",
+          "company",
+          "split",
+          "stock",
+          ".",
+          "drugmakers",
+          "stock",
+          "check",
+          "box",
+          "split",
+          ".",
+          "price",
+          "keep",
+          "climb",
+          ",",
+          "company",
+          "fire",
+          ",",
+          "bull",
+          "market",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "97779ad515159de0",
+      "title": "Prediction This Will Be Wall Streets Next Trillion-Dollar Stock",
+      "body": "Drugs for weight loss and diabetes are taking Eli Lilly to new heights.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:45.061792",
+      "url": "https://finnhub.io/api/news?id=827e2ccf96452c67e133ea43b8caeb54a32763895b6f9dd5dd7dff956976e272",
+      "raw_text": "Prediction This Will Be Wall Streets Next Trillion-Dollar Stock. Drugs for weight loss and diabetes are taking Eli Lilly to new heights.",
+      "tickers_mentioned": "DLTR,LLY",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "DLTR": [],
+        "LLY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Drugs",
+            "Eli Lilly"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "prediction",
+            1
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "drug",
+            1
+          ],
+          [
+            "weight",
+            1
+          ],
+          [
+            "loss",
+            1
+          ],
+          [
+            "diabetes",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "prediction",
+          "this",
+          "will",
+          "be",
+          "wall",
+          "streets",
+          "next",
+          "trillion-dollar",
+          "stock",
+          ".",
+          "drugs",
+          "for",
+          "weight",
+          "loss",
+          "and",
+          "diabetes",
+          "are",
+          "taking",
+          "eli",
+          "lilly",
+          "to",
+          "new",
+          "heights",
+          "."
+        ],
+        "filtered": [
+          "prediction",
+          "wall",
+          "streets",
+          "next",
+          "trillion-dollar",
+          "stock",
+          ".",
+          "drugs",
+          "weight",
+          "loss",
+          "diabetes",
+          "taking",
+          "eli",
+          "lilly",
+          "new",
+          "heights",
+          "."
+        ],
+        "lemmatized": [
+          "prediction",
+          "wall",
+          "street",
+          "next",
+          "trillion-dollar",
+          "stock",
+          ".",
+          "drug",
+          "weight",
+          "loss",
+          "diabetes",
+          "take",
+          "eli",
+          "lilly",
+          "new",
+          "height",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "6e4592edb278623b",
+      "title": "Eli Lilly hits $1 trillion market value, a first for a health-care company",
+      "body": "The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:49.437707",
+      "url": "https://finnhub.io/api/news?id=109642ba6b3309fa0006a9afd858dd08900330a1df25478c5e1e91995636ee77",
+      "raw_text": "Eli Lilly hits $1 trillion market value, a first for a health-care company. The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "tickers_mentioned": "LLY,FSLR",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LLY": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli",
+            "Eli Lilly",
+            "Zepbound"
+          ],
+          "ORGANIZATION": [
+            "Lilly"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "eli",
+            2
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "first",
+            1
+          ],
+          [
+            "health-care",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "pharmaceutical",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "a",
+          "first",
+          "for",
+          "a",
+          "health-care",
+          "company",
+          ".",
+          "the",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "has",
+          "been",
+          "riding",
+          "the",
+          "skyrocketing",
+          "demand",
+          "for",
+          "its",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "and",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "filtered": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "riding",
+          "skyrocketing",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "lemmatized": [
+          "eli",
+          "lilly",
+          "hit",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "rid",
+          "skyrocket",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "97779ad515159de0",
+      "title": "Prediction This Will Be Wall Streets Next Trillion-Dollar Stock",
+      "body": "Drugs for weight loss and diabetes are taking Eli Lilly to new heights.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:51.612377",
+      "url": "https://finnhub.io/api/news?id=827e2ccf96452c67e133ea43b8caeb54a32763895b6f9dd5dd7dff956976e272",
+      "raw_text": "Prediction This Will Be Wall Streets Next Trillion-Dollar Stock. Drugs for weight loss and diabetes are taking Eli Lilly to new heights.",
+      "tickers_mentioned": "DLTR,LLY",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "DLTR": [],
+        "LLY": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Drugs",
+            "Eli Lilly"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "prediction",
+            1
+          ],
+          [
+            "wall",
+            1
+          ],
+          [
+            "street",
+            1
+          ],
+          [
+            "next",
+            1
+          ],
+          [
+            "trillion-dollar",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "drug",
+            1
+          ],
+          [
+            "weight",
+            1
+          ],
+          [
+            "loss",
+            1
+          ],
+          [
+            "diabetes",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "prediction",
+          "this",
+          "will",
+          "be",
+          "wall",
+          "streets",
+          "next",
+          "trillion-dollar",
+          "stock",
+          ".",
+          "drugs",
+          "for",
+          "weight",
+          "loss",
+          "and",
+          "diabetes",
+          "are",
+          "taking",
+          "eli",
+          "lilly",
+          "to",
+          "new",
+          "heights",
+          "."
+        ],
+        "filtered": [
+          "prediction",
+          "wall",
+          "streets",
+          "next",
+          "trillion-dollar",
+          "stock",
+          ".",
+          "drugs",
+          "weight",
+          "loss",
+          "diabetes",
+          "taking",
+          "eli",
+          "lilly",
+          "new",
+          "heights",
+          "."
+        ],
+        "lemmatized": [
+          "prediction",
+          "wall",
+          "street",
+          "next",
+          "trillion-dollar",
+          "stock",
+          ".",
+          "drug",
+          "weight",
+          "loss",
+          "diabetes",
+          "take",
+          "eli",
+          "lilly",
+          "new",
+          "height",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "6e4592edb278623b",
+      "title": "Eli Lilly hits $1 trillion market value, a first for a health-care company",
+      "body": "The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:52.218736",
+      "url": "https://finnhub.io/api/news?id=109642ba6b3309fa0006a9afd858dd08900330a1df25478c5e1e91995636ee77",
+      "raw_text": "Eli Lilly hits $1 trillion market value, a first for a health-care company. The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "tickers_mentioned": "LLY,FSLR",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LLY": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli",
+            "Eli Lilly",
+            "Zepbound"
+          ],
+          "ORGANIZATION": [
+            "Lilly"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "eli",
+            2
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "first",
+            1
+          ],
+          [
+            "health-care",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "pharmaceutical",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "a",
+          "first",
+          "for",
+          "a",
+          "health-care",
+          "company",
+          ".",
+          "the",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "has",
+          "been",
+          "riding",
+          "the",
+          "skyrocketing",
+          "demand",
+          "for",
+          "its",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "and",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "filtered": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "riding",
+          "skyrocketing",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "lemmatized": [
+          "eli",
+          "lilly",
+          "hit",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "rid",
+          "skyrocket",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "24ff47832f6eb8d0",
+      "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon.com and Eli Lilly",
+      "body": "Microsoft posts strong cloud-fueled first quarter results as Azure surges and AI momentum builds, even as capacity limits pose near-term revenue constraints.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:55.243970",
+      "url": "https://www.zacks.com/stock/news/2792783/the-zacks-analyst-blog-highlights-microsoft-amazoncom-and-eli-lilly",
+      "raw_text": "The Zacks Analyst Blog Highlights Microsoft, Amazon.com and Eli Lilly. Microsoft posts strong cloud-fueled first quarter results as Azure surges and AI momentum builds, even as capacity limits pose near-term revenue constraints.",
+      "tickers_mentioned": "LLY,AMZN,MSFT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LLY": [],
+        "AMZN": [
+          "The Zacks Analyst Blog Highlights Microsoft, **Amazon.com** and Eli Lilly. Microsoft posts strong cloud-fueled Q1 results as"
+        ],
+        "MSFT": [
+          "The Zacks Analyst Blog Highlights **Microsoft,** Amazon.com and Eli Lilly. Microsoft posts strong cloud-fueled Q1 results",
+          "The Zacks Analyst Blog Highlights Microsoft, Amazon.com and Eli Lilly. **Microsoft** posts strong cloud-fueled Q1 results as Azure surges and AI"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli Lilly",
+            "Microsoft",
+            "Azure"
+          ],
+          "ORGANIZATION": [
+            "Zacks Analyst Blog Highlights Microsoft",
+            "Amazon.com",
+            "AI"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "surge",
+            "strong",
+            "high"
+          ],
+          "negative": [],
+          "neutral": [
+            "revenue"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "zacks",
+            1
+          ],
+          [
+            "analyst",
+            1
+          ],
+          [
+            "blog",
+            1
+          ],
+          [
+            "highlight",
+            1
+          ],
+          [
+            "amazon.com",
+            1
+          ],
+          [
+            "eli",
+            1
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "post",
+            1
+          ],
+          [
+            "strong",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 6,
+          "num_positive_keywords": 3,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "the",
+          "zacks",
+          "analyst",
+          "blog",
+          "highlights",
+          "microsoft",
+          ",",
+          "amazon.com",
+          "and",
+          "eli",
+          "lilly",
+          ".",
+          "microsoft",
+          "posts",
+          "strong",
+          "cloud-fueled",
+          "first",
+          "quarter",
+          "results",
+          "as",
+          "azure",
+          "surges",
+          "and",
+          "ai",
+          "momentum",
+          "builds",
+          ",",
+          "even",
+          "as",
+          "capacity",
+          "limits",
+          "pose",
+          "near-term",
+          "revenue",
+          "constraints",
+          "."
+        ],
+        "filtered": [
+          "zacks",
+          "analyst",
+          "blog",
+          "highlights",
+          "microsoft",
+          ",",
+          "amazon.com",
+          "eli",
+          "lilly",
+          ".",
+          "microsoft",
+          "posts",
+          "strong",
+          "cloud-fueled",
+          "first",
+          "quarter",
+          "results",
+          "azure",
+          "surges",
+          "ai",
+          "momentum",
+          "builds",
+          ",",
+          "even",
+          "capacity",
+          "limits",
+          "pose",
+          "near-term",
+          "revenue",
+          "constraints",
+          "."
+        ],
+        "lemmatized": [
+          "zacks",
+          "analyst",
+          "blog",
+          "highlight",
+          "microsoft",
+          ",",
+          "amazon.com",
+          "eli",
+          "lilly",
+          ".",
+          "microsoft",
+          "post",
+          "strong",
+          "cloud-fueled",
+          "first",
+          "quarter",
+          "result",
+          "azure",
+          "surge",
+          "ai",
+          "momentum",
+          "build",
+          ",",
+          "even",
+          "capacity",
+          "limit",
+          "pose",
+          "near-term",
+          "revenue",
+          "constraint",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "6e4592edb278623b",
+      "title": "Eli Lilly hits $1 trillion market value, a first for a health-care company",
+      "body": "The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:55.278203",
+      "url": "https://finnhub.io/api/news?id=109642ba6b3309fa0006a9afd858dd08900330a1df25478c5e1e91995636ee77",
+      "raw_text": "Eli Lilly hits $1 trillion market value, a first for a health-care company. The pharmaceutical giant Eli Lillys stock has been riding the skyrocketing demand for its weight loss injection Zepbound and diabetes treatment Mounjaro.",
+      "tickers_mentioned": "LLY,FSLR",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "LLY": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli",
+            "Eli Lilly",
+            "Zepbound"
+          ],
+          "ORGANIZATION": [
+            "Lilly"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "eli",
+            2
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "hit",
+            1
+          ],
+          [
+            "trillion",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "value",
+            1
+          ],
+          [
+            "first",
+            1
+          ],
+          [
+            "health-care",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "pharmaceutical",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "a",
+          "first",
+          "for",
+          "a",
+          "health-care",
+          "company",
+          ".",
+          "the",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "has",
+          "been",
+          "riding",
+          "the",
+          "skyrocketing",
+          "demand",
+          "for",
+          "its",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "and",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "filtered": [
+          "eli",
+          "lilly",
+          "hits",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "riding",
+          "skyrocketing",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ],
+        "lemmatized": [
+          "eli",
+          "lilly",
+          "hit",
+          "$",
+          "1",
+          "trillion",
+          "market",
+          "value",
+          ",",
+          "first",
+          "health-care",
+          "company",
+          ".",
+          "pharmaceutical",
+          "giant",
+          "eli",
+          "lillys",
+          "stock",
+          "rid",
+          "skyrocket",
+          "demand",
+          "weight",
+          "loss",
+          "injection",
+          "zepbound",
+          "diabetes",
+          "treatment",
+          "mounjaro",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "6803d73c8cd3ece0",
+      "title": "Top Research Reports for Microsoft, Amazon.com Eli Lilly",
+      "body": "Microsoft shines in Zacks top picks as strong cloud and AI momentum drive standout quarterly results and reinforce long-term growth potential.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.708882",
+      "url": "https://finnhub.io/api/news?id=10c96fd91f5464159be7e3296aaaec26bc3fcbf815c86129a15cdef3ed4643a4",
+      "raw_text": "Top Research Reports for Microsoft, Amazon.com Eli Lilly. Microsoft shines in Zacks top picks as strong cloud and AI momentum drive standout quarterly results and reinforce long-term growth potential.",
+      "tickers_mentioned": "LLY,MSFT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LLY": [],
+        "MSFT": [
+          "Top Research Reports for **Microsoft,** Amazon.com & Eli Lilly. Microsoft shines in Zacks' top picks",
+          "Top Research Reports for Microsoft, Amazon.com & Eli Lilly. **Microsoft** shines in Zacks' top picks as strong cloud and AI"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Eli Lilly"
+          ],
+          "ORGANIZATION": [
+            "Microsoft",
+            "Amazon.com",
+            "AI"
+          ],
+          "GPE": [
+            "Zacks"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong",
+            "growth"
+          ],
+          "negative": [],
+          "neutral": [
+            "report",
+            "quarter"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "top",
+            2
+          ],
+          [
+            "microsoft",
+            2
+          ],
+          [
+            "research",
+            1
+          ],
+          [
+            "report",
+            1
+          ],
+          [
+            "amazon.com",
+            1
+          ],
+          [
+            "eli",
+            1
+          ],
+          [
+            "lilly",
+            1
+          ],
+          [
+            "shine",
+            1
+          ],
+          [
+            "zacks",
+            1
+          ],
+          [
+            "pick",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "top",
+          "research",
+          "reports",
+          "for",
+          "microsoft",
+          ",",
+          "amazon.com",
+          "eli",
+          "lilly",
+          ".",
+          "microsoft",
+          "shines",
+          "in",
+          "zacks",
+          "top",
+          "picks",
+          "as",
+          "strong",
+          "cloud",
+          "and",
+          "ai",
+          "momentum",
+          "drive",
+          "standout",
+          "quarterly",
+          "results",
+          "and",
+          "reinforce",
+          "long-term",
+          "growth",
+          "potential",
+          "."
+        ],
+        "filtered": [
+          "top",
+          "research",
+          "reports",
+          "microsoft",
+          ",",
+          "amazon.com",
+          "eli",
+          "lilly",
+          ".",
+          "microsoft",
+          "shines",
+          "zacks",
+          "top",
+          "picks",
+          "strong",
+          "cloud",
+          "ai",
+          "momentum",
+          "drive",
+          "standout",
+          "quarterly",
+          "results",
+          "reinforce",
+          "long-term",
+          "growth",
+          "potential",
+          "."
+        ],
+        "lemmatized": [
+          "top",
+          "research",
+          "report",
+          "microsoft",
+          ",",
+          "amazon.com",
+          "eli",
+          "lilly",
+          ".",
+          "microsoft",
+          "shine",
+          "zacks",
+          "top",
+          "pick",
+          "strong",
+          "cloud",
+          "ai",
+          "momentum",
+          "drive",
+          "standout",
+          "quarterly",
+          "result",
+          "reinforce",
+          "long-term",
+          "growth",
+          "potential",
+          "."
+        ]
+      }
+    }
+  ]
+}

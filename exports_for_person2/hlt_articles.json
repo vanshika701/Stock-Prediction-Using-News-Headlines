@@ -1,0 +1,193 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "1098aa4e1485f109",
+      "title": "Ads for Booking.com and three hotel chains banned over misleading prices",
+      "body": "The ASA ruled that Booking.com, Accor, Travelodge and Hilton all misled consumers over the number of rooms available at the cheapest prices.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.484391",
+      "url": "https://finnhub.io/api/news?id=1628f7602016f8cea735be51b25bec0997c450704d235144b1f597c1af002284",
+      "raw_text": "Ads for Booking.com and three hotel chains banned over misleading prices. The ASA ruled that Booking.com, Accor, Travelodge and Hilton all misled consumers over the number of rooms available at the cheapest prices.",
+      "tickers_mentioned": "BKNG,HLT",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "BKNG": [],
+        "HLT": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Accor",
+            "Hilton"
+          ],
+          "ORGANIZATION": [
+            "ASA",
+            "Travelodge"
+          ],
+          "GPE": [
+            "Ads"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "booking.com",
+            2
+          ],
+          [
+            "over",
+            2
+          ],
+          [
+            "price",
+            2
+          ],
+          [
+            "three",
+            1
+          ],
+          [
+            "hotel",
+            1
+          ],
+          [
+            "chain",
+            1
+          ],
+          [
+            "ban",
+            1
+          ],
+          [
+            "misleading",
+            1
+          ],
+          [
+            "asa",
+            1
+          ],
+          [
+            "rule",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "ads",
+          "for",
+          "booking.com",
+          "and",
+          "three",
+          "hotel",
+          "chains",
+          "banned",
+          "over",
+          "misleading",
+          "prices",
+          ".",
+          "the",
+          "asa",
+          "ruled",
+          "that",
+          "booking.com",
+          ",",
+          "accor",
+          ",",
+          "travelodge",
+          "and",
+          "hilton",
+          "all",
+          "misled",
+          "consumers",
+          "over",
+          "the",
+          "number",
+          "of",
+          "rooms",
+          "available",
+          "at",
+          "the",
+          "cheapest",
+          "prices",
+          "."
+        ],
+        "filtered": [
+          "ads",
+          "booking.com",
+          "three",
+          "hotel",
+          "chains",
+          "banned",
+          "over",
+          "misleading",
+          "prices",
+          ".",
+          "asa",
+          "ruled",
+          "booking.com",
+          ",",
+          "accor",
+          ",",
+          "travelodge",
+          "hilton",
+          "misled",
+          "consumers",
+          "over",
+          "number",
+          "rooms",
+          "available",
+          "cheapest",
+          "prices",
+          "."
+        ],
+        "lemmatized": [
+          "ad",
+          "booking.com",
+          "three",
+          "hotel",
+          "chain",
+          "ban",
+          "over",
+          "misleading",
+          "price",
+          ".",
+          "asa",
+          "rule",
+          "booking.com",
+          ",",
+          "accor",
+          ",",
+          "travelodge",
+          "hilton",
+          "mislead",
+          "consumer",
+          "over",
+          "number",
+          "room",
+          "available",
+          "cheap",
+          "price",
+          "."
+        ]
+      }
+    }
+  ]
+}

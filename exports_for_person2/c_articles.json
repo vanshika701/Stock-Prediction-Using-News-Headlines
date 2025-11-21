@@ -1,0 +1,229 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "8cbc7e38861eaa2c",
+      "title": "FPA Global Equity ETF 5 Companies That Impacted third quarter 2025 Performance",
+      "body": "FPA highlights third quarter drivers with Alphabet gains, Citigroup strength, JDE Peets rebound, IFF turnaround, and CarMax missteps. Read the full commentary.",
+      "source": "SeekingAlpha",
+      "timestamp": "2025-11-22T00:25:54.116152",
+      "url": "https://finnhub.io/api/news?id=146bb47212ea2aa7a8ee035e976771baf3cd52a90df554e09ff6fee1e9934230",
+      "raw_text": "FPA Global Equity ETF 5 Companies That Impacted third quarter 2025 Performance. FPA highlights third quarter drivers with Alphabet gains, Citigroup strength, JDE Peets rebound, IFF turnaround, and CarMax missteps. Read the full commentary.",
+      "tickers_mentioned": "GPN,C,GOOG,EQR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "GPN": [],
+        "C": [],
+        "GOOG": [],
+        "EQR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Global Equity"
+          ],
+          "ORGANIZATION": [
+            "FPA",
+            "Alphabet",
+            "JDE",
+            "IFF",
+            "CarMax"
+          ],
+          "GPE": [
+            "Citigroup"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain",
+            "high"
+          ],
+          "negative": [
+            "miss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "5",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "fpa",
+            2
+          ],
+          [
+            "third",
+            2
+          ],
+          [
+            "quarter",
+            2
+          ],
+          [
+            "global",
+            1
+          ],
+          [
+            "equity",
+            1
+          ],
+          [
+            "etf",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "impact",
+            1
+          ],
+          [
+            "2025",
+            1
+          ],
+          [
+            "performance",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "fpa",
+          "global",
+          "equity",
+          "etf",
+          "5",
+          "companies",
+          "that",
+          "impacted",
+          "third",
+          "quarter",
+          "2025",
+          "performance",
+          ".",
+          "fpa",
+          "highlights",
+          "third",
+          "quarter",
+          "drivers",
+          "with",
+          "alphabet",
+          "gains",
+          ",",
+          "citigroup",
+          "strength",
+          ",",
+          "jde",
+          "peets",
+          "rebound",
+          ",",
+          "iff",
+          "turnaround",
+          ",",
+          "and",
+          "carmax",
+          "missteps",
+          ".",
+          "read",
+          "the",
+          "full",
+          "commentary",
+          "."
+        ],
+        "filtered": [
+          "fpa",
+          "global",
+          "equity",
+          "etf",
+          "5",
+          "companies",
+          "impacted",
+          "third",
+          "quarter",
+          "2025",
+          "performance",
+          ".",
+          "fpa",
+          "highlights",
+          "third",
+          "quarter",
+          "drivers",
+          "alphabet",
+          "gains",
+          ",",
+          "citigroup",
+          "strength",
+          ",",
+          "jde",
+          "peets",
+          "rebound",
+          ",",
+          "iff",
+          "turnaround",
+          ",",
+          "carmax",
+          "missteps",
+          ".",
+          "read",
+          "full",
+          "commentary",
+          "."
+        ],
+        "lemmatized": [
+          "fpa",
+          "global",
+          "equity",
+          "etf",
+          "5",
+          "company",
+          "impact",
+          "third",
+          "quarter",
+          "2025",
+          "performance",
+          ".",
+          "fpa",
+          "highlight",
+          "third",
+          "quarter",
+          "driver",
+          "alphabet",
+          "gain",
+          ",",
+          "citigroup",
+          "strength",
+          ",",
+          "jde",
+          "peets",
+          "rebound",
+          ",",
+          "iff",
+          "turnaround",
+          ",",
+          "carmax",
+          "misstep",
+          ".",
+          "read",
+          "full",
+          "commentary",
+          "."
+        ]
+      }
+    }
+  ]
+}

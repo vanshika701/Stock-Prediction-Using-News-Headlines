@@ -1,0 +1,229 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "69651b02e2fc65e8",
+      "title": "Looking For Yields MAA, PepsiCo, And Mondelez International Are Consistent Moneymakers",
+      "body": "Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Mid-America Apartment Communities, PepsiCo, and Mondelez International have rewarded shareholders for years and recently ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.685613",
+      "url": "https://finnhub.io/api/news?id=bc1e4adb048ef18ca1b3f3d0c6a15bdc01f39dfdd75a2dd2e51693ea5f60983b",
+      "raw_text": "Looking For Yields MAA, PepsiCo, And Mondelez International Are Consistent Moneymakers. Companies with a long history of paying dividends and consistently hiking them remain appealing to income-focused investors. Mid-America Apartment Communities, PepsiCo, and Mondelez International have rewarded shareholders for years and recently ...",
+      "tickers_mentioned": "MAA,IP,PEP,MDLZ",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "MAA": [
+          "dividends and consistently hiking them remain appealing to income-focused investors. **Mid-America** Apartment Communities, PepsiCo, and Mondelez International have rewarded shareholders for"
+        ],
+        "IP": [],
+        "PEP": [],
+        "MDLZ": [
+          "Looking For Yields: MAA, PepsiCo, And **Mondelez** International Are Consistent Moneymakers. Companies with a long history of",
+          "remain appealing to income-focused investors. Mid-America Apartment Communities, PepsiCo, and **Mondelez** International have rewarded shareholders for years and recently ..."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [],
+          "ORGANIZATION": [
+            "PepsiCo",
+            "Mondelez International Are Consistent Moneymakers",
+            "Apartment Communities",
+            "Mondelez"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "pepsico",
+            2
+          ],
+          [
+            "mondelez",
+            2
+          ],
+          [
+            "international",
+            2
+          ],
+          [
+            "look",
+            1
+          ],
+          [
+            "yield",
+            1
+          ],
+          [
+            "maa",
+            1
+          ],
+          [
+            "consistent",
+            1
+          ],
+          [
+            "moneymaker",
+            1
+          ],
+          [
+            "company",
+            1
+          ],
+          [
+            "long",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "looking",
+          "for",
+          "yields",
+          "maa",
+          ",",
+          "pepsico",
+          ",",
+          "and",
+          "mondelez",
+          "international",
+          "are",
+          "consistent",
+          "moneymakers",
+          ".",
+          "companies",
+          "with",
+          "a",
+          "long",
+          "history",
+          "of",
+          "paying",
+          "dividends",
+          "and",
+          "consistently",
+          "hiking",
+          "them",
+          "remain",
+          "appealing",
+          "to",
+          "income-focused",
+          "investors",
+          ".",
+          "mid-america",
+          "apartment",
+          "communities",
+          ",",
+          "pepsico",
+          ",",
+          "and",
+          "mondelez",
+          "international",
+          "have",
+          "rewarded",
+          "shareholders",
+          "for",
+          "years",
+          "and",
+          "recently",
+          "..."
+        ],
+        "filtered": [
+          "looking",
+          "yields",
+          "maa",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "consistent",
+          "moneymakers",
+          ".",
+          "companies",
+          "long",
+          "history",
+          "paying",
+          "dividends",
+          "consistently",
+          "hiking",
+          "remain",
+          "appealing",
+          "income-focused",
+          "investors",
+          ".",
+          "mid-america",
+          "apartment",
+          "communities",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "rewarded",
+          "shareholders",
+          "years",
+          "recently",
+          "..."
+        ],
+        "lemmatized": [
+          "look",
+          "yield",
+          "maa",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "consistent",
+          "moneymaker",
+          ".",
+          "company",
+          "long",
+          "history",
+          "pay",
+          "dividend",
+          "consistently",
+          "hike",
+          "remain",
+          "appeal",
+          "income-focused",
+          "investor",
+          ".",
+          "mid-america",
+          "apartment",
+          "community",
+          ",",
+          "pepsico",
+          ",",
+          "mondelez",
+          "international",
+          "reward",
+          "shareholder",
+          "year",
+          "recently",
+          "..."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "b0219bf52fc6703d",
+      "title": "MOH Investors Have Opportunity to Lead Molina Healthcare, Inc. Securities Fraud Lawsuit with the Schall Law Firm",
+      "body": "LOS ANGELES, Nov. 20, 2025 GLOBE NEWSWIRE -- The Schall Law Firm , a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Molina Healthcare, Inc. Molin 1927 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-21T23:33:36.939301",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192078/0/en/MOH-Investors-Have-Opportunity-to-Lead-Molina-Healthcare-Inc-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html",
+      "raw_text": "MOH Investors Have Opportunity to Lead Molina Healthcare, Inc. Securities Fraud Lawsuit with the Schall Law Firm. LOS ANGELES, Nov. 20, 2025 GLOBE NEWSWIRE -- The Schall Law Firm , a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Molina Healthcare, Inc. Molin 1927 chars",
+      "tickers_mentioned": "GL,MOH",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "GL": [],
+        "MOH": [
+          "MOH Investors Have Opportunity to Lead **Molina** Healthcare, Inc. Securities Fraud Lawsuit with the Schall Law Firm.",
+          "litigation firm, reminds investors of a class action lawsuit against **Molina** Healthcare, Inc. (Molin… [+1927 chars]"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Molina Healthcare",
+            "Fraud Lawsuit"
+          ],
+          "ORGANIZATION": [
+            "Inc.",
+            "Schall Law Firm",
+            "LOS",
+            "GLOBE"
+          ],
+          "GPE": [
+            "Inc."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "20",
+          "2025",
+          "1927"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "firm",
+            3
+          ],
+          [
+            "investor",
+            2
+          ],
+          [
+            "molina",
+            2
+          ],
+          [
+            "healthcare",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "lawsuit",
+            2
+          ],
+          [
+            "schall",
+            2
+          ],
+          [
+            "law",
+            2
+          ],
+          [
+            "moh",
+            1
+          ],
+          [
+            "opportunity",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "moh",
+          "investors",
+          "have",
+          "opportunity",
+          "to",
+          "lead",
+          "molina",
+          "healthcare",
+          ",",
+          "inc.",
+          "securities",
+          "fraud",
+          "lawsuit",
+          "with",
+          "the",
+          "schall",
+          "law",
+          "firm",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "the",
+          "schall",
+          "law",
+          "firm",
+          ",",
+          "a",
+          "national",
+          "shareholder",
+          "rights",
+          "litigation",
+          "firm",
+          ",",
+          "reminds",
+          "investors",
+          "of",
+          "a",
+          "class",
+          "action",
+          "lawsuit",
+          "against",
+          "molina",
+          "healthcare",
+          ",",
+          "inc.",
+          "molin",
+          "1927",
+          "chars"
+        ],
+        "filtered": [
+          "moh",
+          "investors",
+          "opportunity",
+          "lead",
+          "molina",
+          "healthcare",
+          ",",
+          "inc.",
+          "securities",
+          "fraud",
+          "lawsuit",
+          "schall",
+          "law",
+          "firm",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "schall",
+          "law",
+          "firm",
+          ",",
+          "national",
+          "shareholder",
+          "rights",
+          "litigation",
+          "firm",
+          ",",
+          "reminds",
+          "investors",
+          "class",
+          "action",
+          "lawsuit",
+          "molina",
+          "healthcare",
+          ",",
+          "inc.",
+          "molin",
+          "1927",
+          "chars"
+        ],
+        "lemmatized": [
+          "moh",
+          "investor",
+          "opportunity",
+          "lead",
+          "molina",
+          "healthcare",
+          ",",
+          "inc.",
+          "securities",
+          "fraud",
+          "lawsuit",
+          "schall",
+          "law",
+          "firm",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "schall",
+          "law",
+          "firm",
+          ",",
+          "national",
+          "shareholder",
+          "right",
+          "litigation",
+          "firm",
+          ",",
+          "remind",
+          "investor",
+          "class",
+          "action",
+          "lawsuit",
+          "molina",
+          "healthcare",
+          ",",
+          "inc.",
+          "molin",
+          "1927",
+          "char"
+        ]
+      }
+    }
+  ]
+}

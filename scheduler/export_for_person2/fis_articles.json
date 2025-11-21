@@ -1,0 +1,232 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "79c079747fb5bbd1",
+      "title": "Take This Investing Lesson to the Grave",
+      "body": "? This is an online version of my Markets A.M. newsletter. Around 11 years ago, a podcast mentioned a study by Fidelity Investments, which was repeated in several media articles and blog posts. A phone call to Fidelity could have cleared things up.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:22.991789",
+      "url": "https://finnhub.io/api/news?id=799e613bc1d68857c3b115287c8749802b76dc752a25de839a8b767e53e021e3",
+      "raw_text": "Take This Investing Lesson to the Grave. ? This is an online version of my Markets A.M. newsletter. Around 11 years ago, a podcast mentioned a study by Fidelity Investments, which was repeated in several media articles and blog posts. A phone call to Fidelity could have cleared things up.",
+      "tickers_mentioned": "FIS",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "FIS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Lesson"
+          ],
+          "ORGANIZATION": [
+            "Fidelity Investments",
+            "Fidelity"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "11"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "fidelity",
+            2
+          ],
+          [
+            "take",
+            1
+          ],
+          [
+            "invest",
+            1
+          ],
+          [
+            "lesson",
+            1
+          ],
+          [
+            "grave",
+            1
+          ],
+          [
+            "online",
+            1
+          ],
+          [
+            "version",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "a.m.",
+            1
+          ],
+          [
+            "newsletter",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "take",
+          "this",
+          "investing",
+          "lesson",
+          "to",
+          "the",
+          "grave",
+          ".",
+          "?",
+          "this",
+          "is",
+          "an",
+          "online",
+          "version",
+          "of",
+          "my",
+          "markets",
+          "a.m.",
+          "newsletter",
+          ".",
+          "around",
+          "11",
+          "years",
+          "ago",
+          ",",
+          "a",
+          "podcast",
+          "mentioned",
+          "a",
+          "study",
+          "by",
+          "fidelity",
+          "investments",
+          ",",
+          "which",
+          "was",
+          "repeated",
+          "in",
+          "several",
+          "media",
+          "articles",
+          "and",
+          "blog",
+          "posts",
+          ".",
+          "a",
+          "phone",
+          "call",
+          "to",
+          "fidelity",
+          "could",
+          "have",
+          "cleared",
+          "things",
+          "up",
+          "."
+        ],
+        "filtered": [
+          "take",
+          "investing",
+          "lesson",
+          "grave",
+          ".",
+          "?",
+          "online",
+          "version",
+          "markets",
+          "a.m.",
+          "newsletter",
+          ".",
+          "around",
+          "11",
+          "years",
+          "ago",
+          ",",
+          "podcast",
+          "mentioned",
+          "study",
+          "fidelity",
+          "investments",
+          ",",
+          "repeated",
+          "several",
+          "media",
+          "articles",
+          "blog",
+          "posts",
+          ".",
+          "phone",
+          "call",
+          "fidelity",
+          "could",
+          "cleared",
+          "things",
+          "up",
+          "."
+        ],
+        "lemmatized": [
+          "take",
+          "invest",
+          "lesson",
+          "grave",
+          ".",
+          "?",
+          "online",
+          "version",
+          "market",
+          "a.m.",
+          "newsletter",
+          ".",
+          "around",
+          "11",
+          "year",
+          "ago",
+          ",",
+          "podcast",
+          "mention",
+          "study",
+          "fidelity",
+          "investment",
+          ",",
+          "repeat",
+          "several",
+          "medium",
+          "article",
+          "blog",
+          "post",
+          ".",
+          "phone",
+          "call",
+          "fidelity",
+          "could",
+          "clear",
+          "thing",
+          "up",
+          "."
+        ]
+      }
+    }
+  ]
+}

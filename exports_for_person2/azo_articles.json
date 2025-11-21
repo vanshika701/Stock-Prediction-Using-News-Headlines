@@ -1,0 +1,298 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "34509da7900c7d33",
+      "title": "Jim Cramer Wants You to Buy These 2 Incredibly Inexpensive Stocks",
+      "body": "Jim Cramer is watched by hundreds of thousands of investors every day, and many of them consider him their only source of information. He believes Wells Fargo NYSEWFC and AutoZone NYSEAZO are incredibly inexpensive at the moment, and its worth looking into why. His picks have historically been hit or miss if you consider all his ... Jim Cramer Wants You to Buy These 2 Incredibly Inexpensive Stocks",
+      "source": "Yahoo",
+      "timestamp": "2025-11-21T23:53:31.563476",
+      "url": "https://finnhub.io/api/news?id=5609a732f82642c5c133318756216ce8d44eff9a582ff307fffc96b80d0efad6",
+      "raw_text": "Jim Cramer Wants You to Buy These 2 Incredibly Inexpensive Stocks. Jim Cramer is watched by hundreds of thousands of investors every day, and many of them consider him their only source of information. He believes Wells Fargo NYSEWFC and AutoZone NYSEAZO are incredibly inexpensive at the moment, and its worth looking into why. His picks have historically been hit or miss if you consider all his ... Jim Cramer Wants You to Buy These 2 Incredibly Inexpensive Stocks",
+      "tickers_mentioned": "AZO,WFC",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AZO": [
+          "only source of information. He believes Wells Fargo (NYSE:WFC) and **AutoZone** (NYSE:AZO) are “incredibly inexpensive” at the moment, and it’s worth"
+        ],
+        "WFC": [
+          "them consider him their only source of information. He believes **Wells** Fargo (NYSE:WFC) and AutoZone (NYSE:AZO) are “incredibly inexpensive” at the"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Jim",
+            "Cramer Wants",
+            "Stocks",
+            "Jim Cramer",
+            "Wells Fargo"
+          ],
+          "ORGANIZATION": [
+            "NYSE",
+            "AutoZone"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [
+            "miss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "2",
+          "2"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "jim",
+            3
+          ],
+          [
+            "cramer",
+            3
+          ],
+          [
+            "incredibly",
+            3
+          ],
+          [
+            "inexpensive",
+            3
+          ],
+          [
+            "want",
+            2
+          ],
+          [
+            "buy",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "consider",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "hundred",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "jim",
+          "cramer",
+          "wants",
+          "you",
+          "to",
+          "buy",
+          "these",
+          "2",
+          "incredibly",
+          "inexpensive",
+          "stocks",
+          ".",
+          "jim",
+          "cramer",
+          "is",
+          "watched",
+          "by",
+          "hundreds",
+          "of",
+          "thousands",
+          "of",
+          "investors",
+          "every",
+          "day",
+          ",",
+          "and",
+          "many",
+          "of",
+          "them",
+          "consider",
+          "him",
+          "their",
+          "only",
+          "source",
+          "of",
+          "information",
+          ".",
+          "he",
+          "believes",
+          "wells",
+          "fargo",
+          "nysewfc",
+          "and",
+          "autozone",
+          "nyseazo",
+          "are",
+          "incredibly",
+          "inexpensive",
+          "at",
+          "the",
+          "moment",
+          ",",
+          "and",
+          "its",
+          "worth",
+          "looking",
+          "into",
+          "why",
+          ".",
+          "his",
+          "picks",
+          "have",
+          "historically",
+          "been",
+          "hit",
+          "or",
+          "miss",
+          "if",
+          "you",
+          "consider",
+          "all",
+          "his",
+          "...",
+          "jim",
+          "cramer",
+          "wants",
+          "you",
+          "to",
+          "buy",
+          "these",
+          "2",
+          "incredibly",
+          "inexpensive",
+          "stocks"
+        ],
+        "filtered": [
+          "jim",
+          "cramer",
+          "wants",
+          "buy",
+          "2",
+          "incredibly",
+          "inexpensive",
+          "stocks",
+          ".",
+          "jim",
+          "cramer",
+          "watched",
+          "hundreds",
+          "thousands",
+          "investors",
+          "every",
+          "day",
+          ",",
+          "many",
+          "consider",
+          "source",
+          "information",
+          ".",
+          "believes",
+          "wells",
+          "fargo",
+          "nysewfc",
+          "autozone",
+          "nyseazo",
+          "incredibly",
+          "inexpensive",
+          "moment",
+          ",",
+          "worth",
+          "looking",
+          ".",
+          "picks",
+          "historically",
+          "hit",
+          "miss",
+          "consider",
+          "...",
+          "jim",
+          "cramer",
+          "wants",
+          "buy",
+          "2",
+          "incredibly",
+          "inexpensive",
+          "stocks"
+        ],
+        "lemmatized": [
+          "jim",
+          "cramer",
+          "want",
+          "buy",
+          "2",
+          "incredibly",
+          "inexpensive",
+          "stock",
+          ".",
+          "jim",
+          "cramer",
+          "watch",
+          "hundred",
+          "thousand",
+          "investor",
+          "every",
+          "day",
+          ",",
+          "many",
+          "consider",
+          "source",
+          "information",
+          ".",
+          "believe",
+          "well",
+          "fargo",
+          "nysewfc",
+          "autozone",
+          "nyseazo",
+          "incredibly",
+          "inexpensive",
+          "moment",
+          ",",
+          "worth",
+          "look",
+          ".",
+          "pick",
+          "historically",
+          "hit",
+          "miss",
+          "consider",
+          "...",
+          "jim",
+          "cramer",
+          "want",
+          "buy",
+          "2",
+          "incredibly",
+          "inexpensive",
+          "stock"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "0272f521f203fdaa",
+      "title": "NOW Deepens Partnership With MSFT Can it Drive Top-Line Growth?",
+      "body": "ServiceNow deepens its Microsoft integrations, extending AI governance and workflow reach across Copilot, Foundry, GitHub, and Agent 365.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:49.024196",
+      "url": "https://www.zacks.com/stock/news/2794282/now-deepens-partnership-with-msft-can-it-drive-top-line-growth",
+      "raw_text": "NOW Deepens Partnership With MSFT Can it Drive Top-Line Growth?. ServiceNow deepens its Microsoft integrations, extending AI governance and workflow reach across Copilot, Foundry, GitHub, and Agent 365.",
+      "tickers_mentioned": "NOW,MSFT",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NOW": [
+          "NOW Deepens Partnership With MSFT: Can it Drive Top-Line Growth?. **ServiceNow** deepens its Microsoft integrations, extending AI governance and workflow reach"
+        ],
+        "MSFT": [
+          "With MSFT: Can it Drive Top-Line Growth?. ServiceNow deepens its **Microsoft** integrations, extending AI governance and workflow reach across Copilot, Foundry,"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Foundry"
+          ],
+          "ORGANIZATION": [
+            "Partnership With",
+            "MSFT",
+            "ServiceNow",
+            "Microsoft",
+            "GitHub"
+          ],
+          "GPE": [
+            "Copilot"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "365"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "deepens",
+            1
+          ],
+          [
+            "partnership",
+            1
+          ],
+          [
+            "msft",
+            1
+          ],
+          [
+            "drive",
+            1
+          ],
+          [
+            "top-line",
+            1
+          ],
+          [
+            "growth",
+            1
+          ],
+          [
+            "servicenow",
+            1
+          ],
+          [
+            "deepen",
+            1
+          ],
+          [
+            "microsoft",
+            1
+          ],
+          [
+            "integration",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "now",
+          "deepens",
+          "partnership",
+          "with",
+          "msft",
+          "can",
+          "it",
+          "drive",
+          "top-line",
+          "growth",
+          "?",
+          ".",
+          "servicenow",
+          "deepens",
+          "its",
+          "microsoft",
+          "integrations",
+          ",",
+          "extending",
+          "ai",
+          "governance",
+          "and",
+          "workflow",
+          "reach",
+          "across",
+          "copilot",
+          ",",
+          "foundry",
+          ",",
+          "github",
+          ",",
+          "and",
+          "agent",
+          "365",
+          "."
+        ],
+        "filtered": [
+          "deepens",
+          "partnership",
+          "msft",
+          "drive",
+          "top-line",
+          "growth",
+          "?",
+          ".",
+          "servicenow",
+          "deepens",
+          "microsoft",
+          "integrations",
+          ",",
+          "extending",
+          "ai",
+          "governance",
+          "workflow",
+          "reach",
+          "across",
+          "copilot",
+          ",",
+          "foundry",
+          ",",
+          "github",
+          ",",
+          "agent",
+          "365",
+          "."
+        ],
+        "lemmatized": [
+          "deepens",
+          "partnership",
+          "msft",
+          "drive",
+          "top-line",
+          "growth",
+          "?",
+          ".",
+          "servicenow",
+          "deepen",
+          "microsoft",
+          "integration",
+          ",",
+          "extend",
+          "ai",
+          "governance",
+          "workflow",
+          "reach",
+          "across",
+          "copilot",
+          ",",
+          "foundry",
+          ",",
+          "github",
+          ",",
+          "agent",
+          "365",
+          "."
+        ]
+      }
+    }
+  ]
+}

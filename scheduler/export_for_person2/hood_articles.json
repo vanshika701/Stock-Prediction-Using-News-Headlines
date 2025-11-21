@@ -1,0 +1,229 @@
+{
+  "count": 1,
+  "articles": [
+    {
+      "article_id": "82ee357fd6d24f92",
+      "title": "T-bill and chill Robinhood CIO on what to do after the selloff and the danger markets are ignoring",
+      "body": "A previous version of this report gave the incorrect release date for the Philly Fed survey, which is expected on Thursday. Robinhoods Stephanie Guild has been trimming tech in portfolios since Sep 8170 chars",
+      "source": "MarketWatch",
+      "timestamp": "2025-11-22T00:48:25.020887",
+      "url": "https://www.marketwatch.com/story/t-bill-and-chill-robinhood-cio-on-what-to-do-after-the-selloff-and-the-danger-markets-are-ignoring-7a5e1ade",
+      "raw_text": "T-bill and chill Robinhood CIO on what to do after the selloff and the danger markets are ignoring. A previous version of this report gave the incorrect release date for the Philly Fed survey, which is expected on Thursday. Robinhoods Stephanie Guild has been trimming tech in portfolios since Sep 8170 chars",
+      "tickers_mentioned": "TECH,HOOD",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "TECH": [],
+        "HOOD": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Robinhood CIO",
+            "Robinhood",
+            "Stephanie Guild"
+          ],
+          "ORGANIZATION": [
+            "Philly Fed"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "sell"
+          ],
+          "neutral": [
+            "report",
+            "release",
+            "expect"
+          ]
+        },
+        "numbers": [
+          "8170"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "t-bill",
+            1
+          ],
+          [
+            "chill",
+            1
+          ],
+          [
+            "robinhood",
+            1
+          ],
+          [
+            "cio",
+            1
+          ],
+          [
+            "selloff",
+            1
+          ],
+          [
+            "danger",
+            1
+          ],
+          [
+            "market",
+            1
+          ],
+          [
+            "ignore",
+            1
+          ],
+          [
+            "previous",
+            1
+          ],
+          [
+            "version",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 3,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "t-bill",
+          "and",
+          "chill",
+          "robinhood",
+          "cio",
+          "on",
+          "what",
+          "to",
+          "do",
+          "after",
+          "the",
+          "selloff",
+          "and",
+          "the",
+          "danger",
+          "markets",
+          "are",
+          "ignoring",
+          ".",
+          "a",
+          "previous",
+          "version",
+          "of",
+          "this",
+          "report",
+          "gave",
+          "the",
+          "incorrect",
+          "release",
+          "date",
+          "for",
+          "the",
+          "philly",
+          "fed",
+          "survey",
+          ",",
+          "which",
+          "is",
+          "expected",
+          "on",
+          "thursday",
+          ".",
+          "robinhoods",
+          "stephanie",
+          "guild",
+          "has",
+          "been",
+          "trimming",
+          "tech",
+          "in",
+          "portfolios",
+          "since",
+          "sep",
+          "8170",
+          "chars"
+        ],
+        "filtered": [
+          "t-bill",
+          "chill",
+          "robinhood",
+          "cio",
+          "selloff",
+          "danger",
+          "markets",
+          "ignoring",
+          ".",
+          "previous",
+          "version",
+          "report",
+          "gave",
+          "incorrect",
+          "release",
+          "date",
+          "philly",
+          "fed",
+          "survey",
+          ",",
+          "expected",
+          "thursday",
+          ".",
+          "robinhoods",
+          "stephanie",
+          "guild",
+          "trimming",
+          "tech",
+          "portfolios",
+          "since",
+          "sep",
+          "8170",
+          "chars"
+        ],
+        "lemmatized": [
+          "t-bill",
+          "chill",
+          "robinhood",
+          "cio",
+          "selloff",
+          "danger",
+          "market",
+          "ignore",
+          ".",
+          "previous",
+          "version",
+          "report",
+          "give",
+          "incorrect",
+          "release",
+          "date",
+          "philly",
+          "feed",
+          "survey",
+          ",",
+          "expect",
+          "thursday",
+          ".",
+          "robinhoods",
+          "stephanie",
+          "guild",
+          "trim",
+          "tech",
+          "portfolio",
+          "since",
+          "sep",
+          "8170",
+          "char"
+        ]
+      }
+    }
+  ]
+}

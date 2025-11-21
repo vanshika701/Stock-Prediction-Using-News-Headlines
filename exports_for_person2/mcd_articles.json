@@ -1,0 +1,469 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "74dd65d857e775fc",
+      "title": "McDonalds McRib Returns Is A Bitcoin Rally In The Cards?",
+      "body": "The McRib is back on McDonalds NYSEMCD menus across the U.S. and it is not only lovers of the unique sandwich that are excited. The legendary McRib returned to most U.S. McDonalds outlets on Nov. 11, Senior Marketing Director Guillaume Huin ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.652177",
+      "url": "https://finnhub.io/api/news?id=6044856aa72eb29f5b0f29358f283ffdaafab6c278ab9d87bf6118c93cda1245",
+      "raw_text": "McDonalds McRib Returns Is A Bitcoin Rally In The Cards?. The McRib is back on McDonalds NYSEMCD menus across the U.S. and it is not only lovers of the unique sandwich that are excited. The legendary McRib returned to most U.S. McDonalds outlets on Nov. 11, Senior Marketing Director Guillaume Huin ...",
+      "tickers_mentioned": "MCD",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "MCD": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Guillaume Huin"
+          ],
+          "ORGANIZATION": [
+            "McDonald",
+            "McRib Returns",
+            "McRib",
+            "NYSE",
+            "Senior"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rally"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "11"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "mcdonalds",
+            3
+          ],
+          [
+            "mcrib",
+            3
+          ],
+          [
+            "u.s.",
+            2
+          ],
+          [
+            "returns",
+            1
+          ],
+          [
+            "bitcoin",
+            1
+          ],
+          [
+            "rally",
+            1
+          ],
+          [
+            "card",
+            1
+          ],
+          [
+            "back",
+            1
+          ],
+          [
+            "nysemcd",
+            1
+          ],
+          [
+            "menu",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "mcdonalds",
+          "mcrib",
+          "returns",
+          "is",
+          "a",
+          "bitcoin",
+          "rally",
+          "in",
+          "the",
+          "cards",
+          "?",
+          ".",
+          "the",
+          "mcrib",
+          "is",
+          "back",
+          "on",
+          "mcdonalds",
+          "nysemcd",
+          "menus",
+          "across",
+          "the",
+          "u.s.",
+          "and",
+          "it",
+          "is",
+          "not",
+          "only",
+          "lovers",
+          "of",
+          "the",
+          "unique",
+          "sandwich",
+          "that",
+          "are",
+          "excited",
+          ".",
+          "the",
+          "legendary",
+          "mcrib",
+          "returned",
+          "to",
+          "most",
+          "u.s.",
+          "mcdonalds",
+          "outlets",
+          "on",
+          "nov.",
+          "11",
+          ",",
+          "senior",
+          "marketing",
+          "director",
+          "guillaume",
+          "huin",
+          "..."
+        ],
+        "filtered": [
+          "mcdonalds",
+          "mcrib",
+          "returns",
+          "bitcoin",
+          "rally",
+          "cards",
+          "?",
+          ".",
+          "mcrib",
+          "back",
+          "mcdonalds",
+          "nysemcd",
+          "menus",
+          "across",
+          "u.s.",
+          "not",
+          "lovers",
+          "unique",
+          "sandwich",
+          "excited",
+          ".",
+          "legendary",
+          "mcrib",
+          "returned",
+          "most",
+          "u.s.",
+          "mcdonalds",
+          "outlets",
+          "nov.",
+          "11",
+          ",",
+          "senior",
+          "marketing",
+          "director",
+          "guillaume",
+          "huin",
+          "..."
+        ],
+        "lemmatized": [
+          "mcdonalds",
+          "mcrib",
+          "returns",
+          "bitcoin",
+          "rally",
+          "card",
+          "?",
+          ".",
+          "mcrib",
+          "back",
+          "mcdonalds",
+          "nysemcd",
+          "menu",
+          "across",
+          "u.s.",
+          "not",
+          "lover",
+          "unique",
+          "sandwich",
+          "excite",
+          ".",
+          "legendary",
+          "mcrib",
+          "return",
+          "most",
+          "u.s.",
+          "mcdonalds",
+          "outlet",
+          "nov.",
+          "11",
+          ",",
+          "senior",
+          "marketing",
+          "director",
+          "guillaume",
+          "huin",
+          "..."
+        ]
+      }
+    },
+    {
+      "article_id": "74dd65d857e775fc",
+      "title": "McDonalds McRib Returns Is A Bitcoin Rally In The Cards?",
+      "body": "The McRib is back on McDonalds NYSEMCD menus across the U.S. and it is not only lovers of the unique sandwich that are excited. The legendary McRib returned to most U.S. McDonalds outlets on Nov. 11, Senior Marketing Director Guillaume Huin ...",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:55.718445",
+      "url": "https://finnhub.io/api/news?id=6044856aa72eb29f5b0f29358f283ffdaafab6c278ab9d87bf6118c93cda1245",
+      "raw_text": "McDonalds McRib Returns Is A Bitcoin Rally In The Cards?. The McRib is back on McDonalds NYSEMCD menus across the U.S. and it is not only lovers of the unique sandwich that are excited. The legendary McRib returned to most U.S. McDonalds outlets on Nov. 11, Senior Marketing Director Guillaume Huin ...",
+      "tickers_mentioned": "MCD",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "MCD": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Guillaume Huin"
+          ],
+          "ORGANIZATION": [
+            "McDonald",
+            "McRib Returns",
+            "McRib",
+            "NYSE",
+            "Senior"
+          ],
+          "GPE": [
+            "U.S."
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "rally"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "11"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "mcdonalds",
+            3
+          ],
+          [
+            "mcrib",
+            3
+          ],
+          [
+            "u.s.",
+            2
+          ],
+          [
+            "returns",
+            1
+          ],
+          [
+            "bitcoin",
+            1
+          ],
+          [
+            "rally",
+            1
+          ],
+          [
+            "card",
+            1
+          ],
+          [
+            "back",
+            1
+          ],
+          [
+            "nysemcd",
+            1
+          ],
+          [
+            "menu",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "mcdonalds",
+          "mcrib",
+          "returns",
+          "is",
+          "a",
+          "bitcoin",
+          "rally",
+          "in",
+          "the",
+          "cards",
+          "?",
+          ".",
+          "the",
+          "mcrib",
+          "is",
+          "back",
+          "on",
+          "mcdonalds",
+          "nysemcd",
+          "menus",
+          "across",
+          "the",
+          "u.s.",
+          "and",
+          "it",
+          "is",
+          "not",
+          "only",
+          "lovers",
+          "of",
+          "the",
+          "unique",
+          "sandwich",
+          "that",
+          "are",
+          "excited",
+          ".",
+          "the",
+          "legendary",
+          "mcrib",
+          "returned",
+          "to",
+          "most",
+          "u.s.",
+          "mcdonalds",
+          "outlets",
+          "on",
+          "nov.",
+          "11",
+          ",",
+          "senior",
+          "marketing",
+          "director",
+          "guillaume",
+          "huin",
+          "..."
+        ],
+        "filtered": [
+          "mcdonalds",
+          "mcrib",
+          "returns",
+          "bitcoin",
+          "rally",
+          "cards",
+          "?",
+          ".",
+          "mcrib",
+          "back",
+          "mcdonalds",
+          "nysemcd",
+          "menus",
+          "across",
+          "u.s.",
+          "not",
+          "lovers",
+          "unique",
+          "sandwich",
+          "excited",
+          ".",
+          "legendary",
+          "mcrib",
+          "returned",
+          "most",
+          "u.s.",
+          "mcdonalds",
+          "outlets",
+          "nov.",
+          "11",
+          ",",
+          "senior",
+          "marketing",
+          "director",
+          "guillaume",
+          "huin",
+          "..."
+        ],
+        "lemmatized": [
+          "mcdonalds",
+          "mcrib",
+          "returns",
+          "bitcoin",
+          "rally",
+          "card",
+          "?",
+          ".",
+          "mcrib",
+          "back",
+          "mcdonalds",
+          "nysemcd",
+          "menu",
+          "across",
+          "u.s.",
+          "not",
+          "lover",
+          "unique",
+          "sandwich",
+          "excite",
+          ".",
+          "legendary",
+          "mcrib",
+          "return",
+          "most",
+          "u.s.",
+          "mcdonalds",
+          "outlet",
+          "nov.",
+          "11",
+          ",",
+          "senior",
+          "marketing",
+          "director",
+          "guillaume",
+          "huin",
+          "..."
+        ]
+      }
+    }
+  ]
+}

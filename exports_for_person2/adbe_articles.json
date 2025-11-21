@@ -1,0 +1,1875 @@
+{
+  "count": 9,
+  "articles": [
+    {
+      "article_id": "38a1dafadc4a9424",
+      "title": "Stock Market Today Indexes Mixed Ahead Of Nvidia Earnings SEO Stock Soars On Adobe News Live Coverage",
+      "body": "Stock Market Today The Dow Jones index dipped Wednesday ahead of the Fed minutes. Nvidia stock rallied ahead of earnings.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:47.368594",
+      "url": "https://finnhub.io/api/news?id=a37e15756976acfd118690fa8294a31ea136795768b8607154974e6107825195",
+      "raw_text": "Stock Market Today Indexes Mixed Ahead Of Nvidia Earnings SEO Stock Soars On Adobe News Live Coverage. Stock Market Today The Dow Jones index dipped Wednesday ahead of the Fed minutes. Nvidia stock rallied ahead of earnings.",
+      "tickers_mentioned": "LYV,ADBE,NVDA,NWS",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "ADBE": [],
+        "NVDA": [
+          "Stock Market Today: Indexes Mixed Ahead Of **Nvidia** Earnings; SEO Stock Soars On Adobe News (Live Coverage). Stock",
+          "Dow Jones index dipped Wednesday ahead of the Fed minutes. **Nvidia** stock rallied ahead of earnings."
+        ],
+        "NWS": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Indexes Mixed Ahead",
+            "Live Coverage",
+            "Stock Market"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Of Nvidia Earnings",
+            "SEO Stock Soars",
+            "Adobe News",
+            "Dow Jones",
+            "Fed"
+          ],
+          "GPE": [
+            "Stock",
+            "Nvidia"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "soar"
+          ],
+          "negative": [],
+          "neutral": [
+            "earnings"
+          ]
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            4
+          ],
+          [
+            "ahead",
+            3
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "index",
+            2
+          ],
+          [
+            "nvidia",
+            2
+          ],
+          [
+            "earnings",
+            2
+          ],
+          [
+            "mixed",
+            1
+          ],
+          [
+            "seo",
+            1
+          ],
+          [
+            "soar",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "indexes",
+          "mixed",
+          "ahead",
+          "of",
+          "nvidia",
+          "earnings",
+          "seo",
+          "stock",
+          "soars",
+          "on",
+          "adobe",
+          "news",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "dipped",
+          "wednesday",
+          "ahead",
+          "of",
+          "the",
+          "fed",
+          "minutes",
+          ".",
+          "nvidia",
+          "stock",
+          "rallied",
+          "ahead",
+          "of",
+          "earnings",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "indexes",
+          "mixed",
+          "ahead",
+          "nvidia",
+          "earnings",
+          "seo",
+          "stock",
+          "soars",
+          "adobe",
+          "news",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dipped",
+          "wednesday",
+          "ahead",
+          "fed",
+          "minutes",
+          ".",
+          "nvidia",
+          "stock",
+          "rallied",
+          "ahead",
+          "earnings",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "index",
+          "mixed",
+          "ahead",
+          "nvidia",
+          "earnings",
+          "seo",
+          "stock",
+          "soar",
+          "adobe",
+          "news",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "jones",
+          "index",
+          "dip",
+          "wednesday",
+          "ahead",
+          "feed",
+          "minute",
+          ".",
+          "nvidia",
+          "stock",
+          "rally",
+          "ahead",
+          "earnings",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c4a67bc61050e1ab",
+      "title": "SemRush Buy to Aid Adobes AI Expertise what is Ahead for the Stock?",
+      "body": "ADBEs $1.9B Semrush deal adds GEO and SEO tools to its AI-driven customer experience portfolio, aiming to boost ARR and customer brand visibility.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:25:49.031671",
+      "url": "https://www.zacks.com/stock/news/2794260/semrush-buy-to-aid-adobes-ai-expertise-whats-ahead-for-the-stock",
+      "raw_text": "SemRush Buy to Aid Adobes AI Expertise what is Ahead for the Stock?. ADBEs $1.9B Semrush deal adds GEO and SEO tools to its AI-driven customer experience portfolio, aiming to boost ARR and customer brand visibility.",
+      "tickers_mentioned": "ADBE",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADBE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Aid Adobe",
+            "Ahead"
+          ],
+          "ORGANIZATION": [
+            "SemRush Buy",
+            "ADBE",
+            "GEO",
+            "SEO",
+            "ARR"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "boost",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1.9B"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "semrush",
+            2
+          ],
+          [
+            "customer",
+            2
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "aid",
+            1
+          ],
+          [
+            "adobe",
+            1
+          ],
+          [
+            "expertise",
+            1
+          ],
+          [
+            "ahead",
+            1
+          ],
+          [
+            "stock",
+            1
+          ],
+          [
+            "adbes",
+            1
+          ],
+          [
+            "1.9b",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "semrush",
+          "buy",
+          "to",
+          "aid",
+          "adobes",
+          "ai",
+          "expertise",
+          "what",
+          "is",
+          "ahead",
+          "for",
+          "the",
+          "stock",
+          "?",
+          ".",
+          "adbes",
+          "$",
+          "1.9b",
+          "semrush",
+          "deal",
+          "adds",
+          "geo",
+          "and",
+          "seo",
+          "tools",
+          "to",
+          "its",
+          "ai-driven",
+          "customer",
+          "experience",
+          "portfolio",
+          ",",
+          "aiming",
+          "to",
+          "boost",
+          "arr",
+          "and",
+          "customer",
+          "brand",
+          "visibility",
+          "."
+        ],
+        "filtered": [
+          "semrush",
+          "buy",
+          "aid",
+          "adobes",
+          "ai",
+          "expertise",
+          "ahead",
+          "stock",
+          "?",
+          ".",
+          "adbes",
+          "$",
+          "1.9b",
+          "semrush",
+          "deal",
+          "adds",
+          "geo",
+          "seo",
+          "tools",
+          "ai-driven",
+          "customer",
+          "experience",
+          "portfolio",
+          ",",
+          "aiming",
+          "boost",
+          "arr",
+          "customer",
+          "brand",
+          "visibility",
+          "."
+        ],
+        "lemmatized": [
+          "semrush",
+          "buy",
+          "aid",
+          "adobe",
+          "ai",
+          "expertise",
+          "ahead",
+          "stock",
+          "?",
+          ".",
+          "adbes",
+          "$",
+          "1.9b",
+          "semrush",
+          "deal",
+          "add",
+          "geo",
+          "seo",
+          "tool",
+          "ai-driven",
+          "customer",
+          "experience",
+          "portfolio",
+          ",",
+          "aim",
+          "boost",
+          "arr",
+          "customer",
+          "brand",
+          "visibility",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "cfa43ed3ae71e75c",
+      "title": "Adobe Drops 36 percent in a Year Can AI Push Help the Stock Recover?",
+      "body": "ADBE leans on rising AI-driven ARR and upgraded 2025 guidance as its stock lags amid fierce competition and valuation pressure.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:49.680155",
+      "url": "https://finnhub.io/api/news?id=c4445bda1602813f8a0928e8a6631af9a70b786c8de276bd01b563219feb8975",
+      "raw_text": "Adobe Drops 36 percent in a Year Can AI Push Help the Stock Recover?. ADBE leans on rising AI-driven ARR and upgraded 2025 guidance as its stock lags amid fierce competition and valuation pressure.",
+      "tickers_mentioned": "ADBE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "ADBE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Adobe",
+            "Push Help"
+          ],
+          "ORGANIZATION": [
+            "ADBE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "upgrade"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "36",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "adobe",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "year",
+            1
+          ],
+          [
+            "push",
+            1
+          ],
+          [
+            "help",
+            1
+          ],
+          [
+            "recover",
+            1
+          ],
+          [
+            "adbe",
+            1
+          ],
+          [
+            "lean",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "drops",
+          "36",
+          "percent",
+          "in",
+          "a",
+          "year",
+          "can",
+          "ai",
+          "push",
+          "help",
+          "the",
+          "stock",
+          "recover",
+          "?",
+          ".",
+          "adbe",
+          "leans",
+          "on",
+          "rising",
+          "ai-driven",
+          "arr",
+          "and",
+          "upgraded",
+          "2025",
+          "guidance",
+          "as",
+          "its",
+          "stock",
+          "lags",
+          "amid",
+          "fierce",
+          "competition",
+          "and",
+          "valuation",
+          "pressure",
+          "."
+        ],
+        "filtered": [
+          "adobe",
+          "drops",
+          "36",
+          "percent",
+          "year",
+          "ai",
+          "push",
+          "help",
+          "stock",
+          "recover",
+          "?",
+          ".",
+          "adbe",
+          "leans",
+          "rising",
+          "ai-driven",
+          "arr",
+          "upgraded",
+          "2025",
+          "guidance",
+          "stock",
+          "lags",
+          "amid",
+          "fierce",
+          "competition",
+          "valuation",
+          "pressure",
+          "."
+        ],
+        "lemmatized": [
+          "adobe",
+          "drop",
+          "36",
+          "percent",
+          "year",
+          "ai",
+          "push",
+          "help",
+          "stock",
+          "recover",
+          "?",
+          ".",
+          "adbe",
+          "lean",
+          "rise",
+          "ai-driven",
+          "arr",
+          "upgraded",
+          "2025",
+          "guidance",
+          "stock",
+          "lag",
+          "amid",
+          "fierce",
+          "competition",
+          "valuation",
+          "pressure",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "7d5d9e0bbe6cf481",
+      "title": "Adobe to Buy Semrush in $1.9 Billion Deal to Strengthen AI Marketing Capabilities",
+      "body": "Adobe ADBE agreed to acquire digital marketing platform Semrush SEMR in an all-cash deal worth a",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:50.299018",
+      "url": "https://finnhub.io/api/news?id=b816b790576a4935c5deadfd028fb83364f23dc02301d1fa6c660a5679f41c8c",
+      "raw_text": "Adobe to Buy Semrush in $1.9 Billion Deal to Strengthen AI Marketing Capabilities. Adobe ADBE agreed to acquire digital marketing platform Semrush SEMR in an all-cash deal worth a",
+      "tickers_mentioned": "ADBE,DLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADBE": [],
+        "DLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Buy Semrush",
+            "Billion Deal",
+            "Strengthen AI Marketing Capabilities"
+          ],
+          "ORGANIZATION": [
+            "ADBE",
+            "SEMR"
+          ],
+          "GPE": [
+            "Adobe",
+            "Semrush"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1.9"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "adobe",
+            2
+          ],
+          [
+            "semrush",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "marketing",
+            2
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "1.9",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "strengthen",
+            1
+          ],
+          [
+            "capability",
+            1
+          ],
+          [
+            "adbe",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "to",
+          "buy",
+          "semrush",
+          "in",
+          "$",
+          "1.9",
+          "billion",
+          "deal",
+          "to",
+          "strengthen",
+          "ai",
+          "marketing",
+          "capabilities",
+          ".",
+          "adobe",
+          "adbe",
+          "agreed",
+          "to",
+          "acquire",
+          "digital",
+          "marketing",
+          "platform",
+          "semrush",
+          "semr",
+          "in",
+          "an",
+          "all-cash",
+          "deal",
+          "worth",
+          "a"
+        ],
+        "filtered": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          "deal",
+          "strengthen",
+          "ai",
+          "marketing",
+          "capabilities",
+          ".",
+          "adobe",
+          "adbe",
+          "agreed",
+          "acquire",
+          "digital",
+          "marketing",
+          "platform",
+          "semrush",
+          "semr",
+          "all-cash",
+          "deal",
+          "worth"
+        ],
+        "lemmatized": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          "deal",
+          "strengthen",
+          "ai",
+          "marketing",
+          "capability",
+          ".",
+          "adobe",
+          "adbe",
+          "agreed",
+          "acquire",
+          "digital",
+          "marketing",
+          "platform",
+          "semrush",
+          "semr",
+          "all-cash",
+          "deal",
+          "worth"
+        ]
+      }
+    },
+    {
+      "article_id": "cfa43ed3ae71e75c",
+      "title": "Adobe Drops 36 percent in a Year Can AI Push Help the Stock Recover?",
+      "body": "ADBE leans on rising AI-driven ARR and upgraded 2025 guidance as its stock lags amid fierce competition and valuation pressure.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:52.474674",
+      "url": "https://finnhub.io/api/news?id=c4445bda1602813f8a0928e8a6631af9a70b786c8de276bd01b563219feb8975",
+      "raw_text": "Adobe Drops 36 percent in a Year Can AI Push Help the Stock Recover?. ADBE leans on rising AI-driven ARR and upgraded 2025 guidance as its stock lags amid fierce competition and valuation pressure.",
+      "tickers_mentioned": "ADBE",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "ADBE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Adobe",
+            "Push Help"
+          ],
+          "ORGANIZATION": [
+            "ADBE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "upgrade"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "36",
+          "2025"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "adobe",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "percent",
+            1
+          ],
+          [
+            "year",
+            1
+          ],
+          [
+            "push",
+            1
+          ],
+          [
+            "help",
+            1
+          ],
+          [
+            "recover",
+            1
+          ],
+          [
+            "adbe",
+            1
+          ],
+          [
+            "lean",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "drops",
+          "36",
+          "percent",
+          "in",
+          "a",
+          "year",
+          "can",
+          "ai",
+          "push",
+          "help",
+          "the",
+          "stock",
+          "recover",
+          "?",
+          ".",
+          "adbe",
+          "leans",
+          "on",
+          "rising",
+          "ai-driven",
+          "arr",
+          "and",
+          "upgraded",
+          "2025",
+          "guidance",
+          "as",
+          "its",
+          "stock",
+          "lags",
+          "amid",
+          "fierce",
+          "competition",
+          "and",
+          "valuation",
+          "pressure",
+          "."
+        ],
+        "filtered": [
+          "adobe",
+          "drops",
+          "36",
+          "percent",
+          "year",
+          "ai",
+          "push",
+          "help",
+          "stock",
+          "recover",
+          "?",
+          ".",
+          "adbe",
+          "leans",
+          "rising",
+          "ai-driven",
+          "arr",
+          "upgraded",
+          "2025",
+          "guidance",
+          "stock",
+          "lags",
+          "amid",
+          "fierce",
+          "competition",
+          "valuation",
+          "pressure",
+          "."
+        ],
+        "lemmatized": [
+          "adobe",
+          "drop",
+          "36",
+          "percent",
+          "year",
+          "ai",
+          "push",
+          "help",
+          "stock",
+          "recover",
+          "?",
+          ".",
+          "adbe",
+          "lean",
+          "rise",
+          "ai-driven",
+          "arr",
+          "upgraded",
+          "2025",
+          "guidance",
+          "stock",
+          "lag",
+          "amid",
+          "fierce",
+          "competition",
+          "valuation",
+          "pressure",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "7d5d9e0bbe6cf481",
+      "title": "Adobe to Buy Semrush in $1.9 Billion Deal to Strengthen AI Marketing Capabilities",
+      "body": "Adobe ADBE agreed to acquire digital marketing platform Semrush SEMR in an all-cash deal worth a",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.161948",
+      "url": "https://finnhub.io/api/news?id=b816b790576a4935c5deadfd028fb83364f23dc02301d1fa6c660a5679f41c8c",
+      "raw_text": "Adobe to Buy Semrush in $1.9 Billion Deal to Strengthen AI Marketing Capabilities. Adobe ADBE agreed to acquire digital marketing platform Semrush SEMR in an all-cash deal worth a",
+      "tickers_mentioned": "ADBE,DLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADBE": [],
+        "DLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Buy Semrush",
+            "Billion Deal",
+            "Strengthen AI Marketing Capabilities"
+          ],
+          "ORGANIZATION": [
+            "ADBE",
+            "SEMR"
+          ],
+          "GPE": [
+            "Adobe",
+            "Semrush"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1.9"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "adobe",
+            2
+          ],
+          [
+            "semrush",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "marketing",
+            2
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "1.9",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "strengthen",
+            1
+          ],
+          [
+            "capability",
+            1
+          ],
+          [
+            "adbe",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "to",
+          "buy",
+          "semrush",
+          "in",
+          "$",
+          "1.9",
+          "billion",
+          "deal",
+          "to",
+          "strengthen",
+          "ai",
+          "marketing",
+          "capabilities",
+          ".",
+          "adobe",
+          "adbe",
+          "agreed",
+          "to",
+          "acquire",
+          "digital",
+          "marketing",
+          "platform",
+          "semrush",
+          "semr",
+          "in",
+          "an",
+          "all-cash",
+          "deal",
+          "worth",
+          "a"
+        ],
+        "filtered": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          "deal",
+          "strengthen",
+          "ai",
+          "marketing",
+          "capabilities",
+          ".",
+          "adobe",
+          "adbe",
+          "agreed",
+          "acquire",
+          "digital",
+          "marketing",
+          "platform",
+          "semrush",
+          "semr",
+          "all-cash",
+          "deal",
+          "worth"
+        ],
+        "lemmatized": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          "deal",
+          "strengthen",
+          "ai",
+          "marketing",
+          "capability",
+          ".",
+          "adobe",
+          "adbe",
+          "agreed",
+          "acquire",
+          "digital",
+          "marketing",
+          "platform",
+          "semrush",
+          "semr",
+          "all-cash",
+          "deal",
+          "worth"
+        ]
+      }
+    },
+    {
+      "article_id": "bbf82a93d5d623dc",
+      "title": "Adobe bolsters AI marketing tools with $1.9 billion Semrush buy",
+      "body": "The company will pay $12 per share for Semrush, representing a premium of around 77.5 percent to its stocks last closing price. Semrush shares jumped 75 percent to $11.83 in premarket trading. Semrush designs and develops AI software that helps companies with search engine optimization, social media and digital advertising.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:53.310345",
+      "url": "https://finnhub.io/api/news?id=9a71a35003a9cf5451e58d9a7345532bb91230aec41b3a8b5d4cfbd1d310099a",
+      "raw_text": "Adobe bolsters AI marketing tools with $1.9 billion Semrush buy. The company will pay $12 per share for Semrush, representing a premium of around 77.5 percent to its stocks last closing price. Semrush shares jumped 75 percent to $11.83 in premarket trading. Semrush designs and develops AI software that helps companies with search engine optimization, social media and digital advertising.",
+      "tickers_mentioned": "ADBE,DLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADBE": [],
+        "DLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Semrush"
+          ],
+          "ORGANIZATION": [
+            "AI"
+          ],
+          "GPE": [
+            "Adobe"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1.9",
+          "12",
+          "77.5",
+          "75",
+          "11.83"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "semrush",
+            4
+          ],
+          [
+            "company",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "adobe",
+            1
+          ],
+          [
+            "bolster",
+            1
+          ],
+          [
+            "marketing",
+            1
+          ],
+          [
+            "tool",
+            1
+          ],
+          [
+            "1.9",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "buy",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "bolsters",
+          "ai",
+          "marketing",
+          "tools",
+          "with",
+          "$",
+          "1.9",
+          "billion",
+          "semrush",
+          "buy",
+          ".",
+          "the",
+          "company",
+          "will",
+          "pay",
+          "$",
+          "12",
+          "per",
+          "share",
+          "for",
+          "semrush",
+          ",",
+          "representing",
+          "a",
+          "premium",
+          "of",
+          "around",
+          "77.5",
+          "percent",
+          "to",
+          "its",
+          "stocks",
+          "last",
+          "closing",
+          "price",
+          ".",
+          "semrush",
+          "shares",
+          "jumped",
+          "75",
+          "percent",
+          "to",
+          "$",
+          "11.83",
+          "in",
+          "premarket",
+          "trading",
+          ".",
+          "semrush",
+          "designs",
+          "and",
+          "develops",
+          "ai",
+          "software",
+          "that",
+          "helps",
+          "companies",
+          "with",
+          "search",
+          "engine",
+          "optimization",
+          ",",
+          "social",
+          "media",
+          "and",
+          "digital",
+          "advertising",
+          "."
+        ],
+        "filtered": [
+          "adobe",
+          "bolsters",
+          "ai",
+          "marketing",
+          "tools",
+          "$",
+          "1.9",
+          "billion",
+          "semrush",
+          "buy",
+          ".",
+          "company",
+          "pay",
+          "$",
+          "12",
+          "per",
+          "share",
+          "semrush",
+          ",",
+          "representing",
+          "premium",
+          "around",
+          "77.5",
+          "percent",
+          "stocks",
+          "last",
+          "closing",
+          "price",
+          ".",
+          "semrush",
+          "shares",
+          "jumped",
+          "75",
+          "percent",
+          "$",
+          "11.83",
+          "premarket",
+          "trading",
+          ".",
+          "semrush",
+          "designs",
+          "develops",
+          "ai",
+          "software",
+          "helps",
+          "companies",
+          "search",
+          "engine",
+          "optimization",
+          ",",
+          "social",
+          "media",
+          "digital",
+          "advertising",
+          "."
+        ],
+        "lemmatized": [
+          "adobe",
+          "bolster",
+          "ai",
+          "marketing",
+          "tool",
+          "$",
+          "1.9",
+          "billion",
+          "semrush",
+          "buy",
+          ".",
+          "company",
+          "pay",
+          "$",
+          "12",
+          "per",
+          "share",
+          "semrush",
+          ",",
+          "represent",
+          "premium",
+          "around",
+          "77.5",
+          "percent",
+          "stock",
+          "last",
+          "closing",
+          "price",
+          ".",
+          "semrush",
+          "shares",
+          "jump",
+          "75",
+          "percent",
+          "$",
+          "11.83",
+          "premarket",
+          "trading",
+          ".",
+          "semrush",
+          "design",
+          "develop",
+          "ai",
+          "software",
+          "help",
+          "company",
+          "search",
+          "engine",
+          "optimization",
+          ",",
+          "social",
+          "medium",
+          "digital",
+          "advertising",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1f56250858c0e676",
+      "title": "Adobe To Buy Semrush For $1.9 Billion. Generative AI Shift Drove Deal.",
+      "body": "Digital media and marketing software firm Adobe announced a deal to buy search engine optimization firm Semrush for $1.9 billion in cash.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:25:56.213319",
+      "url": "https://finnhub.io/api/news?id=6ed086b67fbe0cdefae38bfd5770374dd49346eed15031a5a10a84bf7e86d3a7",
+      "raw_text": "Adobe To Buy Semrush For $1.9 Billion. Generative AI Shift Drove Deal.. Digital media and marketing software firm Adobe announced a deal to buy search engine optimization firm Semrush for $1.9 billion in cash.",
+      "tickers_mentioned": "ADBE,DLR",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADBE": [],
+        "DLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Adobe",
+            "Semrush"
+          ],
+          "ORGANIZATION": [
+            "To Buy Semrush",
+            "Digital"
+          ],
+          "GPE": [
+            "Adobe"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": [
+            "announce"
+          ]
+        },
+        "numbers": [
+          "1.9",
+          "1.9"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "adobe",
+            2
+          ],
+          [
+            "buy",
+            2
+          ],
+          [
+            "semrush",
+            2
+          ],
+          [
+            "1.9",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "deal",
+            2
+          ],
+          [
+            "firm",
+            2
+          ],
+          [
+            "generative",
+            1
+          ],
+          [
+            "shift",
+            1
+          ],
+          [
+            "drive",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "to",
+          "buy",
+          "semrush",
+          "for",
+          "$",
+          "1.9",
+          "billion",
+          ".",
+          "generative",
+          "ai",
+          "shift",
+          "drove",
+          "deal",
+          "..",
+          "digital",
+          "media",
+          "and",
+          "marketing",
+          "software",
+          "firm",
+          "adobe",
+          "announced",
+          "a",
+          "deal",
+          "to",
+          "buy",
+          "search",
+          "engine",
+          "optimization",
+          "firm",
+          "semrush",
+          "for",
+          "$",
+          "1.9",
+          "billion",
+          "in",
+          "cash",
+          "."
+        ],
+        "filtered": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          ".",
+          "generative",
+          "ai",
+          "shift",
+          "drove",
+          "deal",
+          "..",
+          "digital",
+          "media",
+          "marketing",
+          "software",
+          "firm",
+          "adobe",
+          "announced",
+          "deal",
+          "buy",
+          "search",
+          "engine",
+          "optimization",
+          "firm",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          "cash",
+          "."
+        ],
+        "lemmatized": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          ".",
+          "generative",
+          "ai",
+          "shift",
+          "drive",
+          "deal",
+          "..",
+          "digital",
+          "medium",
+          "marketing",
+          "software",
+          "firm",
+          "adobe",
+          "announce",
+          "deal",
+          "buy",
+          "search",
+          "engine",
+          "optimization",
+          "firm",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          "cash",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "97e58df184623bea",
+      "title": "Adobe to buy Semrush for $1.9 billion, sending marketing platforms shares up 70 percent",
+      "body": "Adobe said Semrushs search engine and marketing tools can help brands engage and grow customers, especially in the age of artificial intelligence.",
+      "source": "CNBC",
+      "timestamp": "2025-11-22T00:25:56.444166",
+      "url": "https://finnhub.io/api/news?id=ec9ec70f034c5cbf56efda6dc4e3f5cc0988019645aa14c68220cc711220c033",
+      "raw_text": "Adobe to buy Semrush for $1.9 billion, sending marketing platforms shares up 70 percent. Adobe said Semrushs search engine and marketing tools can help brands engage and grow customers, especially in the age of artificial intelligence.",
+      "tickers_mentioned": "ADBE",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "ADBE": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Semrush",
+            "Adobe"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Adobe"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "1.9",
+          "70"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "adobe",
+            2
+          ],
+          [
+            "marketing",
+            2
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "semrush",
+            1
+          ],
+          [
+            "1.9",
+            1
+          ],
+          [
+            "billion",
+            1
+          ],
+          [
+            "send",
+            1
+          ],
+          [
+            "platform",
+            1
+          ],
+          [
+            "shares",
+            1
+          ],
+          [
+            "percent",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "adobe",
+          "to",
+          "buy",
+          "semrush",
+          "for",
+          "$",
+          "1.9",
+          "billion",
+          ",",
+          "sending",
+          "marketing",
+          "platforms",
+          "shares",
+          "up",
+          "70",
+          "percent",
+          ".",
+          "adobe",
+          "said",
+          "semrushs",
+          "search",
+          "engine",
+          "and",
+          "marketing",
+          "tools",
+          "can",
+          "help",
+          "brands",
+          "engage",
+          "and",
+          "grow",
+          "customers",
+          ",",
+          "especially",
+          "in",
+          "the",
+          "age",
+          "of",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "filtered": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          ",",
+          "sending",
+          "marketing",
+          "platforms",
+          "shares",
+          "up",
+          "70",
+          "percent",
+          ".",
+          "adobe",
+          "said",
+          "semrushs",
+          "search",
+          "engine",
+          "marketing",
+          "tools",
+          "help",
+          "brands",
+          "engage",
+          "grow",
+          "customers",
+          ",",
+          "especially",
+          "age",
+          "artificial",
+          "intelligence",
+          "."
+        ],
+        "lemmatized": [
+          "adobe",
+          "buy",
+          "semrush",
+          "$",
+          "1.9",
+          "billion",
+          ",",
+          "send",
+          "marketing",
+          "platform",
+          "shares",
+          "up",
+          "70",
+          "percent",
+          ".",
+          "adobe",
+          "say",
+          "semrushs",
+          "search",
+          "engine",
+          "marketing",
+          "tool",
+          "help",
+          "brand",
+          "engage",
+          "grow",
+          "customer",
+          ",",
+          "especially",
+          "age",
+          "artificial",
+          "intelligence",
+          "."
+        ]
+      }
+    }
+  ]
+}

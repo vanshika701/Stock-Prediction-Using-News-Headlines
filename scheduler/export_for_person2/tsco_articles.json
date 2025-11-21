@@ -1,0 +1,445 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "d3c256961b87ee6b",
+      "title": "Monarch Tractor preps for layoffs and warns employees it may shut down",
+      "body": "The memo that went out Thursday, which TechCrunch obtained, says the timing of the companys pivot away from tractor manufacturing puts it at risk.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:26.126199",
+      "url": "https://finnhub.io/api/news?id=df56a2b92912b008c7b107f3a3ff18d286e8175432a3494143e69c959260fa83",
+      "raw_text": "Monarch Tractor preps for layoffs and warns employees it may shut down. The memo that went out Thursday, which TechCrunch obtained, says the timing of the companys pivot away from tractor manufacturing puts it at risk.",
+      "tickers_mentioned": "TSCO",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TSCO": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Monarch"
+          ],
+          "ORGANIZATION": [
+            "TechCrunch"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "tractor",
+            2
+          ],
+          [
+            "monarch",
+            1
+          ],
+          [
+            "preps",
+            1
+          ],
+          [
+            "layoff",
+            1
+          ],
+          [
+            "warn",
+            1
+          ],
+          [
+            "employee",
+            1
+          ],
+          [
+            "may",
+            1
+          ],
+          [
+            "shut",
+            1
+          ],
+          [
+            "down",
+            1
+          ],
+          [
+            "memo",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "monarch",
+          "tractor",
+          "preps",
+          "for",
+          "layoffs",
+          "and",
+          "warns",
+          "employees",
+          "it",
+          "may",
+          "shut",
+          "down",
+          ".",
+          "the",
+          "memo",
+          "that",
+          "went",
+          "out",
+          "thursday",
+          ",",
+          "which",
+          "techcrunch",
+          "obtained",
+          ",",
+          "says",
+          "the",
+          "timing",
+          "of",
+          "the",
+          "companys",
+          "pivot",
+          "away",
+          "from",
+          "tractor",
+          "manufacturing",
+          "puts",
+          "it",
+          "at",
+          "risk",
+          "."
+        ],
+        "filtered": [
+          "monarch",
+          "tractor",
+          "preps",
+          "layoffs",
+          "warns",
+          "employees",
+          "may",
+          "shut",
+          "down",
+          ".",
+          "memo",
+          "went",
+          "thursday",
+          ",",
+          "techcrunch",
+          "obtained",
+          ",",
+          "says",
+          "timing",
+          "companys",
+          "pivot",
+          "away",
+          "tractor",
+          "manufacturing",
+          "puts",
+          "risk",
+          "."
+        ],
+        "lemmatized": [
+          "monarch",
+          "tractor",
+          "preps",
+          "layoff",
+          "warn",
+          "employee",
+          "may",
+          "shut",
+          "down",
+          ".",
+          "memo",
+          "go",
+          "thursday",
+          ",",
+          "techcrunch",
+          "obtain",
+          ",",
+          "say",
+          "timing",
+          "company",
+          "pivot",
+          "away",
+          "tractor",
+          "manufacturing",
+          "put",
+          "risk",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "69ac46c4636ce489",
+      "title": "FIRST GROUP OF CDL DRIVERS AT AMAZON JOIN TEAMSTERS",
+      "body": "In a first-of-its-kind victory, Amazon CDL drivers at the SDF9 facility in Shepherdsville, Ky., have become the first group of Amazon semi-truck and tractor trailer drivers nationwide to join the Teamsters. The Amazon Transportation Operations Management TOM Team drivers chose representation by Teamsters Local 89.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:36.849535",
+      "url": "https://finnhub.io/api/news?id=080fdf8b2816e83da191f1ee4cb27da41241d36f4ce33e2e7990a012b56b6e93",
+      "raw_text": "FIRST GROUP OF CDL DRIVERS AT AMAZON JOIN TEAMSTERS. In a first-of-its-kind victory, Amazon CDL drivers at the SDF9 facility in Shepherdsville, Ky., have become the first group of Amazon semi-truck and tractor trailer drivers nationwide to join the Teamsters. The Amazon Transportation Operations Management TOM Team drivers chose representation by Teamsters Local 89.",
+      "tickers_mentioned": "TSCO,FSLR",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "TSCO": [],
+        "FSLR": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Amazon CDL"
+          ],
+          "ORGANIZATION": [
+            "FIRST",
+            "GROUP OF",
+            "AMAZON",
+            "SDF9",
+            "Teamsters",
+            "Amazon Transportation Operations Management",
+            "TOM"
+          ],
+          "GPE": [
+            "Shepherdsville",
+            "Amazon"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "89"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "driver",
+            4
+          ],
+          [
+            "amazon",
+            4
+          ],
+          [
+            "teamster",
+            3
+          ],
+          [
+            "first",
+            2
+          ],
+          [
+            "group",
+            2
+          ],
+          [
+            "cdl",
+            2
+          ],
+          [
+            "join",
+            2
+          ],
+          [
+            "first-of-its-kind",
+            1
+          ],
+          [
+            "victory",
+            1
+          ],
+          [
+            "sdf9",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "first",
+          "group",
+          "of",
+          "cdl",
+          "drivers",
+          "at",
+          "amazon",
+          "join",
+          "teamsters",
+          ".",
+          "in",
+          "a",
+          "first-of-its-kind",
+          "victory",
+          ",",
+          "amazon",
+          "cdl",
+          "drivers",
+          "at",
+          "the",
+          "sdf9",
+          "facility",
+          "in",
+          "shepherdsville",
+          ",",
+          "ky.",
+          ",",
+          "have",
+          "become",
+          "the",
+          "first",
+          "group",
+          "of",
+          "amazon",
+          "semi-truck",
+          "and",
+          "tractor",
+          "trailer",
+          "drivers",
+          "nationwide",
+          "to",
+          "join",
+          "the",
+          "teamsters",
+          ".",
+          "the",
+          "amazon",
+          "transportation",
+          "operations",
+          "management",
+          "tom",
+          "team",
+          "drivers",
+          "chose",
+          "representation",
+          "by",
+          "teamsters",
+          "local",
+          "89",
+          "."
+        ],
+        "filtered": [
+          "first",
+          "group",
+          "cdl",
+          "drivers",
+          "amazon",
+          "join",
+          "teamsters",
+          ".",
+          "first-of-its-kind",
+          "victory",
+          ",",
+          "amazon",
+          "cdl",
+          "drivers",
+          "sdf9",
+          "facility",
+          "shepherdsville",
+          ",",
+          "ky.",
+          ",",
+          "become",
+          "first",
+          "group",
+          "amazon",
+          "semi-truck",
+          "tractor",
+          "trailer",
+          "drivers",
+          "nationwide",
+          "join",
+          "teamsters",
+          ".",
+          "amazon",
+          "transportation",
+          "operations",
+          "management",
+          "tom",
+          "team",
+          "drivers",
+          "chose",
+          "representation",
+          "teamsters",
+          "local",
+          "89",
+          "."
+        ],
+        "lemmatized": [
+          "first",
+          "group",
+          "cdl",
+          "driver",
+          "amazon",
+          "join",
+          "teamster",
+          ".",
+          "first-of-its-kind",
+          "victory",
+          ",",
+          "amazon",
+          "cdl",
+          "driver",
+          "sdf9",
+          "facility",
+          "shepherdsville",
+          ",",
+          "ky.",
+          ",",
+          "become",
+          "first",
+          "group",
+          "amazon",
+          "semi-truck",
+          "tractor",
+          "trailer",
+          "driver",
+          "nationwide",
+          "join",
+          "teamster",
+          ".",
+          "amazon",
+          "transportation",
+          "operation",
+          "management",
+          "tom",
+          "team",
+          "driver",
+          "choose",
+          "representation",
+          "teamster",
+          "local",
+          "89",
+          "."
+        ]
+      }
+    }
+  ]
+}

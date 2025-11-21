@@ -1,0 +1,489 @@
+{
+  "count": 2,
+  "articles": [
+    {
+      "article_id": "897c710ef9390aa9",
+      "title": "BAX INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Baxter International",
+      "body": "Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Baxter To Contact Him Directly To Discuss Their Options If you purchased or acq 3817 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:25:42.406481",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192299/683/en/BAX-INVESTOR-NOTICE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Baxter-International.html",
+      "raw_text": "BAX INVESTOR NOTICE Faruqi Faruqi, LLP Investigates Claims on Behalf of Investors of Baxter International. Faruqi Faruqi, LLP Securities Litigation Partner James Josh Wilson Encourages Investors Who Suffered Losses In Baxter To Contact Him Directly To Discuss Their Options If you purchased or acq 3817 chars",
+      "tickers_mentioned": "IP,BAX",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "IP": [],
+        "BAX": [
+          "& Faruqi, LLP Investigates Claims on Behalf of Investors of **Baxter** International. Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh)"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Faruqi",
+            "Wilson Encourages"
+          ],
+          "ORGANIZATION": [
+            "BAX",
+            "LLP",
+            "Baxter International",
+            "LLP Securities Litigation Partner James",
+            "Josh",
+            "Contact Him"
+          ],
+          "GPE": [
+            "Faruqi",
+            "Losses",
+            "Baxter"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [
+            "loss"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "3817"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "faruqi",
+            4
+          ],
+          [
+            "investor",
+            3
+          ],
+          [
+            "llp",
+            2
+          ],
+          [
+            "baxter",
+            2
+          ],
+          [
+            "bax",
+            1
+          ],
+          [
+            "notice",
+            1
+          ],
+          [
+            "investigates",
+            1
+          ],
+          [
+            "claim",
+            1
+          ],
+          [
+            "behalf",
+            1
+          ],
+          [
+            "international",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "on",
+          "behalf",
+          "of",
+          "investors",
+          "of",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "who",
+          "suffered",
+          "losses",
+          "in",
+          "baxter",
+          "to",
+          "contact",
+          "him",
+          "directly",
+          "to",
+          "discuss",
+          "their",
+          "options",
+          "if",
+          "you",
+          "purchased",
+          "or",
+          "acq",
+          "3817",
+          "chars"
+        ],
+        "filtered": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claims",
+          "behalf",
+          "investors",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investors",
+          "suffered",
+          "losses",
+          "baxter",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchased",
+          "acq",
+          "3817",
+          "chars"
+        ],
+        "lemmatized": [
+          "bax",
+          "investor",
+          "notice",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "investigates",
+          "claim",
+          "behalf",
+          "investor",
+          "baxter",
+          "international",
+          ".",
+          "faruqi",
+          "faruqi",
+          ",",
+          "llp",
+          "securities",
+          "litigation",
+          "partner",
+          "james",
+          "josh",
+          "wilson",
+          "encourages",
+          "investor",
+          "suffer",
+          "loss",
+          "baxter",
+          "contact",
+          "directly",
+          "discuss",
+          "options",
+          "purchase",
+          "acq",
+          "3817",
+          "char"
+        ]
+      }
+    },
+    {
+      "article_id": "ae8e72351044f061",
+      "title": "BAX Investors Have Opportunity to Lead Baxter International Inc. Securities Fraud Lawsuit with the Schall Law Firm",
+      "body": "LOS ANGELES, Nov. 20, 2025 GLOBE NEWSWIRE -- The Schall Law Firm , a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Baxter International Inc. Bax 2178 chars",
+      "source": "GlobeNewswire",
+      "timestamp": "2025-11-22T00:25:43.035233",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192161/0/en/BAX-Investors-Have-Opportunity-to-Lead-Baxter-International-Inc-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html",
+      "raw_text": "BAX Investors Have Opportunity to Lead Baxter International Inc. Securities Fraud Lawsuit with the Schall Law Firm. LOS ANGELES, Nov. 20, 2025 GLOBE NEWSWIRE -- The Schall Law Firm , a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Baxter International Inc. Bax 2178 chars",
+      "tickers_mentioned": "GL,BAX,IP",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "GL": [],
+        "BAX": [
+          "BAX Investors Have Opportunity to Lead **Baxter** International Inc. Securities Fraud Lawsuit with the Schall Law Firm.",
+          "litigation firm, reminds investors of a class action lawsuit against **Baxter** International Inc. (Bax… [+2178 chars]"
+        ],
+        "IP": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Baxter International",
+            "Fraud Lawsuit"
+          ],
+          "ORGANIZATION": [
+            "Schall Law Firm",
+            "LOS",
+            "GLOBE"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "20",
+          "2025",
+          "2178"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "firm",
+            3
+          ],
+          [
+            "bax",
+            2
+          ],
+          [
+            "investor",
+            2
+          ],
+          [
+            "baxter",
+            2
+          ],
+          [
+            "international",
+            2
+          ],
+          [
+            "inc.",
+            2
+          ],
+          [
+            "lawsuit",
+            2
+          ],
+          [
+            "schall",
+            2
+          ],
+          [
+            "law",
+            2
+          ],
+          [
+            "opportunity",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "bax",
+          "investors",
+          "have",
+          "opportunity",
+          "to",
+          "lead",
+          "baxter",
+          "international",
+          "inc.",
+          "securities",
+          "fraud",
+          "lawsuit",
+          "with",
+          "the",
+          "schall",
+          "law",
+          "firm",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "the",
+          "schall",
+          "law",
+          "firm",
+          ",",
+          "a",
+          "national",
+          "shareholder",
+          "rights",
+          "litigation",
+          "firm",
+          ",",
+          "reminds",
+          "investors",
+          "of",
+          "a",
+          "class",
+          "action",
+          "lawsuit",
+          "against",
+          "baxter",
+          "international",
+          "inc.",
+          "bax",
+          "2178",
+          "chars"
+        ],
+        "filtered": [
+          "bax",
+          "investors",
+          "opportunity",
+          "lead",
+          "baxter",
+          "international",
+          "inc.",
+          "securities",
+          "fraud",
+          "lawsuit",
+          "schall",
+          "law",
+          "firm",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "schall",
+          "law",
+          "firm",
+          ",",
+          "national",
+          "shareholder",
+          "rights",
+          "litigation",
+          "firm",
+          ",",
+          "reminds",
+          "investors",
+          "class",
+          "action",
+          "lawsuit",
+          "baxter",
+          "international",
+          "inc.",
+          "bax",
+          "2178",
+          "chars"
+        ],
+        "lemmatized": [
+          "bax",
+          "investor",
+          "opportunity",
+          "lead",
+          "baxter",
+          "international",
+          "inc.",
+          "securities",
+          "fraud",
+          "lawsuit",
+          "schall",
+          "law",
+          "firm",
+          ".",
+          "los",
+          "angeles",
+          ",",
+          "nov.",
+          "20",
+          ",",
+          "2025",
+          "globe",
+          "newswire",
+          "--",
+          "schall",
+          "law",
+          "firm",
+          ",",
+          "national",
+          "shareholder",
+          "right",
+          "litigation",
+          "firm",
+          ",",
+          "remind",
+          "investor",
+          "class",
+          "action",
+          "lawsuit",
+          "baxter",
+          "international",
+          "inc.",
+          "bax",
+          "2178",
+          "char"
+        ]
+      }
+    }
+  ]
+}

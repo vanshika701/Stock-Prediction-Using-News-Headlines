@@ -1,0 +1,5460 @@
+{
+  "count": 25,
+  "articles": [
+    {
+      "article_id": "dc19e6b7ba74835f",
+      "title": "Netflixs 10-For-1 Stock Split Takes Effect Hold for Now or Fold? Revised",
+      "body": "NFLXs 10-for-1 split takes effect as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:20.763001",
+      "url": "https://www.zacks.com/stock/news/2793960/netflixs-10-for-1-stock-split-takes-effect-hold-for-now-or-fold-revised",
+      "raw_text": "Netflixs 10-For-1 Stock Split Takes Effect Hold for Now or Fold? Revised. NFLXs 10-for-1 split takes effect as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix's** 10-For-1 Stock Split Takes Effect: Hold for Now or Fold?"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Split Takes Effect"
+          ],
+          "ORGANIZATION": [
+            "NFLX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "10",
+          "1",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "10-for-1",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "take",
+            2
+          ],
+          [
+            "effect",
+            2
+          ],
+          [
+            "hold",
+            2
+          ],
+          [
+            "netflixs",
+            1
+          ],
+          [
+            "fold",
+            1
+          ],
+          [
+            "revise",
+            1
+          ],
+          [
+            "nflxs",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflixs",
+          "10-for-1",
+          "stock",
+          "split",
+          "takes",
+          "effect",
+          "hold",
+          "for",
+          "now",
+          "or",
+          "fold",
+          "?",
+          "revised",
+          ".",
+          "nflxs",
+          "10-for-1",
+          "split",
+          "takes",
+          "effect",
+          "as",
+          "the",
+          "company",
+          "enters",
+          "a",
+          "new",
+          "phase",
+          "backed",
+          "by",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "the",
+          "stock",
+          "for",
+          "now",
+          "."
+        ],
+        "filtered": [
+          "netflixs",
+          "10-for-1",
+          "stock",
+          "split",
+          "takes",
+          "effect",
+          "hold",
+          "fold",
+          "?",
+          "revised",
+          ".",
+          "nflxs",
+          "10-for-1",
+          "split",
+          "takes",
+          "effect",
+          "company",
+          "enters",
+          "new",
+          "phase",
+          "backed",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "netflixs",
+          "10-for-1",
+          "stock",
+          "split",
+          "take",
+          "effect",
+          "hold",
+          "fold",
+          "?",
+          "revise",
+          ".",
+          "nflxs",
+          "10-for-1",
+          "split",
+          "take",
+          "effect",
+          "company",
+          "enter",
+          "new",
+          "phase",
+          "back",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "24840631557a9b56",
+      "title": "Louisiana Rep. Cleo Fields Bought Over $216K Worth of Netflix Stock here is What You Should Know - Netflix NASDAQNFLX , Apple NASDAQAAPL",
+      "body": "Records from November 19, 2025 indicate that Representative Cleo Fields of Louisiana made a purchase of Netflix NASDAQNFLX , valued between $216,004 and $565,000, with the transaction dated November 3, 2025 and filed in November. As of now, Netflix shares are trading up 0.89 percent at $110.98.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:20.943277",
+      "url": "https://www.benzinga.com/insights/government/25/11/48976549/louisiana-rep-cleo-fields-bought-over-216k-worth-of-netflix-stock-heres-what-you-should-know",
+      "raw_text": "Louisiana Rep. Cleo Fields Bought Over $216K Worth of Netflix Stock here is What You Should Know - Netflix NASDAQNFLX , Apple NASDAQAAPL. Records from November 19, 2025 indicate that Representative Cleo Fields of Louisiana made a purchase of Netflix NASDAQNFLX , valued between $216,004 and $565,000, with the transaction dated November 3, 2025 and filed in November. As of now, Netflix shares are trading up 0.89 percent at $110.98.",
+      "tickers_mentioned": "AAPL,NFLX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "NFLX": [
+          "Louisiana Rep. Cleo Fields Bought Over $216K Worth of **Netflix** Stock: Here's What You Should Know - Netflix ( NASDAQ:NFLX",
+          "Worth of Netflix Stock: Here's What You Should Know - **Netflix** ( NASDAQ:NFLX ) , Apple ( NASDAQ:AAPL ) . Records",
+          "that Representative Cleo Fields of Louisiana made a purchase of **Netflix** ( NASDAQ:NFLX ) , valued between $216,004 and $565,000, with",
+          "November 3, 2025 and filed in November. As of now, **Netflix** shares are trading up 0.89% at $110.98."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Louisiana",
+            "Fields Bought",
+            "Know"
+          ],
+          "ORGANIZATION": [
+            "Netflix",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Netflix",
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "216K",
+          "19",
+          "2025",
+          "216",
+          "004",
+          "565",
+          "000",
+          "3",
+          "2025",
+          "0.89",
+          "110.98"
+        ],
+        "percentages": [],
+        "dates": [
+          "November 19, 2025",
+          "November 3, 2025"
+        ],
+        "top_words": [
+          [
+            "netflix",
+            4
+          ],
+          [
+            "november",
+            3
+          ],
+          [
+            "louisiana",
+            2
+          ],
+          [
+            "cleo",
+            2
+          ],
+          [
+            "field",
+            2
+          ],
+          [
+            "nasdaqnflx",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "rep.",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "over",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 11,
+          "num_percentages": 0,
+          "num_dates": 2
+        }
+      },
+      "tokens": {
+        "original": [
+          "louisiana",
+          "rep.",
+          "cleo",
+          "fields",
+          "bought",
+          "over",
+          "$",
+          "216k",
+          "worth",
+          "of",
+          "netflix",
+          "stock",
+          "here",
+          "is",
+          "what",
+          "you",
+          "should",
+          "know",
+          "-",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          ".",
+          "records",
+          "from",
+          "november",
+          "19",
+          ",",
+          "2025",
+          "indicate",
+          "that",
+          "representative",
+          "cleo",
+          "fields",
+          "of",
+          "louisiana",
+          "made",
+          "a",
+          "purchase",
+          "of",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "valued",
+          "between",
+          "$",
+          "216,004",
+          "and",
+          "$",
+          "565,000",
+          ",",
+          "with",
+          "the",
+          "transaction",
+          "dated",
+          "november",
+          "3",
+          ",",
+          "2025",
+          "and",
+          "filed",
+          "in",
+          "november",
+          ".",
+          "as",
+          "of",
+          "now",
+          ",",
+          "netflix",
+          "shares",
+          "are",
+          "trading",
+          "up",
+          "0.89",
+          "percent",
+          "at",
+          "$",
+          "110.98",
+          "."
+        ],
+        "filtered": [
+          "louisiana",
+          "rep.",
+          "cleo",
+          "fields",
+          "bought",
+          "over",
+          "$",
+          "216k",
+          "worth",
+          "netflix",
+          "stock",
+          "know",
+          "-",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          ".",
+          "records",
+          "november",
+          "19",
+          ",",
+          "2025",
+          "indicate",
+          "representative",
+          "cleo",
+          "fields",
+          "louisiana",
+          "made",
+          "purchase",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "valued",
+          "$",
+          "216,004",
+          "$",
+          "565,000",
+          ",",
+          "transaction",
+          "dated",
+          "november",
+          "3",
+          ",",
+          "2025",
+          "filed",
+          "november",
+          ".",
+          ",",
+          "netflix",
+          "shares",
+          "trading",
+          "up",
+          "0.89",
+          "percent",
+          "$",
+          "110.98",
+          "."
+        ],
+        "lemmatized": [
+          "louisiana",
+          "rep.",
+          "cleo",
+          "field",
+          "buy",
+          "over",
+          "$",
+          "216k",
+          "worth",
+          "netflix",
+          "stock",
+          "know",
+          "-",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          ".",
+          "record",
+          "november",
+          "19",
+          ",",
+          "2025",
+          "indicate",
+          "representative",
+          "cleo",
+          "field",
+          "louisiana",
+          "make",
+          "purchase",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "value",
+          "$",
+          "216,004",
+          "$",
+          "565,000",
+          ",",
+          "transaction",
+          "date",
+          "november",
+          "3",
+          ",",
+          "2025",
+          "file",
+          "november",
+          ".",
+          ",",
+          "netflix",
+          "shares",
+          "trade",
+          "up",
+          "0.89",
+          "percent",
+          "$",
+          "110.98",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c5030aae1dda88f8",
+      "title": "Netflix vs. Apple Which Stock Should You Buy Now?",
+      "body": "Apple and Netflix are two of the more popular stocks in the broader market.",
+      "source": "Motley Fool",
+      "timestamp": "2025-11-22T00:48:20.972877",
+      "url": "https://www.fool.com/investing/2025/11/20/netflix-vs-apple-which-stock-should-you-buy-now/",
+      "raw_text": "Netflix vs. Apple Which Stock Should You Buy Now?. Apple and Netflix are two of the more popular stocks in the broader market.",
+      "tickers_mentioned": "AAPL,NFLX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "NFLX": [
+          "**Netflix** vs. Apple: Which Stock Should You Buy Now?. Apple and",
+          "vs. Apple: Which Stock Should You Buy Now?. Apple and **Netflix** are two of the more popular stocks in the broader"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Which Stock",
+            "Apple",
+            "Netflix"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Netflix"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "netflix",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "vs.",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "two",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "popular",
+            1
+          ],
+          [
+            "broader",
+            1
+          ],
+          [
+            "market",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "vs.",
+          "apple",
+          "which",
+          "stock",
+          "should",
+          "you",
+          "buy",
+          "now",
+          "?",
+          ".",
+          "apple",
+          "and",
+          "netflix",
+          "are",
+          "two",
+          "of",
+          "the",
+          "more",
+          "popular",
+          "stocks",
+          "in",
+          "the",
+          "broader",
+          "market",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "vs.",
+          "apple",
+          "stock",
+          "buy",
+          "?",
+          ".",
+          "apple",
+          "netflix",
+          "two",
+          "more",
+          "popular",
+          "stocks",
+          "broader",
+          "market",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "vs.",
+          "apple",
+          "stock",
+          "buy",
+          "?",
+          ".",
+          "apple",
+          "netflix",
+          "two",
+          "more",
+          "popular",
+          "stock",
+          "broader",
+          "market",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "15867c617d561a3e",
+      "title": "Netflix Stock Price Lowers After 10-for-1 Split Hold or Fold Now? revised",
+      "body": "NFLXs 90 percent price drop stems solely from its 10-for-1 split as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:21.320937",
+      "url": "https://www.zacks.com/stock/news/2792764/netflix-stock-price-lowers-after-10-for-1-split-hold-or-fold-now-revised",
+      "raw_text": "Netflix Stock Price Lowers After 10-for-1 Split Hold or Fold Now? revised. NFLXs 90 percent price drop stems solely from its 10-for-1 split as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "negative",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Price Lowers After 10-for-1 Split: Hold or Fold Now?"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock"
+          ],
+          "ORGANIZATION": [
+            "NFLX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [
+            "drop",
+            "lower"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "10",
+          "1",
+          "90",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "price",
+            2
+          ],
+          [
+            "10-for-1",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "hold",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "lower",
+            1
+          ],
+          [
+            "fold",
+            1
+          ],
+          [
+            "revise",
+            1
+          ],
+          [
+            "nflxs",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 2,
+          "num_neutral_keywords": 1,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "price",
+          "lowers",
+          "after",
+          "10-for-1",
+          "split",
+          "hold",
+          "or",
+          "fold",
+          "now",
+          "?",
+          "revised",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stems",
+          "solely",
+          "from",
+          "its",
+          "10-for-1",
+          "split",
+          "as",
+          "the",
+          "company",
+          "enters",
+          "a",
+          "new",
+          "phase",
+          "backed",
+          "by",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "the",
+          "stock",
+          "for",
+          "now",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "price",
+          "lowers",
+          "10-for-1",
+          "split",
+          "hold",
+          "fold",
+          "?",
+          "revised",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stems",
+          "solely",
+          "10-for-1",
+          "split",
+          "company",
+          "enters",
+          "new",
+          "phase",
+          "backed",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "price",
+          "lower",
+          "10-for-1",
+          "split",
+          "hold",
+          "fold",
+          "?",
+          "revise",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stem",
+          "solely",
+          "10-for-1",
+          "split",
+          "company",
+          "enter",
+          "new",
+          "phase",
+          "back",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "c2307bd65bf6a9ba",
+      "title": "Netflix Stock Drops 90 percent After Its 10-for-1 Split Hold or Fold Now?",
+      "body": "NFLXs 90 percent price drop stems solely from its 10-for-1 split as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:21.335710",
+      "url": "https://www.zacks.com/stock/news/2792722/netflix-stock-drops-90-after-its-10-for-1-split-hold-or-fold-now",
+      "raw_text": "Netflix Stock Drops 90 percent After Its 10-for-1 Split Hold or Fold Now?. NFLXs 90 percent price drop stems solely from its 10-for-1 split as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Drops 90% After Its 10-for-1 Split: Hold or Fold"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock Drops"
+          ],
+          "ORGANIZATION": [
+            "NFLX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "90",
+          "10",
+          "1",
+          "90",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "drop",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "10-for-1",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "hold",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "fold",
+            1
+          ],
+          [
+            "nflxs",
+            1
+          ],
+          [
+            "price",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "drops",
+          "90",
+          "percent",
+          "after",
+          "its",
+          "10-for-1",
+          "split",
+          "hold",
+          "or",
+          "fold",
+          "now",
+          "?",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stems",
+          "solely",
+          "from",
+          "its",
+          "10-for-1",
+          "split",
+          "as",
+          "the",
+          "company",
+          "enters",
+          "a",
+          "new",
+          "phase",
+          "backed",
+          "by",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "the",
+          "stock",
+          "for",
+          "now",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "drops",
+          "90",
+          "percent",
+          "10-for-1",
+          "split",
+          "hold",
+          "fold",
+          "?",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stems",
+          "solely",
+          "10-for-1",
+          "split",
+          "company",
+          "enters",
+          "new",
+          "phase",
+          "backed",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "drop",
+          "90",
+          "percent",
+          "10-for-1",
+          "split",
+          "hold",
+          "fold",
+          "?",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stem",
+          "solely",
+          "10-for-1",
+          "split",
+          "company",
+          "enter",
+          "new",
+          "phase",
+          "back",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "ac2b02d0bf39075d",
+      "title": "ESPN, NBCUniversal, Netflix Secure MLB Broadcast Rights From 2026",
+      "body": "Walt Disney DIS-owned ESPN, Comcast CMCSA unit NBCUniversal, and Netflix NFLX signed new three",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:21.691915",
+      "url": "https://finnhub.io/api/news?id=628f147ecb22305fc9c35143869336c4343ca4ba254bbea0eb8ee3dd911d744a",
+      "raw_text": "ESPN, NBCUniversal, Netflix Secure MLB Broadcast Rights From 2026. Walt Disney DIS-owned ESPN, Comcast CMCSA unit NBCUniversal, and Netflix NFLX signed new three",
+      "tickers_mentioned": "NFLX,CMCSA",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "ESPN, NBCUniversal, **Netflix** Secure MLB Broadcast Rights From 2026. Walt Disney (DIS)-owned ESPN,",
+          "2026. Walt Disney (DIS)-owned ESPN, Comcast (CMCSA) unit NBCUniversal, and **Netflix** (NFLX) signed new three"
+        ],
+        "CMCSA": [
+          "Secure MLB Broadcast Rights From 2026. Walt Disney (DIS)-owned ESPN, **Comcast** (CMCSA) unit NBCUniversal, and Netflix (NFLX) signed new three"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix Secure",
+            "Broadcast Rights",
+            "Walt Disney"
+          ],
+          "ORGANIZATION": [
+            "NBCUniversal",
+            "DIS",
+            "ESPN",
+            "CMCSA",
+            "NFLX"
+          ],
+          "GPE": [
+            "ESPN",
+            "Comcast",
+            "Netflix"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "2026"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "espn",
+            2
+          ],
+          [
+            "nbcuniversal",
+            2
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "secure",
+            1
+          ],
+          [
+            "mlb",
+            1
+          ],
+          [
+            "broadcast",
+            1
+          ],
+          [
+            "right",
+            1
+          ],
+          [
+            "2026.",
+            1
+          ],
+          [
+            "walt",
+            1
+          ],
+          [
+            "disney",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 11,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 1,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "espn",
+          ",",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "secure",
+          "mlb",
+          "broadcast",
+          "rights",
+          "from",
+          "2026.",
+          "walt",
+          "disney",
+          "dis-owned",
+          "espn",
+          ",",
+          "comcast",
+          "cmcsa",
+          "unit",
+          "nbcuniversal",
+          ",",
+          "and",
+          "netflix",
+          "nflx",
+          "signed",
+          "new",
+          "three"
+        ],
+        "filtered": [
+          "espn",
+          ",",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "secure",
+          "mlb",
+          "broadcast",
+          "rights",
+          "2026.",
+          "walt",
+          "disney",
+          "dis-owned",
+          "espn",
+          ",",
+          "comcast",
+          "cmcsa",
+          "unit",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "nflx",
+          "signed",
+          "new",
+          "three"
+        ],
+        "lemmatized": [
+          "espn",
+          ",",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "secure",
+          "mlb",
+          "broadcast",
+          "right",
+          "2026.",
+          "walt",
+          "disney",
+          "dis-owned",
+          "espn",
+          ",",
+          "comcast",
+          "cmcsa",
+          "unit",
+          "nbcuniversal",
+          ",",
+          "netflix",
+          "nflx",
+          "sign",
+          "new",
+          "three"
+        ]
+      }
+    },
+    {
+      "article_id": "23cd604d0666dd94",
+      "title": "Netflix vs. Apple Which Stock Should You Buy Now?",
+      "body": "Apple and Netflix are two of the more popular stocks in the broader market.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:21.952156",
+      "url": "https://finnhub.io/api/news?id=36f72c666f0bf9a1a78c381b6aee2241b189a6d920ec220146a69addea67f0fa",
+      "raw_text": "Netflix vs. Apple Which Stock Should You Buy Now?. Apple and Netflix are two of the more popular stocks in the broader market.",
+      "tickers_mentioned": "AAPL,NFLX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "NFLX": [
+          "**Netflix** vs. Apple: Which Stock Should You Buy Now?. Apple and",
+          "vs. Apple: Which Stock Should You Buy Now?. Apple and **Netflix** are two of the more popular stocks in the broader"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Which Stock",
+            "Apple",
+            "Netflix"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Netflix"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "netflix",
+            2
+          ],
+          [
+            "apple",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "vs.",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "two",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "popular",
+            1
+          ],
+          [
+            "broader",
+            1
+          ],
+          [
+            "market",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "vs.",
+          "apple",
+          "which",
+          "stock",
+          "should",
+          "you",
+          "buy",
+          "now",
+          "?",
+          ".",
+          "apple",
+          "and",
+          "netflix",
+          "are",
+          "two",
+          "of",
+          "the",
+          "more",
+          "popular",
+          "stocks",
+          "in",
+          "the",
+          "broader",
+          "market",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "vs.",
+          "apple",
+          "stock",
+          "buy",
+          "?",
+          ".",
+          "apple",
+          "netflix",
+          "two",
+          "more",
+          "popular",
+          "stocks",
+          "broader",
+          "market",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "vs.",
+          "apple",
+          "stock",
+          "buy",
+          "?",
+          ".",
+          "apple",
+          "netflix",
+          "two",
+          "more",
+          "popular",
+          "stock",
+          "broader",
+          "market",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "4063ea47d20ef984",
+      "title": "Netflix Stock Drops 90 percent After Its 10-for-1 Split Hold or Fold Now?",
+      "body": "NFLXs 90 percent price drop stems solely from its 10-for-1 split as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:22.845138",
+      "url": "https://finnhub.io/api/news?id=f5e3325fe13b487f801c6aaefd728c8f9f2e13bddcb79c7e70dcefc199c39a80",
+      "raw_text": "Netflix Stock Drops 90 percent After Its 10-for-1 Split Hold or Fold Now?. NFLXs 90 percent price drop stems solely from its 10-for-1 split as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Drops 90% After Its 10-for-1 Split: Hold or Fold"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock Drops"
+          ],
+          "ORGANIZATION": [
+            "NFLX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "90",
+          "10",
+          "1",
+          "90",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "drop",
+            2
+          ],
+          [
+            "percent",
+            2
+          ],
+          [
+            "10-for-1",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "hold",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "fold",
+            1
+          ],
+          [
+            "nflxs",
+            1
+          ],
+          [
+            "price",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 1,
+          "num_numbers": 6,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "drops",
+          "90",
+          "percent",
+          "after",
+          "its",
+          "10-for-1",
+          "split",
+          "hold",
+          "or",
+          "fold",
+          "now",
+          "?",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stems",
+          "solely",
+          "from",
+          "its",
+          "10-for-1",
+          "split",
+          "as",
+          "the",
+          "company",
+          "enters",
+          "a",
+          "new",
+          "phase",
+          "backed",
+          "by",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "the",
+          "stock",
+          "for",
+          "now",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "drops",
+          "90",
+          "percent",
+          "10-for-1",
+          "split",
+          "hold",
+          "fold",
+          "?",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stems",
+          "solely",
+          "10-for-1",
+          "split",
+          "company",
+          "enters",
+          "new",
+          "phase",
+          "backed",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "drop",
+          "90",
+          "percent",
+          "10-for-1",
+          "split",
+          "hold",
+          "fold",
+          "?",
+          ".",
+          "nflxs",
+          "90",
+          "percent",
+          "price",
+          "drop",
+          "stem",
+          "solely",
+          "10-for-1",
+          "split",
+          "company",
+          "enter",
+          "new",
+          "phase",
+          "back",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1ac2ea5648be8a39",
+      "title": "Check Your Streaming Bills. Streamflation Could Be Costing You More Than You Think.",
+      "body": "Several major streaming companies have raised subscription prices this year, including Netflix, Disney, and Apple.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:22.930139",
+      "url": "https://finnhub.io/api/news?id=65fc6898a34e9a20e0fe10c6c919640273bfe3caef04e749e57cc49dc07f6371",
+      "raw_text": "Check Your Streaming Bills. Streamflation Could Be Costing You More Than You Think.. Several major streaming companies have raised subscription prices this year, including Netflix, Disney, and Apple.",
+      "tickers_mentioned": "AAPL,NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "AAPL": [],
+        "NFLX": [
+          "major streaming companies have raised subscription prices this year, including **Netflix,** Disney, and Apple."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bills",
+            "Streamflation",
+            "Netflix"
+          ],
+          "ORGANIZATION": [],
+          "GPE": [
+            "Disney",
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stream",
+            2
+          ],
+          [
+            "check",
+            1
+          ],
+          [
+            "bill",
+            1
+          ],
+          [
+            "streamflation",
+            1
+          ],
+          [
+            "could",
+            1
+          ],
+          [
+            "cost",
+            1
+          ],
+          [
+            "more",
+            1
+          ],
+          [
+            "think",
+            1
+          ],
+          [
+            "several",
+            1
+          ],
+          [
+            "major",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 5,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "check",
+          "your",
+          "streaming",
+          "bills",
+          ".",
+          "streamflation",
+          "could",
+          "be",
+          "costing",
+          "you",
+          "more",
+          "than",
+          "you",
+          "think",
+          "..",
+          "several",
+          "major",
+          "streaming",
+          "companies",
+          "have",
+          "raised",
+          "subscription",
+          "prices",
+          "this",
+          "year",
+          ",",
+          "including",
+          "netflix",
+          ",",
+          "disney",
+          ",",
+          "and",
+          "apple",
+          "."
+        ],
+        "filtered": [
+          "check",
+          "streaming",
+          "bills",
+          ".",
+          "streamflation",
+          "could",
+          "costing",
+          "more",
+          "think",
+          "..",
+          "several",
+          "major",
+          "streaming",
+          "companies",
+          "raised",
+          "subscription",
+          "prices",
+          "year",
+          ",",
+          "including",
+          "netflix",
+          ",",
+          "disney",
+          ",",
+          "apple",
+          "."
+        ],
+        "lemmatized": [
+          "check",
+          "stream",
+          "bill",
+          ".",
+          "streamflation",
+          "could",
+          "cost",
+          "more",
+          "think",
+          "..",
+          "several",
+          "major",
+          "stream",
+          "company",
+          "raise",
+          "subscription",
+          "price",
+          "year",
+          ",",
+          "include",
+          "netflix",
+          ",",
+          "disney",
+          ",",
+          "apple",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "08e7d1ebd3e7b262",
+      "title": "Stocks to Watch Recap Alphabet, Tesla, Netflix, Zymeworks",
+      "body": "Netflix NFLX The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8 percent. Alphabet GOOG, GOOGL Warren Buffetts Berkshire Hathaway BRK.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:23.196851",
+      "url": "https://finnhub.io/api/news?id=f31245cd765e687bc3741c9d151310406ba1fe989b6500de8c2b1ca0f6c5af97",
+      "raw_text": "Stocks to Watch Recap Alphabet, Tesla, Netflix, Zymeworks. Netflix NFLX The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8 percent. Alphabet GOOG, GOOGL Warren Buffetts Berkshire Hathaway BRK.",
+      "tickers_mentioned": "GOOGL,GOOG,BRK.B,NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GOOGL": [],
+        "GOOG": [],
+        "BRK.B": [
+          "today. Shares fell 0.8%. ↗️ Alphabet (GOOG, GOOGL): Warren Buffett’s **Berkshire** Hathaway (BRK."
+        ],
+        "NFLX": [
+          "Stocks to Watch Recap: Alphabet, Tesla, **Netflix,** Zymeworks. ↘️ Netflix (NFLX): The streaming company approved a 10-for-one",
+          "Stocks to Watch Recap: Alphabet, Tesla, Netflix, Zymeworks. ↘️ **Netflix** (NFLX): The streaming company approved a 10-for-one stock split last"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Recap",
+            "Tesla",
+            "Netflix",
+            "Zymeworks",
+            "Shares",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "NFLX",
+            "GOOG",
+            "GOOGL",
+            "Berkshire Hathaway",
+            "BRK"
+          ],
+          "GPE": [
+            "Netflix",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "10",
+          "0.8"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "recap",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "zymeworks",
+            1
+          ],
+          [
+            "nflx",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "company",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "the",
+          "streaming",
+          "company",
+          "approved",
+          "a",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "began",
+          "on",
+          "a",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "streaming",
+          "company",
+          "approved",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "began",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "stream",
+          "company",
+          "approve",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "begin",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "18b21b785dbec2b7",
+      "title": "Netflix Stock Just Split. What It Means as Streaming War Heats Up.",
+      "body": "Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:23.268639",
+      "url": "https://finnhub.io/api/news?id=e307ad7acf7a80d0b813ecc323cd528402f6543ead78cd96544f5801efcfe459",
+      "raw_text": "Netflix Stock Just Split. What It Means as Streaming War Heats Up.. Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Just Split. What It Means as Streaming War Heats"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock Just Split"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "mean",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "war",
+            1
+          ],
+          [
+            "heat",
+            1
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "change",
+            1
+          ],
+          [
+            "value",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "just",
+          "split",
+          ".",
+          "what",
+          "it",
+          "means",
+          "as",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "do",
+          "not",
+          "change",
+          "the",
+          "value",
+          "of",
+          "a",
+          "company",
+          ",",
+          "but",
+          "they",
+          "are",
+          "designed",
+          "to",
+          "make",
+          "a",
+          "stock",
+          "more",
+          "affordable",
+          "for",
+          "individual",
+          "investors",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "split",
+          ".",
+          "means",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "designed",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investors",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "split",
+          ".",
+          "mean",
+          "stream",
+          "war",
+          "heat",
+          "up",
+          "..",
+          "split",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "design",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investor",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "36096ec45648b838",
+      "title": "Stock Market Today Dow Dips As Nvidia Lags Netflix Drops From $1,100 To $111 here is Why Live Coverage",
+      "body": "The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:23.278658",
+      "url": "https://finnhub.io/api/news?id=9c7f398e83ecca4109d4d9dec4af3eae23749eab0548021202815dea3d076845",
+      "raw_text": "Stock Market Today Dow Dips As Nvidia Lags Netflix Drops From $1,100 To $111 here is Why Live Coverage. The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "tickers_mentioned": "LYV,NFLX,GOOG,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "NFLX": [
+          "Stock Market Today: Dow Dips As Nvidia Lags; **Netflix** Drops From $1,100 To $111 — Here's Why (Live Coverage)."
+        ],
+        "GOOG": [],
+        "NVDA": [
+          "Stock Market Today: Dow Dips As **Nvidia** Lags; Netflix Drops From $1,100 To $111 — Here's Why"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Dips",
+            "Nvidia Lags",
+            "Netflix Drops",
+            "Live Coverage",
+            "Alphabet"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones",
+            "Warren Buffett"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "bullish"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "100",
+          "111"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            3
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "dip",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "lag",
+            1
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "1,100",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dips",
+          "as",
+          "nvidia",
+          "lags",
+          "netflix",
+          "drops",
+          "from",
+          "$",
+          "1,100",
+          "to",
+          "$",
+          "111",
+          "here",
+          "is",
+          "why",
+          "live",
+          "coverage",
+          ".",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "on",
+          "the",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stocks",
+          "rose",
+          "on",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jumped",
+          "on",
+          "a",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dips",
+          "nvidia",
+          "lags",
+          "netflix",
+          "drops",
+          "$",
+          "1,100",
+          "$",
+          "111",
+          "live",
+          "coverage",
+          ".",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stocks",
+          "rose",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jumped",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dip",
+          "nvidia",
+          "lag",
+          "netflix",
+          "drop",
+          "$",
+          "1,100",
+          "$",
+          "111",
+          "live",
+          "coverage",
+          ".",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stock",
+          "rise",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jump",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5b3fd11d38e9321b",
+      "title": "Stock Market Today Dow Skids, AI Play Dives As Peter Thiel Exits Netflix Divvies Up Its Shares Live Coverage",
+      "body": "Stock Market Today Dow Skids, AI Play Dives As Peter Thiel Exits Netflix Divvies Up Its Shares Live Coverage",
+      "source": "DowJones",
+      "timestamp": "2025-11-22T00:48:23.380336",
+      "url": "https://finnhub.io/api/news?id=c08b71bf5a88fc901809159107c8b94ee65f2d956e7006f6ed88c58d15d5e5f8",
+      "raw_text": "Stock Market Today Dow Skids, AI Play Dives As Peter Thiel Exits Netflix Divvies Up Its Shares Live Coverage. Stock Market Today Dow Skids, AI Play Dives As Peter Thiel Exits Netflix Divvies Up Its Shares Live Coverage",
+      "tickers_mentioned": "LYV,NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "LYV": [],
+        "NFLX": [
+          "Today: Dow Skids, AI Play Dives As Peter Thiel Exits; **Netflix** Divvies Up Its Shares (Live Coverage). Stock Market Today: Dow",
+          "Today: Dow Skids, AI Play Dives As Peter Thiel Exits; **Netflix** Divvies Up Its Shares (Live Coverage)"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Skids",
+            "Peter Thiel Exits",
+            "Netflix",
+            "Live Coverage",
+            "Stock Market"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "AI Play"
+          ],
+          "GPE": [
+            "Stock",
+            "Shares"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "skid",
+            2
+          ],
+          [
+            "play",
+            2
+          ],
+          [
+            "dive",
+            2
+          ],
+          [
+            "peter",
+            2
+          ],
+          [
+            "thiel",
+            2
+          ],
+          [
+            "exit",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "skids",
+          ",",
+          "ai",
+          "play",
+          "dives",
+          "as",
+          "peter",
+          "thiel",
+          "exits",
+          "netflix",
+          "divvies",
+          "up",
+          "its",
+          "shares",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "skids",
+          ",",
+          "ai",
+          "play",
+          "dives",
+          "as",
+          "peter",
+          "thiel",
+          "exits",
+          "netflix",
+          "divvies",
+          "up",
+          "its",
+          "shares",
+          "live",
+          "coverage"
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "skids",
+          ",",
+          "ai",
+          "play",
+          "dives",
+          "peter",
+          "thiel",
+          "exits",
+          "netflix",
+          "divvies",
+          "up",
+          "shares",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "skids",
+          ",",
+          "ai",
+          "play",
+          "dives",
+          "peter",
+          "thiel",
+          "exits",
+          "netflix",
+          "divvies",
+          "up",
+          "shares",
+          "live",
+          "coverage"
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "skid",
+          ",",
+          "ai",
+          "play",
+          "dive",
+          "peter",
+          "thiel",
+          "exit",
+          "netflix",
+          "divvies",
+          "up",
+          "shares",
+          "live",
+          "coverage",
+          ".",
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "skid",
+          ",",
+          "ai",
+          "play",
+          "dive",
+          "peter",
+          "thiel",
+          "exit",
+          "netflix",
+          "divvies",
+          "up",
+          "shares",
+          "live",
+          "coverage"
+        ]
+      }
+    },
+    {
+      "article_id": "06b231652c13eb52",
+      "title": "Netflix Stock Split Kicks in Today. What It Means as Streaming War Heats Up.",
+      "body": "Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:23.504019",
+      "url": "https://finnhub.io/api/news?id=675fbab763836dcc8da541e202d891f64780dc0e13eb79d6a166c830bcc92c72",
+      "raw_text": "Netflix Stock Split Kicks in Today. What It Means as Streaming War Heats Up.. Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Split Kicks in Today. What It Means as Streaming"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock Split Kicks"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "kick",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "mean",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "war",
+            1
+          ],
+          [
+            "heat",
+            1
+          ],
+          [
+            "not",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "split",
+          "kicks",
+          "in",
+          "today",
+          ".",
+          "what",
+          "it",
+          "means",
+          "as",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "do",
+          "not",
+          "change",
+          "the",
+          "value",
+          "of",
+          "a",
+          "company",
+          ",",
+          "but",
+          "they",
+          "are",
+          "designed",
+          "to",
+          "make",
+          "a",
+          "stock",
+          "more",
+          "affordable",
+          "for",
+          "individual",
+          "investors",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "split",
+          "kicks",
+          "today",
+          ".",
+          "means",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "designed",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investors",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "split",
+          "kick",
+          "today",
+          ".",
+          "mean",
+          "stream",
+          "war",
+          "heat",
+          "up",
+          "..",
+          "split",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "design",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investor",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5c9d181311a9a624",
+      "title": "Trending tickers Alphabet, Bitcoin, Netflix, Alibaba and WPP",
+      "body": "The latest investor updates on stocks that are trending on Monday.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:23.619844",
+      "url": "https://finnhub.io/api/news?id=f44fcca35cb185d0befc3b653f7ae62ac387a92643f8b999fed2384facda725e",
+      "raw_text": "Trending tickers Alphabet, Bitcoin, Netflix, Alibaba and WPP. The latest investor updates on stocks that are trending on Monday.",
+      "tickers_mentioned": "NFLX,GOOG",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "Trending tickers: Alphabet, Bitcoin, **Netflix,** Alibaba and WPP. The latest investor updates on stocks that"
+        ],
+        "GOOG": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitcoin",
+            "Netflix",
+            "Alibaba"
+          ],
+          "ORGANIZATION": [
+            "WPP"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "trend",
+            2
+          ],
+          [
+            "ticker",
+            1
+          ],
+          [
+            "alphabet",
+            1
+          ],
+          [
+            "bitcoin",
+            1
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "alibaba",
+            1
+          ],
+          [
+            "wpp",
+            1
+          ],
+          [
+            "late",
+            1
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "update",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "trending",
+          "tickers",
+          "alphabet",
+          ",",
+          "bitcoin",
+          ",",
+          "netflix",
+          ",",
+          "alibaba",
+          "and",
+          "wpp",
+          ".",
+          "the",
+          "latest",
+          "investor",
+          "updates",
+          "on",
+          "stocks",
+          "that",
+          "are",
+          "trending",
+          "on",
+          "monday",
+          "."
+        ],
+        "filtered": [
+          "trending",
+          "tickers",
+          "alphabet",
+          ",",
+          "bitcoin",
+          ",",
+          "netflix",
+          ",",
+          "alibaba",
+          "wpp",
+          ".",
+          "latest",
+          "investor",
+          "updates",
+          "stocks",
+          "trending",
+          "monday",
+          "."
+        ],
+        "lemmatized": [
+          "trend",
+          "ticker",
+          "alphabet",
+          ",",
+          "bitcoin",
+          ",",
+          "netflix",
+          ",",
+          "alibaba",
+          "wpp",
+          ".",
+          "late",
+          "investor",
+          "update",
+          "stock",
+          "trend",
+          "monday",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "08e7d1ebd3e7b262",
+      "title": "Stocks to Watch Recap Alphabet, Tesla, Netflix, Zymeworks",
+      "body": "Netflix NFLX The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8 percent. Alphabet GOOG, GOOGL Warren Buffetts Berkshire Hathaway BRK.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.183934",
+      "url": "https://finnhub.io/api/news?id=f31245cd765e687bc3741c9d151310406ba1fe989b6500de8c2b1ca0f6c5af97",
+      "raw_text": "Stocks to Watch Recap Alphabet, Tesla, Netflix, Zymeworks. Netflix NFLX The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8 percent. Alphabet GOOG, GOOGL Warren Buffetts Berkshire Hathaway BRK.",
+      "tickers_mentioned": "GOOGL,GOOG,BRK.B,NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GOOGL": [],
+        "GOOG": [],
+        "BRK.B": [
+          "today. Shares fell 0.8%. ↗️ Alphabet (GOOG, GOOGL): Warren Buffett’s **Berkshire** Hathaway (BRK."
+        ],
+        "NFLX": [
+          "Stocks to Watch Recap: Alphabet, Tesla, **Netflix,** Zymeworks. ↘️ Netflix (NFLX): The streaming company approved a 10-for-one",
+          "Stocks to Watch Recap: Alphabet, Tesla, Netflix, Zymeworks. ↘️ **Netflix** (NFLX): The streaming company approved a 10-for-one stock split last"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Recap",
+            "Tesla",
+            "Netflix",
+            "Zymeworks",
+            "Shares",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "NFLX",
+            "GOOG",
+            "GOOGL",
+            "Berkshire Hathaway",
+            "BRK"
+          ],
+          "GPE": [
+            "Netflix",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "10",
+          "0.8"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "recap",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "zymeworks",
+            1
+          ],
+          [
+            "nflx",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "company",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "the",
+          "streaming",
+          "company",
+          "approved",
+          "a",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "began",
+          "on",
+          "a",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "streaming",
+          "company",
+          "approved",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "began",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "stream",
+          "company",
+          "approve",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "begin",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "18b21b785dbec2b7",
+      "title": "Netflix Stock Just Split. What It Means as Streaming War Heats Up.",
+      "body": "Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.226086",
+      "url": "https://finnhub.io/api/news?id=e307ad7acf7a80d0b813ecc323cd528402f6543ead78cd96544f5801efcfe459",
+      "raw_text": "Netflix Stock Just Split. What It Means as Streaming War Heats Up.. Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Just Split. What It Means as Streaming War Heats"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock Just Split"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "mean",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "war",
+            1
+          ],
+          [
+            "heat",
+            1
+          ],
+          [
+            "not",
+            1
+          ],
+          [
+            "change",
+            1
+          ],
+          [
+            "value",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "just",
+          "split",
+          ".",
+          "what",
+          "it",
+          "means",
+          "as",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "do",
+          "not",
+          "change",
+          "the",
+          "value",
+          "of",
+          "a",
+          "company",
+          ",",
+          "but",
+          "they",
+          "are",
+          "designed",
+          "to",
+          "make",
+          "a",
+          "stock",
+          "more",
+          "affordable",
+          "for",
+          "individual",
+          "investors",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "split",
+          ".",
+          "means",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "designed",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investors",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "split",
+          ".",
+          "mean",
+          "stream",
+          "war",
+          "heat",
+          "up",
+          "..",
+          "split",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "design",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investor",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "36096ec45648b838",
+      "title": "Stock Market Today Dow Dips As Nvidia Lags Netflix Drops From $1,100 To $111 here is Why Live Coverage",
+      "body": "The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.251892",
+      "url": "https://finnhub.io/api/news?id=9c7f398e83ecca4109d4d9dec4af3eae23749eab0548021202815dea3d076845",
+      "raw_text": "Stock Market Today Dow Dips As Nvidia Lags Netflix Drops From $1,100 To $111 here is Why Live Coverage. The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "tickers_mentioned": "LYV,NFLX,GOOG,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "NFLX": [
+          "Stock Market Today: Dow Dips As Nvidia Lags; **Netflix** Drops From $1,100 To $111 — Here's Why (Live Coverage)."
+        ],
+        "GOOG": [],
+        "NVDA": [
+          "Stock Market Today: Dow Dips As **Nvidia** Lags; Netflix Drops From $1,100 To $111 — Here's Why"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Dips",
+            "Nvidia Lags",
+            "Netflix Drops",
+            "Live Coverage",
+            "Alphabet"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones",
+            "Warren Buffett"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "bullish"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "100",
+          "111"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            3
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "dip",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "lag",
+            1
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "1,100",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dips",
+          "as",
+          "nvidia",
+          "lags",
+          "netflix",
+          "drops",
+          "from",
+          "$",
+          "1,100",
+          "to",
+          "$",
+          "111",
+          "here",
+          "is",
+          "why",
+          "live",
+          "coverage",
+          ".",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "on",
+          "the",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stocks",
+          "rose",
+          "on",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jumped",
+          "on",
+          "a",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dips",
+          "nvidia",
+          "lags",
+          "netflix",
+          "drops",
+          "$",
+          "1,100",
+          "$",
+          "111",
+          "live",
+          "coverage",
+          ".",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stocks",
+          "rose",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jumped",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dip",
+          "nvidia",
+          "lag",
+          "netflix",
+          "drop",
+          "$",
+          "1,100",
+          "$",
+          "111",
+          "live",
+          "coverage",
+          ".",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stock",
+          "rise",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jump",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "06b231652c13eb52",
+      "title": "Netflix Stock Split Kicks in Today. What It Means as Streaming War Heats Up.",
+      "body": "Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:27.420907",
+      "url": "https://finnhub.io/api/news?id=675fbab763836dcc8da541e202d891f64780dc0e13eb79d6a166c830bcc92c72",
+      "raw_text": "Netflix Stock Split Kicks in Today. What It Means as Streaming War Heats Up.. Splits do not change the value of a company, but they are designed to make a stock more affordable for individual investors.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix** Stock Split Kicks in Today. What It Means as Streaming"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Stock Split Kicks"
+          ],
+          "ORGANIZATION": [],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "kick",
+            1
+          ],
+          [
+            "today",
+            1
+          ],
+          [
+            "mean",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "war",
+            1
+          ],
+          [
+            "heat",
+            1
+          ],
+          [
+            "not",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 2,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflix",
+          "stock",
+          "split",
+          "kicks",
+          "in",
+          "today",
+          ".",
+          "what",
+          "it",
+          "means",
+          "as",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "do",
+          "not",
+          "change",
+          "the",
+          "value",
+          "of",
+          "a",
+          "company",
+          ",",
+          "but",
+          "they",
+          "are",
+          "designed",
+          "to",
+          "make",
+          "a",
+          "stock",
+          "more",
+          "affordable",
+          "for",
+          "individual",
+          "investors",
+          "."
+        ],
+        "filtered": [
+          "netflix",
+          "stock",
+          "split",
+          "kicks",
+          "today",
+          ".",
+          "means",
+          "streaming",
+          "war",
+          "heats",
+          "up",
+          "..",
+          "splits",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "designed",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investors",
+          "."
+        ],
+        "lemmatized": [
+          "netflix",
+          "stock",
+          "split",
+          "kick",
+          "today",
+          ".",
+          "mean",
+          "stream",
+          "war",
+          "heat",
+          "up",
+          "..",
+          "split",
+          "not",
+          "change",
+          "value",
+          "company",
+          ",",
+          "design",
+          "make",
+          "stock",
+          "more",
+          "affordable",
+          "individual",
+          "investor",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "24840631557a9b56",
+      "title": "Louisiana Rep. Cleo Fields Bought Over $216K Worth of Netflix Stock here is What You Should Know - Netflix NASDAQNFLX , Apple NASDAQAAPL",
+      "body": "Records from November 19, 2025 indicate that Representative Cleo Fields of Louisiana made a purchase of Netflix NASDAQNFLX , valued between $216,004 and $565,000, with the transaction dated November 3, 2025 and filed in November. As of now, Netflix shares are trading up 0.89 percent at $110.98.",
+      "source": "Benzinga",
+      "timestamp": "2025-11-22T00:48:28.834735",
+      "url": "https://www.benzinga.com/insights/government/25/11/48976549/louisiana-rep-cleo-fields-bought-over-216k-worth-of-netflix-stock-heres-what-you-should-know",
+      "raw_text": "Louisiana Rep. Cleo Fields Bought Over $216K Worth of Netflix Stock here is What You Should Know - Netflix NASDAQNFLX , Apple NASDAQAAPL. Records from November 19, 2025 indicate that Representative Cleo Fields of Louisiana made a purchase of Netflix NASDAQNFLX , valued between $216,004 and $565,000, with the transaction dated November 3, 2025 and filed in November. As of now, Netflix shares are trading up 0.89 percent at $110.98.",
+      "tickers_mentioned": "AAPL,NFLX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "AAPL": [],
+        "NFLX": [
+          "Louisiana Rep. Cleo Fields Bought Over $216K Worth of **Netflix** Stock: Here's What You Should Know - Netflix ( NASDAQ:NFLX",
+          "Worth of Netflix Stock: Here's What You Should Know - **Netflix** ( NASDAQ:NFLX ) , Apple ( NASDAQ:AAPL ) . Records",
+          "that Representative Cleo Fields of Louisiana made a purchase of **Netflix** ( NASDAQ:NFLX ) , valued between $216,004 and $565,000, with",
+          "November 3, 2025 and filed in November. As of now, **Netflix** shares are trading up 0.89% at $110.98."
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Louisiana",
+            "Fields Bought",
+            "Know"
+          ],
+          "ORGANIZATION": [
+            "Netflix",
+            "NASDAQ"
+          ],
+          "GPE": [
+            "Netflix",
+            "Apple"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "record"
+          ],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "216K",
+          "19",
+          "2025",
+          "216",
+          "004",
+          "565",
+          "000",
+          "3",
+          "2025",
+          "0.89",
+          "110.98"
+        ],
+        "percentages": [],
+        "dates": [
+          "November 19, 2025",
+          "November 3, 2025"
+        ],
+        "top_words": [
+          [
+            "netflix",
+            4
+          ],
+          [
+            "november",
+            3
+          ],
+          [
+            "louisiana",
+            2
+          ],
+          [
+            "cleo",
+            2
+          ],
+          [
+            "field",
+            2
+          ],
+          [
+            "nasdaqnflx",
+            2
+          ],
+          [
+            "2025",
+            2
+          ],
+          [
+            "rep.",
+            1
+          ],
+          [
+            "buy",
+            1
+          ],
+          [
+            "over",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 7,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 11,
+          "num_percentages": 0,
+          "num_dates": 2
+        }
+      },
+      "tokens": {
+        "original": [
+          "louisiana",
+          "rep.",
+          "cleo",
+          "fields",
+          "bought",
+          "over",
+          "$",
+          "216k",
+          "worth",
+          "of",
+          "netflix",
+          "stock",
+          "here",
+          "is",
+          "what",
+          "you",
+          "should",
+          "know",
+          "-",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          ".",
+          "records",
+          "from",
+          "november",
+          "19",
+          ",",
+          "2025",
+          "indicate",
+          "that",
+          "representative",
+          "cleo",
+          "fields",
+          "of",
+          "louisiana",
+          "made",
+          "a",
+          "purchase",
+          "of",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "valued",
+          "between",
+          "$",
+          "216,004",
+          "and",
+          "$",
+          "565,000",
+          ",",
+          "with",
+          "the",
+          "transaction",
+          "dated",
+          "november",
+          "3",
+          ",",
+          "2025",
+          "and",
+          "filed",
+          "in",
+          "november",
+          ".",
+          "as",
+          "of",
+          "now",
+          ",",
+          "netflix",
+          "shares",
+          "are",
+          "trading",
+          "up",
+          "0.89",
+          "percent",
+          "at",
+          "$",
+          "110.98",
+          "."
+        ],
+        "filtered": [
+          "louisiana",
+          "rep.",
+          "cleo",
+          "fields",
+          "bought",
+          "over",
+          "$",
+          "216k",
+          "worth",
+          "netflix",
+          "stock",
+          "know",
+          "-",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          ".",
+          "records",
+          "november",
+          "19",
+          ",",
+          "2025",
+          "indicate",
+          "representative",
+          "cleo",
+          "fields",
+          "louisiana",
+          "made",
+          "purchase",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "valued",
+          "$",
+          "216,004",
+          "$",
+          "565,000",
+          ",",
+          "transaction",
+          "dated",
+          "november",
+          "3",
+          ",",
+          "2025",
+          "filed",
+          "november",
+          ".",
+          ",",
+          "netflix",
+          "shares",
+          "trading",
+          "up",
+          "0.89",
+          "percent",
+          "$",
+          "110.98",
+          "."
+        ],
+        "lemmatized": [
+          "louisiana",
+          "rep.",
+          "cleo",
+          "field",
+          "buy",
+          "over",
+          "$",
+          "216k",
+          "worth",
+          "netflix",
+          "stock",
+          "know",
+          "-",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "apple",
+          "nasdaqaapl",
+          ".",
+          "record",
+          "november",
+          "19",
+          ",",
+          "2025",
+          "indicate",
+          "representative",
+          "cleo",
+          "field",
+          "louisiana",
+          "make",
+          "purchase",
+          "netflix",
+          "nasdaqnflx",
+          ",",
+          "value",
+          "$",
+          "216,004",
+          "$",
+          "565,000",
+          ",",
+          "transaction",
+          "date",
+          "november",
+          "3",
+          ",",
+          "2025",
+          "file",
+          "november",
+          ".",
+          ",",
+          "netflix",
+          "shares",
+          "trade",
+          "up",
+          "0.89",
+          "percent",
+          "$",
+          "110.98",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "08e7d1ebd3e7b262",
+      "title": "Stocks to Watch Recap Alphabet, Tesla, Netflix, Zymeworks",
+      "body": "Netflix NFLX The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8 percent. Alphabet GOOG, GOOGL Warren Buffetts Berkshire Hathaway BRK.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:35.126514",
+      "url": "https://finnhub.io/api/news?id=f31245cd765e687bc3741c9d151310406ba1fe989b6500de8c2b1ca0f6c5af97",
+      "raw_text": "Stocks to Watch Recap Alphabet, Tesla, Netflix, Zymeworks. Netflix NFLX The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8 percent. Alphabet GOOG, GOOGL Warren Buffetts Berkshire Hathaway BRK.",
+      "tickers_mentioned": "GOOGL,GOOG,BRK.B,NFLX",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "GOOGL": [],
+        "GOOG": [],
+        "BRK.B": [
+          "today. Shares fell 0.8%. ↗️ Alphabet (GOOG, GOOGL): Warren Buffett’s **Berkshire** Hathaway (BRK."
+        ],
+        "NFLX": [
+          "Stocks to Watch Recap: Alphabet, Tesla, **Netflix,** Zymeworks. ↘️ Netflix (NFLX): The streaming company approved a 10-for-one",
+          "Stocks to Watch Recap: Alphabet, Tesla, Netflix, Zymeworks. ↘️ **Netflix** (NFLX): The streaming company approved a 10-for-one stock split last"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Recap",
+            "Tesla",
+            "Netflix",
+            "Zymeworks",
+            "Shares",
+            "Warren Buffett"
+          ],
+          "ORGANIZATION": [
+            "NFLX",
+            "GOOG",
+            "GOOGL",
+            "Berkshire Hathaway",
+            "BRK"
+          ],
+          "GPE": [
+            "Netflix",
+            "Alphabet"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [
+          "10",
+          "0.8"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            2
+          ],
+          [
+            "alphabet",
+            2
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "watch",
+            1
+          ],
+          [
+            "recap",
+            1
+          ],
+          [
+            "tesla",
+            1
+          ],
+          [
+            "zymeworks",
+            1
+          ],
+          [
+            "nflx",
+            1
+          ],
+          [
+            "stream",
+            1
+          ],
+          [
+            "company",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 13,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 2,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stocks",
+          "to",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "the",
+          "streaming",
+          "company",
+          "approved",
+          "a",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "began",
+          "on",
+          "a",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ],
+        "filtered": [
+          "stocks",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "streaming",
+          "company",
+          "approved",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "began",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "watch",
+          "recap",
+          "alphabet",
+          ",",
+          "tesla",
+          ",",
+          "netflix",
+          ",",
+          "zymeworks",
+          ".",
+          "netflix",
+          "nflx",
+          "stream",
+          "company",
+          "approve",
+          "10-for-one",
+          "stock",
+          "split",
+          "last",
+          "month",
+          ".",
+          "trading",
+          "begin",
+          "split-adjusted",
+          "basis",
+          "today",
+          ".",
+          "shares",
+          "fell",
+          "0.8",
+          "percent",
+          ".",
+          "alphabet",
+          "goog",
+          ",",
+          "googl",
+          "warren",
+          "buffetts",
+          "berkshire",
+          "hathaway",
+          "brk",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "36096ec45648b838",
+      "title": "Stock Market Today Dow Dips As Nvidia Lags Netflix Drops From $1,100 To $111 here is Why Live Coverage",
+      "body": "The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:35.235561",
+      "url": "https://finnhub.io/api/news?id=9c7f398e83ecca4109d4d9dec4af3eae23749eab0548021202815dea3d076845",
+      "raw_text": "Stock Market Today Dow Dips As Nvidia Lags Netflix Drops From $1,100 To $111 here is Why Live Coverage. The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "tickers_mentioned": "LYV,NFLX,GOOG,NVDA",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "LYV": [],
+        "NFLX": [
+          "Stock Market Today: Dow Dips As Nvidia Lags; **Netflix** Drops From $1,100 To $111 — Here's Why (Live Coverage)."
+        ],
+        "GOOG": [],
+        "NVDA": [
+          "Stock Market Today: Dow Dips As **Nvidia** Lags; Netflix Drops From $1,100 To $111 — Here's Why"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Dow Dips",
+            "Nvidia Lags",
+            "Netflix Drops",
+            "Live Coverage",
+            "Alphabet"
+          ],
+          "ORGANIZATION": [
+            "Market",
+            "Dow Jones",
+            "Warren Buffett"
+          ],
+          "GPE": [
+            "Stock"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [
+            "jump",
+            "bullish"
+          ],
+          "negative": [
+            "drop"
+          ],
+          "neutral": []
+        },
+        "numbers": [
+          "1",
+          "100",
+          "111"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            3
+          ],
+          [
+            "market",
+            2
+          ],
+          [
+            "today",
+            2
+          ],
+          [
+            "dow",
+            2
+          ],
+          [
+            "dip",
+            1
+          ],
+          [
+            "nvidia",
+            1
+          ],
+          [
+            "lag",
+            1
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "drop",
+            1
+          ],
+          [
+            "1,100",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 9,
+          "num_positive_keywords": 2,
+          "num_negative_keywords": 1,
+          "num_neutral_keywords": 0,
+          "num_numbers": 3,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dips",
+          "as",
+          "nvidia",
+          "lags",
+          "netflix",
+          "drops",
+          "from",
+          "$",
+          "1,100",
+          "to",
+          "$",
+          "111",
+          "here",
+          "is",
+          "why",
+          "live",
+          "coverage",
+          ".",
+          "the",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "on",
+          "the",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stocks",
+          "rose",
+          "on",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jumped",
+          "on",
+          "a",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ],
+        "filtered": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dips",
+          "nvidia",
+          "lags",
+          "netflix",
+          "drops",
+          "$",
+          "1,100",
+          "$",
+          "111",
+          "live",
+          "coverage",
+          ".",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stocks",
+          "rose",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jumped",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ],
+        "lemmatized": [
+          "stock",
+          "market",
+          "today",
+          "dow",
+          "dip",
+          "nvidia",
+          "lag",
+          "netflix",
+          "drop",
+          "$",
+          "1,100",
+          "$",
+          "111",
+          "live",
+          "coverage",
+          ".",
+          "dow",
+          "jones",
+          "index",
+          "fell",
+          "stock",
+          "market",
+          "today",
+          ".",
+          "lithium",
+          "stock",
+          "rise",
+          "bullish",
+          "commentary",
+          ".",
+          "alphabet",
+          "jump",
+          "warren",
+          "buffett",
+          "move",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "5c9d181311a9a624",
+      "title": "Trending tickers Alphabet, Bitcoin, Netflix, Alibaba and WPP",
+      "body": "The latest investor updates on stocks that are trending on Monday.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:35.708637",
+      "url": "https://finnhub.io/api/news?id=f44fcca35cb185d0befc3b653f7ae62ac387a92643f8b999fed2384facda725e",
+      "raw_text": "Trending tickers Alphabet, Bitcoin, Netflix, Alibaba and WPP. The latest investor updates on stocks that are trending on Monday.",
+      "tickers_mentioned": "NFLX,GOOG",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "Trending tickers: Alphabet, Bitcoin, **Netflix,** Alibaba and WPP. The latest investor updates on stocks that"
+        ],
+        "GOOG": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Bitcoin",
+            "Netflix",
+            "Alibaba"
+          ],
+          "ORGANIZATION": [
+            "WPP"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": []
+        },
+        "numbers": [],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "trend",
+            2
+          ],
+          [
+            "ticker",
+            1
+          ],
+          [
+            "alphabet",
+            1
+          ],
+          [
+            "bitcoin",
+            1
+          ],
+          [
+            "netflix",
+            1
+          ],
+          [
+            "alibaba",
+            1
+          ],
+          [
+            "wpp",
+            1
+          ],
+          [
+            "late",
+            1
+          ],
+          [
+            "investor",
+            1
+          ],
+          [
+            "update",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 4,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 0,
+          "num_numbers": 0,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "trending",
+          "tickers",
+          "alphabet",
+          ",",
+          "bitcoin",
+          ",",
+          "netflix",
+          ",",
+          "alibaba",
+          "and",
+          "wpp",
+          ".",
+          "the",
+          "latest",
+          "investor",
+          "updates",
+          "on",
+          "stocks",
+          "that",
+          "are",
+          "trending",
+          "on",
+          "monday",
+          "."
+        ],
+        "filtered": [
+          "trending",
+          "tickers",
+          "alphabet",
+          ",",
+          "bitcoin",
+          ",",
+          "netflix",
+          ",",
+          "alibaba",
+          "wpp",
+          ".",
+          "latest",
+          "investor",
+          "updates",
+          "stocks",
+          "trending",
+          "monday",
+          "."
+        ],
+        "lemmatized": [
+          "trend",
+          "ticker",
+          "alphabet",
+          ",",
+          "bitcoin",
+          ",",
+          "netflix",
+          ",",
+          "alibaba",
+          "wpp",
+          ".",
+          "late",
+          "investor",
+          "update",
+          "stock",
+          "trend",
+          "monday",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "dc19e6b7ba74835f",
+      "title": "Netflixs 10-For-1 Stock Split Takes Effect Hold for Now or Fold? Revised",
+      "body": "NFLXs 10-for-1 split takes effect as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "source": "Zacks Commentary",
+      "timestamp": "2025-11-22T00:48:36.333967",
+      "url": "https://www.zacks.com/stock/news/2793960/netflixs-10-for-1-stock-split-takes-effect-hold-for-now-or-fold-revised",
+      "raw_text": "Netflixs 10-For-1 Stock Split Takes Effect Hold for Now or Fold? Revised. NFLXs 10-for-1 split takes effect as the company enters a new phase backed by strong operational momentum. Hold the stock for now.",
+      "tickers_mentioned": "NFLX",
+      "sentiment": "positive",
+      "ticker_contexts": {
+        "NFLX": [
+          "**Netflix's** 10-For-1 Stock Split Takes Effect: Hold for Now or Fold?"
+        ]
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Split Takes Effect"
+          ],
+          "ORGANIZATION": [
+            "NFLX"
+          ],
+          "GPE": []
+        },
+        "financial_keywords": {
+          "positive": [
+            "strong"
+          ],
+          "negative": [],
+          "neutral": [
+            "hold"
+          ]
+        },
+        "numbers": [
+          "10",
+          "1",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "10-for-1",
+            2
+          ],
+          [
+            "stock",
+            2
+          ],
+          [
+            "split",
+            2
+          ],
+          [
+            "take",
+            2
+          ],
+          [
+            "effect",
+            2
+          ],
+          [
+            "hold",
+            2
+          ],
+          [
+            "netflixs",
+            1
+          ],
+          [
+            "fold",
+            1
+          ],
+          [
+            "revise",
+            1
+          ],
+          [
+            "nflxs",
+            1
+          ]
+        ],
+        "stats": {
+          "num_entities": 3,
+          "num_positive_keywords": 1,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 1,
+          "num_numbers": 4,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "netflixs",
+          "10-for-1",
+          "stock",
+          "split",
+          "takes",
+          "effect",
+          "hold",
+          "for",
+          "now",
+          "or",
+          "fold",
+          "?",
+          "revised",
+          ".",
+          "nflxs",
+          "10-for-1",
+          "split",
+          "takes",
+          "effect",
+          "as",
+          "the",
+          "company",
+          "enters",
+          "a",
+          "new",
+          "phase",
+          "backed",
+          "by",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "the",
+          "stock",
+          "for",
+          "now",
+          "."
+        ],
+        "filtered": [
+          "netflixs",
+          "10-for-1",
+          "stock",
+          "split",
+          "takes",
+          "effect",
+          "hold",
+          "fold",
+          "?",
+          "revised",
+          ".",
+          "nflxs",
+          "10-for-1",
+          "split",
+          "takes",
+          "effect",
+          "company",
+          "enters",
+          "new",
+          "phase",
+          "backed",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ],
+        "lemmatized": [
+          "netflixs",
+          "10-for-1",
+          "stock",
+          "split",
+          "take",
+          "effect",
+          "hold",
+          "fold",
+          "?",
+          "revise",
+          ".",
+          "nflxs",
+          "10-for-1",
+          "split",
+          "take",
+          "effect",
+          "company",
+          "enter",
+          "new",
+          "phase",
+          "back",
+          "strong",
+          "operational",
+          "momentum",
+          ".",
+          "hold",
+          "stock",
+          "."
+        ]
+      }
+    },
+    {
+      "article_id": "1b083fe4efa93ae6",
+      "title": "Amazon seeks 12 billion dollars in bond sale, Netflix trades after stock split",
+      "body": "Market Catalysts host Julie Hyman tracks several of the days top trending stock tickers, including Amazon AMZN seeking to raise $12 billion through a US bond sale, Chinese EV maker XPeng XPEV, 9868.HK published revenue outlook that fell below Wall Streets expectations, and Netflix NFLX stock is currently trading after its 10-for-1 stock split. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "source": "Yahoo",
+      "timestamp": "2025-11-22T00:48:39.083678",
+      "url": "https://finnhub.io/api/news?id=52cdc6bc58323465d5cb5aa9d4d0e81ae239b0e4215d5d62421a6a4f695dc6b0",
+      "raw_text": "Amazon seeks 12 billion dollars in bond sale, Netflix trades after stock split. Market Catalysts host Julie Hyman tracks several of the days top trending stock tickers, including Amazon AMZN seeking to raise $12 billion through a US bond sale, Chinese EV maker XPeng XPEV, 9868.HK published revenue outlook that fell below Wall Streets expectations, and Netflix NFLX stock is currently trading after its 10-for-1 stock split. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "tickers_mentioned": "NFLX,AMZN,HST",
+      "sentiment": "neutral",
+      "ticker_contexts": {
+        "NFLX": [
+          "Amazon seeks $12B in bond sale, **Netflix** trades after stock split. Market Catalysts host Julie Hyman tracks",
+          "published revenue outlook that fell below Wall Street's expectations, and **Netflix** (NFLX) stock is currently trading after its 10-for-1 stock split."
+        ],
+        "AMZN": [
+          "**Amazon** seeks $12B in bond sale, Netflix trades after stock split.",
+          "tracks several of the day's top trending stock tickers, including **Amazon** (AMZN) seeking to raise $12 billion through a US bond"
+        ],
+        "HST": []
+      },
+      "features": {
+        "entities": {
+          "PERSON": [
+            "Netflix",
+            "Market",
+            "Julie Hyman"
+          ],
+          "ORGANIZATION": [
+            "AMZN",
+            "XPeng",
+            "XPEV",
+            "NFLX"
+          ],
+          "GPE": [
+            "Amazon",
+            "Chinese",
+            "Netflix"
+          ]
+        },
+        "financial_keywords": {
+          "positive": [],
+          "negative": [],
+          "neutral": [
+            "expect",
+            "revenue"
+          ]
+        },
+        "numbers": [
+          "12B",
+          "12",
+          "9868",
+          "10",
+          "1"
+        ],
+        "percentages": [],
+        "dates": [],
+        "top_words": [
+          [
+            "stock",
+            4
+          ],
+          [
+            "market",
+            3
+          ],
+          [
+            "amazon",
+            2
+          ],
+          [
+            "seek",
+            2
+          ],
+          [
+            "billion",
+            2
+          ],
+          [
+            "bond",
+            2
+          ],
+          [
+            "sale",
+            2
+          ],
+          [
+            "netflix",
+            2
+          ],
+          [
+            "trade",
+            2
+          ],
+          [
+            "split",
+            2
+          ]
+        ],
+        "stats": {
+          "num_entities": 10,
+          "num_positive_keywords": 0,
+          "num_negative_keywords": 0,
+          "num_neutral_keywords": 2,
+          "num_numbers": 5,
+          "num_percentages": 0,
+          "num_dates": 0
+        }
+      },
+      "tokens": {
+        "original": [
+          "amazon",
+          "seeks",
+          "12",
+          "billion",
+          "dollars",
+          "in",
+          "bond",
+          "sale",
+          ",",
+          "netflix",
+          "trades",
+          "after",
+          "stock",
+          "split",
+          ".",
+          "market",
+          "catalysts",
+          "host",
+          "julie",
+          "hyman",
+          "tracks",
+          "several",
+          "of",
+          "the",
+          "days",
+          "top",
+          "trending",
+          "stock",
+          "tickers",
+          ",",
+          "including",
+          "amazon",
+          "amzn",
+          "seeking",
+          "to",
+          "raise",
+          "$",
+          "12",
+          "billion",
+          "through",
+          "a",
+          "us",
+          "bond",
+          "sale",
+          ",",
+          "chinese",
+          "ev",
+          "maker",
+          "xpeng",
+          "xpev",
+          ",",
+          "9868.hk",
+          "published",
+          "revenue",
+          "outlook",
+          "that",
+          "fell",
+          "below",
+          "wall",
+          "streets",
+          "expectations",
+          ",",
+          "and",
+          "netflix",
+          "nflx",
+          "stock",
+          "is",
+          "currently",
+          "trading",
+          "after",
+          "its",
+          "10-for-1",
+          "stock",
+          "split",
+          ".",
+          "to",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "and",
+          "analysis",
+          "on",
+          "the",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "out",
+          "more",
+          "market",
+          "catalysts",
+          "."
+        ],
+        "filtered": [
+          "amazon",
+          "seeks",
+          "12",
+          "billion",
+          "dollars",
+          "bond",
+          "sale",
+          ",",
+          "netflix",
+          "trades",
+          "stock",
+          "split",
+          ".",
+          "market",
+          "catalysts",
+          "host",
+          "julie",
+          "hyman",
+          "tracks",
+          "several",
+          "days",
+          "top",
+          "trending",
+          "stock",
+          "tickers",
+          ",",
+          "including",
+          "amazon",
+          "amzn",
+          "seeking",
+          "raise",
+          "$",
+          "12",
+          "billion",
+          "us",
+          "bond",
+          "sale",
+          ",",
+          "chinese",
+          "ev",
+          "maker",
+          "xpeng",
+          "xpev",
+          ",",
+          "9868.hk",
+          "published",
+          "revenue",
+          "outlook",
+          "fell",
+          "below",
+          "wall",
+          "streets",
+          "expectations",
+          ",",
+          "netflix",
+          "nflx",
+          "stock",
+          "currently",
+          "trading",
+          "10-for-1",
+          "stock",
+          "split",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insights",
+          "analysis",
+          "latest",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "catalysts",
+          "."
+        ],
+        "lemmatized": [
+          "amazon",
+          "seek",
+          "12",
+          "billion",
+          "dollar",
+          "bond",
+          "sale",
+          ",",
+          "netflix",
+          "trade",
+          "stock",
+          "split",
+          ".",
+          "market",
+          "catalysts",
+          "host",
+          "julie",
+          "hyman",
+          "track",
+          "several",
+          "day",
+          "top",
+          "trend",
+          "stock",
+          "ticker",
+          ",",
+          "include",
+          "amazon",
+          "amzn",
+          "seek",
+          "raise",
+          "$",
+          "12",
+          "billion",
+          "u",
+          "bond",
+          "sale",
+          ",",
+          "chinese",
+          "ev",
+          "maker",
+          "xpeng",
+          "xpev",
+          ",",
+          "9868.hk",
+          "publish",
+          "revenue",
+          "outlook",
+          "fell",
+          "below",
+          "wall",
+          "street",
+          "expectation",
+          ",",
+          "netflix",
+          "nflx",
+          "stock",
+          "currently",
+          "trade",
+          "10-for-1",
+          "stock",
+          "split",
+          ".",
+          "watch",
+          "more",
+          "expert",
+          "insight",
+          "analysis",
+          "late",
+          "market",
+          "action",
+          ",",
+          "check",
+          "more",
+          "market",
+          "catalyst",
+          "."
+        ]
+      }
+    }
+  ]
+}
