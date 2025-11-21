@@ -237,10 +237,15 @@ def main() -> int:
 
     # Try to use per-ticker files where possible (prefer them for recency grouping)
     ticker_dir = ROOT
+    # Consider both per-ticker article files and per-ticker preprocessed files
+    # e.g. `APH_articles.json`, `aph_preprocessed.json`. Exclude the combined
+    # `all_articles_preprocessed.json`, the results file and this script.
+    valid_suffixes = ("_articles.json", "_preprocessed.json")
+    exclude_names = {"all_articles_preprocessed.json", os.path.basename(RESULTS_FILE), os.path.basename(__file__)}
     ticker_files = [
         f
         for f in os.listdir(ticker_dir)
-        if f.endswith("_preprocessed.json") and f != "all_articles_preprocessed.json"
+        if f.endswith(valid_suffixes) and f not in exclude_names
     ]
 
     per_ticker_aggregates: Dict[str, Any] = {}
@@ -251,7 +256,9 @@ def main() -> int:
             data = load_json(path)
             if not data:
                 continue
-            ticker = tf.split("_")[0].upper()
+            # Use rsplit to keep everything before the last underscore as the ticker
+            # (handles tickers with dots or hyphens like `brk.b_articles.json`).
+            ticker = tf.rsplit("_", 1)[0].upper()
             articles = data.get("articles") or []
 
             # compute per-article scores and store brief info
